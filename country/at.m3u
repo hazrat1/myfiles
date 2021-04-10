@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF: 0,
+https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: 0,
+https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: 0,
+https://endemol-derserienkanal-1-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: 0,
+https://stream.openplayout.org/hls/dorf.m3u8
+#EXTINF: 0,
+https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: 0,
+https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: 0,
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF: 0,
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
+#EXTINF: 0,
+http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
+#EXTINF: 0,
+https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
+#EXTINF: 0,
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF: 0,
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF: 0,
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF: 0,
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF: 0,
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF: 0,
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF: 0,
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF: 0,
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF: 0,
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF: 0,
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF: 0,
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF: 0,
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF: 0,
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+#EXTINF: 0,
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF: 0,
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF: 0,
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF: 0,
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF: 0,
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF: 0,
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF: 0,
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF: 0,
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF: 0,
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
+#EXTINF: 0,
+https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: 0,
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF: 0,
+https://live1.markenfunk.com/t1/live/playlist.m3u8
+#EXTINF: 0,
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF: 0,
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF: 0,
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
