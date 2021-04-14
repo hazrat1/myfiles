@@ -1,3 +1,3 @@
 # myfiles
 
-IPTV Playlist for Playerjs.
+myfiles
