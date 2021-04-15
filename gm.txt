@@ -1,0 +1,4 @@
+[{
+	"title": "QTV",
+	"file": "https://player.qtv.gm/hls/live.stream.m3u8"
+}]

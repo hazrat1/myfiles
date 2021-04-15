@@ -1,0 +1,81 @@
+[{
+		"title": "ATV",
+		"file": "https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8"
+	},
+	{
+		"title": "Bel RTL",
+		"file": "https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8"
+	},
+	{
+		"title": "BX1",
+		"file": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8"
+	},
+	{
+		"title": "Canal C",
+		"file": "http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8"
+	},
+	{
+		"title": "Canal C",
+		"file": "https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8"
+	},
+	{
+		"title": "Canal Zoom",
+		"file": "http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8"
+	},
+	{
+		"title": "Canvas BE",
+		"file": "https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8"
+	},
+	{
+		"title": "City Music TV",
+		"file": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8"
+	},
+	{
+		"title": "een BE",
+		"file": "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8"
+	},
+	{
+		"title": "Ketnet BE",
+		"file": "https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8"
+	},
+	{
+		"title": "Ketnet Junior",
+		"file": "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8"
+	},
+	{
+		"title": "LN24",
+		"file": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"
+	},
+	{
+		"title": "Notele",
+		"file": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"
+	},
+	{
+		"title": "Q-Music",
+		"file": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8"
+	},
+	{
+		"title": "Radio Contact",
+		"file": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8"
+	},
+	{
+		"title": "Radio PROS",
+		"file": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8"
+	},
+	{
+		"title": "ROB TV",
+		"file": "https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8"
+	},
+	{
+		"title": "RTL-TVi BE",
+		"file": "https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8"
+	},
+	{
+		"title": "TV Oost",
+		"file": "https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8"
+	},
+	{
+		"title": "TVL",
+		"file": "https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8"
+	}
+]

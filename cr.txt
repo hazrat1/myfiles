@@ -1,0 +1,41 @@
+[{
+		"title": "88 Stereo",
+		"file": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8"
+	},
+	{
+		"title": "Anexion TV",
+		"file": "https://rtmp.info/anexiontv/envivo/playlist.m3u8"
+	},
+	{
+		"title": "Anexion TV 36",
+		"file": "http://rtmp.info:8081/anexiontv/envivo/index.m3u8"
+	},
+	{
+		"title": "Canal UCR",
+		"file": "http://163.178.170.181:1935/envivo/envivo/playlist.m3u8"
+	},
+	{
+		"title": "Extrema TV",
+		"file": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8"
+	},
+	{
+		"title": "Extrema TV",
+		"file": "https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8"
+	},
+	{
+		"title": "Multimedios Costa Rica",
+		"file": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+	},
+	{
+		"title": "TeleSUR Costa Rica",
+		"file": "http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8"
+	},
+	{
+		"title": "TeleUno TV",
+		"file": "http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8"
+	},
+	{
+		"title": "TicaVisión",
+		"file": "http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8"
+	}
+]

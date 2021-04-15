@@ -1,0 +1,65 @@
+[{
+		"title": "A1台",
+		"file": "https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8"
+	},
+	{
+		"title": "Celestial Movies",
+		"file": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
+	},
+	{
+		"title": "J2",
+		"file": "https://cdn.hkdtmb.com/hls/82/index.m3u8"
+	},
+	{
+		"title": "Thrill",
+		"file": "http://45.126.83.51/qwr9ew/s/s34/index.m3u8"
+	},
+	{
+		"title": "TVB Jade",
+		"file": "http://ubaio.chaoniu1995.top:6796/ub/cr/crtv.php?id=30"
+	},
+	{
+		"title": "ViuTV",
+		"file": "https://cdn.hkdtmb.com/hls/99/index.m3u8"
+	},
+	{
+		"title": "亞旅衛視",
+		"file": "http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8"
+	},
+	{
+		"title": "港台電視31",
+		"file": "https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8"
+	},
+	{
+		"title": "港台電視32",
+		"file": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"
+	},
+	{
+		"title": "翡翠台（81）",
+		"file": "http://61.238.6.49:8000/bysid/1"
+	},
+	{
+		"title": "翡翠台（81）",
+		"file": "https://cdn.hkdtmb.com/hls/81/index.m3u8"
+	},
+	{
+		"title": "耀才財經台",
+		"file": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+	},
+	{
+		"title": "香港衛視",
+		"file": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+	},
+	{
+		"title": "香港開電視",
+		"file": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+	},
+	{
+		"title": "鳳凰衛視中文台",
+		"file": "http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8"
+	},
+	{
+		"title": "鳳凰資訊",
+		"file": "http://117.169.120.138:8080/live/fhzixun/.m3u8"
+	}
+]
