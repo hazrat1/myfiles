@@ -1,4 +1,0 @@
-[{
-	"title": "Addis TV",
-	"file": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8"
-}]
