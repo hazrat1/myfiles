@@ -1,4 +1,0 @@
-[{
-	"title": "TVGE",
-	"file": "http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8"
-}]
