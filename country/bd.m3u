@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,Channel 1
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:0,Channel 2
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0,Channel 3
