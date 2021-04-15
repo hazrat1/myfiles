@@ -1,4 +1,0 @@
-[{
-	"title": "TMA",
-	"file": "http://hls.tmacaraibes.com/live/index.m3u8"
-}]
