@@ -1,2 +1,0 @@
-[
-{"title":"RTB Sukmaindera","file":"https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8"}]

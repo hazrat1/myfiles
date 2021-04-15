@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF: 0,
-https://videos.rtva.ad/live/am/playlist.m3u8
-#EXTINF: 0,
-http://videos.rtva.ad:1935/live/rna/playlist.m3u8
-#EXTINF: 0,
-http://videos.rtva.ad:1935/live/web/playlist.m3u8
-#EXTINF: 0,
-https://videos.rtva.ad/live/rtva/playlist.m3u8
