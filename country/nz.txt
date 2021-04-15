@@ -1,0 +1,25 @@
+[{
+		"title": "Māori Television",
+		"file": "https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8"
+	},
+	{
+		"title": "Māori Television",
+		"file": "https://i.mjh.nz/nz/tv.13.m3u8"
+	},
+	{
+		"title": "Parliament TV",
+		"file": "https://i.mjh.nz/nz/tv.18.m3u8"
+	},
+	{
+		"title": "Te Reo",
+		"file": "https://i.mjh.nz/nz/tv.20.m3u8"
+	},
+	{
+		"title": "TVSN Shopping",
+		"file": "https://i.mjh.nz/nz/tv.45.m3u8"
+	},
+	{
+		"title": "TVSN Shopping",
+		"file": "https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8"
+	}
+]

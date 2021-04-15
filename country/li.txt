@@ -1,0 +1,9 @@
+[{
+		"title": "Kommu TV",
+		"file": "http://31.10.19.12:8066/live/999/0.m3u8"
+	},
+	{
+		"title": "Mediashop TV",
+		"file": "https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8"
+	}
+]

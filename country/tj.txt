@@ -1,0 +1,4 @@
+[{
+	"title": "Хузур ТВ",
+	"file": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+}]

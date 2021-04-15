@@ -1,0 +1,17 @@
+[{
+		"title": "Nex TV Canal 21",
+		"file": "http://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8"
+	},
+	{
+		"title": "Oye TV",
+		"file": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8"
+	},
+	{
+		"title": "RPC",
+		"file": "https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8"
+	},
+	{
+		"title": "Telemetro",
+		"file": "https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8"
+	}
+]

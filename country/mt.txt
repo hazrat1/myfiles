@@ -1,0 +1,13 @@
+[{
+		"title": "One",
+		"file": "https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/chunklist.m3u8"
+	},
+	{
+		"title": "One",
+		"file": "https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8"
+	},
+	{
+		"title": "Smash TV",
+		"file": "http://s3.smashmalta.com/hls/smash/smash.m3u8"
+	}
+]

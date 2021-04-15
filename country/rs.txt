@@ -1,0 +1,105 @@
+[{
+		"title": "Kurir TV",
+		"file": "https://kurir-tv.haste-cdn.net/providus/live2805.m3u8"
+	},
+	{
+		"title": "Kurir TV",
+		"file": "https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8"
+	},
+	{
+		"title": "Kurir TV",
+		"file": "https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8"
+	},
+	{
+		"title": "Muzzik Cafe&Club",
+		"file": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik HipHop",
+		"file": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik Jeka",
+		"file": "https://muzzik-live.morescreens.com/mts-4/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik Mediteraneo",
+		"file": "https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik OKK",
+		"file": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik Replay",
+		"file": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8 "
+	},
+	{
+		"title": "Muzzik Rock&Roll",
+		"file": "https://muzzik-live.morescreens.com/mts-1/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik Saculatac",
+		"file": "https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik TV ",
+		"file": "https://muzzik-live.morescreens.com/mts-6/playlist.m3u8"
+	},
+	{
+		"title": "Muzzik Worldwide",
+		"file": "https://muzzik-live.morescreens.com/mts-5/playlist.m3u8"
+	},
+	{
+		"title": "Red TV",
+		"file": "https://live.rednet.rs/providus/redtv_multi.m3u8"
+	},
+	{
+		"title": "Red TV",
+		"file": "https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8"
+	},
+	{
+		"title": "RTV AS",
+		"file": "https://srv1.adriatelekom.com/TVAS/index.m3u8"
+	},
+	{
+		"title": "RTV AS",
+		"file": "https://srv1.adriatelekom.com/TVAS/tracks-v1a1/mono.m3u8"
+	},
+	{
+		"title": "RTV City Ub",
+		"file": "http://167.172.39.13/hls/tvcityub.m3u8"
+	},
+	{
+		"title": "RTV Novi Pazar",
+		"file": "https://rtvnp.rs/hls/rtvnp.m3u8"
+	},
+	{
+		"title": "Belle Amie",
+		"file": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8"
+	},
+	{
+		"title": "Belle Amie",
+		"file": "http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8"
+	},
+	{
+		"title": "TV Duga Plus",
+		"file": "http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8"
+	},
+	{
+		"title": "TV Duga Plus",
+		"file": "http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8"
+	},
+	{
+		"title": "TV Hram-EXYU",
+		"file": "https://vod1.laki.eu/live/hram/index.m3u8"
+	},
+	{
+		"title": "TV Hram-EXYU",
+		"file": "https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8"
+	},
+	{
+		"title": "TV Pi Kanal",
+		"file": "http://stream.pikanal.rs/pikanal/pgm.m3u8?v=1617785340"
+	}
+]

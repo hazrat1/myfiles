@@ -1,0 +1,17 @@
+[{
+		"title": "Sky Folk TV",
+		"file": "http://eu.live.skyfolk.mk/live.m3u8"
+	},
+	{
+		"title": "Sky Folk TV",
+		"file": "http://skyfolk.mk/live.m3u8"
+	},
+	{
+		"title": "TVPlus",
+		"file": "http://141.136.14.18/kanal1/kanal1.m3u8"
+	},
+	{
+		"title": "TVPlus",
+		"file": "http://141.136.14.18/kanal1/kanal1_1500/index.m3u8"
+	}
+]

@@ -1,0 +1,4 @@
+[{
+	"title": "Kantipur TV",
+	"file": "https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8"
+}]

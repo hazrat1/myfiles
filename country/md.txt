@@ -1,0 +1,65 @@
+[{
+		"title": "Acasa TV",
+		"file": "http://hls.protv.md/acasatv/acasatv.m3u8"
+	},
+	{
+		"title": "Bălţi TV",
+		"file": "http://77.89.199.174:8000/play/1024/index.m3u8"
+	},
+	{
+		"title": "Canal Regional",
+		"file": "https://canalregional.md/tv/live/canalregional.m3u8"
+	},
+	{
+		"title": "Drochia",
+		"file": "https://hls.drochia.tv/tv/web.m3u8"
+	},
+	{
+		"title": "Elita TV",
+		"file": "http://46.55.111.242:8080/Rezina.m3u8"
+	},
+	{
+		"title": "Moldova1",
+		"file": "rtsp://212.0.209.209:1935/live/_definst_/mp4:MoldovaUnu1"
+	},
+	{
+		"title": "Moldova1",
+		"file": "rtsp://live.trm.md:1935/live/M1Mlive"
+	},
+	{
+		"title": "Moldova2",
+		"file": "rtmp://212.0.209.209:1935/live/_definst_mp4:MoldovaDoi2"
+	},
+	{
+		"title": "Noroc TV Moldova",
+		"file": "http://live.noroc.tv/hls/noroctv_chisinau.m3u8"
+	},
+	{
+		"title": "Publika TV",
+		"file": "http://livebeta.publika.md/LIVE/P/6810.m3u8"
+	},
+	{
+		"title": "Publika TV",
+		"file": "https://livebeta.publika.md/LIVE/P/1000.m3u8"
+	},
+	{
+		"title": "Publika TV",
+		"file": "https://livebeta.publika.md/LIVE/P/1500.m3u8"
+	},
+	{
+		"title": "Tele M",
+		"file": "http://webmobile.xdev.ro:81/tv16/playlist.m3u8"
+	},
+	{
+		"title": "TNT_EXCLUSIV",
+		"file": "http://89.28.25.122/hls/tnt_md.m3u8"
+	},
+	{
+		"title": "TVR Moldova HD",
+		"file": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8"
+	},
+	{
+		"title": "Vocea Basarabiei",
+		"file": "http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8"
+	}
+]

@@ -1,0 +1,49 @@
+[{
+		"title": "Altyn Asyr TV",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8"
+	},
+	{
+		"title": "Asgabat TV",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8"
+	},
+	{
+		"title": "Miras",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8"
+	},
+	{
+		"title": "Türkmen Owazy",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "http://217.174.225.146/hls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "http://217.174.225.146/legacyhls/ch004_400/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan TV",
+		"file": "https://alpha.tv.online.tm/hls/ch007_400/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan TV",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8"
+	},
+	{
+		"title": "Yaslyk TV",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8"
+	}
+]

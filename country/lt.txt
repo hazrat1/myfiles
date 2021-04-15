@@ -1,0 +1,21 @@
+[{
+		"title": "KOK Fights",
+		"file": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
+	},
+	{
+		"title": "LRT Lituanica",
+		"file": "https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8"
+	},
+	{
+		"title": "Power Hit Radio",
+		"file": "https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8"
+	},
+	{
+		"title": "tv3",
+		"file": "https://cdn6.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8"
+	},
+	{
+		"title": "tv6",
+		"file": "https://cdn6.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8"
+	}
+]

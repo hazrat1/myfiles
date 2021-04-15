@@ -1,0 +1,17 @@
+[{
+		"title": "RTCG Sat",
+		"file": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8"
+	},
+	{
+		"title": "RTCG Sat",
+		"file": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8"
+	},
+	{
+		"title": "Televizija TV7",
+		"file": "http://109.123.70.27:1935/tehnikatv777/tehnikatv777/index.m3u8"
+	},
+	{
+		"title": "Televizija TV7",
+		"file": "http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8"
+	}
+]

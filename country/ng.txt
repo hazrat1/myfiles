@@ -1,0 +1,17 @@
+[{
+		"title": "Africa TV1",
+		"file": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
+	},
+	{
+		"title": "Africa TV2",
+		"file": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8"
+	},
+	{
+		"title": "Emmanuel TV",
+		"file": "https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8"
+	},
+	{
+		"title": "Lagos Television",
+		"file": "http://185.105.4.193:1935/ltv/myStream/playlist.m3u8"
+	}
+]

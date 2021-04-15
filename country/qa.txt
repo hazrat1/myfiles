@@ -1,0 +1,89 @@
+[{
+		"title": "Al Jazeera",
+		"file": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
+	},
+	{
+		"title": "Al Jazeera Arabic",
+		"file": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+	},
+	{
+		"title": "Al Jazeera Balkans",
+		"file": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8"
+	},
+	{
+		"title": "Al Jazeera Documentary",
+		"file": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8"
+	},
+	{
+		"title": "Al Jazeera English",
+		"file": "https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8"
+	},
+	{
+		"title": "Al Jazeera English",
+		"file": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+	},
+	{
+		"title": "Al Jazeera Mubasher",
+		"file": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
+	},
+	{
+		"title": "Al Kass Five",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8"
+	},
+	{
+		"title": "Al Kass Four",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8"
+	},
+	{
+		"title": "Al Kass One",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8"
+	},
+	{
+		"title": "Al Kass Online",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8"
+	},
+	{
+		"title": "Al Kass Two",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8"
+	},
+	{
+		"title": "Al Rayan",
+		"file": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8"
+	},
+	{
+		"title": "Al Rayyan Al Qadeem",
+		"file": "https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8"
+	},
+	{
+		"title": "beIN Sports 1 Asia",
+		"file": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd"
+	},
+	{
+		"title": "beIN Sports 2 Asia",
+		"file": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd"
+	},
+	{
+		"title": "beIN SPORTS XTRA",
+		"file": "http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0"
+	},
+	{
+		"title": "beIN SPORTS XTRA",
+		"file": "https://bein-plutolive-vo.akamaized.net/playlist.m3u8"
+	},
+	{
+		"title": "beIN SPORTS XTRA",
+		"file": "https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8"
+	},
+	{
+		"title": "Qatar TV",
+		"file": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"
+	},
+	{
+		"title": "Qatar TV",
+		"file": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8"
+	},
+	{
+		"title": "Qatar TV 2",
+		"file": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
+	}
+]

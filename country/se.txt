@@ -1,0 +1,69 @@
+[{
+		"title": "Aftonbladet TV",
+		"file": "https://aftonbladetlive-lh.akamaihd.net/i/livestream01_1@182509/master.m3u8"
+	},
+	{
+		"title": "ATG",
+		"file": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
+	},
+	{
+		"title": "ATG",
+		"file": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8"
+	},
+	{
+		"title": "Di TV",
+		"file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8"
+	},
+	{
+		"title": "Expressen TV",
+		"file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8"
+	},
+	{
+		"title": "TV 4",
+		"file": "https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791716.m3u8"
+	},
+	{
+		"title": "TV 4 Nyheterna",
+		"file": "https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8"
+	},
+	{
+		"title": "TV 4 Svensk Politik",
+		"file": "https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8"
+	},
+	{
+		"title": "TV1000 World Kino",
+		"file": "http://195.189.105.158:9050/121/index.m3u8"
+	},
+	{
+		"title": "Viasat History Russia",
+		"file": "https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8"
+	},
+	{
+		"title": "Viasat Sport",
+		"file": "https://persik.by/stream/2944/263250/10249.m3u8"
+	},
+	{
+		"title": "Viasat Sport East",
+		"file": "https://persik.tv/stream/3602/287583/10249.m3u8"
+	},
+	{
+		"title": "ViP Comedy Russia",
+		"file": "http://195.189.105.158:9050/132/index.m3u8"
+	},
+	{
+		"title": "ViP Megahit Russia",
+		"file": "http://195.189.105.158:9050/133/index.m3u8"
+	},
+	{
+		"title": "ViP Premiere Russia",
+		"file": "http://195.189.105.158:9050/134/index.m3u8"
+	},
+	{
+		"title": "Västmanlands TV",
+		"file": "https://edg01-prd-se-dcs.solidtango.com/edge/_lo9yf4l5_/lo9yf4l5/playlist.m3u8"
+	},
+	{
+		"title": "Öppna Kanalen",
+		"file": "http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8"
+	}
+]

@@ -1,0 +1,4 @@
+[{
+	"title": "Télé Sahel",
+	"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tele_sahel/hls_video/hdntl-_-ZXhwPTE2MTg0NzQ4MDd+YWNsPSUyZmxpdmUlMmZyYW1kaXNrJTJmdGVsZV9zYWhlbCUyZmhsc192aWRlbyUyZip+aG1hYz1jZmY2NmIyZGZmMmM1MmZkYzBjZjIzNzJjYTUxMDMzOGU1MjYwODE0YjBlNTQyOWIzNjRkNWVmMzljOGUyODVh/index.m3u8"
+}]

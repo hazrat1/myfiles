@@ -1,0 +1,13 @@
+[{
+		"title": "Hiru TV",
+		"file": "http://cdncities.com/8012/8012/playlist.m3u8"
+	},
+	{
+		"title": "Santhora TV",
+		"file": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8"
+	},
+	{
+		"title": "Sooriyan TV",
+		"file": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8"
+	}
+]

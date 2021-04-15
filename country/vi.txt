@@ -1,0 +1,4 @@
+[{
+	"title": "WSVI TV",
+	"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8"
+}]

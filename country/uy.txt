@@ -1,0 +1,4 @@
+[{
+	"title": "Ovacion",
+	"file": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
+}]

@@ -1,0 +1,69 @@
+[{
+		"title": "Al Ittihad",
+		"file": "https://live.alittihad.tv/ittihad/index.m3u8"
+	},
+	{
+		"title": "Al Manar",
+		"file": "https://manar.live/x.smil/tracks-v1a1/mono.m3u8"
+	},
+	{
+		"title": "Al Mayadeen",
+		"file": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Alhayat TV",
+		"file": "https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8"
+	},
+	{
+		"title": "Arabica Music",
+		"file": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+	},
+	{
+		"title": "Future TV",
+		"file": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8"
+	},
+	{
+		"title": "Future TV",
+		"file": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8"
+	},
+	{
+		"title": "LBC International",
+		"file": "https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8"
+	},
+	{
+		"title": "Nabaa TV",
+		"file": "http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8"
+	},
+	{
+		"title": "Nabaa TV",
+		"file": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8"
+	},
+	{
+		"title": "NBN HD",
+		"file": "https://nbntv.me:8443/nbntv/index.m3u8"
+	},
+	{
+		"title": "Newvision",
+		"file": "https://master.starmena-cloud.com/hls/newv.m3u8"
+	},
+	{
+		"title": "OTV Lebanon ARB",
+		"file": "https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8"
+	},
+	{
+		"title": "Taha TV",
+		"file": "https://media2.livaat.com/TAHA-TV/index.m3u8"
+	},
+	{
+		"title": "Tele Liban ARB",
+		"file": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8"
+	},
+	{
+		"title": "TV Seventeen",
+		"file": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8"
+	},
+	{
+		"title": "Unews",
+		"file": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8"
+	}
+]

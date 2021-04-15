@@ -1,0 +1,9 @@
+[{
+		"title": "TV1",
+		"file": "https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8"
+	},
+	{
+		"title": "TV4",
+		"file": "https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8"
+	}
+]

@@ -1,0 +1,109 @@
+[{
+		"title": "FashionTV",
+		"file": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
+	},
+	{
+		"title": "JOJ 540p",
+		"file": "https://nn.geo.joj.sk/hls/joj-540.m3u8"
+	},
+	{
+		"title": "JOJ 720p",
+		"file": "https://nn.geo.joj.sk/hls/joj-720.m3u8"
+	},
+	{
+		"title": "JOJ 720p",
+		"file": "https://nn1.joj.sk/hls/joj-720.m3u8"
+	},
+	{
+		"title": "JOJ Family 360p",
+		"file": "https://nn.geo.joj.sk/hls/family-360.m3u8"
+	},
+	{
+		"title": "JOJ Family 540p",
+		"file": "https://nn.geo.joj.sk/hls/family-540.m3u8"
+	},
+	{
+		"title": "JOJ Family 540p",
+		"file": "https://nn2.joj.sk/hls/family-540.m3u8"
+	},
+	{
+		"title": "Košice:dnes",
+		"file": "http://213.81.153.221:8080/nasa"
+	},
+	{
+		"title": "Košice:dnes",
+		"file": "http://lb.streaming.sk/tvnasa/stream/playlist.m3u8"
+	},
+	{
+		"title": "Life.tv",
+		"file": "http://86.110.233.68:1935/lifetv/lifetv.stream_360p/playlist.m3u8"
+	},
+	{
+		"title": "LocAll",
+		"file": "http://tv.geniusnet.sk:8081/localltv/pl.m3u8"
+	},
+	{
+		"title": "Plus",
+		"file": "https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8"
+	},
+	{
+		"title": "Raj TV",
+		"file": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8"
+	},
+	{
+		"title": "Senzi TV",
+		"file": "http://109.74.144.130/live/senzitest/playlist.m3u8"
+	},
+	{
+		"title": "Televizia OSEM 360p",
+		"file": "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8"
+	},
+	{
+		"title": "Televízia OSEM 576p",
+		"file": "http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8"
+	},
+	{
+		"title": "TV Jojko",
+		"file": "https://nn.geo.joj.sk/live/rik-index.m3u8"
+	},
+	{
+		"title": "TV KREA Galanta",
+		"file": "http://213.81.153.221:8080/galanta"
+	},
+	{
+		"title": "TV Lux 1080p",
+		"file": "http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8"
+	},
+	{
+		"title": "TV Lux 360p",
+		"file": "http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8"
+	},
+	{
+		"title": "TV Markíza",
+		"file": "http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8"
+	},
+	{
+		"title": "TV Nové Zámky",
+		"file": "http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8"
+	},
+	{
+		"title": "TV Nové Zámky",
+		"file": "http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8"
+	},
+	{
+		"title": "TV Povazie",
+		"file": "http://213.181.128.248:8090/tvpovazie-h264.flv"
+	},
+	{
+		"title": "TV Ružinov",
+		"file": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8"
+	},
+	{
+		"title": "Wau TV",
+		"file": "https://nn.geo.joj.sk/hls/wau-540.m3u8"
+	},
+	{
+		"title": "Wau TV",
+		"file": "https://nn.geo.joj.sk/live/wau-index.m3u8"
+	}
+]

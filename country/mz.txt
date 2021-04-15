@@ -1,0 +1,13 @@
+[{
+		"title": "TV Maná Moçambique",
+		"file": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8"
+	},
+	{
+		"title": "TVM",
+		"file": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8"
+	},
+	{
+		"title": "TVM Internacional",
+		"file": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
+	}
+]

@@ -1,0 +1,4 @@
+[{
+	"title": "TMC",
+	"file": "https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8"
+}]
