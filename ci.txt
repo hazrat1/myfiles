@@ -1,4 +1,0 @@
-[{
-	"title": "NTV Afrique",
-	"file": "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8"
-}]
