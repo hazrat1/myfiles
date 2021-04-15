@@ -1,0 +1,4 @@
+[{
+	"title": "Viasat History Russia",
+	"file": "https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8"
+}]

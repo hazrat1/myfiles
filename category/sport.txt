@@ -1,0 +1,561 @@
+[{
+		"title": "Abu Dhabi Sports 1",
+		"file": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Abu Dhabi Sports 2",
+		"file": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Abu Dhabi Sports 3",
+		"file": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Abu Dhabi Sports 4 [Geo-blocked]",
+		"file": "https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Adventure Sports Network",
+		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
+	},
+	{
+		"title": "Adventure Sports TV (360p)",
+		"file": "https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275"
+	},
+	{
+		"title": "Al Kass Five (576p)",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8"
+	},
+	{
+		"title": "Al Kass Four (576p)",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8"
+	},
+	{
+		"title": "Al Kass One (576p)",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8"
+	},
+	{
+		"title": "Al Kass Online (576p)",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8"
+	},
+	{
+		"title": "Al Kass Two (576p)",
+		"file": "https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8"
+	},
+	{
+		"title": "All Sports",
+		"file": "http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8"
+	},
+	{
+		"title": "All Sports",
+		"file": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8"
+	},
+	{
+		"title": "Arryadia (360p)",
+		"file": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+	},
+	{
+		"title": "Arryadia (360p)",
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+	},
+	{
+		"title": "ATG (432p)",
+		"file": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
+	},
+	{
+		"title": "ATG",
+		"file": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8"
+	},
+	{
+		"title": "Azam Sports 1 HD",
+		"file": "https://1446000130.rsc.cdn77.org/1446000130/index.m3u8"
+	},
+	{
+		"title": "Azam Sports 2",
+		"file": "https://1326605225.rsc.cdn77.org/1326605225/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "Bahrain Sports 1",
+		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8"
+	},
+	{
+		"title": "Bahrain Sports 2",
+		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8"
+	},
+	{
+		"title": "Bek Sports East",
+		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8"
+	},
+	{
+		"title": "Bek Sports West",
+		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-5 体育",
+		"file": "http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-5 体育",
+		"file": "http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-5+ 体育赛事",
+		"file": "http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-5+ 体育赛事",
+		"file": "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+	},
+	{
+		"title": "Claro Sports",
+		"file": "https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8"
+	},
+	{
+		"title": "Cycle World",
+		"file": "https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8"
+	},
+	{
+		"title": "DD Sports (576p)",
+		"file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"
+	},
+	{
+		"title": "Dubai Racing",
+		"file": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8"
+	},
+	{
+		"title": "Dubai Racing 2",
+		"file": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8"
+	},
+	{
+		"title": "Dubai Racing 3",
+		"file": "https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8"
+	},
+	{
+		"title": "Dubai Sports 1",
+		"file": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8"
+	},
+	{
+		"title": "Dubai Sports 2",
+		"file": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8"
+	},
+	{
+		"title": "Dubai Sports 3",
+		"file": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8"
+	},
+	{
+		"title": "Edge Sport",
+		"file": "https://edgesport-samsungus.amagi.tv/playlist.m3u8"
+	},
+	{
+		"title": "Edge Sport (US)",
+		"file": "https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Edge Sports",
+		"file": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8"
+	},
+	{
+		"title": "Edge Sports",
+		"file": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8"
+	},
+	{
+		"title": "ESPN",
+		"file": "https://gma2.blab.email/fs2.m3u8"
+	},
+	{
+		"title": "ESPN 2",
+		"file": "https://gma2.blab.email/espn2.m3u8"
+	},
+	{
+		"title": "ESPN News",
+		"file": "https://gma2.blab.email/espnews.m3u8"
+	},
+	{
+		"title": "ESPN U",
+		"file": "https://gma2.blab.email/espnu.m3u8"
+	},
+	{
+		"title": "Esport3",
+		"file": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8"
+	},
+	{
+		"title": "Esport3",
+		"file": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8"
+	},
+	{
+		"title": "FC Bayern München TV",
+		"file": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8"
+	},
+	{
+		"title": "Fight Box (480p)",
+		"file": "http://ott-cdn.ucom.am/s86/index.m3u8"
+	},
+	{
+		"title": "Fight Sports (576p)",
+		"file": "http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8"
+	},
+	{
+		"title": "Fight Sports (576p)",
+		"file": "http://210.210.155.35/uq2663/h/h05/index.m3u8"
+	},
+	{
+		"title": "Fox Sports 2 Asia",
+		"file": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8"
+	},
+	{
+		"title": "Fox Sports 3 Asia",
+		"file": "https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8"
+	},
+	{
+		"title": "Fox Sports Asia",
+		"file": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8"
+	},
+	{
+		"title": "FOX Sports HD 1",
+		"file": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
+	},
+	{
+		"title": "Fox Sports pluto",
+		"file": "https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
+	},
+	{
+		"title": "GEM Fit [Geo-blocked]",
+		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8"
+	},
+	{
+		"title": "GOLF NETWORK",
+		"file": "http://203.162.235.41:16924"
+	},
+	{
+		"title": "Horizon Sports",
+		"file": "https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8"
+	},
+	{
+		"title": "KBP SPORTS",
+		"file": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
+	},
+	{
+		"title": "KOK Fights",
+		"file": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
+	},
+	{
+		"title": "KTV Sport",
+		"file": "https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8"
+	},
+	{
+		"title": "maroc SPORT",
+		"file": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+	},
+	{
+		"title": "MLB Network",
+		"file": "https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8"
+	},
+	{
+		"title": "MLS",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true"
+	},
+	{
+		"title": "MMA Junkie",
+		"file": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8"
+	},
+	{
+		"title": "MMN",
+		"file": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8"
+	},
+	{
+		"title": "Monterrico TV",
+		"file": "http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8"
+	},
+	{
+		"title": "New Japan Pro Wrestling World",
+		"file": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"
+	},
+	{
+		"title": "NewTV未来电视 精品体育",
+		"file": "http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8"
+	},
+	{
+		"title": "Oman Sport",
+		"file": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "ORF Sport + (540p)",
+		"file": "https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8"
+	},
+	{
+		"title": "PTV Sports (360p)",
+		"file": "https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8"
+	},
+	{
+		"title": "PTV Sports",
+		"file": "https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8"
+	},
+	{
+		"title": "Real Madrid TV",
+		"file": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"
+	},
+	{
+		"title": "Real Madrid TV (404p)",
+		"file": "https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8"
+	},
+	{
+		"title": "Red Bull TV",
+		"file": "https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8"
+	},
+	{
+		"title": "Red Bull TV",
+		"file": "https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8"
+	},
+	{
+		"title": "Red Bull TV",
+		"file": "https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8"
+	},
+	{
+		"title": "Red Bull TV",
+		"file": "https://i.mjh.nz/nz/tv.redbull.tv.m3u8"
+	},
+	{
+		"title": "Red Bull TV",
+		"file": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+	},
+	{
+		"title": "Red Bull TV (540p)",
+		"file": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8"
+	},
+	{
+		"title": "Red Bull TV",
+		"file": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8"
+	},
+	{
+		"title": "Rede Globo",
+		"file": "http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8"
+	},
+	{
+		"title": "RTM Sports",
+		"file": "http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8"
+	},
+	{
+		"title": "Rugby Men's Sevens (288p)",
+		"file": "https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8"
+	},
+	{
+		"title": "Rugby Women's Sevens (288p)",
+		"file": "https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8"
+	},
+	{
+		"title": "Rugby World TV",
+		"file": "https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8"
+	},
+	{
+		"title": "San Marino RTV Sport (240p)",
+		"file": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8"
+	},
+	{
+		"title": "Sharjah Sports TV",
+		"file": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
+	},
+	{
+		"title": "Snowy Mountains Television",
+		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8"
+	},
+	{
+		"title": "Sport 1",
+		"file": "https://95-213-224-183.livesports24.online/sport1ua.m3u8"
+	},
+	{
+		"title": "Sports TV Plus",
+		"file": "https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8"
+	},
+	{
+		"title": "Sportskool",
+		"file": "https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8"
+	},
+	{
+		"title": "SportsMax",
+		"file": "http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8"
+	},
+	{
+		"title": "SportsMax",
+		"file": "https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8"
+	},
+	{
+		"title": "Stadium",
+		"file": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"
+	},
+	{
+		"title": "STIRR Sports",
+		"file": "https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8"
+	},
+	{
+		"title": "Swiss Sport TV",
+		"file": "https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8"
+	},
+	{
+		"title": "Telecaribe Deportes 2",
+		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8"
+	},
+	{
+		"title": "Telecaribe Deportes 2",
+		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8"
+	},
+	{
+		"title": "Telecaribe Deportes 2",
+		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8"
+	},
+	{
+		"title": "The Tennis Channel",
+		"file": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
+	},
+	{
+		"title": "TNT Sports 2 Brasil",
+		"file": "https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8"
+	},
+	{
+		"title": "TNT Sports 3 Brasil",
+		"file": "https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8"
+	},
+	{
+		"title": "TNT Sports 4 Brasil",
+		"file": "https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8"
+	},
+	{
+		"title": "TNT Sports 5 Brasil",
+		"file": "https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8"
+	},
+	{
+		"title": "Trace Sport Stars",
+		"file": "https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8"
+	},
+	{
+		"title": "TVRI Sport HD",
+		"file": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"
+	},
+	{
+		"title": "TVS Boxing",
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
+	},
+	{
+		"title": "TVS Classic Sports",
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8"
+	},
+	{
+		"title": "TVS Sports (960p)",
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8"
+	},
+	{
+		"title": "TVS Women Sports (480p)",
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "http://217.174.225.146/hls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "http://217.174.225.146/legacyhls/ch004_400/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "http://217.174.225.146/legacyhls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "https://alpha.tv.online.tm/hls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "Türkmenistan Sport",
+		"file": "https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8"
+	},
+	{
+		"title": "US SPORT Tennis Plus 1",
+		"file": "https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8"
+	},
+	{
+		"title": "Viasat Sport East",
+		"file": "https://persik.tv/stream/3602/287583/10249.m3u8"
+	},
+	{
+		"title": "Win Sports+",
+		"file": "http://latinoamericatv.vip:3334/Kaka/Kaka/1385"
+	},
+	{
+		"title": "Win Sports+",
+		"file": "http://saypopular.com:25461/oscar/20gar/52853"
+	},
+	{
+		"title": "World of Freesports",
+		"file": "https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8"
+	},
+	{
+		"title": "World of Freesports",
+		"file": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8"
+	},
+	{
+		"title": "World of Freesports",
+		"file": "https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8"
+	},
+	{
+		"title": "World Poker Tour",
+		"file": "https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8"
+	},
+	{
+		"title": "Yas TV",
+		"file": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Астрахань.Ru Sport",
+		"file": "https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "Астрахань.Ru Sport",
+		"file": "https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8"
+	},
+	{
+		"title": "Астрахань.Ru Sport",
+		"file": "https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8"
+	},
+	{
+		"title": "Матч ТВ (576p)",
+		"file": "http://176.114.16.54:80/match/index.m3u8"
+	},
+	{
+		"title": "Матч ТВ (576p)",
+		"file": "https://95-213-224-188.livesports24.online/ooomatch.m3u8"
+	},
+	{
+		"title": "Матч ТВ",
+		"file": "https://uiptv.do.am/1ufc/000000003/playlist.m3u8"
+	},
+	{
+		"title": "Матч! Игра",
+		"file": "https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8"
+	},
+	{
+		"title": "Старт",
+		"file": "https://strm.yandex.ru/kal/start/start0.m3u8"
+	},
+	{
+		"title": "Старт",
+		"file": "https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8"
+	},
+	{
+		"title": "Старт",
+		"file": "https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8"
+	},
+	{
+		"title": "Старт",
+		"file": "https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8"
+	},
+	{
+		"title": "Футбол 1",
+		"file": "https://95-213-224-183.livesports24.online/uafootballua1.m3u8"
+	},
+	{
+		"title": "Футбол 2",
+		"file": "https://95-213-224-183.livesports24.online/fooootball2.m3u8"
+	},
+	{
+		"title": "البحرين الرياضية",
+		"file": "http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8"
+	}
+]

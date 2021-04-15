@@ -1,0 +1,309 @@
+[{
+		"title": "Akaram Kidz (460p)",
+		"file": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8"
+	},
+	{
+		"title": "Ani",
+		"file": "http://188.40.68.167/russia/ani/playlist.m3u8"
+	},
+	{
+		"title": "ARB Günəş",
+		"file": "http://149.255.152.199/arbgunes.m3u8"
+	},
+	{
+		"title": "Bob l'éponge",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+	},
+	{
+		"title": "Boing France",
+		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8"
+	},
+	{
+		"title": "Boomerang",
+		"file": "http://27.254.130.56:80/live01/ch18.m3u8"
+	},
+	{
+		"title": "Boomerang France",
+		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
+	},
+	{
+		"title": "Cartoon Network Arabic",
+		"file": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
+	},
+	{
+		"title": "Cartoon Network Russia & Southeastern Europe (576p)",
+		"file": "http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8"
+	},
+	{
+		"title": "Cbeebies UK",
+		"file": "http://51.52.156.22:8888/http/003"
+	},
+	{
+		"title": "CCTV中国中央电视台-14 少儿",
+		"file": "http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-14 少儿",
+		"file": "http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-14 少儿",
+		"file": "http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-14 少儿",
+		"file": "http://ivi.bupt.edu.cn/hls/cctv14.m3u8"
+	},
+	{
+		"title": "ch 23 החינוכית",
+		"file": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8"
+	},
+	{
+		"title": "Da Vinci",
+		"file": "http://sc.id-tv.kz:80/DaVinci_38_39.m3u8"
+	},
+	{
+		"title": "Da Vinci",
+		"file": "https://sc.id-tv.kz/DaVinci_34_35.m3u8"
+	},
+	{
+		"title": "Dora TV",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+	},
+	{
+		"title": "EBS Kids (360p)",
+		"file": "http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8"
+	},
+	{
+		"title": "Enki Benki",
+		"file": "http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8"
+	},
+	{
+		"title": "GEM Junior [Geo-blocked]",
+		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8"
+	},
+	{
+		"title": "GEM Kids [Geo-blocked]",
+		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8"
+	},
+	{
+		"title": "Gravity Fouls",
+		"file": "https://autopilot.catcast.tv/content/38105/index.m3u8"
+	},
+	{
+		"title": "Gulli (540p)",
+		"file": "https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8"
+	},
+	{
+		"title": "Gulli",
+		"file": "https://mmsiptv.com/live/gulli/playlist.m3u8"
+	},
+	{
+		"title": "Gulli Bil Arabi",
+		"file": "https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8"
+	},
+	{
+		"title": "Gulli Girl Russia",
+		"file": "http://188.40.68.167/russia/gulli_girl/playlist.m3u8"
+	},
+	{
+		"title": "IBC Kids",
+		"file": "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8"
+	},
+	{
+		"title": "JimJam Россия",
+		"file": "http://188.40.68.167/russia/jimjam/playlist.m3u8"
+	},
+	{
+		"title": "Kinder TV",
+		"file": "http://autopilot.catcast.tv/content/38144/index.m3u8"
+	},
+	{
+		"title": "Kuriakos Kids",
+		"file": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8"
+	},
+	{
+		"title": "Kuriakos Kids",
+		"file": "http://c2.manasat.com:1935/kkids/kkids3/master.m3u8"
+	},
+	{
+		"title": "Lale",
+		"file": "http://stream.atr.ua/lale//live/index.m3u8"
+	},
+	{
+		"title": "Majid TV",
+		"file": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "MBC 3",
+		"file": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8"
+	},
+	{
+		"title": "MBC 3",
+		"file": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8"
+	},
+	{
+		"title": "PBS Kids (EST)",
+		"file": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+	},
+	{
+		"title": "Pluto TV Junior",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+	},
+	{
+		"title": "Pluto TV Kids Animation",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+	},
+	{
+		"title": "Pluto TV Kids Collection",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+	},
+	{
+		"title": "Pluto TV Kids Séries",
+		"file": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId="
+	},
+	{
+		"title": "Rotana Kids",
+		"file": "https://hiplayer.hibridcdn.net/p/rotana-kids"
+	},
+	{
+		"title": "Rotana Kids",
+		"file": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
+	},
+	{
+		"title": "Shemaroo Kids",
+		"file": "https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8"
+	},
+	{
+		"title": "Spacetoon",
+		"file": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8"
+	},
+	{
+		"title": "Spacetoon (576p)",
+		"file": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8"
+	},
+	{
+		"title": "Taha TV (360p)",
+		"file": "https://media2.livaat.com/TAHA-TV/index.m3u8"
+	},
+	{
+		"title": "TCT Kids",
+		"file": "https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8"
+	},
+	{
+		"title": "Tiji In French",
+		"file": "https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8"
+	},
+	{
+		"title": "Tiji Russia",
+		"file": "http://188.40.68.167/russia/tiji/playlist.m3u8"
+	},
+	{
+		"title": "TRT Çocuk",
+		"file": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
+	},
+	{
+		"title": "TV Jojko (540p)",
+		"file": "https://nn.geo.joj.sk/live/rik-index.m3u8"
+	},
+	{
+		"title": "Канал Disney",
+		"file": "http://188.40.68.167/russia/disney/playlist.m3u8"
+	},
+	{
+		"title": "Карапуз ТВ",
+		"file": "https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8"
+	},
+	{
+		"title": "Любимое.ТВ",
+		"file": "https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8"
+	},
+	{
+		"title": "o,О!",
+		"file": "https://sc.id-tv.kz/o_34_35.m3u8"
+	},
+	{
+		"title": "Радость моя",
+		"file": "http://188.40.68.167/russia/radost_moya/playlist.m3u8"
+	},
+	{
+		"title": "Смайлик ТВ",
+		"file": "http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8"
+	},
+	{
+		"title": "Смайлик ТВ",
+		"file": "http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8"
+	},
+	{
+		"title": "Тамыр (576p)",
+		"file": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+	},
+	{
+		"title": "优漫卡通",
+		"file": "http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8"
+	},
+	{
+		"title": "优漫卡通",
+		"file": "http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8"
+	},
+	{
+		"title": "优漫卡通",
+		"file": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8"
+	},
+	{
+		"title": "北京卡酷少儿",
+		"file": "http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8"
+	},
+	{
+		"title": "北京卡酷少儿",
+		"file": "http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8"
+	},
+	{
+		"title": "哈哈炫动Toon Max TV (480p)",
+		"file": "http://210.210.155.35/qwr9ew/s/s50/index2.m3u8"
+	},
+	{
+		"title": "哈哈炫动卫视 (480p)",
+		"file": "http://210.210.155.35/qwr9ew/s/s50/index.m3u8"
+	},
+	{
+		"title": "嘉佳卡通",
+		"file": "http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8"
+	},
+	{
+		"title": "炫动卡通",
+		"file": "http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8"
+	},
+	{
+		"title": "炫动卡通",
+		"file": "http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8"
+	},
+	{
+		"title": "炫动卡通",
+		"file": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8"
+	},
+	{
+		"title": "福州少儿",
+		"file": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8"
+	},
+	{
+		"title": "金鹰卡通",
+		"file": "http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8"
+	},
+	{
+		"title": "金鹰卡通",
+		"file": "http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8"
+	},
+	{
+		"title": "金鹰卡通",
+		"file": "http://223.82.250.72/live/jinyingkaton/1.m3u8"
+	},
+	{
+		"title": "金鹰卡通",
+		"file": "http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8"
+	},
+	{
+		"title": "黑莓动画",
+		"file": "http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8"
+	}
+]

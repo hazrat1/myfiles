@@ -1,0 +1,277 @@
+[{
+		"title": "30A Investment Pitch",
+		"file": "https://www.30a-tv.com/InvPit.m3u8"
+	},
+	{
+		"title": "Asharq [Portrait]",
+		"file": "https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8"
+	},
+	{
+		"title": "Asharq",
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8"
+	},
+	{
+		"title": "Asharq",
+		"file": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8"
+	},
+	{
+		"title": "Asharq",
+		"file": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
+	},
+	{
+		"title": "Atameken Business",
+		"file": "http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8"
+	},
+	{
+		"title": "Atameken Business",
+		"file": "https://sc.id-tv.kz/Atameken_38_39.m3u8"
+	},
+	{
+		"title": "BFM Business (480p)",
+		"file": "https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "BFM Business (480p)",
+		"file": "https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8"
+	},
+	{
+		"title": "BLOOMBERG.tr,Bloomberg HT",
+		"file": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8"
+	},
+	{
+		"title": "Bloomberg Quicktake",
+		"file": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Asia",
+		"file": "https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Asia",
+		"file": "https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Asia",
+		"file": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Asia",
+		"file": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Asia Live Event",
+		"file": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Asia Live Event",
+		"file": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Australia (360p)",
+		"file": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Australia",
+		"file": "https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Australia",
+		"file": "https://www.bloomberg.com/media-manifest/streams/aus.m3u8"
+	},
+	{
+		"title": "Bloomberg TV EMEA Live Event",
+		"file": "https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8"
+	},
+	{
+		"title": "Bloomberg TV EMEA Live Event",
+		"file": "https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://bloomberg-bloombergtv-1-de.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV Europe",
+		"file": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US (576p)",
+		"file": "http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://ch.iptvmate.net/55223f6e32038e5be12628de5464cf0e.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US (180p)",
+		"file": "https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US (180p)",
+		"file": "https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US",
+		"file": "https://www.bloomberg.com/media-manifest/streams/us.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US Live Event",
+		"file": "https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US Live Event",
+		"file": "https://www.bloomberg.com/media-manifest/streams/us-event.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US Politics Live Event",
+		"file": "https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8"
+	},
+	{
+		"title": "Bloomberg TV US Politics Live Event",
+		"file": "https://www.bloomberg.com/media-manifest/streams/politics.m3u8"
+	},
+	{
+		"title": "Bloomberg TV+ US",
+		"file": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8"
+	},
+	{
+		"title": "Bloomberg TV+ US",
+		"file": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8"
+	},
+	{
+		"title": "Cheddar",
+		"file": "https://live.chdrstatic.com/cheddar/primary/1.m3u8"
+	},
+	{
+		"title": "Cheddar",
+		"file": "https://live.chdrstatic.com/cheddar/primary/index.m3u8"
+	},
+	{
+		"title": "Cheddar",
+		"file": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8"
+	},
+	{
+		"title": "CNBC Arabiya",
+		"file": "https://hiplayer.hibridcdn.net/p/cnbcarabia-live"
+	},
+	{
+		"title": "CNBC Awaaz",
+		"file": "https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8"
+	},
+	{
+		"title": "CNBC Awaaz",
+		"file": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8"
+	},
+	{
+		"title": "CNBC.nws,CNBC Europe (480p)",
+		"file": "http://ott-cdn.ucom.am/s65/index.m3u8"
+	},
+	{
+		"title": "CNBC Indonesia",
+		"file": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
+	},
+	{
+		"title": "ET Now",
+		"file": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8"
+	},
+	{
+		"title": "NDTV Profit",
+		"file": "https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8"
+	},
+	{
+		"title": "NDTV Profit (480p)",
+		"file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
+	},
+	{
+		"title": "NDTV Profit (480p)",
+		"file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8"
+	},
+	{
+		"title": "Real Vision",
+		"file": "https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8"
+	},
+	{
+		"title": "rbk,РБК",
+		"file": "http://92.50.128.180/utv/1358/index.m3u8"
+	},
+	{
+		"title": "rbk,РБК",
+		"file": "http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8"
+	},
+	{
+		"title": "rbk,РБК",
+		"file": "http://online.video.rbc.ru/online/rbctv_480p/index.m3u8"
+	},
+	{
+		"title": "rbk,РБК",
+		"file": "http://online.video.rbc.ru/online/rbctv_576p/index.m3u8"
+	},
+	{
+		"title": "rbk,РБК",
+		"file": "https://strm.yandex.ru/kal/rbc_supres/rbc_supres0.m3u8"
+	}
+]

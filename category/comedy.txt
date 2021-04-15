@@ -1,0 +1,57 @@
+[{
+		"title": "AFV!",
+		"file": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
+	},
+	{
+		"title": "Antena 1",
+		"file": "https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8"
+	},
+	{
+		"title": "Dry Bar Comedy TV",
+		"file": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
+	},
+	{
+		"title": "Mo Laughter (480p)",
+		"file": "https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8"
+	},
+	{
+		"title": "Paramount Comedy Russia",
+		"file": "http://188.40.68.167/russia/paramount_comedy/playlist.m3u8"
+	},
+	{
+		"title": "Rotana Comedy HD",
+		"file": "https://hiplayer.hibridcdn.net/p/rotana-comedy"
+	},
+	{
+		"title": "Shout Factory TV",
+		"file": "https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8"
+	},
+	{
+		"title": "STIRR Comedy",
+		"file": "https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8"
+	},
+	{
+		"title": "TVS Comedy Network (480p)",
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8"
+	},
+	{
+		"title": "VIP Comedy Russia",
+		"file": "http://188.40.68.167/russia/vip_comedy/playlist.m3u8"
+	},
+	{
+		"title": "ViP Comedy Russia",
+		"file": "http://195.189.105.158:9050/132/index.m3u8"
+	},
+	{
+		"title": "Кинокомедия",
+		"file": "http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8"
+	},
+	{
+		"title": "Комедия",
+		"file": "http://188.40.68.167/russia/komediya/playlist.m3u8"
+	},
+	{
+		"title": "Комедия",
+		"file": "http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8"
+	}
+]

@@ -1,0 +1,97 @@
+[{
+		"title": "Beach TV (CSULB)",
+		"file": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-10 科教",
+		"file": "http://117.169.120.140:8080/live/cctv-10/.m3u8"
+	},
+	{
+		"title": "CCTV中国中央电视台-10 科教",
+		"file": "http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8"
+	},
+	{
+		"title": "Cloudflare TV",
+		"file": "https://cloudflare.tv/hls/live.m3u8"
+	},
+	{
+		"title": "Field & Stream",
+		"file": "https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8"
+	},
+	{
+		"title": "Field & Stream",
+		"file": "https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8"
+	},
+	{
+		"title": "NASA TV",
+		"file": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8"
+	},
+	{
+		"title": "NASA TV",
+		"file": "https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
+	},
+	{
+		"title": "NASA TV (504p)",
+		"file": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
+	},
+	{
+		"title": "NASA TV Media",
+		"file": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+	},
+	{
+		"title": "NASA TV Public",
+		"file": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
+	},
+	{
+		"title": "Oman TV Cultural",
+		"file": "https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8"
+	},
+	{
+		"title": "Portal Cultura Pará (360p)",
+		"file": "http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8"
+	},
+	{
+		"title": "Santa Cecilia TV (288p)",
+		"file": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8"
+	},
+	{
+		"title": "Syrian Education TV (270p)",
+		"file": "http://82.137.248.16:1935/SEdu/stream14042021/playlist.m3u8"
+	},
+	{
+		"title": "The 360 Channel",
+		"file": "https://www.filmon.com/vr-streams/4136.high/playlist.m3u8"
+	},
+	{
+		"title": "TV Educativa de Porto Alegre",
+		"file": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8"
+	},
+	{
+		"title": "TV Mackenzie (480p)",
+		"file": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8"
+	},
+	{
+		"title": "TV UFG",
+		"file": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8"
+	},
+	{
+		"title": "TV UFSC",
+		"file": "http://150.162.188.10:8080/hls/1.m3u8"
+	},
+	{
+		"title": "TV UNISC",
+		"file": "https://tv.unisc.br/hls/test.m3u8"
+	},
+	{
+		"title": "UCTV - University of California",
+		"file": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+	},
+	{
+		"title": "UniTV Porto Alegre",
+		"file": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
+	},
+	{
+		"title": "Yemen Shabab",
+		"file": "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
+	}
+]

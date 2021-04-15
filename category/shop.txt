@@ -1,0 +1,145 @@
+[{
+		"title": "Beauty IQ",
+		"file": "https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8"
+	},
+	{
+		"title": "ch 21 ערוץ הקניות (360p)",
+		"file": "http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8"
+	},
+	{
+		"title": "Citruss TV",
+		"file": "https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8"
+	},
+	{
+		"title": "Cruise1st TV (396p)",
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8"
+	},
+	{
+		"title": "Donna Shopping",
+		"file": "https://media.streambrothers.com:1936/8038/8038/playlist.m3u8"
+	},
+	{
+		"title": "Expo Channel (360p)",
+		"file": "https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8"
+	},
+	{
+		"title": "Gems TV (360p)",
+		"file": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8"
+	},
+	{
+		"title": "GSTV",
+		"file": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8"
+	},
+	{
+		"title": "HSN",
+		"file": "https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8"
+	},
+	{
+		"title": "HSN",
+		"file": "https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8"
+	},
+	{
+		"title": "HSN 2 (414p)",
+		"file": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128"
+	},
+	{
+		"title": "HSN2 (414p)",
+		"file": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8"
+	},
+	{
+		"title": "Japanet Channel DX",
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"
+	},
+	{
+		"title": "Jewelry Television",
+		"file": "https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8"
+	},
+	{
+		"title": "Leomax 24",
+		"file": "http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "Leomax Plus",
+		"file": "http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "Leomax Plus",
+		"file": "https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "Luxury",
+		"file": "http://nano.teleservice.su:8080/hls/luxury.m3u8"
+	},
+	{
+		"title": "Mediashop TV (576p)",
+		"file": "https://cdn1-europe.smartcast.tv/mediashop/mediashop1/playlist.m3u8"
+	},
+	{
+		"title": "QVC",
+		"file": "https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8"
+	},
+	{
+		"title": "QVC",
+		"file": "https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8"
+	},
+	{
+		"title": "QVC 2",
+		"file": "https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8"
+	},
+	{
+		"title": "QVC 3",
+		"file": "https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8"
+	},
+	{
+		"title": "QVC Italia",
+		"file": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+	},
+	{
+		"title": "QVC Japan",
+		"file": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+	},
+	{
+		"title": "QVC UK",
+		"file": "https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8"
+	},
+	{
+		"title": "Shop Channel",
+		"file": "https://stream3.shopch.jp/HLS/master.m3u8"
+	},
+	{
+		"title": "Shop HQ",
+		"file": "https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8"
+	},
+	{
+		"title": "Shop TV (480p)",
+		"file": "https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8"
+	},
+	{
+		"title": "The Shopping Channel",
+		"file": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+	},
+	{
+		"title": "Tommy Teleshopping (480p)",
+		"file": "http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8"
+	},
+	{
+		"title": "TSC",
+		"file": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+	},
+	{
+		"title": "TVSN Shopping (360p)",
+		"file": "https://i.mjh.nz/nz/tv.45.m3u8"
+	},
+	{
+		"title": "TVSN Shopping",
+		"file": "https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8"
+	},
+	{
+		"title": "Youtoo America HD",
+		"file": "https://thegateway.app/YouToo/CueTones/playlist.m3u8"
+	},
+	{
+		"title": "耀才財經台",
+		"file": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+	}
+]
