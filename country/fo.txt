@@ -1,0 +1,4 @@
+[{
+	"title": "KVF",
+	"file": "https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8"
+}]

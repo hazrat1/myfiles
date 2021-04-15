@@ -1,0 +1,853 @@
+[{
+		"title": "&Flix",
+		"file": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "&privé HD",
+		"file": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "3 Tamil TV",
+		"file": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+	},
+	{
+		"title": "5aab TV",
+		"file": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+	},
+	{
+		"title": "7S Music",
+		"file": "http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8"
+	},
+	{
+		"title": "7Star TV",
+		"file": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8"
+	},
+	{
+		"title": "7X Music",
+		"file": "http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8"
+	},
+	{
+		"title": "9XM",
+		"file": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+	},
+	{
+		"title": "A NEWSJATT",
+		"file": "http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8"
+	},
+	{
+		"title": "Aaj Tak",
+		"file": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+	},
+	{
+		"title": "Aaj Tak",
+		"file": "https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8"
+	},
+	{
+		"title": "Aarya Premiere",
+		"file": "http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8"
+	},
+	{
+		"title": "Aathavan TV",
+		"file": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8"
+	},
+	{
+		"title": "ABP Ananda",
+		"file": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8"
+	},
+	{
+		"title": "ABP Ananda",
+		"file": "https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8"
+	},
+	{
+		"title": "ABP Asmita",
+		"file": "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8"
+	},
+	{
+		"title": "ABP Asmita",
+		"file": "https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8"
+	},
+	{
+		"title": "ABP Majha",
+		"file": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8"
+	},
+	{
+		"title": "ABP News",
+		"file": "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8"
+	},
+	{
+		"title": "ABP News",
+		"file": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
+	},
+	{
+		"title": "ACN Cinema",
+		"file": "http://ammacable.com:1935/acn/acncinema/playlist.m3u8"
+	},
+	{
+		"title": "ACN Music",
+		"file": "http://ammacable.com:1935/acn/acnmusic/playlist.m3u8"
+	},
+	{
+		"title": "ACV",
+		"file": "https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8"
+	},
+	{
+		"title": "ACV Jukebox",
+		"file": "https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8"
+	},
+	{
+		"title": "ACV News",
+		"file": "https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8"
+	},
+	{
+		"title": "ACV Utsav",
+		"file": "https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8"
+	},
+	{
+		"title": "ACV Utsav Plus",
+		"file": "https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8"
+	},
+	{
+		"title": "Akaram Kidz",
+		"file": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8"
+	},
+	{
+		"title": "Akaram Mix",
+		"file": "http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8"
+	},
+	{
+		"title": "AKD Calcutta News",
+		"file": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8"
+	},
+	{
+		"title": "Amar Ujala",
+		"file": "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"
+	},
+	{
+		"title": "Amrita TV",
+		"file": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8"
+	},
+	{
+		"title": "Anjan",
+		"file": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"
+	},
+	{
+		"title": "Arasan TV",
+		"file": "http://ammacable.com:1935/acn/arasantv/playlist.m3u8"
+	},
+	{
+		"title": "Ashrafi Channel",
+		"file": "http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8"
+	},
+	{
+		"title": "Asianet News Malayalam",
+		"file": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8"
+	},
+	{
+		"title": "Asianet News English",
+		"file": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
+	},
+	{
+		"title": "Asianet News Bangla",
+		"file": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8"
+	},
+	{
+		"title": "Asianet News Kannada",
+		"file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8"
+	},
+	{
+		"title": "Asianet News Tamil",
+		"file": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8"
+	},
+	{
+		"title": "Assam Talks",
+		"file": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"
+	},
+	{
+		"title": "Ayush TV",
+		"file": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"
+	},
+	{
+		"title": "B4U Kadak",
+		"file": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8"
+	},
+	{
+		"title": "B4U Kadak",
+		"file": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8"
+	},
+	{
+		"title": "Bflix Movies",
+		"file": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"
+	},
+	{
+		"title": "Bollywood",
+		"file": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"
+	},
+	{
+		"title": "Bollywood Classic",
+		"file": "http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END"
+	},
+	{
+		"title": "BollyWood HD",
+		"file": "http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END"
+	},
+	{
+		"title": "Bollywood Now",
+		"file": "https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8"
+	},
+	{
+		"title": "Bollywood TV",
+		"file": "https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8"
+	},
+	{
+		"title": "Bollywood TV",
+		"file": "https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8"
+	},
+	{
+		"title": "Bollywood TV",
+		"file": "https://a.jsrdn.com/broadcast/d5b45/+0000/low/c.m3u8"
+	},
+	{
+		"title": "Boogle Bollywood",
+		"file": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"
+	},
+	{
+		"title": "BritCom",
+		"file": "https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8"
+	},
+	{
+		"title": "Channel Win",
+		"file": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8"
+	},
+	{
+		"title": "Channel Y",
+		"file": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+	},
+	{
+		"title": "Cine Voice",
+		"file": "https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8"
+	},
+	{
+		"title": "Cine Voice",
+		"file": "https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8"
+	},
+	{
+		"title": "CNBC Awaaz",
+		"file": "https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8"
+	},
+	{
+		"title": "CNBC Awaaz",
+		"file": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8"
+	},
+	{
+		"title": "CNBC Awaaz SD",
+		"file": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "CNBC Bajar",
+		"file": "https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8"
+	},
+	{
+		"title": "CNBC TV18",
+		"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
+	},
+	{
+		"title": "CNN-News18",
+		"file": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8"
+	},
+	{
+		"title": "DD Malayalam",
+		"file": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8"
+	},
+	{
+		"title": "DD National(576p)",
+		"file": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"
+	},
+	{
+		"title": "DD National (480p)",
+		"file": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8"
+	},
+	{
+		"title": "DD News",
+		"file": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"
+	},
+	{
+		"title": "DD Sports",
+		"file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"
+	},
+	{
+		"title": "Desi Channel",
+		"file": "https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8"
+	},
+	{
+		"title": "Desi Plus",
+		"file": "http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8"
+	},
+	{
+		"title": "Dighvijay News 24x7",
+		"file": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"
+	},
+	{
+		"title": "Divya",
+		"file": "http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8"
+	},
+	{
+		"title": "EET TV",
+		"file": "https://live.streamjo.com/eetlive/eettv.m3u8"
+	},
+	{
+		"title": "ET Now",
+		"file": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8"
+	},
+	{
+		"title": "ET Now",
+		"file": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8"
+	},
+	{
+		"title": "Fashion TV",
+		"file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8"
+	},
+	{
+		"title": "FASTWAY NEWS",
+		"file": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8"
+	},
+	{
+		"title": "Flowers TV",
+		"file": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8"
+	},
+	{
+		"title": "Gabruu TV",
+		"file": "http://104.237.60.234/live/gabruutv.m3u8"
+	},
+	{
+		"title": "Gaunda Punjab TV",
+		"file": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8"
+	},
+	{
+		"title": "Global Punjab",
+		"file": "https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8"
+	},
+	{
+		"title": "Gurbani Healing",
+		"file": "https://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8"
+	},
+	{
+		"title": "Harvest TV USA",
+		"file": "https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8"
+	},
+	{
+		"title": "Hiru TV",
+		"file": "http://cdncities.com/8012/8012/playlist.m3u8"
+	},
+	{
+		"title": "Hulchul TV",
+		"file": "http://cdn12.henico.net:8080/live/jbani/index.m3u8"
+	},
+	{
+		"title": "IBC Comedy",
+		"file": "https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8"
+	},
+	{
+		"title": "IBC Kids",
+		"file": "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8"
+	},
+	{
+		"title": "IBC Music",
+		"file": "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8"
+	},
+	{
+		"title": "IBC Tamil",
+		"file": "https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8"
+	},
+	{
+		"title": "IBC Tamil Canada",
+		"file": "https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8"
+	},
+	{
+		"title": "India News",
+		"file": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"
+	},
+	{
+		"title": "India Today",
+		"file": "https://feeds.intoday.in/hltapps/api/master.m3u8"
+	},
+	{
+		"title": "India Today",
+		"file": "https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8"
+	},
+	{
+		"title": "India TV",
+		"file": "https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8"
+	},
+	{
+		"title": "India TV News",
+		"file": "https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8"
+	},
+	{
+		"title": "Jaihind TV",
+		"file": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8"
+	},
+	{
+		"title": "Jan TV",
+		"file": "http://jantvstream.in:1935/edge1/sc1jantv.stream_aac/playlist.m3u8"
+	},
+	{
+		"title": "Janam TV",
+		"file": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8"
+	},
+	{
+		"title": "Janataa TV",
+		"file": "http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8"
+	},
+	{
+		"title": "Janta TV",
+		"file": "https://live.wmncdn.net/jantatv/live.stream/index.m3u8"
+	},
+	{
+		"title": "Jeevan TV",
+		"file": "http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8"
+	},
+	{
+		"title": "Jhanjar Music",
+		"file": "http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8"
+	},
+	{
+		"title": "Jonack TV",
+		"file": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8"
+	},
+	{
+		"title": "Kairali News",
+		"file": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8"
+	},
+	{
+		"title": "Kairali TV",
+		"file": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8"
+	},
+	{
+		"title": "Kairali We",
+		"file": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8"
+	},
+	{
+		"title": "Kalaignar",
+		"file": "http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8"
+	},
+	{
+		"title": "Kappa TV",
+		"file": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8"
+	},
+	{
+		"title": "Kasthuri TV",
+		"file": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8"
+	},
+	{
+		"title": "Kaumudy TV",
+		"file": "https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8"
+	},
+	{
+		"title": "Khabrain Abhi Tak",
+		"file": "https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/playlist.m3u8"
+	},
+	{
+		"title": "Lok Sabha TV",
+		"file": "https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8"
+	},
+	{
+		"title": "Maha Movie",
+		"file": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"
+	},
+	{
+		"title": "Malaimurasu",
+		"file": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8"
+	},
+	{
+		"title": "Mangalam TV",
+		"file": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8"
+	},
+	{
+		"title": "Manorama News",
+		"file": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8"
+	},
+	{
+		"title": "Manoranjan Movies",
+		"file": "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8"
+	},
+	{
+		"title": "Marutam TV",
+		"file": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8"
+	},
+	{
+		"title": "Mastiii",
+		"file": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8"
+	},
+	{
+		"title": "Mastiii",
+		"file": "http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8"
+	},
+	{
+		"title": "Mathrubhumi News",
+		"file": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8"
+	},
+	{
+		"title": "Mazhavil Manorama ",
+		"file": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8"
+	},
+	{
+		"title": "Media One",
+		"file": "http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8"
+	},
+	{
+		"title": "Media One",
+		"file": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8"
+	},
+	{
+		"title": "MH1 Music",
+		"file": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8"
+	},
+	{
+		"title": "MH1 Prime",
+		"file": "http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8"
+	},
+	{
+		"title": "Mirror Now",
+		"file": "https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8"
+	},
+	{
+		"title": "MK Six",
+		"file": "http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8"
+	},
+	{
+		"title": "MK Tunes",
+		"file": "http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8"
+	},
+	{
+		"title": "MK TV",
+		"file": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8"
+	},
+	{
+		"title": "Music India",
+		"file": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8"
+	},
+	{
+		"title": "Naxtra News",
+		"file": "http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8"
+	},
+	{
+		"title": "NDTV",
+		"file": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"
+	},
+	{
+		"title": "NDTV 24X7",
+		"file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
+	},
+	{
+		"title": "NDTV 24x7-IN",
+		"file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"
+	},
+	{
+		"title": "NDTV India",
+		"file": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+	},
+	{
+		"title": "NDTV India",
+		"file": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
+	},
+	{
+		"title": "NDTV Profit",
+		"file": "https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8"
+	},
+	{
+		"title": "NDTV Profit",
+		"file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"
+	},
+	{
+		"title": "NDTV Profit",
+		"file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8"
+	},
+	{
+		"title": "Nethra TV",
+		"file": "https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8"
+	},
+	{
+		"title": "News 18 Assam",
+		"file": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Bengali",
+		"file": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Chhattisgarh",
+		"file": "https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Gujarati",
+		"file": "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Hindi",
+		"file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Jharkhand",
+		"file": "https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Kannada",
+		"file": "https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Malayalam",
+		"file": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Odia",
+		"file": "https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Punjab",
+		"file": "https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Rajasthan",
+		"file": "https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Tamil",
+		"file": "https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Urdu",
+		"file": "https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 18 Uttarakhand",
+		"file": "https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?sd=10&rebase=on"
+	},
+	{
+		"title": "News 24",
+		"file": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8"
+	},
+	{
+		"title": "News 24",
+		"file": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8"
+	},
+	{
+		"title": "News18 Assam",
+		"file": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8"
+	},
+	{
+		"title": "News18 Hindi",
+		"file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-b.m3u8"
+	},
+	{
+		"title": "News18 India",
+		"file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8"
+	},
+	{
+		"title": "News18 Lokmat",
+		"file": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8"
+	},
+	{
+		"title": "Pakalavan TV",
+		"file": "https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8"
+	},
+	{
+		"title": "Popular Science",
+		"file": "https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8"
+	},
+	{
+		"title": "Pratidin Time",
+		"file": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8"
+	},
+	{
+		"title": "Prime Canada TV",
+		"file": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
+	},
+	{
+		"title": "Prudent Media",
+		"file": "https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/playlist.m3u8"
+	},
+	{
+		"title": "Public Music",
+		"file": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8"
+	},
+	{
+		"title": "Punjabi TV",
+		"file": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8"
+	},
+	{
+		"title": "Punjabi Zindabad",
+		"file": "http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8"
+	},
+	{
+		"title": "Puthuyugam TV",
+		"file": "http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8"
+	},
+	{
+		"title": "Raj Digital Plus",
+		"file": "http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8"
+	},
+	{
+		"title": "Reporter TV",
+		"file": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8"
+	},
+	{
+		"title": "RepublicBharat.in",
+		"file": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8"
+	},
+	{
+		"title": "RepublicBharat.in",
+		"file": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_234p.m3u8"
+	},
+	{
+		"title": "RepublicBharat.in",
+		"file": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8"
+	},
+	{
+		"title": "Rosebowl",
+		"file": "https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8"
+	},
+	{
+		"title": "RSTV RajyaSabha",
+		"file": "https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8"
+	},
+	{
+		"title": "Sadhna",
+		"file": "http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8"
+	},
+	{
+		"title": "Sadhna Plus",
+		"file": "http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8"
+	},
+	{
+		"title": "Sanskaar",
+		"file": "https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8"
+	},
+	{
+		"title": "Santhora Short Flim",
+		"file": "http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8"
+	},
+	{
+		"title": "Santhora TV",
+		"file": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8"
+	},
+	{
+		"title": "Santhora TV",
+		"file": "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8"
+	},
+	{
+		"title": "Sardari TV",
+		"file": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
+	},
+	{
+		"title": "Satsang",
+		"file": "https://satsangtv.sanskargroup.in/satsangtvlive.m3u8"
+	},
+	{
+		"title": "Serveur TV",
+		"file": "https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8"
+	},
+	{
+		"title": "Shemaroo Bollywood",
+		"file": "https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8"
+	},
+	{
+		"title": "Shemaroo Kids",
+		"file": "https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8"
+	},
+	{
+		"title": "Shemaroo Punjabi",
+		"file": "https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8"
+	},
+	{
+		"title": "Shirdi Live",
+		"file": "https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525"
+	},
+	{
+		"title": "Shraddha",
+		"file": "http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8"
+	},
+	{
+		"title": "Sigaram TV",
+		"file": "http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8"
+	},
+	{
+		"title": "Sikh Channel",
+		"file": "http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams"
+	},
+	{
+		"title": "Sony Movies",
+		"file": "http://51.52.156.22:8888/http/009"
+	},
+	{
+		"title": "Suvarna News 24×7",
+		"file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8"
+	},
+	{
+		"title": "Swaraj Express",
+		"file": "https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8"
+	},
+	{
+		"title": "Tamil Vision",
+		"file": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8"
+	},
+	{
+		"title": "Thalapathy TV",
+		"file": "http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8"
+	},
+	{
+		"title": "Thanthi TV",
+		"file": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8"
+	},
+	{
+		"title": "Times Now HD",
+		"file": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8"
+	},
+	{
+		"title": "TV9 Kannada",
+		"file": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8"
+	},
+	{
+		"title": "Twenty Four News",
+		"file": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8"
+	},
+	{
+		"title": "Vasanth TV",
+		"file": "http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1"
+	},
+	{
+		"title": "Vathanam TV",
+		"file": "http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8"
+	},
+	{
+		"title": "Velicham",
+		"file": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8"
+	},
+	{
+		"title": "Y",
+		"file": "http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8"
+	},
+	{
+		"title": "Zee Bioskop",
+		"file": "http://210.210.155.35/qwr9ew/s/s32/index.m3u8"
+	},
+	{
+		"title": "Zee Mundo",
+		"file": "https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8"
+	},
+	{
+		"title": "Zee Mundo",
+		"file": "https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8"
+	},
+	{
+		"title": "Zee TV",
+		"file": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8"
+	}
+]

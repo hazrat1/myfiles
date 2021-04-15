@@ -1,0 +1,17 @@
+[{
+		"title": "AM",
+		"file": "https://videos.rtva.ad/live/am/playlist.m3u8"
+	},
+	{
+		"title": "RNA",
+		"file": "http://videos.rtva.ad:1935/live/rna/playlist.m3u8"
+	},
+	{
+		"title": "RTVA",
+		"file": "http://videos.rtva.ad:1935/live/web/playlist.m3u8"
+	},
+	{
+		"title": "RTVA",
+		"file": "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+	}
+]

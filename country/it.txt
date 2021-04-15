@@ -1,0 +1,661 @@
+[{
+		"title": "20 Mediaset",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8"
+	},
+	{
+		"title": "51 Radio TV",
+		"file": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8"
+	},
+	{
+		"title": "A2itv",
+		"file": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+	},
+	{
+		"title": "AB Channel",
+		"file": "https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8"
+	},
+	{
+		"title": "Action Movies",
+		"file": "https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Alma TV",
+		"file": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8"
+	},
+	{
+		"title": "Amuse Animation",
+		"file": "https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Atres Series",
+		"file": "https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Aurora Arte",
+		"file": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8"
+	},
+	{
+		"title": "Azzurra TV",
+		"file": "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8"
+	},
+	{
+		"title": "Big Name",
+		"file": "https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Bizzarro Movies",
+		"file": "https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Boing Italia",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8"
+	},
+	{
+		"title": "Brindiamo Channel",
+		"file": "https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "CafèTV24",
+		"file": "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8"
+	},
+	{
+		"title": "Canale 10",
+		"file": "http://37.187.142.147:1935/ch10live/high.stream/live.m3u8"
+	},
+	{
+		"title": "Canale 10",
+		"file": "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8"
+	},
+	{
+		"title": "Canale 2 Altamura",
+		"file": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8"
+	},
+	{
+		"title": "Canale 2 Altamura",
+		"file": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+	},
+	{
+		"title": "Canale 21 Campania",
+		"file": "http://live.sloode.com:1935/canale21/live/playlist.m3u8"
+	},
+	{
+		"title": "Canale 21 Lazio",
+		"file": "http://live.sloode.com:1935/canale21/live2/playlist.m3u8"
+	},
+	{
+		"title": "Canale 5",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8"
+	},
+	{
+		"title": "Canale 7",
+		"file": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8"
+	},
+	{
+		"title": "Canale 7",
+		"file": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8"
+	},
+	{
+		"title": "Canale 8",
+		"file": "http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8"
+	},
+	{
+		"title": "Carina TV",
+		"file": "http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8"
+	},
+	{
+		"title": "Carina TV",
+		"file": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8"
+	},
+	{
+		"title": "Cartoonito Italia",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8"
+	},
+	{
+		"title": "CG Entertainment",
+		"file": "https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Cine 34",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8"
+	},
+	{
+		"title": "Cinema Segreto",
+		"file": "https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Classical Harmony",
+		"file": "https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Comedy Movies",
+		"file": "https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Company TV",
+		"file": "http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8"
+	},
+	{
+		"title": "Company TV",
+		"file": "http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8"
+	},
+	{
+		"title": "Company TV",
+		"file": "http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8"
+	},
+	{
+		"title": "Company TV",
+		"file": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+	},
+	{
+		"title": "Cusano Italia TV",
+		"file": "https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8"
+	},
+	{
+		"title": "DeeJay TV",
+		"file": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8"
+	},
+	{
+		"title": "DeeJay TV",
+		"file": "https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8"
+	},
+	{
+		"title": "Donna Shopping",
+		"file": "https://media.streambrothers.com:1936/8038/8038/playlist.m3u8"
+	},
+	{
+		"title": "Donna TV",
+		"file": "https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8"
+	},
+	{
+		"title": "Duck TV",
+		"file": "https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Elive TV Brescia",
+		"file": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+	},
+	{
+		"title": "Esperia TV",
+		"file": "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8"
+	},
+	{
+		"title": "Esperia TV",
+		"file": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
+	},
+	{
+		"title": "ETV Marche",
+		"file": "http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8"
+	},
+	{
+		"title": "ETV Marche",
+		"file": "http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8"
+	},
+	{
+		"title": "Euro Indie Music",
+		"file": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
+	},
+	{
+		"title": "Family Movies",
+		"file": "https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "FM Italia",
+		"file": "http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8"
+	},
+	{
+		"title": "Focus",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8"
+	},
+	{
+		"title": "GM24",
+		"file": "https://5f11919dca3bd.streamlock.net/HSE24/HSE24/playlist.m3u8"
+	},
+	{
+		"title": "Gold TV Italia",
+		"file": "http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8"
+	},
+	{
+		"title": "History Lab",
+		"file": "http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8"
+	},
+	{
+		"title": "History Lab",
+		"file": "http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV"
+	},
+	{
+		"title": "Humanity",
+		"file": "http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Icaro TV",
+		"file": "https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Iris",
+		"file": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+	},
+	{
+		"title": "Italia 1",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8"
+	},
+	{
+		"title": "Italia 1",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8"
+	},
+	{
+		"title": "Italia 2",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8"
+	},
+	{
+		"title": "Italia 2 TV",
+		"file": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8"
+	},
+	{
+		"title": "Italia7",
+		"file": "http://151.0.207.99:1935/italia7/italia7/playlist.m3u8"
+	},
+	{
+		"title": "Italia Channel",
+		"file": "https://stream1.xdevel.com/video0s975668-259/stream/playlist.m3u8"
+	},
+	{
+		"title": "Juwelo Italia",
+		"file": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?latency=low"
+	},
+	{
+		"title": "La 5",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8"
+	},
+	{
+		"title": "La Tr3",
+		"file": "https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8"
+	},
+	{
+		"title": "LaC TV",
+		"file": "https://StreamCdnC3.mainstreaming.tv/cdn/live/100197/SOrBDPy/playlist.m3u8"
+	},
+	{
+		"title": "Lazio TV",
+		"file": "http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8"
+	},
+	{
+		"title": "m2o TV",
+		"file": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8"
+	},
+	{
+		"title": "M2O IT",
+		"file": "https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8"
+	},
+	{
+		"title": "Mediaset Extra",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8"
+	},
+	{
+		"title": "MMA TV",
+		"file": "https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Mondo Kids",
+		"file": "https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Moods",
+		"file": "https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Motor TV",
+		"file": "https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "My Surf TV",
+		"file": "https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Orler TV",
+		"file": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Padre Pio TV",
+		"file": "https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/playlist.m3u8"
+	},
+	{
+		"title": "Paradise TV",
+		"file": "https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8"
+	},
+	{
+		"title": "Parole di Vita",
+		"file": "https://5db313b643fd8.streamlock.net:443/Paroledivita/Paroledivita/playlist.m3u8"
+	},
+	{
+		"title": "People are Awesome",
+		"file": "https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Pescara TV",
+		"file": "http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8"
+	},
+	{
+		"title": "Prima Tivvu",
+		"file": "https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8"
+	},
+	{
+		"title": "Prima TV",
+		"file": "http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8"
+	},
+	{
+		"title": "Primocanale Liguria",
+		"file": "https://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8"
+	},
+	{
+		"title": "QVC Italia",
+		"file": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+	},
+	{
+		"title": "R101",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8"
+	},
+	{
+		"title": "Radio 105 TV",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8"
+	},
+	{
+		"title": "Radio 51",
+		"file": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+	},
+	{
+		"title": "Radio Bellla&Monella TV",
+		"file": "https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Radio Birikina TV",
+		"file": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Radio Capital TV",
+		"file": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8"
+	},
+	{
+		"title": "Radio Capital TV",
+		"file": "https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8"
+	},
+	{
+		"title": "Radio Iglesias",
+		"file": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8"
+	},
+	{
+		"title": "Radio Iglesias",
+		"file": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
+	},
+	{
+		"title": "Radio Italia TV",
+		"file": "https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8"
+	},
+	{
+		"title": "Radio Italia Vision",
+		"file": "https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8"
+	},
+	{
+		"title": "Radio Kiss Kiss",
+		"file": "https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Radio Kiss Kiss",
+		"file": "https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8"
+	},
+	{
+		"title": "Radio Lombardia",
+		"file": "https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8"
+	},
+	{
+		"title": "Radio Piter Pan",
+		"file": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Radio Zeta",
+		"file": "https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8"
+	},
+	{
+		"title": "Radiofreccia",
+		"file": "https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8"
+	},
+	{
+		"title": "Radionorba TV",
+		"file": "http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8"
+	},
+	{
+		"title": "Rai 1",
+		"file": "http://ott-cdn.ucom.am:80/s29/04.m3u8"
+	},
+	{
+		"title": "Rai 3",
+		"file": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8"
+	},
+	{
+		"title": "Rai News 24",
+		"file": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001"
+	},
+	{
+		"title": "Rai News 24",
+		"file": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
+	},
+	{
+		"title": "RDS Social TV",
+		"file": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8"
+	},
+	{
+		"title": "RDS Social TV",
+		"file": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8"
+	},
+	{
+		"title": "ReggioTV",
+		"file": "https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8"
+	},
+	{
+		"title": "Rete 4",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8"
+	},
+	{
+		"title": "Retesole Lazio",
+		"file": "http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8"
+	},
+	{
+		"title": "Reteveneta",
+		"file": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+	},
+	{
+		"title": "RMK TV Sciacca",
+		"file": "http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8"
+	},
+	{
+		"title": "RTC Quarta Rete",
+		"file": "https://msh0232.stream.seeweb.it/live/stream012.sdp/playlist.m3u8"
+	},
+	{
+		"title": "RTC Telecalabria",
+		"file": "http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8"
+	},
+	{
+		"title": "RTC Telecalabria",
+		"file": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
+	},
+	{
+		"title": "RTL 102.5",
+		"file": "https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8"
+	},
+	{
+		"title": "RTP",
+		"file": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+	},
+	{
+		"title": "Sardegna Uno",
+		"file": "https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8"
+	},
+	{
+		"title": "Sophia TV",
+		"file": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8"
+	},
+	{
+		"title": "Spotlight",
+		"file": "https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Super TV",
+		"file": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8"
+	},
+	{
+		"title": "Super!",
+		"file": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8"
+	},
+	{
+		"title": "Supertoons TV",
+		"file": "https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "TeleBoario",
+		"file": "http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8"
+	},
+	{
+		"title": "Telechiara",
+		"file": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8"
+	},
+	{
+		"title": "Telecolor Lombardia",
+		"file": "https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8"
+	},
+	{
+		"title": "Telefoggia",
+		"file": "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8"
+	},
+	{
+		"title": "Telefriuli",
+		"file": "https://or01.top-ix.org/streamtech/telefriuli/playlist.m3u8"
+	},
+	{
+		"title": "TeleMia",
+		"file": "http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8"
+	},
+	{
+		"title": "Telemolise",
+		"file": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8"
+	},
+	{
+		"title": "TELE MONTE NEVE",
+		"file": "http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8"
+	},
+	{
+		"title": "teleMonteneve",
+		"file": "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8"
+	},
+	{
+		"title": "teleMonteneve 3",
+		"file": "http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8"
+	},
+	{
+		"title": "TeleNordest",
+		"file": "http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8"
+	},
+	{
+		"title": "TeleNordest",
+		"file": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8"
+	},
+	{
+		"title": "TeleQuattro",
+		"file": "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8"
+	},
+	{
+		"title": "Teleromagna",
+		"file": "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
+	},
+	{
+		"title": "Telesud Trapani",
+		"file": "https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8"
+	},
+	{
+		"title": "Teletricolore",
+		"file": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
+	},
+	{
+		"title": "Teletubbies",
+		"file": "https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "TeleVideo Agrigento",
+		"file": "https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8"
+	},
+	{
+		"title": "Tevere TV",
+		"file": "https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8"
+	},
+	{
+		"title": "TG Norba 24",
+		"file": "https://flash2.xdevel.com/tgnorba_24/tgnorba_24_source.stream/index.m3u8"
+	},
+	{
+		"title": "TGCOM24",
+		"file": "https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8"
+	},
+	{
+		"title": "TLN Tele Lazio Nord",
+		"file": "http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8"
+	},
+	{
+		"title": "Top Crime",
+		"file": "https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8"
+	},
+	{
+		"title": "Top Crimine",
+		"file": "https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "Top Series",
+		"file": "https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "TR Mia",
+		"file": "https://livetr.teleromagna.it/news/live/playlist.m3u8"
+	},
+	{
+		"title": "TR24",
+		"file": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
+	},
+	{
+		"title": "TSN Tele Sondrio News",
+		"file": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8"
+	},
+	{
+		"title": "TV Qui (Modena)",
+		"file": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
+	},
+	{
+		"title": "TV Shows",
+		"file": "https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8"
+	},
+	{
+		"title": "TV7 Benevento",
+		"file": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8"
+	},
+	{
+		"title": "TV7 Triveneta",
+		"file": "http://217.61.26.46:8080/hls/triveneta.m3u8"
+	},
+	{
+		"title": "TVA (Vicenza)",
+		"file": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8"
+	},
+	{
+		"title": "TVRS",
+		"file": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8"
+	},
+	{
+		"title": "Vera TV",
+		"file": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8"
+	},
+	{
+		"title": "Vera TV Marche",
+		"file": "http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8"
+	},
+	{
+		"title": "Videolina ",
+		"file": "http://livestreaming.videolina.it/live/Videolina/playlist.m3u8"
+	}
+]

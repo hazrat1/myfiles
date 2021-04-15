@@ -1,0 +1,13 @@
+[{
+		"title": "ETV",
+		"file": "https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval2/index.m3u8"
+	},
+	{
+		"title": "ETV+",
+		"file": "https://errstreams4.cdn.eurovisioncdn.net/live/etvpluss-kval2/index.m3u8"
+	},
+	{
+		"title": "ETV2",
+		"file": "https://errstreams4.cdn.eurovisioncdn.net/live/etv2-kval2/index.m3u8"
+	}
+]
