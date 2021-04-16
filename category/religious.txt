@@ -1,36 +1,4 @@
-[{
-		"title": "United Arab Emirates",
-		"folder": [{
-				"title": "Peace TV Bangla",
-				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Peace TV Chinese",
-				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Peace TV English",
-				"file": "http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Peace TV Urdu",
-				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Sharjah TV",
-				"file": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
-			},
-			{
-				"title": "Sharjah TV",
-				"file": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
-			},
-			{
-				"title": "Towheed TV",
-				"file": "http://51.210.199.1/hls/stream.m3u8"
-			}
-		]
-
-	},
+[
 
 	{
 		"title": "Armenia",
@@ -55,6 +23,13 @@
 				"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8"
 			}
 		]
+
+	}, {
+		"title": "Bangladesh",
+		"folder": [{
+			"title": "Aldawah TV",
+			"file": "https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV_manifest.m3u8"
+		}]
 
 	}, {
 		"title": "Brazil",
@@ -677,6 +652,38 @@
 			"title": "CNL Европа",
 			"file": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8"
 		}]
+
+	}, {
+		"title": "United Arab Emirates",
+		"folder": [{
+				"title": "Peace TV Bangla",
+				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8"
+			},
+			{
+				"title": "Peace TV Chinese",
+				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8"
+			},
+			{
+				"title": "Peace TV English",
+				"file": "http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
+			},
+			{
+				"title": "Peace TV Urdu",
+				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8"
+			},
+			{
+				"title": "Sharjah TV",
+				"file": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
+			},
+			{
+				"title": "Sharjah TV",
+				"file": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
+			},
+			{
+				"title": "Towheed TV",
+				"file": "http://51.210.199.1/hls/stream.m3u8"
+			}
+		]
 
 	}, {
 		"title": "United Kingdom",
