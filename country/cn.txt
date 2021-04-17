@@ -1,6 +1,6 @@
 [{
 	"title": "General(一般的)",
-	"folder": [{"title": "CCTV中国中央电视台-1 综合","file": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"},
+	"folder": [
 {"title": "南宁新闻综合","file": "http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8"},
 {"title": "晋中公共","file": "http://jzlive.jztvnews.com:90/live/jzgg.m3u8"},
 {"title": "晋中综合","file": "http://jzlive.jztvnews.com:90/live/jzzh.m3u8"},
@@ -75,6 +75,7 @@
 	"title": "Uncategorized (未分类)",
 	"folder": [{"title": "ATV Asia (亞洲電視台)","file": "https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8"},
 {"title": "Blue 美剧频道","file": "http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8"},
+{"title": "CCTV中国中央电视台-1 综合","file": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"},
 {"title": "CCTV 3","file": "http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8"},
 {"title": "CCTV 4","file": "https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8"},
 {"title": "CCTV-13 新闻","file": "http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"},
