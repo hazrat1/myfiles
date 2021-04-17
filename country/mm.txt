@@ -1,4 +1,9 @@
-[{
+[
+{
+	"title": "MRTV",
+	"file": "https://playback2.akamaized.net/streams/15604755_9605885_lsi7ewf69000tenw3i7_1/exp=1618763786~acl=%2f*~data=hdntl~hmac=3b63c7ba516c5638b1c1da35cbb43b485490c64851bb03a2f75b6839cb59521a/media/15604755_9605885_lsi7ewf69000tenw3i7_1@416000p.m3u8?dw=14400&ts=1618675200"
+},
+{
 	"title": "Channel K",
 	"file": "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"
 }]
