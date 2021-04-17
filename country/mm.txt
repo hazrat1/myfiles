@@ -1,9 +1,5 @@
 [
 {
-	"title": "UN",
-	"file": "https://www.youtube.com/watch?v=Ka4BElF4_3w"
-},
-{
 	"title": "Channel K",
 	"file": "https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"
 }]
