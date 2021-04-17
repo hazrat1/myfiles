@@ -1,19 +1,4 @@
-[{
-		"title": "Afghan TV",
-		"file": "https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8"
-	},
-	{
-		"title": "Al Alam",
-		"file": "https://live2.alalamtv.net/alalam.m3u8"
-	},
-	{
-		"title": "Al Zahra TV",
-		"file": "https://live.al-zahratv.com/live/playlist2/index.m3u8"
-	},
-	{
-		"title": "All Sports",
-		"file": "http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8"
-	},
+[
 	{
 		"title": "Andisheh TV",
 		"file": "https://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8"
