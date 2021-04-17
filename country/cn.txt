@@ -1,36 +1,9 @@
 [{
 		"title": "General(一般的)",
-		"folder": [{
-				"title": "CCTV中国中央电视台-1 综合",
-				"file": "http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8"
-			},
-			{
-				"title": "CCTV中国中央电视台-1 综合",
-				"file": "http://117.169.120.140:8080/live/cctv-1/.m3u8"
-			},
-			{
-				"title": "CCTV中国中央电视台-1 综合",
-				"file": "http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8"
-			},
-			{
-				"title": "CCTV中国中央电视台-1 综合",
-				"file": "http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8"
-			},
+		"folder": [
 			{
 				"title": "CCTV中国中央电视台-1 综合",
 				"file": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
-			},
-			{
-				"title": "CCTV中国中央电视台-4 中文国际",
-				"file": "http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8"
-			},
-			{
-				"title": "CCTV中国中央电视台-4 中文国际",
-				"file": "http://117.169.120.140:8080/live/cctv-4/.m3u8"
-			},
-			{
-				"title": "CCTV中国中央电视台-4 中文国际",
-				"file": "http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8"
 			}
 		]
 	},
