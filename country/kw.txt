@@ -11,10 +11,6 @@
 		"file": "https://easybroadcast.akamaized.net/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8"
 	},
 	{
-		"title": "AL Rai ARB",
-		"file": "https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8"
-	},
-	{
 		"title": "Alrai TV",
 		"file": "https://stream02.fasttelco.net/live/alrai.stream/chunklist.m3u8"
 	},
