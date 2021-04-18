@@ -134,6 +134,12 @@
 		}]
 
 	}, {
+		"title": "Gambia",
+		"folder": [{
+			"title": "QTV",
+			"file": "https://player.qtv.gm/hls/live.stream.m3u8"
+		}]
+	}, {
 		"title": "Germany",
 		"folder": [{
 			"title": "Sophia TV",
