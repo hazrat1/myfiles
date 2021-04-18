@@ -1,4 +1,4 @@
 [{
-	"title": "RTG",
-	"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8"
+	"title": "Humanity",
+	"file": "https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
 }]
