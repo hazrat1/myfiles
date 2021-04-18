@@ -1,4 +1,4 @@
 [{
 	"title": "KCTV",
-	"file": "https://tv.nknews.org/tvhls/stream.m3u8"
+	"file": "http://tv.nknews.org/tvhls/stream.m3u8"
 }]
