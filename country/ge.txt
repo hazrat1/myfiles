@@ -3,10 +3,6 @@
 		"file": "https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8"
 	},
 	{
-		"title": "1TV",
-		"file": "https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8"
-	},
-	{
 		"title": "2TV",
 		"file": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8"
 	},
@@ -29,9 +25,5 @@
 	{
 		"title": "Palitra News",
 		"file": "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
-	},
-	{
-		"title": "Rustavi 2",
-		"file": "https://md-store4.tulix.tv/rustavi2/index.m3u8"
 	}
 ]
