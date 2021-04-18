@@ -1,4 +1,4 @@
 [{
-	"title": "QTV",
-	"file": "https://player.qtv.gm/hls/live.stream.m3u8"
+	"title": "Discover Film",
+	"file": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 }]
