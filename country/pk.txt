@@ -15,14 +15,6 @@
 		"file": "https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8"
 	},
 	{
-		"title": "Dunya News",
-		"file": "https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8"
-	},
-	{
-		"title": "Express TV",
-		"file": "https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8"
-	},
-	{
 		"title": "Geo News",
 		"file": "https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8"
 	},
@@ -37,10 +29,6 @@
 	{
 		"title": "Khyber News",
 		"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8"
-	},
-	{
-		"title": "Minhaj TV",
-		"file": "https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8"
 	},
 	{
 		"title": "PTV Sports",
