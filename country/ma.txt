@@ -69,9 +69,5 @@
 	{
 		"title": "Tamazight",
 		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
-	},
-	{
-		"title": "Télé Maroc",
-		"file": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8"
 	}
 ]
