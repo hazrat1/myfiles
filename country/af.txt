@@ -3,7 +3,7 @@
 		"file": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8"
 	},
 	{
-		"title": "Arina Tv",
+		"title": "Arina Tv NAT",
 		"file": "https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8"
 	},
 	{
