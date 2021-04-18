@@ -1,15 +1,4 @@
-[{
-		"title": "22 TV",
-		"file": "http://82.212.74.99:8000/live/hls/8117.m3u8"
-	},
-	{
-		"title": "Al Ekhbariya",
-		"file": "https://iptv--iptv.repl.co/Arabic/Ekhbariyah/"
-	},
-	{
-		"title": "AL HOKAIR",
-		"file": "http://82.212.74.3:8000/live/7513.m3u8"
-	},
+[
 	{
 		"title": "Al Khalij",
 		"file": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8"
@@ -19,48 +8,12 @@
 		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8"
 	},
 	{
-		"title": "Al Saudiya",
-		"file": "https://iptv--iptv.repl.co/Arabic/Saudi1_TV/"
-	},
-	{
-		"title": "Asharq",
-		"file": "https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8"
-	},
-	{
-		"title": "Asharq",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8"
-	},
-	{
 		"title": "Asharq",
 		"file": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8"
 	},
 	{
-		"title": "Asharq",
-		"file": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8"
-	},
-	{
-		"title": "Beity",
-		"file": "http://82.212.74.2:8000/live/7312.m3u8"
-	},
-	{
-		"title": "EN TV",
-		"file": "http://82.212.74.100:8000/live/8130.m3u8"
-	},
-	{
-		"title": "Jasco Events TV",
-		"file": "http://82.212.74.100:8000/live/hls/8131.m3u8"
-	},
-	{
-		"title": "LBC",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-lbc"
-	},
-	{
 		"title": "Panorama FM",
 		"file": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8"
-	},
-	{
-		"title": "Rotana Cinema",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-cinema"
 	},
 	{
 		"title": "Rotana Cinema HD",
@@ -72,19 +25,7 @@
 	},
 	{
 		"title": "Rotana Classic",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-classical"
-	},
-	{
-		"title": "Rotana Classic",
 		"file": "https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8"
-	},
-	{
-		"title": "Rotana Comedy",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-comedy"
-	},
-	{
-		"title": "Rotana Drama",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-drama"
 	},
 	{
 		"title": "Rotana Drama",
@@ -92,34 +33,14 @@
 	},
 	{
 		"title": "Rotana Khalijiah",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-khaleejiya"
-	},
-	{
-		"title": "Rotana Khalijiah",
 		"file": "https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8"
-	},
-	{
-		"title": "Rotana Kids",
-		"file": "https://hiplayer.hibridcdn.net/p/rotana-kids"
 	},
 	{
 		"title": "Rotana Kids",
 		"file": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8"
 	},
 	{
-		"title": "Rotana Music",
-		"file": "https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8"
-	},
-	{
 		"title": "Rotana+",
 		"file": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
-	},
-	{
-		"title": "SBC",
-		"file": "https://iptv--iptv.repl.co/Arabic/SBC"
-	},
-	{
-		"title": "Thikrayat Tv",
-		"file": "https://iptv--iptv.repl.co/Arabic/Zikrayat/"
 	}
 ]
