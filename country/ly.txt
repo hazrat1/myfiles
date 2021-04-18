@@ -29,9 +29,5 @@
 	{
 		"title": "Libya Channel",
 		"file": "https://master.starmena-cloud.com/hls/libyas.m3u8"
-	},
-	{
-		"title": "Salam",
-		"file": "https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/chunklist.m3u8"
 	}
 ]
