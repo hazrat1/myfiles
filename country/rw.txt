@@ -1,14 +1,7 @@
-[{
-		"title": "KC2",
-		"file": "http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8"
-	},
+[
 	{
 		"title": "KC2",
 		"file": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8"
-	},
-	{
-		"title": "RTV Rwanda",
-		"file": "http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8"
 	},
 	{
 		"title": "RTV Rwanda",
