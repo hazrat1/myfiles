@@ -4,19 +4,7 @@
 	},
 	{
 		"title": "BeritaSatu",
-		"file": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
-	},
-	{
-		"title": "BeritaSatu 720p",
-		"file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
-	},
-	{
-		"title": "BeritaSatu 240p",
-		"file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8"
-	},
-	{
-		"title": "BeritaSatu 540p",
-		"file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8"
+		"file": "[240p]https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8,[540p]https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8,[720p]https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
 	},
 	{
 		"title": "BeritaSatu English",
@@ -35,10 +23,6 @@
 		"file": "https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8"
 	},
 	{
-		"title": "HIDUP TV",
-		"file": "http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8"
-	},
-	{
 		"title": "I AM CHANNEL",
 		"file": "http://iamchannel.org:1935/tes/1/playlist.m3u8"
 	},
@@ -47,24 +31,12 @@
 		"file": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8"
 	},
 	{
-		"title": "Karaoke Channel",
-		"file": "http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8"
-	},
-	{
 		"title": "METRO TV",
 		"file": "http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8"
 	},
 	{
-		"title": "METRO TV",
-		"file": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
-	},
-	{
 		"title": "MNCTV",
 		"file": "https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8"
-	},
-	{
-		"title": "Music Top",
-		"file": "https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
 	},
 	{
 		"title": "RADIO51",
@@ -77,18 +49,6 @@
 	{
 		"title": "RRI Net",
 		"file": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
-	},
-	{
-		"title": "TEGAR TV",
-		"file": "http://wms.klikhost.com/tegartv/live/playlist.m3u8"
-	},
-	{
-		"title": "TRANS 7 HD",
-		"file": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
-	},
-	{
-		"title": "TRANS TV HD",
-		"file": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
 	},
 	{
 		"title": "TVIKIM",
@@ -115,11 +75,7 @@
 		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
 	},
 	{
-		"title": "TVRI Jawa Barat",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8"
-	},
-	{
-		"title": "TVRI Jawa Barat",
+		"title": "TVRI 3",
 		"file": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8"
 	},
 	{
