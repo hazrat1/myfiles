@@ -7,10 +7,6 @@
 		"file": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8"
 	},
 	{
-		"title": "An-Najah Nbc",
-		"file": "http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573"
-	},
-	{
 		"title": "Falastini",
 		"file": "http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8"
 	},
@@ -27,16 +23,8 @@
 		"file": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8"
 	},
 	{
-		"title": "Orient Radio +",
-		"file": "http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8"
-	},
-	{
 		"title": "Palestine Mubasher",
 		"file": "http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Palestine Satellite",
-		"file": "http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8"
 	},
 	{
 		"title": "Palestine Satellite",
