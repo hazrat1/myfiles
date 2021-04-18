@@ -22,9 +22,5 @@
 	{
 		"title": "Somali National TV",
 		"file": "https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8"
-	},
-	{
-		"title": "Soumalian TV",
-		"file": "http://cdn.mediavisionuae.com:1935/live/stv.stream/playlist.m3u8"
 	}
 ]
