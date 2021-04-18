@@ -44,7 +44,7 @@
 	},
 	{
 		"title": "Channel 9 HD",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/live-orgin/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8"
+		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/live-orgin/channel9hd.stream/chunks.m3u8"
 	},
 	{
 		"title": "Channel i",
@@ -61,10 +61,6 @@
 	{
 		"title": "Desh TV",
 		"file": "https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8"
-	},
-	{
-		"title": "DiGi Bangla",
-		"file": "http://103.205.133.44:1935/extban/chdigihd/chunklist_w83562509.m3u8"
 	},
 	{
 		"title": "Gaanbangla",
