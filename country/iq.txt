@@ -35,16 +35,8 @@
 		"file": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
 	},
 	{
-		"title": "Al Sumaria",
-		"file": "http://iptv.repl.co/Arabic/Al_summaria/"
-	},
-	{
 		"title": "Assyrian ANB",
 		"file": "https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8"
-	},
-	{
-		"title": "Babylon TV",
-		"file": "https://iqlivestream.com/live/babylontv.flv"
 	},
 	{
 		"title": "Dijlah",
@@ -63,24 +55,12 @@
 		"file": "http://176.9.102.245:1935/iShtarTV/liveStream/playlist.m3u8"
 	},
 	{
-		"title": "Kurd Channel",
-		"file": "https://server5.ikomg.com/hls/kurd.m3u8"
-	},
-	{
 		"title": "Kurdistan TV",
 		"file": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8"
 	},
 	{
-		"title": "Kurdsat",
-		"file": "https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8"
-	},
-	{
 		"title": "Rudaw TV",
 		"file": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
-	},
-	{
-		"title": "Türkmeneli",
-		"file": "http://116.203.71.169/hls/stream1.m3u8"
 	},
 	{
 		"title": "Zagros",
