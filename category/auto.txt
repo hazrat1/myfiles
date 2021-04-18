@@ -5,7 +5,7 @@
 	{
 		"title": "Garage TV yt",
 		"file": "https://www.youtube.com/watch?v=HSyIURHSNA0,player:2"
-	},	{
+	},{
 		"title": "Garage TV (242p)",
 		"file": "http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8"
 	},
