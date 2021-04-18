@@ -5,21 +5,5 @@
 	{
 		"title": "Nogoum FM TV",
 		"file": "https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8"
-	},
-	{
-		"title": "Omg Channel TV",
-		"file": "http://media6.smc-host.com:1935/omgchannel.net/omgtv/playlist.m3u8"
-	},
-	{
-		"title": "Violet TV",
-		"file": "https://5e98ac1ed3cd4.streamlock.net/violet.tv/violet2/playlist.m3u8"
-	},
-	{
-		"title": "Watan TV",
-		"file": "http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8"
-	},
-	{
-		"title": "Watan TV",
-		"file": "http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8"
 	}
 ]
