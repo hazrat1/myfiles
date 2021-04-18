@@ -4,20 +4,12 @@
 		"file": "http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8"
 	},
 	{
-		"title": "Almaty TV",
-		"file": "https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8"
-	},
-	{
 		"title": "Atameken Business",
 		"file": "http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8"
 	},
 	{
 		"title": "MTRK",
 		"file": "https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Ел Арна",
-		"file": "https://sc.id-tv.kz/ElArna_38_39.m3u8"
 	},
 	{
 		"title": "КТК",
@@ -28,19 +20,7 @@
 		"file": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
 	},
 	{
-		"title": "СТВ Казахстан",
-		"file": "https://sc.id-tv.kz/STV_38_39.m3u8"
-	},
-	{
-		"title": "Хабар 24",
-		"file": "http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8"
-	},
-	{
 		"title": "Хабар 24",
 		"file": "https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Халык Арна",
-		"file": "https://sc.id-tv.kz/HalykArna_38_39.m3u8"
 	}
 ]
