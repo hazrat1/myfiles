@@ -383,6 +383,10 @@
 		"file": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8"
 	},
 	{
+		"title": "Star Sports",
+		"file": "https://show.streamingbd.com/hls/eflix/7YjhxVisRyTb1nIw5EqIFw/1618666964/bd_t_sports.m3u8"
+	},
+	{
 		"title": "STIRR Sports",
 		"file": "https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8"
 	},
