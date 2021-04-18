@@ -1,26 +1,7 @@
-[{
-		"title": "Ada TV",
-		"file": "https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8"
-	},
+[
 	{
 		"title": "Ada TV",
 		"file": "https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8"
-	},
-	{
-		"title": "BRT 1 HD",
-		"file": "http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8"
-	},
-	{
-		"title": "BRT 2 HD",
-		"file": "http://wms.brtk.net:1935/live/brt1/playlist.m3u8"
-	},
-	{
-		"title": "BRT 3",
-		"file": "http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8"
-	},
-	{
-		"title": "BRT 3",
-		"file": "http://wms.brtk.net:1935/live/brt2/playlist.m3u8"
 	},
 	{
 		"title": "Reload",
