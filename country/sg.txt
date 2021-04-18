@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"title": "CNA",
 		"file": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
 	}
