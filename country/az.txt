@@ -7,10 +7,6 @@
 		"file": "http://85.132.81.184:8080/arb24/live1/index.m3u8"
 	},
 	{
-		"title": "ARB Günəş",
-		"file": "http://149.255.152.199/arbgunes.m3u8"
-	},
-	{
 		"title": "ARB Kəpəz",
 		"file": "http://85.132.81.184:8080/arbkepez/live/index.m3u8"
 	},
