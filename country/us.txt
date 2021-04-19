@@ -49,10 +49,6 @@
 					"file": "https://loop-80s-1.roku.wurl.com/manifest/playlist.m3u8"
 				},
 				{
-					"title": "80s Party",
-					"file": "https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8"
-				},
-				{
 					"title": "90s Loop",
 					"file": "https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8"
 				}
@@ -65,7 +61,7 @@
 		"folder":
 
 			[{
-					"title": "A&E (Best of)",
+					"title": "A&E",
 					"file": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8"
 				},
 				{
@@ -97,52 +93,8 @@
 					"file": "https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8"
 				},
 				{
-					"title": "ABC 9 Orlando FL (WFTV-HD)",
-					"file": "https://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8"
-				},
-				{
 					"title": "ABC News",
 					"file": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
-				},
-				{
-					"title": "ABC News Digital 1",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 10",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 2",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 3",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 4",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 5",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 6",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 7",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 8",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8"
-				},
-				{
-					"title": "ABC News Digital 9",
-					"file": "https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8"
 				},
 				{
 					"title": "ACC Network",
@@ -153,34 +105,6 @@
 					"file": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
 				},
 				{
-					"title": "AFV",
-					"file": "https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8"
-				},
-				{
-					"title": "AKC TV",
-					"file": "https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8"
-				},
-				{
-					"title": "AKC TV - Meet the Breeds",
-					"file": "https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8"
-				},
-				{
-					"title": "AKC TV - Puppies",
-					"file": "https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8"
-				},
-				{
-					"title": "AKC TV",
-					"file": "https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8"
-				},
-				{
-					"title": "AKC TV",
-					"file": "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
-				},
-				{
-					"title": "AKC TV",
-					"file": "https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8"
-				},
-				{
 					"title": "AMG TV (480p)",
 					"file": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
 				},
@@ -189,28 +113,12 @@
 					"file": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8"
 				},
 				{
-					"title": "AWE Plus",
-					"file": "http://awe-plutolive-vo.akamaized.net/m/hlslive/awe-1/0/awe-1.m3u8?chname=awe-01&pub=0"
-				},
-				{
-					"title": "AXN",
-					"file": "http://136.243.177.164/AXN/playlist.m3u8"
-				},
-				{
 					"title": "Adult Swim",
 					"file": "https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8"
 				},
 				{
 					"title": "Adventure Sports Network",
 					"file": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8"
-				},
-				{
-					"title": "Adventure Sports Network",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
-				},
-				{
-					"title": "Adventure Sports TV (360p)",
-					"file": "https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275"
 				},
 				{
 					"title": "Akaku 53",
@@ -249,32 +157,12 @@
 					"file": "http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL"
 				},
 				{
-					"title": "America HD",
-					"file": "http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6386.m3u8"
-				},
-				{
-					"title": "American Classic Network (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8"
-				},
-				{
 					"title": "American Classics",
 					"file": "https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8"
 				},
 				{
-					"title": "American Classics",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8"
-				},
-				{
-					"title": "American Classics",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8"
-				},
-				{
 					"title": "American Horrors (480p)",
 					"file": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8"
-				},
-				{
-					"title": "Apple Sauce TV (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8"
 				},
 				{
 					"title": "Arkansas: Little Rock",
@@ -291,10 +179,6 @@
 				{
 					"title": "Atlanta Channel",
 					"file": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
-				},
-				{
-					"title": "Atlanta Channel",
-					"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8"
 				}
 			]
 
@@ -309,15 +193,11 @@
 					"file": "https://arcade-cloud.samsung.wurl.com/manifest/playlist.m3u8"
 				},
 				{
-					"title": "BLACK CINEMA TV",
-					"file": "https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true"
-				},
-				{
 					"title": "BNC (Black News Channel)",
 					"file": "http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8"
 				},
 				{
-					"title": "BUTV10 (Boston University)",
+					"title": "BUTV10",
 					"file": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8"
 				},
 				{
@@ -327,10 +207,6 @@
 				{
 					"title": "Battery Pop",
 					"file": "http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Baywatch",
-					"file": "http://d3mxmx98etcevi.cloudfront.net/playlist.m3u8"
 				},
 				{
 					"title": "Beach TV (30A)",
@@ -349,32 +225,12 @@
 					"file": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
 				},
 				{
-					"title": "Beach TV - Florida",
-					"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
-				},
-				{
-					"title": "Beach TV - Key West",
-					"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
-				},
-				{
-					"title": "Beach TV - Myrtle Beach",
-					"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
-				},
-				{
-					"title": "Beach TV - Panama City",
-					"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
-				},
-				{
 					"title": "Beast Mode (US)",
 					"file": "https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8"
 				},
 				{
 					"title": "Beauty IQ",
 					"file": "https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8"
-				},
-				{
-					"title": "Bedroom Beats (US)",
-					"file": "https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8"
 				},
 				{
 					"title": "Bek Sports East",
@@ -397,18 +253,6 @@
 					"file": "https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8"
 				},
 				{
-					"title": "Black Artist (480p)",
-					"file": "https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8"
-				},
-				{
-					"title": "Black Widow TV (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8"
-				},
-				{
-					"title": "Blaze Live",
-					"file": "http://plutotv.vo.llnwd.net/m/hlslive/theblaze.m3u8?chname=theblaze&pub=0"
-				},
-				{
 					"title": "BlazeTV",
 					"file": "https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8"
 				},
@@ -429,20 +273,8 @@
 					"file": "https://www.bloomberg.com/media-manifest/streams/asia.m3u8"
 				},
 				{
-					"title": "Bloomberg TV Asia Live Event",
-					"file": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8"
-				},
-				{
-					"title": "Bloomberg TV Australia (360p)",
-					"file": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8"
-				},
-				{
 					"title": "Bloomberg TV Australia",
 					"file": "https://www.bloomberg.com/media-manifest/streams/aus.m3u8"
-				},
-				{
-					"title": "Bloomberg TV EMEA Live Event",
-					"file": "https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8"
 				},
 				{
 					"title": "Bloomberg TV Europe",
@@ -450,39 +282,15 @@
 				},
 				{
 					"title": "Bloomberg TV US (180p)",
-					"file": "https://ch.iptvmate.net/d45029521a599f98f4f0383aacc33b92.m3u8"
-				},
-				{
-					"title": "Bloomberg TV US (180p)",
 					"file": "https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8"
-				},
-				{
-					"title": "Bloomberg TV US",
-					"file": "https://www.bloomberg.com/media-manifest/streams/us.m3u8"
-				},
-				{
-					"title": "Bloomberg TV US Live Event",
-					"file": "https://www.bloomberg.com/media-manifest/streams/us-event.m3u8"
 				},
 				{
 					"title": "Bloomberg TV US Politics",
 					"file": "https://www.bloomberg.com/media-manifest/streams/politics.m3u8"
 				},
 				{
-					"title": "Bloomberg TV+ (en)",
-					"file": "https://bloomberg-bloombergtv-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
 					"title": "Bloomberg(美国)",
 					"file": "https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"
-				},
-				{
-					"title": "Bluegrass 4U (US)",
-					"file": "https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8"
-				},
-				{
-					"title": "Blush Romance TV (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8"
 				},
 				{
 					"title": "Bon Appetit",
@@ -509,24 +317,12 @@
 					"file": "https://brat-samsung-us.amagi.tv/playlist.m3u8"
 				},
 				{
-					"title": "Brut.",
-					"file": "https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8"
-				},
-				{
-					"title": "Brut.",
-					"file": "https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8"
-				},
-				{
-					"title": "Buffalo TV (360p)",
+					"title": "Buffalo TV",
 					"file": "https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8"
 				},
 				{
 					"title": "Buzzr",
 					"file": "https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8"
-				},
-				{
-					"title": "byu TV",
-					"file": "https://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8"
 				}
 			]
 
@@ -553,24 +349,12 @@
 					"file": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8"
 				},
 				{
-					"title": "CBS 9 Washington DC (WUSA-HD)",
-					"file": "https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8"
-				},
-				{
-					"title": "CBS Dallas (KTVT) (180p)",
-					"file": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8"
-				},
-				{
 					"title": "CBS Dallas (KTVT)",
 					"file": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8"
 				},
 				{
 					"title": "CBS News",
 					"file": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
-				},
-				{
-					"title": "CBS News",
-					"file": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile"
 				},
 				{
 					"title": "CBS News Boston",
@@ -583,10 +367,6 @@
 				{
 					"title": "CBS46 (WGCL-TV)",
 					"file": "https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8"
-				},
-				{
-					"title": "CBSN (360p)",
-					"file": "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
 				},
 				{
 					"title": "CBSN",
@@ -625,14 +405,6 @@
 					"file": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8"
 				},
 				{
-					"title": "CBSN New York",
-					"file": "https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT"
-				},
-				{
-					"title": "CBSN New York",
-					"file": "http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8"
-				},
-				{
 					"title": "CBSN Philly",
 					"file": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT"
 				},
@@ -669,40 +441,16 @@
 					"file": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8"
 				},
 				{
-					"title": "CNBC Arabiya",
-					"file": "https://hiplayer.hibridcdn.net/p/cnbcarabia-live"
-				},
-				{
-					"title": "CNBC Europe (480p)",
-					"file": "http://ott-cdn.ucom.am/s65/index.m3u8"
-				},
-				{
 					"title": "CNBC TV18",
-					"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8"
-				},
-				{
-					"title": "CNBC TV18",
-					"file": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
-				},
-				{
-					"title": "CNN (576p)",
-					"file": "http://203.162.235.41:16918"
+					"file": "[1]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8,[2]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
 				},
 				{
 					"title": "CNN",
 					"file": "http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8"
 				},
 				{
-					"title": "CNN INTERNACIONAL",
-					"file": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656"
-				},
-				{
 					"title": "CNN International",
 					"file": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "CNN International (美国)",
-					"file": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
 				},
 				{
 					"title": "CNN Türk",
@@ -721,10 +469,6 @@
 					"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8"
 				},
 				{
-					"title": "CONtv",
-					"file": "https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8"
-				},
-				{
 					"title": "CONtv Anime",
 					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8"
 				},
@@ -733,7 +477,7 @@
 					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8"
 				},
 				{
-					"title": "CSUDH TV (Dominguez Hills)",
+					"title": "CSUDH TV",
 					"file": "http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8"
 				},
 				{
@@ -741,20 +485,8 @@
 					"file": "http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8"
 				},
 				{
-					"title": "CT-N Live Stream 2 (360p)",
+					"title": "CT-N Live Stream 2",
 					"file": "http://video.ct-n.com/live/web2stream/playlist.m3u8"
-				},
-				{
-					"title": "CT-N TV  - Conneticut",
-					"file": "http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8"
-				},
-				{
-					"title": "CTN (404p)",
-					"file": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8"
-				},
-				{
-					"title": "CTN",
-					"file": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8"
 				},
 				{
 					"title": "CTN",
@@ -762,11 +494,7 @@
 				},
 				{
 					"title": "California Music Channel",
-					"file": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8"
-				},
-				{
-					"title": "California Music Channel",
-					"file": "https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
+					"file": "[1]https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8,[2]https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8"
 				},
 				{
 					"title": "California: Bakersfield",
@@ -785,7 +513,7 @@
 					"file": "https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8"
 				},
 				{
-					"title": "Capital City Connection Montgomery (360p)",
+					"title": "CCCM",
 					"file": "https://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8"
 				},
 				{
@@ -793,7 +521,7 @@
 					"file": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8"
 				},
 				{
-					"title": "Cartoon Network Ru(576p)",
+					"title": "Cartoon Network Ru",
 					"file": "http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8"
 				},
 				{
@@ -809,32 +537,8 @@
 					"file": "https://live.chdrstatic.com/cheddar/primary/index.m3u8"
 				},
 				{
-					"title": "Cheddar",
-					"file": "https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8"
-				},
-				{
 					"title": "Cheddar Big News",
 					"file": "https://live.chdrstatic.com/cbn/primary/index.m3u8"
-				},
-				{
-					"title": "Cheddar",
-					"file": "http://plutotv.vo.llnwd.net/m/hlslive/cheddar.m3u8?chname=cheddar&pub=0"
-				},
-				{
-					"title": "Cheddar",
-					"file": "https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8"
-				},
-				{
-					"title": "Cheddar",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Cheddar",
-					"file": "https://live.chdrstatic.com/cheddar/primary/1.m3u8"
-				},
-				{
-					"title": "Cheddar",
-					"file": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8"
 				},
 				{
 					"title": "Chef Champion",
@@ -848,10 +552,7 @@
 					"title": "Chicago - NBC 5 News",
 					"file": "http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8"
 				},
-				{
-					"title": "Chive TV",
-					"file": "https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8"
-				},
+				
 				{
 					"title": "Choppertown",
 					"file": "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8"
@@ -873,15 +574,7 @@
 					"file": "https://circle-roku.amagi.tv/playlist.m3u8"
 				},
 				{
-					"title": "Circle",
-					"file": "https://circle-samsung.amagi.tv/playlist.m3u8"
-				},
-				{
-					"title": "Classic Arts Showcase",
-					"file": "https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8"
-				},
-				{
-					"title": "Classic Cinema (240p)",
+					"title": "Classic Cinema",
 					"file": "https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8"
 				},
 				{
@@ -889,39 +582,15 @@
 					"file": "https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8"
 				},
 				{
-					"title": "Cloudflare TV",
-					"file": "https://cloudflare.tv/hls/live.m3u8"
-				},
-				{
-					"title": "Combat Go",
-					"file": "https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8"
-				},
-				{
-					"title": "Comedy Central Brasil",
-					"file": "http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v2a1/mono.m3u8"
-				},
-				{
-					"title": "Comedy Central HD Brasil",
-					"file": "http://ug1upc1hgb.singularcdn.net.br/CCLB_HD/tracks-v1a1/mono.m3u8"
-				},
-				{
 					"title": "Comedy Dynamics",
 					"file": "https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8"
-				},
-				{
-					"title": "ConTV",
-					"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8"
 				},
 				{
 					"title": "Connecticut Network",
 					"file": "http://video.ct-n.com/live/ctnstream/playlist.m3u8"
 				},
 				{
-					"title": "Court TV",
-					"file": "http://courttv-plutolive-vo.akamaized.net/m/hlslive/courttv/1/courttv.m3u8?chname=courttv&pub=0"
-				},
-				{
-					"title": "Cozi 16 WZTS (480p)",
+					"title": "Cozi 16 WZTS",
 					"file": "https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8"
 				},
 				{
@@ -935,10 +604,6 @@
 				{
 					"title": "Crime Story",
 					"file": "https://dai.google.com/linear/hls/event/HgozmUlQQviIXFUF23mloA/master.m3u8"
-				},
-				{
-					"title": "Cycle World",
-					"file": "https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8"
 				}
 			]
 
@@ -953,14 +618,6 @@
 					"file": "https://video.oct.dc.gov/out/u/15_12.m3u8"
 				},
 				{
-					"title": "DUSTx",
-					"file": "https://dust.sinclair.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "DanceTrippin (US)",
-					"file": "https://10999-2.b.cdn13.com/live/master.m3u8"
-				},
-				{
 					"title": "Danger TV",
 					"file": "https://dangertv.samsung.wurl.com/manifest/playlist.m3u8"
 				},
@@ -969,28 +626,8 @@
 					"file": "https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8"
 				},
 				{
-					"title": "Deal or No Deal",
-					"file": "https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8"
-				},
-				{
 					"title": "Denver 8 TV",
 					"file": "https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8"
-				},
-				{
-					"title": "Disney Channel South Korea",
-					"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=D01&q=SD&apikey=196JE7PCDI"
-				},
-				{
-					"title": "Disney Channel South Korea",
-					"file": "http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=D01&q=SD&apikey=OJW57DXHXF"
-				},
-				{
-					"title": "Disney Junior South Korea",
-					"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=D02&q=SD&apikey=196JE7PCDI"
-				},
-				{
-					"title": "Disney Junior South Korea",
-					"file": "http://sksmsanf.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=D02&q=SD&apikey=OJW57DXHXF"
 				},
 				{
 					"title": "District of Columbia Network",
@@ -1001,44 +638,12 @@
 					"file": "https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8"
 				},
 				{
-					"title": "DocuRAMA",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-docuramaA/CDN/playlist.m3u8"
-				},
-				{
 					"title": "Docurama",
 					"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
 				},
 				{
-					"title": "Docurama",
-					"file": "https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8"
-				},
-				{
-					"title": "Dove Channel",
-					"file": "https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8"
-				},
-				{
 					"title": "Dove Channel",
 					"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8"
-				},
-				{
-					"title": "Dove Channel",
-					"file": "https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8"
-				},
-				{
-					"title": "Dove Channel",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Dream TV (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/dreamtv/playlist.m3u8"
-				},
-				{
-					"title": "Dry Bar Comedy TV",
-					"file": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
-				},
-				{
-					"title": "Dry Bar Comedy",
-					"file": "https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8"
 				},
 				{
 					"title": "DryBar Comedy",
@@ -1056,10 +661,7 @@
 		"title": "E",
 		"folder":
 
-			[{
-					"title": "E! USA",
-					"file": "http://supertexasiptv.ddns.net:8000/bktv.xyz/qLqJNcj9rd/91"
-				},
+			[
 				{
 					"title": "EDGESport",
 					"file": "https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8"
@@ -1073,20 +675,12 @@
 					"file": "https://gma2.blab.email/espn2.m3u8"
 				},
 				{
-					"title": "ESPN News",
-					"file": "https://gma2.blab.email/espnews.m3u8"
-				},
-				{
 					"title": "ESPN U",
 					"file": "https://gma2.blab.email/espnu.m3u8"
 				},
 				{
 					"title": "ESR (US)",
 					"file": "https://esr-samsung.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "ESRevolution",
-					"file": "https://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8"
 				},
 				{
 					"title": "ET Live",
@@ -1101,52 +695,20 @@
 					"file": "https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8"
 				},
 				{
-					"title": "Edge Sports",
-					"file": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Edge Sports",
-					"file": "https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8"
-				},
-				{
-					"title": "EdgeSport.nl,Edge Sport",
-					"file": "https://edgesport-samsungus.amagi.tv/playlist.m3u8"
-				},
-				{
 					"title": "Electric Now",
 					"file": "https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8"
-				},
-				{
-					"title": "ElectricNOW",
-					"file": "https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8"
-				},
-				{
-					"title": "Electro Anthems (US)",
-					"file": "https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8"
 				},
 				{
 					"title": "Entertainment Tonight",
 					"file": "https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"
 				},
 				{
-					"title": "Escambia County TV",
-					"file": "https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8"
-				},
-				{
 					"title": "eScapes",
 					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8"
 				},
 				{
-					"title": "Everyday Heroes",
-					"file": "https://a.jsrdn.com/broadcast/7b1451fa52/+0000/high/c.m3u8"
-				},
-				{
 					"title": "Eye 95 America (US)",
 					"file": "http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com"
-				},
-				{
-					"title": "Eye 95 America",
-					"file": "https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8"
 				}
 			]
 
@@ -1169,16 +731,12 @@
 					"file": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
 				},
 				{
-					"title": "FTF (For the Fans)",
+					"title": "FTF",
 					"file": "https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8"
 				},
 				{
 					"title": "Fail Army",
 					"file": "https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8"
-				},
-				{
-					"title": "Fail Army",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8"
 				},
 				{
 					"title": "Fairfax Public Access",
@@ -1189,32 +747,12 @@
 					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8"
 				},
 				{
-					"title": "Fast&Fun Box (480p)",
-					"file": "http://ott-cdn.ucom.am/s79/index.m3u8"
-				},
-				{
-					"title": "FastWay (576p)",
+					"title": "FastWay",
 					"file": "http://fastway.ddns.net:6421/fastway/live10/index.m3u8?"
 				},
 				{
-					"title": "Field & Stream",
-					"file": "https://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8"
-				},
-				{
-					"title": "Field & Stream",
-					"file": "https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8"
-				},
-				{
-					"title": "Fight Box (480p)",
-					"file": "http://ott-cdn.ucom.am/s86/index.m3u8"
-				},
-				{
-					"title": "Fight Sports (576p)",
+					"title": "Fight Sports",
 					"file": "http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8"
-				},
-				{
-					"title": "Fight Sports (576p)",
-					"file": "http://210.210.155.35/uq2663/h/h05/index.m3u8"
 				},
 				{
 					"title": "Film Hub",
@@ -1225,7 +763,7 @@
 					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8"
 				},
 				{
-					"title": "FilmRise Forensic Files 24/7",
+					"title": "FilmRise Forensic Files 247",
 					"file": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8"
 				},
 				{
@@ -1249,56 +787,20 @@
 					"file": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8"
 				},
 				{
-					"title": "FilmRise Sci-Fi",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8"
-				},
-				{
 					"title": "FilmRise Western",
 					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Filmrise Classic TV",
-					"file": "https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8"
-				},
-				{
-					"title": "Filmrise Classics",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8"
-				},
-				{
-					"title": "Filmrise Crime",
-					"file": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8"
-				},
-				{
-					"title": "Filmrise Crime",
-					"file": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8"
 				},
 				{
 					"title": "Filmrise Family",
 					"file": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8"
 				},
 				{
-					"title": "Filmrise Family",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8"
-				},
-				{
-					"title": "Filmrise Free Movies",
-					"file": "https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8"
-				},
-				{
 					"title": "Filmrise Movies",
 					"file": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8"
 				},
 				{
-					"title": "Filmrise Movies",
-					"file": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8"
-				},
-				{
 					"title": "Filmrise True Crime",
 					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Filmrise free movies",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8"
 				},
 				{
 					"title": "Florida: Gainesville",
@@ -1313,7 +815,7 @@
 					"file": "https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8"
 				},
 				{
-					"title": "Folk TV (480p)",
+					"title": "Folk TV",
 					"file": "http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8"
 				},
 				{
@@ -1333,7 +835,7 @@
 					"file": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8"
 				},
 				{
-					"title": "Fox Life Russia (576p)",
+					"title": "Fox Life Russia",
 					"file": "http://51.68.140.190:8081/tv/fox-life/playlist.m3u8"
 				},
 				{
@@ -1341,12 +843,8 @@
 					"file": "https://lnc-fox-news-now.tubi.video/index.m3u8"
 				},
 				{
-					"title": "Fox News Radio (192p)",
+					"title": "Fox News Radio",
 					"file": "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8"
-				},
-				{
-					"title": "Fox Soul",
-					"file": "https://lnc-fox-soul-scte.tubi.video/index.m3u8"
 				},
 				{
 					"title": "Fox Soul",
@@ -1365,20 +863,12 @@
 					"file": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8"
 				},
 				{
-					"title": "Fox Sports pluto",
-					"file": "https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true"
-				},
-				{
-					"title": "FoxNews.it,Fox News",
+					"title": "Fox News",
 					"file": "https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8"
 				},
 				{
-					"title": "Free Speech TV (480p)",
+					"title": "Free Speech TV",
 					"file": "https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8"
-				},
-				{
-					"title": "Friday Feels (US)",
-					"file": "https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8"
 				},
 				{
 					"title": "Futurism",
@@ -1392,10 +882,7 @@
 		"title": "G",
 		"folder":
 
-			[{
-					"title": "GOLF NETWORK",
-					"file": "http://203.162.235.41:16924"
-				},
+			[
 				{
 					"title": "GRAVITAS MOVIES",
 					"file": "https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8"
@@ -1409,10 +896,6 @@
 					"file": "https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8"
 				},
 				{
-					"title": "Gameplay: Roblox",
-					"file": "http://plutotv.vo.llnwd.net/m/hlslive/redseat-ak.m3u8?chname=studio71&pub=0"
-				},
-				{
 					"title": "Georgia: Albany",
 					"file": "https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8"
 				},
@@ -1421,7 +904,7 @@
 					"file": "https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8"
 				},
 				{
-					"title": "Glendale 11 (360p)",
+					"title": "Glendale 11",
 					"file": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8"
 				},
 				{
@@ -1429,24 +912,16 @@
 					"file": "https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8"
 				},
 				{
-					"title": "Global Got Talent",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Globesville (New York Institute of Technology)",
+					"title": "Globesville (NYIT)",
 					"file": "https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8"
 				},
 				{
-					"title": "Golden TV (240p)",
+					"title": "Golden TV",
 					"file": "https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8"
 				},
 				{
 					"title": "Gravitas Movies",
 					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Gravitas Movies",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8"
 				},
 				{
 					"title": "Gravitas",
@@ -1462,15 +937,7 @@
 				},
 				{
 					"title": "Gusto TV",
-					"file": "https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8"
-				},
-				{
-					"title": "Gusto TV",
 					"file": "https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "Gusto TV",
-					"file": "https://gustotv.samsung.wurl.com/manifest/playlist.m3u8"
 				},
 				{
 					"title": "Gusto",
@@ -1484,36 +951,21 @@
 		"title": "H",
 		"folder":
 
-			[{
-					"title": "HBO Malaysia",
-					"file": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8"
-				},
-				{
-					"title": "HORROR TV",
-					"file": "https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true"
-				},
+			[
 				{
 					"title": "HSN",
 					"file": "https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8"
 				},
 				{
-					"title": "HSN 2 (414p)",
+					"title": "HSN 2",
 					"file": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128"
 				},
 				{
-					"title": "HSN",
-					"file": "https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8"
-				},
-				{
-					"title": "HSN2 (414p)",
-					"file": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8"
-				},
-				{
-					"title": "HTV 1 - Houston Television",
+					"title": "HTV 1",
 					"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8"
 				},
 				{
-					"title": "HTV 2 - Houston Television",
+					"title": "HTV 2",
 					"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
 				},
 				{
@@ -1529,16 +981,12 @@
 					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8"
 				},
 				{
-					"title": "Hallmark.us,Hallmark Channel",
+					"title": "Hallmark Channel",
 					"file": "https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8"
 				},
 				{
-					"title": "HallmarkMovies-Mysteries.us,Hallmark Movies & Mysteries",
+					"title": "Hallmark Movies & Mysteries",
 					"file": "https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Hartford - WVIT 30 News",
-					"file": "http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8"
 				},
 				{
 					"title": "Hell's Kitchen",
@@ -1546,39 +994,11 @@
 				},
 				{
 					"title": "Hi-Yah!",
-					"file": "http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Hi-Yah!",
 					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Hip Hop Bangers (US)",
-					"file": "https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8"
 				},
 				{
 					"title": "Hollywire",
 					"file": "https://hollywire.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "Honor TV",
-					"file": "https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8"
-				},
-				{
-					"title": "Honor TV",
-					"file": "https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8"
-				},
-				{
-					"title": "Horizon Sports",
-					"file": "https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8"
-				},
-				{
-					"title": "Horrified TV (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8"
-				},
-				{
-					"title": "Hottest of the Hot (US)",
-					"file": "https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/224447a1-0ef3-43cf-bb86-cb636669ba45/5.m3u8"
 				},
 				{
 					"title": "Hungry",
@@ -1587,10 +1007,6 @@
 				{
 					"title": "Hunt Channel",
 					"file": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"
-				},
-				{
-					"title": "Hunt Channel",
-					"file": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8"
 				},
 				{
 					"title": "Hunter",
@@ -1607,10 +1023,6 @@
 			[{
 					"title": "IBB TV",
 					"file": "https://npserver1.ibb.gov.tr/webtv/webtv_wowza1/chunklist_w296059271.m3u8"
-				},
-				{
-					"title": "IDG",
-					"file": "https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8"
 				},
 				{
 					"title": "IGN",
@@ -1633,7 +1045,7 @@
 					"file": "https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8"
 				},
 				{
-					"title": "Illinois: Springfield #2",
+					"title": "Illinois: Springfield",
 					"file": "https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8"
 				},
 				{
@@ -1641,23 +1053,15 @@
 					"file": "https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8"
 				},
 				{
-					"title": "Indianapolis - CBS 4 News",
-					"file": "https://wttv-lh.akamaihd.net/i/WTTVBreaking_1@333494/master.m3u8"
-				},
-				{
 					"title": "InfoWars",
 					"file": "https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8"
-				},
-				{
-					"title": "Infowars",
-					"file": "http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8"
 				},
 				{
 					"title": "Introuble",
 					"file": "https://introuble-samsung.amagi.tv/playlist.m3u8"
 				},
 				{
-					"title": "Ion 8 Christiansted VI (WSVI-TV) (300p)",
+					"title": "Ion 8 Christiansted VI",
 					"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8"
 				},
 				{
@@ -1677,10 +1081,6 @@
 					"file": "https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8"
 				},
 				{
-					"title": "It’s At The Movies (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8"
-				},
-				{
 					"title": "Jewelry Television",
 					"file": "https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8"
 				},
@@ -1696,22 +1096,7 @@
 		"title": "K",
 		"folder":
 
-			[{
-					"title": "KBP SPORTS",
-					"file": "https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
-				},
-				{
-					"title": "KBSV/AssyriaSat",
-					"file": "http://66.242.170.53/hls/live/temp/index.m3u8"
-				},
-				{
-					"title": "KBVR TV",
-					"file": "https://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8"
-				},
-				{
-					"title": "KCAL 9 (KCAL-TV) (180p)",
-					"file": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8"
-				},
+			[
 				{
 					"title": "KCAL 9 (KCAL-TV)",
 					"file": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8"
@@ -1721,23 +1106,15 @@
 					"file": "https://lnc-kcpq-fox-aws.tubi.video/index.m3u8"
 				},
 				{
-					"title": "KDFW Fox 4 Dallas-FT-Worth",
+					"title": "KDFW Fox 4",
 					"file": "https://lnc-kdfw-fox-aws.tubi.video/index.m3u8"
 				},
 				{
-					"title": "KIRO 7 News (KIRO-TV)",
-					"file": "https://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"
-				},
-				{
-					"title": "KMSP Fox 9 Minneapolis ST Paul",
+					"title": "KMSP Fox 9",
 					"file": "https://lnc-kmsp-fox-aws.tubi.video/index.m3u8"
 				},
 				{
-					"title": "KMTV",
-					"file": "https://kmtvnow-samsung.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "KOKI-TV FOX 23 Tulsa OK",
+					"title": "KOKI-TV FOX 23",
 					"file": "https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8"
 				},
 				{
@@ -1789,10 +1166,6 @@
 					"file": "http://kidoodletv-kdtv-3.roku.wurl.com/manifest/playlist.m3u8"
 				},
 				{
-					"title": "Kidoodle",
-					"file": "https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
 					"title": "Kitchen Nightmares",
 					"file": "https://dai.google.com/linear/hls/event/23QIslh0TOqygKz-M9W29Q/master.m3u8"
 				},
@@ -1810,11 +1183,7 @@
 
 			[{
 					"title": "La Mega Mundial",
-					"file": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8"
-				},
-				{
-					"title": "La Mega Mundial",
-					"file": "https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8"
+					"file": "[1]http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8,[2]https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8"
 				},
 				{
 					"title": "Lake Havasu City 4",
@@ -1829,48 +1198,24 @@
 					"file": "https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8"
 				},
 				{
-					"title": "Latido Music",
-					"file": "https://a.jsrdn.com/broadcast/g8sfF32l0/playlist720p.m3u8"
-				},
-				{
-					"title": "Law & Crime",
-					"file": "https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8"
-				},
-				{
 					"title": "Law & Crime Network",
 					"file": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "Law & Crime",
-					"file": "https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Law And Crime Network",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8"
 				},
 				{
 					"title": "Lego Channel",
 					"file": "https://legochannel-roku.amagi.tv/playlist.m3u8"
 				},
 				{
-					"title": "Leominster TV Educational",
+					"title": "Leominster TV Edu",
 					"file": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8"
 				},
 				{
-					"title": "Leominster TV Government",
+					"title": "Leominster TV Gov",
 					"file": "http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8"
-				},
-				{
-					"title": "Leominster TV Public",
-					"file": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8"
 				},
 				{
 					"title": "Lex TV",
 					"file": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8"
-				},
-				{
-					"title": "Like Yesterday (US)",
-					"file": "https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/11b32cf3-e807-4244-b949-6a22933cef3a/2.m3u8"
 				},
 				{
 					"title": "Live Live",
@@ -1903,10 +1248,6 @@
 				{
 					"title": "Love Nature",
 					"file": "http://bamus-eng-roku.amagi.tv/playlist.m3u8"
-				},
-				{
-					"title": "Love Nature",
-					"file": "http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8"
 				}
 			]
 
@@ -1921,24 +1262,8 @@
 					"file": "https://connection3-ent.sinclair.wurl.com/manifest/2000.m3u8"
 				},
 				{
-					"title": "MLB Network",
-					"file": "https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8"
-				},
-				{
-					"title": "MMA Junkie",
-					"file": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8"
-				},
-				{
-					"title": "MMN",
-					"file": "https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8"
-				},
-				{
 					"title": "MOVIE SPHERE",
 					"file": "https://moviesphere-roku.amagi.tv/playlist720lp.m3u8"
-				},
-				{
-					"title": "MTV (Latin America) (480p)",
-					"file": "http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8"
 				},
 				{
 					"title": "MTV Biggest Pop",
@@ -1949,24 +1274,8 @@
 					"file": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8"
 				},
 				{
-					"title": "MTV Brasil",
-					"file": "http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v2a1/mono.m3u8"
-				},
-				{
-					"title": "MTV HD Brasil",
-					"file": "http://ug1upc1hgb.singularcdn.net.br/MTV_BR_HD/tracks-v1a1/mono.m3u8"
-				},
-				{
-					"title": "MTV Live HD",
-					"file": "http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737"
-				},
-				{
 					"title": "MTV Mistle YO!",
 					"file": "http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8"
-				},
-				{
-					"title": "MTV Norge",
-					"file": "https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
 				},
 				{
 					"title": "MTV Spankin' New",
@@ -1989,10 +1298,6 @@
 					"file": "https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8"
 				},
 				{
-					"title": "MavTV",
-					"file": "https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8"
-				},
-				{
 					"title": "MavTv",
 					"file": "https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8"
 				},
@@ -2005,11 +1310,7 @@
 					"file": "http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8"
 				},
 				{
-					"title": "Maverick Movies",
-					"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8"
-				},
-				{
-					"title": "Mi TV Televisión Clásica (480p)",
+					"title": "Mi TV Televisión Clásica",
 					"file": "http://162.244.80.176:8081/abr/stream/playlist.m3u8"
 				},
 				{
@@ -2041,75 +1342,19 @@
 					"file": "https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8"
 				},
 				{
-					"title": "Mo Laughter (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/molaughter/playlist.m3u8"
-				},
-				{
-					"title": "Mobcrush",
-					"file": "https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8"
-				},
-				{
-					"title": "Mobcrush",
-					"file": "https://ott.mobcrush.com/hls/0/ott.m3u8"
-				},
-				{
-					"title": "Models Inc.",
-					"file": "https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8"
-				},
-				{
-					"title": "Monarch",
-					"file": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8"
-				},
-				{
 					"title": "Montana: Missoula",
 					"file": "https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8"
-				},
-				{
-					"title": "Motorcyclist",
-					"file": "https://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8"
-				},
-				{
-					"title": "Motorcyclist",
-					"file": "https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8"
-				},
-				{
-					"title": "Motorvision",
-					"file": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8"
-				},
-				{
-					"title": "Movee 4U (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8"
-				},
-				{
-					"title": "Movie Kingdom",
-					"file": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8"
 				},
 				{
 					"title": "Movie Mix",
 					"file": "https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8"
 				},
 				{
-					"title": "MovieMix",
-					"file": "https://moviemix.samsung.wurl.com/manifest/playlist.m3u8"
-				},
-				{
-					"title": "Movies Kingdom",
-					"file": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8"
-				},
-				{
 					"title": "Moviesphere Free",
 					"file": "https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8"
 				},
 				{
-					"title": "Music Baeble",
-					"file": "https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8"
-				},
-				{
-					"title": "MyHolyfield TV (480p)",
-					"file": "https://nimble.dashstreams.net/onestudio/holyfield/playlist.m3u8"
-				},
-				{
-					"title": "Mystery Science Theater 3000",
+					"title": "M S Theater 3000",
 					"file": "https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8"
 				},
 				{
@@ -2124,69 +1369,22 @@
 		"title": "N",
 		"folder":
 
-			[{
-					"title": "NASA TV (504p)",
-					"file": "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
-				},
+			[
 				{
 					"title": "NASA TV",
 					"file": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8"
-				},
-				{
-					"title": "NASA TV",
-					"file": "https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7"
 				},
 				{
 					"title": "NASA TV Media",
 					"file": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
 				},
 				{
-					"title": "NASA TV Public",
-					"file": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
-				},
-				{
-					"title": "NBC",
-					"file": "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8"
-				},
-				{
-					"title": "NBC",
-					"file": "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
-				},
-				{
-					"title": "NBC 11 Pittsburgh PA (WPXI-HD)",
-					"file": "https://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
-				},
-				{
-					"title": "NBC 15 Madison WI (WMTVNBC)",
+					"title": "NBC 15 Madison WI",
 					"file": "https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q"
 				},
 				{
 					"title": "NBC 26 (WGBA)",
 					"file": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8"
-				},
-				{
-					"title": "NBC 4 New York (WNBC)",
-					"file": "https://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8"
-				},
-				{
-					"title": "NBC 6 Miami FL (WTVJ)",
-					"file": "http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8"
-				},
-				{
-					"title": "NBC 6 South Florida (WTVJ)",
-					"file": "https://wtvjlive-f.akamaihd.net/i/wtvja1_1@19309/master.m3u8"
-				},
-				{
-					"title": "NBC 8 (WGAL)",
-					"file": "https://cdnapisec.kaltura.com/p/2630451/sp/263045100/playManifest/entryId/1_n55lj49n/format/applehttp/protocol/https/uiConfId/47253602/a.m3u8"
-				},
-				{
-					"title": "NBC Charlotte NC (WCNC-TV)",
-					"file": "https://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8"
-				},
-				{
-					"title": "NBC News Now",
-					"file": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
 				},
 				{
 					"title": "NBC News Now",
