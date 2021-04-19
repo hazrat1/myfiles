@@ -1,7 +1,4 @@
-[{
-		"title": "Canal Antigua",
-		"file": "https://live.canalantigua.tv/CanalAntigua/myStream/chunklist_w1288444071.m3u8"
-	},
+[
 	{
 		"title": "Iglesia Del Camino",
 		"file": "http://streamingcontrol.com:1935/ectv/ectv/chunklist_w615405992.m3u8"
