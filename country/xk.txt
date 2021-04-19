@@ -1,10 +1,6 @@
 [{
 		"title": "Arta News",
-		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x.m3u8"
-	},
-	{
-		"title": "Arta News",
-		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x480/index.m3u8"
+		"file": "[1]https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x.m3u8,[2]https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x480/index.m3u8"
 	},
 	{
 		"title": "ClubFm Kosova",
@@ -19,52 +15,20 @@
 		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/ykyzkk.m3u8"
 	},
 	{
-		"title": "Peace TV Albanian (Peace TV Shqip)",
+		"title": "Peace TV Albanian",
 		"file": "http://82.114.67.178:8081/hls/PeaceTV.m3u8"
 	},
 	{
-		"title": "Radio Dukagjini (476p)",
-		"file": "https://dracarys.gjirafa.com/live/dCynrjRK8sEsrYu0zDtDg8l4KaXbFpXl/y1z1tq480/index.m3u8"
-	},
-	{
-		"title": "Radio Prishtina",
-		"file": "https://dracarys.gjirafa.com/live/V5VHPPcRRtIuWFdnDuwjefzSqTKyBrW3/yg1gz01080/index.m3u8"
-	},
-	{
 		"title": "RTK 1 HD",
-		"file": "http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8"
-	},
-	{
-		"title": "RTK 1 HD",
-		"file": "http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8"
-	},
-	{
-		"title": "RTK 2",
-		"file": "http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8"
+		"file": "[1]http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8,[2]http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8"
 	},
 	{
 		"title": "RTK 3",
-		"file": "http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8"
-	},
-	{
-		"title": "RTK 3",
-		"file": "http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8"
+		"file": "[1]http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8,[2]http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8"
 	},
 	{
 		"title": "RTK 4",
-		"file": "http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8"
-	},
-	{
-		"title": "RTK 4",
-		"file": "http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8"
-	},
-	{
-		"title": "RTK 4",
-		"file": "http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8"
-	},
-	{
-		"title": "RTV Dukagjini",
-		"file": "https://dracarys.gjirafa.com/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/ygqkzt1080/index.m3u8"
+		"file": "[1]http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8,[2]http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8,[3]http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8"
 	},
 	{
 		"title": "Travelingo TV",
