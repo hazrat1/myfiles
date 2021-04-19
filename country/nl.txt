@@ -3,20 +3,12 @@
 		"file": "https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8"
 	},
 	{
-		"title": "BVN",
-		"file": "https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8"
-	},
-	{
 		"title": "Den Haag TV",
 		"file": "http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8"
 	},
 	{
 		"title": "DNO Streek TV",
-		"file": "http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
-	},
-	{
-		"title": "DNO Streek TV",
-		"file": "https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8"
+		"file": "[1]http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8,[2]https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8"
 	},
 	{
 		"title": "EDE TV",
@@ -31,40 +23,12 @@
 		"file": "https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8"
 	},
 	{
-		"title": "Introuble TV",
-		"file": "https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8"
-	},
-	{
-		"title": "Inwonder TV",
-		"file": "https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8"
-	},
-	{
 		"title": "L1 TV NL",
 		"file": "https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8"
 	},
 	{
 		"title": "Meer TV",
 		"file": "https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8"
-	},
-	{
-		"title": "NPO 1",
-		"file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8"
-	},
-	{
-		"title": "NPO 2",
-		"file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8"
-	},
-	{
-		"title": "NPO 3",
-		"file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8"
-	},
-	{
-		"title": "NPO Nieuws",
-		"file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/.m3u8"
-	},
-	{
-		"title": "NPO Politiek",
-		"file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/politiek24/politiek24.isml/.m3u8"
 	},
 	{
 		"title": "Omroep Brabant",
@@ -81,14 +45,6 @@
 	{
 		"title": "Omroep Flevoland",
 		"file": "https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8"
-	},
-	{
-		"title": "TV Gelderland",
-		"file": "http://web.omroepgelderland.nl/live/livetv.m3u8"
-	},
-	{
-		"title": "TV Gelderland",
-		"file": "https://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8"
 	},
 	{
 		"title": "Omroep P&M",
@@ -140,11 +96,7 @@
 	},
 	{
 		"title": "Regio TV Nieuws",
-		"file": "http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8"
-	},
-	{
-		"title": "Regio TV Nieuws",
-		"file": "https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8"
+		"file": "[1]http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8,[2]https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8"
 	},
 	{
 		"title": "RTV Arnhem",
@@ -172,11 +124,7 @@
 	},
 	{
 		"title": "RTV Noordoost",
-		"file": "http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8"
-	},
-	{
-		"title": "RTV Noordoost",
-		"file": "https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8"
+		"file": "[1]http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8,[2]https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8"
 	},
 	{
 		"title": "RTV Oost",
@@ -191,10 +139,6 @@
 		"file": "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8"
 	},
 	{
-		"title": "RTV Westerwolde",
-		"file": "https://59132e529e3d1.streamlock.net/westerwolde/westerwolde/playlist.m3u8"
-	},
-	{
 		"title": "Silence TV",
 		"file": "http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8"
 	},
@@ -205,9 +149,5 @@
 	{
 		"title": "TV Ellef",
 		"file": "https://58e4d59f4ba2c.streamlock.net/tvellef/livestream/playlist.m3u8"
-	},
-	{
-		"title": "TV Valkenburg",
-		"file": "https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8"
 	}
 ]
