@@ -11,10 +11,6 @@
 		"file": "http://51.210.199.30/hls/stream.m3u8"
 	},
 	{
-		"title": "6ter",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8"
-	},
-	{
 		"title": "Action Movies",
 		"file": "https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8"
 	},
@@ -35,20 +31,8 @@
 		"file": "http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01"
 	},
 	{
-		"title": "Arte Deutsch",
-		"file": "https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8?set-segment-duration=quality"
-	},
-	{
-		"title": "Arte France",
-		"file": "http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?set-segment-duration=quality"
-	},
-	{
 		"title": "Atelier des chefs",
 		"file": "https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "BFM Business",
-		"file": "https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8"
 	},
 	{
 		"title": "BFM Grand Lille",
@@ -59,40 +43,8 @@
 		"file": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8"
 	},
 	{
-		"title": "BFM Lyon",
-		"file": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8"
-	},
-	{
-		"title": "BFM Paris",
-		"file": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8"
-	},
-	{
-		"title": "BFMTV",
-		"file": "https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8"
-	},
-	{
-		"title": "BFMTV",
-		"file": "https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8"
-	},
-	{
-		"title": "Big Names",
-		"file": "https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
 		"title": "BipTV",
 		"file": "https://biptv.tv/live/biptvstream_orig/index.m3u8"
-	},
-	{
-		"title": "Boing France",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8"
-	},
-	{
-		"title": "Boomerang France",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8"
-	},
-	{
-		"title": "C8",
-		"file": "https://mmsiptv.com/live/c8/playlist.m3u8"
 	},
 	{
 		"title": "Caillou",
@@ -143,20 +95,8 @@
 		"file": "https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Fashion TV Russia",
-		"file": "http://80.94.54.42/fashiontv/stream/playlist.m3u8"
-	},
-	{
-		"title": "FashionTV Czech&Slovak",
-		"file": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
-	},
-	{
 		"title": "FashionTV Czech&Slovak",
 		"file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8"
-	},
-	{
-		"title": "FashionTV Paris",
-		"file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
 	},
 	{
 		"title": "FashionTV Paris",
@@ -171,14 +111,6 @@
 		"file": "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8"
 	},
 	{
-		"title": "FashionTV PG16",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8"
-	},
-	{
-		"title": "France 2",
-		"file": "https://mmsiptv.com/live/france2/playlist.m3u8"
-	},
-	{
 		"title": "France 2",
 		"file": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8"
 	},
@@ -187,20 +119,8 @@
 		"file": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
 	},
 	{
-		"title": "France 24 Arabic",
-		"file": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8"
-	},
-	{
 		"title": "France 24 English",
 		"file": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
-	},
-	{
-		"title": "France 24 English",
-		"file": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
-	},
-	{
-		"title": "France 24 English",
-		"file": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
 	},
 	{
 		"title": "France 24 Spanish",
@@ -231,10 +151,6 @@
 		"file": "https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8"
 	},
 	{
-		"title": "Gulli",
-		"file": "https://mmsiptv.com/live/gulli/playlist.m3u8"
-	},
-	{
 		"title": "Humanity",
 		"file": "https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
 	},
@@ -244,19 +160,7 @@
 	},
 	{
 		"title": "L'Équipe",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8"
-	},
-	{
-		"title": "L'Équipe",
 		"file": "https://mmsiptv.com/live/equipe/playlist.m3u8"
-	},
-	{
-		"title": "La Chaine Normande",
-		"file": "http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8"
-	},
-	{
-		"title": "LCI",
-		"file": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8"
 	},
 	{
 		"title": "LCI",
@@ -265,10 +169,6 @@
 	{
 		"title": "Luxe TV",
 		"file": "https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "M6",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8"
 	},
 	{
 		"title": "M6",
@@ -291,10 +191,6 @@
 		"file": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8"
 	},
 	{
-		"title": "Men's Up TV",
-		"file": "https://stream-11.dc3.dailymotion.com/sec(Z1UpUD32o7sqFb3EogBzMfNNXINvlaR6WoSguDaYr8c)/dm/3/x2kr3hs/s/live-1.m3u8"
-	},
-	{
 		"title": "Midnight Pulp",
 		"file": "https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8"
 	},
@@ -313,22 +209,6 @@
 	{
 		"title": "My Surf TV",
 		"file": "https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "NRJ Hits",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO2/hls/live/Nrjhits_live/index.m3u8"
-	},
-	{
-		"title": "NRJ Hits",
-		"file": "https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8"
-	},
-	{
-		"title": "NRJ12",
-		"file": "https://mmsiptv.com/live/nrj12/playlist.m3u8"
-	},
-	{
-		"title": "Passion Fiction",
-		"file": "https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "Persiana Billboard",
@@ -371,14 +251,6 @@
 		"file": "http://51.210.199.25/hls/stream.m3u8"
 	},
 	{
-		"title": "RMC Découverte",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8"
-	},
-	{
-		"title": "Sofy TV",
-		"file": "https://sofytv-samsungfr.amagi.tv/playlist.m3u8"
-	},
-	{
 		"title": "Sport en France",
 		"file": "https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
 	},
@@ -396,23 +268,11 @@
 	},
 	{
 		"title": "TF1",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8"
-	},
-	{
-		"title": "TF1",
-		"file": "https://mmsiptv.com/live/tf1/playlist.m3u8"
-	},
-	{
-		"title": "TF1",
-		"file": "https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8"
+		"file": "[1]https://mmsiptv.com/live/tf1/playlist.m3u8,[2]https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8"
 	},
 	{
 		"title": "TF1 Séries Films",
 		"file": "https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8"
-	},
-	{
-		"title": "TFX",
-		"file": "https://mmsiptv.com/live/tfx/playlist.m3u8"
 	},
 	{
 		"title": "TFX",
@@ -443,24 +303,12 @@
 		"file": "https://mj1b2xsspj.singularcdn.net.br/trace/urbanint/6/prog_index.m3u8"
 	},
 	{
-		"title": "TV3V",
-		"file": "https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8"
-	},
-	{
 		"title": "TV5Monde Info",
 		"file": "https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8"
 	},
 	{
-		"title": "TV7 Colmar",
-		"file": "https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8"
-	},
-	{
 		"title": "TV78",
-		"file": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
-	},
-	{
-		"title": "TV78",
-		"file": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8"
+		"file": "[1]https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8,[2]https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8"
 	},
 	{
 		"title": "TVR",
@@ -475,24 +323,8 @@
 		"file": "https://alchimie-unearth-1-fr.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "viàMATÉLÉ",
-		"file": "https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8"
-	},
-	{
 		"title": "viàMoselleTV",
 		"file": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8"
-	},
-	{
-		"title": "viàOccitanie",
-		"file": "https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8"
-	},
-	{
-		"title": "W9",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/05.m3u8"
-	},
-	{
-		"title": "W9",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8"
 	},
 	{
 		"title": "W9",
