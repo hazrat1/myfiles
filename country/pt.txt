@@ -1,42 +1,19 @@
-[{
-		"title": "ARTV",
-		"file": "https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8"
-	},
+[
 	{
-		"title": "Caçavision (HQ)",
-		"file": "https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8"
-	},
-	{
-		"title": "Caçavision (LQ)",
-		"file": "https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8"
-	},
-	{
-		"title": "Caçavision (MQ)",
-		"file": "https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8"
+		"title": "Caçavision",
+		"file": "[LQ]https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8,[MQ]https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8,[HQ]https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8"
 	},
 	{
 		"title": "Kuriakos Cine",
-		"file": "http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8"
-	},
-	{
-		"title": "Kuriakos Cine",
-		"file": "http://c2.manasat.com:1935/kcine/kcine3/master.m3u8"
+		"file": "[1]http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8,[2]http://c2.manasat.com:1935/kcine/kcine3/master.m3u8"
 	},
 	{
 		"title": "Kuriakos Kids",
-		"file": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8"
-	},
-	{
-		"title": "Kuriakos Kids",
-		"file": "http://c2.manasat.com:1935/kkids/kkids3/master.m3u8"
+		"file": "[1]http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8,[2]http://c2.manasat.com:1935/kkids/kkids3/master.m3u8"
 	},
 	{
 		"title": "Kuriakos Music",
-		"file": "http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8"
-	},
-	{
-		"title": "Kuriakos Music",
-		"file": "http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8"
+		"file": "[1]http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8,[2]http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8"
 	},
 	{
 		"title": "Porto Canal",
@@ -47,7 +24,7 @@
 		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8"
 	},
 	{
-		"title": "RTP Internacional",
+		"title": "RTP",
 		"file": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8"
 	},
 	{
@@ -61,10 +38,6 @@
 	{
 		"title": "RTP Africa",
 		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8"
-	},
-	{
-		"title": "RTP 1",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8"
 	},
 	{
 		"title": "RTP 3",
