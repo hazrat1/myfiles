@@ -4,10 +4,6 @@
 	},
 	{
 		"title": "Channel 5",
-		"file": "http://110.170.117.27:1935/apptv5hd1live/vdo/chunklist.m3u8"
-	},
-	{
-		"title": "Channel 5 (240p)",
 		"file": "https://tc-live1.sanook.com/live/22302_ch5.m3u8"
 	},
 	{
@@ -27,40 +23,8 @@
 		"file": "http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8"
 	},
 	{
-		"title": "News1",
-		"file": "http://news1.live14.com/stream/news1.m3u8"
-	},
-	{
-		"title": "Smart SME Channel",
-		"file": "https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8"
-	},
-	{
-		"title": "Suwannabhumi TV",
-		"file": "http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8"
-	},
-	{
-		"title": "TGN",
-		"file": "https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8"
-	},
-	{
 		"title": "Thai PBS 3",
 		"file": "https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8"
-	},
-	{
-		"title": "Thai PBS 3",
-		"file": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
-	},
-	{
-		"title": "Thai PBS 3",
-		"file": "https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8"
-	},
-	{
-		"title": "Thairath TV 32",
-		"file": "https://live.thairath.co.th/trtv2/playlist.m3u8"
-	},
-	{
-		"title": "Thairath TV 32",
-		"file": "https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8"
 	},
 	{
 		"title": "TPTV",
