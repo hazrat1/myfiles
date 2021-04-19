@@ -1,8 +1,6 @@
 [
 {"title": "原住民電視","file": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"},
-{"title": "壹電視新聞台","file": "http://stream.nexttv.com.tw/n001/hd/live.m3u8"},
 {"title": "大愛2","file": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"},
-{"title": "大愛2","file": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"},
 {"title": "大立電視","file": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"},
 {"title": "民視新聞台","file": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"},
 {"title": "立法院IVOD直播交通委員會","file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8"},
