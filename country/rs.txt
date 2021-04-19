@@ -1,14 +1,6 @@
 [{
 		"title": "Kurir TV",
-		"file": "https://kurir-tv.haste-cdn.net/providus/live2805.m3u8"
-	},
-	{
-		"title": "Kurir TV",
-		"file": "https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8"
-	},
-	{
-		"title": "Kurir TV",
-		"file": "https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8"
+		"file": "[LQ]https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8,[HQ]https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8,[LQ+HQ]https://kurir-tv.haste-cdn.net/providus/live2805.m3u8"
 	},
 	{
 		"title": "Muzzik Cafe&Club",
