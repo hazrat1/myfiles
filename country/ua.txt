@@ -7,24 +7,8 @@
 		"file": "http://spacetv.in/stream/DIPK8H19CP8/173.m3u8"
 	},
 	{
-		"title": "100% News",
-		"file": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
-	},
-	{
 		"title": "112 Україна",
-		"file": "http://app.live.112.events/hls-ua/112hd_hi/index.m3u8"
-	},
-	{
-		"title": "112 Украина",
-		"file": "https://app.live.112.events/hls-ua/112hd_mid/index.m3u8"
-	},
-	{
-		"title": "112 Украина",
-		"file": "https://app.live.112.events/hls/112hd_hi/index.m3u8"
-	},
-	{
-		"title": "112 Украина",
-		"file": "https://app.live.112.events/hls/112hd_mid/index.m3u8"
+		"file": "[1]https://app.live.112.events/hls/112hd_mid/index.m3u8,[2]http://app.live.112.events/hls-ua/112hd_hi/index.m3u8"
 	},
 	{
 		"title": "34 Канал",
@@ -32,15 +16,7 @@
 	},
 	{
 		"title": "RTi",
-		"file": "http://95.67.106.10/hls/nta_ua_hi/index.m3u8"
-	},
-	{
-		"title": "RTi",
-		"file": "http://95.67.106.10/hls/nta_ua_low/index.m3u8"
-	},
-	{
-		"title": "RTi",
-		"file": "http://95.67.106.10/hls/nta_ua_mid/index.m3u8"
+		"file": "[LQ]http://95.67.106.10/hls/nta_ua_low/index.m3u8,[MQ]http://95.67.106.10/hls/nta_ua_mid/index.m3u8,[HQ]http://95.67.106.10/hls/nta_ua_hi/index.m3u8"
 	},
 	{
 		"title": "7 канал Одесса",
@@ -52,39 +28,15 @@
 	},
 	{
 		"title": "BamBarBia TV",
-		"file": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8"
-	},
-	{
-		"title": "BamBarBia TV",
 		"file": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"
 	},
 	{
 		"title": "GTV",
-		"file": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8"
-	},
-	{
-		"title": "GTV",
-		"file": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8"
-	},
-	{
-		"title": "HDFashion",
-		"file": "http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8"
-	},
-	{
-		"title": "HDFashion",
-		"file": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
-	},
-	{
-		"title": "HDFashion",
-		"file": "http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8"
+		"file": "[1]http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8,[2]http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8"
 	},
 	{
 		"title": "ICTV",
 		"file": "http://51.195.44.53:8081/tv/ictv/playlist.m3u8"
-	},
-	{
-		"title": "Iнтер",
-		"file": "http://109.68.41.148:1935/live/inter_3/playlist.m3u8"
 	},
 	{
 		"title": "Iнтер",
@@ -95,10 +47,6 @@
 		"file": "http://109.68.40.67/life/k1.m3u8"
 	},
 	{
-		"title": "К1",
-		"file": "http://109.68.40.67:80/life/k1_3/index.m3u8"
-	},
-	{
 		"title": "Lale",
 		"file": "http://stream.atr.ua/lale//live/index.m3u8"
 	},
@@ -107,16 +55,8 @@
 		"file": "https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/index.m3u8"
 	},
 	{
-		"title": "MostVideo.TV",
-		"file": "http://w4.mostvideo.tv/tv/ch1.m3u8"
-	},
-	{
 		"title": "NewsOne",
 		"file": "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8"
-	},
-	{
-		"title": "Renome (Одесса)",
-		"file": "http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8"
 	},
 	{
 		"title": "Simon",
@@ -127,20 +67,12 @@
 		"file": "https://open-cdn.lanet.tv/live/1008.m3u8"
 	},
 	{
-		"title": "Sport 1",
-		"file": "https://95-213-224-183.livesports24.online/sport1ua.m3u8"
-	},
-	{
 		"title": "TET",
 		"file": "http://51.195.44.53:8081/tv/tet/playlist.m3u8"
 	},
 	{
 		"title": "Travel Guid",
-		"file": "http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8"
-	},
-	{
-		"title": "Travel Guide",
-		"file": "http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8"
+		"file": "[1]http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8,[2]http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8"
 	},
 	{
 		"title": "TV 5",
@@ -148,39 +80,11 @@
 	},
 	{
 		"title": "TV5 Запорожье",
-		"file": "http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8"
-	},
-	{
-		"title": "TV5 Запорожье",
-		"file": "http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8"
-	},
-	{
-		"title": "TV7+",
-		"file": "https://tv7plus.com/hls/tv7.m3u8"
-	},
-	{
-		"title": "TV7+",
-		"file": "https://tv7plus.com/hls/tv7_site.m3u8"
+		"file": "[1]http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8,[2]http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8"
 	},
 	{
 		"title": "UA TV low",
-		"file": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8"
-	},
-	{
-		"title": "UA TV mid",
-		"file": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8"
-	},
-	{
-		"title": "UATV mid",
-		"file": "https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8"
-	},
-	{
-		"title": "Ukr Live",
-		"file": "http://95.67.12.149:9005"
-	},
-	{
-		"title": "Z (Запорожье",
-		"file": "https://stream.ztv.zp.ua/hls/live.m3u8"
+		"file": "[low]http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8,[mid]http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8"
 	},
 	{
 		"title": "А1 (Одесса)",
@@ -188,11 +92,7 @@
 	},
 	{
 		"title": "Архат ТВ",
-		"file": "https://arhat.tv/public/720p/index.m3u8"
-	},
-	{
-		"title": "Балта ТВ",
-		"file": "http://194.50.51.34/playlist.m3u8"
+		"file": "https://arhat.tv/public/360p/index.m3u8"
 	},
 	{
 		"title": "Глас",
@@ -212,15 +112,7 @@
 	},
 	{
 		"title": "Интер",
-		"file": "http://109.68.41.148:1935/live/inter_2/playlist.m3u8"
-	},
-	{
-		"title": "Интер",
 		"file": "https://lb1.macc.com.ua/img/inter_2/index.m3u8"
-	},
-	{
-		"title": "К1",
-		"file": "http://109.68.40.67/life/k1_3/index.m3u8"
 	},
 	{
 		"title": "Крым 24",
@@ -236,10 +128,6 @@
 	},
 	{
 		"title": "Надія",
-		"file": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/master.m3u8"
-	},
-	{
-		"title": "Надія",
 		"file": "https://stream.hope.ua/hopeua/live_1/playlist.m3u8"
 	},
 	{
@@ -248,19 +136,7 @@
 	},
 	{
 		"title": "НТН",
-		"file": "http://109.68.41.148:1935/live/ntn_2/playlist.m3u8"
-	},
-	{
-		"title": "НТН",
-		"file": "http://109.68.41.148:1935/live/ntn_3/playlist.m3u8"
-	},
-	{
-		"title": "НТН",
 		"file": "https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8"
-	},
-	{
-		"title": "ОНТ",
-		"file": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8"
 	},
 	{
 		"title": "Объектив 59",
@@ -275,16 +151,8 @@
 		"file": "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
 	},
 	{
-		"title": "Первый городской(Кривой Рог)",
-		"file": "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8"
-	},
-	{
-		"title": "Первый городской(Кривой Рог)",
+		"title": "Первый городской",
 		"file": "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8"
-	},
-	{
-		"title": "Первый городской (Одесса)",
-		"file": "http://91.194.79.46:8081/stream1/channel1/playlist.m3u8"
 	},
 	{
 		"title": "Первый городской (Одесса)",
@@ -292,39 +160,19 @@
 	},
 	{
 		"title": "Первый Деловой",
-		"file": "http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8"
-	},
-	{
-		"title": "Первый Деловой",
-		"file": "http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8"
+		"file": "[MQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8,[HQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8"
 	},
 	{
 		"title": "Перший Західний",
-		"file": "http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8"
-	},
-	{
-		"title": "Перший Західний",
-		"file": "http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8"
+		"file": "[1]http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8,[2]http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8"
 	},
 	{
 		"title": "Правда ТУТ",
-		"file": "http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8"
-	},
-	{
-		"title": "Правда ТУТ",
-		"file": "http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8"
+		"file": "[1]http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8,[2]http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8"
 	},
 	{
 		"title": "Прямий",
-		"file": "http://95.67.21.100/hls/prm_ua_hi/index.m3u8"
-	},
-	{
-		"title": "Прямий",
-		"file": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8"
-	},
-	{
-		"title": "Прямий",
-		"file": "http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8"
+		"file": "[MQ]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8,[HQ2}http://95.67.21.100/hls/prm_ua_hi/index.m3u8,[HQ1]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8"
 	},
 	{
 		"title": "Радио Люкс",
@@ -340,27 +188,15 @@
 	},
 	{
 		"title": "Сварожичи",
-		"file": "http://80.91.177.102:1935/live/live1/playlist.m3u8"
-	},
-	{
-		"title": "Сварожичи",
-		"file": "http://tv.tv-project.com:1935/live/live1/playlist.m3u8"
+		"file": "[1]http://80.91.177.102:1935/live/live1/playlist.m3u8,[2]http://tv.tv-project.com:1935/live/live1/playlist.m3u8"
 	},
 	{
 		"title": "ТIС (Одесса)",
-		"file": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8"
-	},
-	{
-		"title": "ТIС (Одесса)",
-		"file": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8"
+		"file": "[240]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8,[504]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8"
 	},
 	{
 		"title": "ТВА",
-		"file": "http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
-	},
-	{
-		"title": "ТВА",
-		"file": "http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
+		"file": "[1]http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8,[2]http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
 	},
 	{
 		"title": "ТИС ТВ",
@@ -379,32 +215,8 @@
 		"file": "http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8"
 	},
 	{
-		"title": "Трофей HD",
-		"file": "http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8"
-	},
-	{
-		"title": "Україна 24",
-		"file": "http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8"
-	},
-	{
 		"title": "Україна 24",
 		"file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8"
-	},
-	{
-		"title": "Україна 24",
-		"file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Футбол 1",
-		"file": "https://95-213-224-183.livesports24.online/uafootballua1.m3u8"
-	},
-	{
-		"title": "Футбол 2",
-		"file": "https://95-213-224-183.livesports24.online/fooootball2.m3u8"
-	},
-	{
-		"title": "Херсон Плюс",
-		"file": "http://46.175.163.130/ks_plus/index.m3u8"
 	},
 	{
 		"title": "Чернівецький Промінь",
@@ -412,18 +224,10 @@
 	},
 	{
 		"title": "ЧП.iнфо",
-		"file": "http://109.68.40.67/life/magnolia.m3u8"
-	},
-	{
-		"title": "ЧП.iнфо",
-		"file": "http://109.68.40.67/life/magnolia_3/index.m3u8"
+		"file": "[1]http://109.68.40.67/life/magnolia.m3u8,[3]http://109.68.40.67/life/magnolia_3/index.m3u8"
 	},
 	{
 		"title": "Южная волна",
 		"file": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8"
-	},
-	{
-		"title": "Южная волна",
-		"file": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8"
 	}
 ]
