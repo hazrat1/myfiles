@@ -40,11 +40,7 @@
 	},
 	{
 		"title": "Can TV",
-		"file": "http://canbroadcast.com:7000/canlican/tv.m3u8"
-	},
-	{
-		"title": "Cay TV",
-		"file": "http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
+		"file": "[1]http://canbroadcast.com:7000/canlican/tv.m3u8,[2]http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
 	},
 	{
 		"title": "Cine5 TV",
