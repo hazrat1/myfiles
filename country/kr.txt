@@ -1,26 +1,7 @@
-[{
-		"title": "ALL THE K-POP",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "AniOne TV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4402&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "AniPlus",
-		"file": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8"
-	},
+[
 	{
 		"title": "AniPlus",
 		"file": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
-	},
-	{
-		"title": "AniPlus",
-		"file": "http://45.126.83.51/dr9445/h/h02/01.m3u8"
-	},
-	{
-		"title": "Anibox",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4401&q=SD&apikey=196JE7PCDI"
 	},
 	{
 		"title": "Arirang HD",
@@ -33,94 +14,6 @@
 	{
 		"title": "Arirang",
 		"file": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
-	},
-	{
-		"title": "Arte HD",
-		"file": "http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8"
-	},
-	{
-		"title": "AsiaM",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5102&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "AsiaN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "BTNTV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F0501&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "CBS",
-		"file": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8"
-	},
-	{
-		"title": "CBS",
-		"file": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8"
-	},
-	{
-		"title": "CBS",
-		"file": "http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8"
-	},
-	{
-		"title": "CPBC",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F0701&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "CTS",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F0601&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Channel China",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "ChannelA",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "ChannelAPlus",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C17141&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "ChannelAPlus",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C17141&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "ChannelJ",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5501&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "ChannelW",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C3901&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Chunghwa TV",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "ChunghwaTV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00544&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Cinema ChunGuk",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=H05&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "DongATV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C7301&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "EBS 1",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=E01&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "EBS 1",
-		"file": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8"
-	},
-	{
-		"title": "EBS 2",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=E07&q=SD&apikey=196JE7PCDI"
 	},
 	{
 		"title": "EBS 2",
@@ -147,14 +40,6 @@
 		"file": "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
 	},
 	{
-		"title": "EBSKids",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=E05&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "EDGETV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=X01&q=SD&apikey=196JE7PCDI"
-	},
-	{
 		"title": "Edaily TV",
 		"file": "http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8"
 	},
@@ -167,268 +52,28 @@
 		"file": "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8"
 	},
 	{
-		"title": "GS MY SHOP",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4202&q=SD&apikey=196JE7PCDI"
-	},
-	{
 		"title": "Gugbang TV",
 		"file": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Hallypop",
-		"file": "https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8"
-	},
-	{
-		"title": "HyundaiHomeShopping",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "HyundaiHomeShopping",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "IndieFilm",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2601&q=SD&apikey=196JE7PCDI"
 	},
 	{
 		"title": "JIBS SBS",
 		"file": "http://123.140.197.22/stream/1/play.m3u8"
 	},
 	{
-		"title": "JTBC GOLF&SPORTS",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00805&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "JTBC Golf",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00588&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "JTBC Golf",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00588&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "JTBC Golf&Sports",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00805&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "JTBC",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "JTBC",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "JTBC2",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "JTBC2",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "JTBC4",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "JTBC4",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "K SHOPPING",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F1401&q=SD&apikey=196JE7PCDI"
-	},
-	{
 		"title": "K+",
 		"file": "http://210.210.155.35/uq2663/h/h08/index.m3u8"
-	},
-	{
-		"title": "KBS 1",
-		"file": "http://121.130.210.101:9981/stream/channelid/637185705"
-	},
-	{
-		"title": "KBS 1TV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "KBS 2TV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "KBS Drama",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06q=SD&&apikey=196JE7PCDI"
-	},
-	{
-		"title": "KBS JOY",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K04&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "KBS Life",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K05&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "KBS Story",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K09&q=SD&apikey=196JE7PCDI"
 	},
 	{
 		"title": "KBS World",
 		"file": "https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8"
 	},
 	{
-		"title": "KBSN PLUS",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=K23&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "KTV",
-		"file": "rtmp://218.38.152.31:1935/klive/klive.stream"
-	},
-	{
-		"title": "Korea Economic",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2101&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "LotteHomeShopping",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5601&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "LotteHomeShopping",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C5602&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBC Drama",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBC Every1",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=M03&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBC M",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBC ON",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=M14&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBC",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBN Plus",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C17142&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "MBN Plus",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C17142&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "MBN",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "MBN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00708&q=SD&apikey=196JE7PCDI"
-	},
-	{
 		"title": "MTN",
 		"file": "http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8"
 	},
 	{
-		"title": "MTN",
-		"file": "rtmp://mmoney.flive.skcdn.com/mmoneymobile/money3.stream"
-	},
-	{
-		"title": "Maeil Business",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2001&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Mnet",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "Mnet",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Mnet",
-		"file": "http://95.217.44.77:80/mnet/tracks-v1a1/mono.m3u8"
-	},
-	{
 		"title": "NBS KAB",
 		"file": "https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8"
-	},
-	{
-		"title": "NS SHOP+",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8302&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "NSHomeShopping",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8301&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "O tvN",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "O tvN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "OGN",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00590&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "OGN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00590&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "ONSTYLE",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01142&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Olive",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00575&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "Olive",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00575&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "Onstyle",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01142&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "PLAYY Action",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "PLAYY Premium",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=H02&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "PLAYY Wellmade",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=H01&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "PolarisTV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C6901&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS Biz",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15846&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "SBS Biz",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C15846&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS F!L",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C43341&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS Golf",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=S05&q=SD&apikey=196JE7PCDI"
 	},
 	{
 		"title": "SBS International",
@@ -439,18 +84,6 @@
 		"file": "http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8"
 	},
 	{
-		"title": "SBS MTV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C43242&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS Nick",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=S10&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS Plus",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=S03&q=SD&apikey=196JE7PCDI"
-	},
-	{
 		"title": "SBS Plus",
 		"file": "https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8"
 	},
@@ -459,76 +92,12 @@
 		"file": "https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8"
 	},
 	{
-		"title": "SBS funE",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=S04&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "SBS",
-		"file": "http://95.217.44.77:80/sbs/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "ShinSaegeTVShopping",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "ShoppingEnT",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C4901&q=SD&apikey=196JE7PCDI"
-	},
-	{
 		"title": "TBS",
 		"file": "https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8"
 	},
 	{
-		"title": "THE K-POP",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "THE MOVIE",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=F2501&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "TV CHOSUN 2",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "TV CHOSUN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01581&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "TV Chosun 2",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00585&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "TV Chosun",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01581&q=SD&apikey=cit1254678"
-	},
-	{
 		"title": "TVWorkNet",
 		"file": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Telenovela",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8701&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "The K-POP",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C43342&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "WeLike",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "XtvN",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "XtvN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=SD&apikey=196JE7PCDI"
 	},
 	{
 		"title": "YTN DMB",
@@ -540,42 +109,6 @@
 	},
 	{
 		"title": "YTN",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00593&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "YTN",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00593&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "YTN",
 		"file": "http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8"
-	},
-	{
-		"title": "YTN2",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "YTN2",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "YTNScience",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "YTNScience",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "YonhapNewsTV",
-		"file": "http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C01723&q=SD&apikey=cit1254678"
-	},
-	{
-		"title": "YonhapNewsTV",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C01723&q=SD&apikey=196JE7PCDI"
-	},
-	{
-		"title": "tvN Korea",
-		"file": "http://182.216.142.247:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=196JE7PCDI"
 	}
 ]
