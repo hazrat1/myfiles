@@ -1,11 +1,5 @@
-[{
-		"title": "Boreal",
-		"file": "https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8"
-	},
-	{
-		"title": "Canal 4 RD",
-		"file": "https://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8"
-	},
+[
+
 	{
 		"title": "Canal Amé 47",
 		"file": "http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8"
@@ -17,10 +11,6 @@
 	{
 		"title": "Comunion TV",
 		"file": "http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Comunion TV",
-		"file": "http://50.30.37.36:1935/live/stream/playlist.m3u8"
 	},
 	{
 		"title": "DAN TV",
@@ -39,16 +29,8 @@
 		"file": "http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8"
 	},
 	{
-		"title": "LVM",
-		"file": "https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8"
-	},
-	{
 		"title": "Microvision",
-		"file": "http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8"
-	},
-	{
-		"title": "Microvision 10",
-		"file": "http://190.103.183.24:1935/live/MicroHD/playlist.m3u8"
+		"file": "[1]http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8,[2]http://190.103.183.24:1935/live/MicroHD/playlist.m3u8"
 	},
 	{
 		"title": "Mision ELTV",
@@ -84,39 +66,15 @@
 	},
 	{
 		"title": "Super TV 55",
-		"file": "http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8"
-	},
-	{
-		"title": "Super TV 55",
-		"file": "https://ss8.domint.net:3128/stv_str/tv55/master.m3u8"
-	},
-	{
-		"title": "Tele Contacto",
-		"file": "http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8"
+		"file": "[1]http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8,[2]https://ss8.domint.net:3128/stv_str/tv55/master.m3u8"
 	},
 	{
 		"title": "TeleBendicion",
 		"file": "http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8"
 	},
 	{
-		"title": "Telecanal 28",
-		"file": "http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8"
-	},
-	{
-		"title": "Telecentro Canal 13",
-		"file": "https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8"
-	},
-	{
 		"title": "Telefuturo 23",
-		"file": "http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8"
-	},
-	{
-		"title": "Telefuturo Canal 23",
-		"file": "http://ss8.domint.net:2118/tf_str/futu/master.m3u8"
-	},
-	{
-		"title": "Telemicro",
-		"file": "https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8"
+		"file": "[1]http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8,[2]http://ss8.domint.net:2118/tf_str/futu/master.m3u8"
 	},
 	{
 		"title": "Telemilenio",
@@ -139,10 +97,6 @@
 		"file": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
 	},
 	{
-		"title": "Telever Canal 12",
-		"file": "http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8"
-	},
-	{
 		"title": "TV Montaña Canal 10",
 		"file": "http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8"
 	},
@@ -151,16 +105,8 @@
 		"file": "https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8"
 	},
 	{
-		"title": "Tvexitos",
-		"file": "http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8"
-	},
-	{
 		"title": "TVS",
 		"file": "http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8"
-	},
-	{
-		"title": "UrbancrisTV",
-		"file": "https://5790d294af2dc.streamlock.net/8228/8228/playlist.m3u8"
 	},
 	{
 		"title": "Vallevision",
@@ -177,9 +123,5 @@
 	{
 		"title": "Zol106",
 		"file": "https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8"
-	},
-	{
-		"title": "ZTV",
-		"file": "https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8"
 	}
 ]
