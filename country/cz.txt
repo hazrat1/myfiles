@@ -1,7 +1,4 @@
-[{
-		"title": "Echo24 HD",
-		"file": "https://insysgo.live.rd.insyscd.net/echo24.720.smil/manifest.mpd"
-	},
+[
 	{
 		"title": "Elektrika TV",
 		"file": "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8"
@@ -32,15 +29,7 @@
 	},
 	{
 		"title": "Retro Music TV",
-		"file": "http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8"
-	},
-	{
-		"title": "Retro Music TV",
-		"file": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
-	},
-	{
-		"title": "RetroMusicTV",
-		"file": "http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8"
+		"file": "[1]http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8,[2]http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,[3]http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8"
 	},
 	{
 		"title": "RTM plus",
@@ -59,10 +48,6 @@
 		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
 	},
 	{
-		"title": "Óčko",
-		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8"
-	},
-	{
 		"title": "Óčko Expres",
 		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8"
 	},
@@ -79,15 +64,7 @@
 		"file": "http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8"
 	},
 	{
-		"title": "Šlágr 2",
-		"file": "http://92.62.234.233/slagr2.m3u"
-	},
-	{
 		"title": "Šlágr TV",
 		"file": "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8"
-	},
-	{
-		"title": "Šlágr TV",
-		"file": "https://stream-6.mazana.tv/slagr.m3u"
 	}
 ]
