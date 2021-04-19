@@ -7,15 +7,7 @@
 		"file": "https://st.biztv.uz/hls/c_mid/index.m3u8"
 	},
 	{
-		"title": "Biz Music",
-		"file": "https://st.biztv.uz/hls/m_mid/index.m3u8"
-	},
-	{
 		"title": "Biz TV",
 		"file": "https://st.biztv.uz/hls/stream_mid/index.m3u8"
-	},
-	{
-		"title": "Milliy",
-		"file": "http://milliy.tv/hls/index.m3u8"
 	}
 ]
