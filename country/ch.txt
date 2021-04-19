@@ -15,10 +15,6 @@
 		"file": "https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8"
 	},
 	{
-		"title": "Der Serienkanal",
-		"file": "https://endemol-derserienkanal-1-ch.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
 		"title": "Die Neue Zeit",
 		"file": "https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8"
 	},
@@ -31,28 +27,16 @@
 		"file": "https://rakuten-tvshows-4-ch.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "ELIT TV Isvicre",
-		"file": "http://source2.primetime.ch:2981/play/elittv/index.m3u8"
-	},
-	{
 		"title": "Family - CH",
 		"file": "https://rakuten-family-4-ch.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "Kanal 9",
-		"file": "https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8"
-	},
-	{
-		"title": "Kanal 9",
-		"file": "https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8"
+		"file": "[SD]https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8,[HD]https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8"
 	},
 	{
 		"title": "La Télé",
-		"file": "https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8"
-	},
-	{
-		"title": "La Télé",
-		"file": "https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8"
+		"file": "[1]https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8,[2]https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8"
 	},
 	{
 		"title": "LFM TV",
@@ -63,11 +47,7 @@
 		"file": "https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8"
 	},
 	{
-		"title": "QS24",
-		"file": "http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8"
-	},
-	{
-		"title": "Radio 3i (Webradio)",
+		"title": "Radio 3i",
 		"file": "https://livestream.gruppocdt.ch/hls/radio3i.m3u8"
 	},
 	{
@@ -95,44 +75,12 @@
 		"file": "https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/master.m3u8"
 	},
 	{
-		"title": "Tele M1 HD CH",
-		"file": "https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8"
-	},
-	{
-		"title": "TeleBarn",
-		"file": "http://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_0mc3z57p/st/0/t/H7i-ISuONrDR9Xn78tI2iw/index-s32.m3u8"
-	},
-	{
-		"title": "Telebasel",
-		"file": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8"
-	},
-	{
-		"title": "Telebasel HD",
-		"file": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8"
-	},
-	{
 		"title": "TeleBielingue",
-		"file": "https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8"
-	},
-	{
-		"title": "TeleBielingue",
-		"file": "https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8"
+		"file": "[1]https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8,[2]https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8"
 	},
 	{
 		"title": "TeleBärn",
 		"file": "https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8"
-	},
-	{
-		"title": "TeleBärn",
-		"file": "https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index.m3u8"
-	},
-	{
-		"title": "TeleBärn",
-		"file": "https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8"
-	},
-	{
-		"title": "TeleBärn",
-		"file": "https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8"
 	},
 	{
 		"title": "TeleTicino",
