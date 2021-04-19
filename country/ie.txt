@@ -1,51 +1,4 @@
-[{
-		"title": "Committee Room 1",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Committee Room 2",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Committee Room 3",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Committee Room 4",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Dail Eireann",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Seanad Eireann",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Oireachtas Committee Room 1",
-		"file": "https://oirlive.heanet.ie/cr1/ngrp:cr1.stream_all/chunklist_b1228000.m3u8"
-	},
-	{
-		"title": "Oireachtas Committee Room 2",
-		"file": "https://oirlive.heanet.ie/cr2/ngrp:cr2.stream_all/chunklist_b1228000.m3u8"
-	},
-	{
-		"title": "Oireachtas Committee Room 3",
-		"file": "https://oirlive.heanet.ie/cr3/ngrp:cr3.stream_all/chunklist_b1228000.m3u8"
-	},
-	{
-		"title": "Oireachtas Committee Room 4",
-		"file": "https://oirlive.heanet.ie/cr4/ngrp:cr4.stream_all/chunklist_b1228000.m3u8"
-	},
-	{
-		"title": "Oireachtas TV(480p)",
-		"file": "https://d1h8rkqumz239n.cloudfront.net/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8"
-	},
-	{
-		"title": "Oireachtas TV(720p)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8"
-	},
+[
 	{
 		"title": "RTÉ News",
 		"file": "https://live.rte.ie/live/a/channel3/news.isml/news.m3u8"
@@ -61,14 +14,6 @@
 	{
 		"title": "Rugby World TV",
 		"file": "https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8"
-	},
-	{
-		"title": "Setanta Sports 2 Eurasia",
-		"file": "http://ott-cdn.ucom.am/s82/index.m3u8"
-	},
-	{
-		"title": "Setanta Sports Eurasia",
-		"file": "http://ott-cdn.ucom.am/s81/index.m3u8"
 	},
 	{
 		"title": "TG4",
