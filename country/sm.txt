@@ -1,9 +1,9 @@
 [{
-		"title": "San Marino RTV",
+		"title": "RTV",
 		"file": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8"
 	},
 	{
-		"title": "San Marino RTV Sport",
+		"title": "RTV Sport",
 		"file": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8"
 	}
 ]
