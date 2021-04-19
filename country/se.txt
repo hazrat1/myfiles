@@ -7,10 +7,6 @@
 		"file": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8"
 	},
 	{
-		"title": "ATG",
-		"file": "https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8"
-	},
-	{
 		"title": "Di TV",
 		"file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8"
 	},
@@ -33,14 +29,6 @@
 	{
 		"title": "TV1000 World Kino",
 		"file": "http://195.189.105.158:9050/121/index.m3u8"
-	},
-	{
-		"title": "Viasat History Russia",
-		"file": "https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Viasat Sport",
-		"file": "https://persik.by/stream/2944/263250/10249.m3u8"
 	},
 	{
 		"title": "Viasat Sport East",
