@@ -1,102 +1,27 @@
-[{
-		"title": "AnGiangTV",
-		"file": "http://vietcago.net/vstv/angiangtv1.m3u8"
-	},
+[
 	{
 		"title": "ANTV",
 		"file": "http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8"
 	},
 	{
-		"title": "ANTV (480p)",
-		"file": "http://vietcago.net/vstv/antv.m3u8"
-	},
-	{
-		"title": "ANTV HD (576p)",
+		"title": "ANTV HD",
 		"file": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"
 	},
 	{
-		"title": "BenTreTV",
-		"file": "http://vietcago.net/vstv/bentretv.m3u8"
-	},
-	{
-		"title": "BRT (360p)",
+		"title": "BRT",
 		"file": "http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8"
-	},
-	{
-		"title": "Bến Tre",
-		"file": "http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8"
-	},
-	{
-		"title": "Cà Mau TV",
-		"file": "http://tv.ctvcamau.vn/live/tv/tv.m3u8"
 	},
 	{
 		"title": "Da Nang TV1",
 		"file": "http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8"
 	},
 	{
-		"title": "Da Nang TV1 (580p)",
-		"file": "http://vietcago.net/vstv/danangtv1.m3u8"
-	},
-	{
-		"title": "Da Nang TV2",
-		"file": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8"
-	},
-	{
 		"title": "HBTV",
 		"file": "http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8"
 	},
 	{
-		"title": "KhanhHoaTV",
-		"file": "http://vietcago.net/vstv/khanhhoatv.m3u8"
-	},
-	{
-		"title": "KienGiangTV",
-		"file": "http://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
-	},
-	{
-		"title": "KienGiangTV (540p)",
-		"file": "http://vietcago.net/vstv/kiengiangtv.m3u8"
-	},
-	{
-		"title": "KienGiangTV1",
-		"file": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
-	},
-	{
-		"title": "KienGiangTV1 (540p)",
-		"file": "http://vietcago.net/vstv/kiengiangtv1.m3u8"
-	},
-	{
-		"title": "LA34 - Long An",
-		"file": "http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8"
-	},
-	{
-		"title": "LongAnTV (418p)",
-		"file": "http://vietcago.net/vstv/longantv.m3u8"
-	},
-	{
-		"title": "PhuYenTV",
-		"file": "http://vietcago.net/vstv/phuyentv.m3u8"
-	},
-	{
 		"title": "PTP - Phú Yên",
 		"file": "http://113.161.4.48:8080/phuyen/tv.m3u8"
-	},
-	{
-		"title": "QRT",
-		"file": "http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8"
-	},
-	{
-		"title": "QuangNamTV",
-		"file": "http://vietcago.net/vstv/quangnamtv.m3u8"
-	},
-	{
-		"title": "Quốc Hội",
-		"file": "http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8"
-	},
-	{
-		"title": "Tien Giang",
-		"file": "http://thtg.vn:8001/thtg.m3u8"
 	},
 	{
 		"title": "VITV",
