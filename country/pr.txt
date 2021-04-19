@@ -11,10 +11,6 @@
 		"file": "https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8"
 	},
 	{
-		"title": "WIPR",
-		"file": "https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8"
-	},
-	{
 		"title": "WORO-DT",
 		"file": "https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m3u8"
 	},
