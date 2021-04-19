@@ -13,9 +13,5 @@
 	{
 		"title": "RTL Zwee",
 		"file": "https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8"
-	},
-	{
-		"title": "RTL9",
-		"file": "http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8"
 	}
 ]
