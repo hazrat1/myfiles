@@ -1,8 +1,4 @@
 [{
-		"title": "ATV",
-		"file": "https://api.new.livestream.com/accounts/27755193/events/8452381/live.m3u8"
-	},
-	{
 		"title": "Bel RTL",
 		"file": "https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8"
 	},
@@ -12,11 +8,7 @@
 	},
 	{
 		"title": "Canal C",
-		"file": "http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8"
-	},
-	{
-		"title": "Canal C",
-		"file": "https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8"
+		"file": "[1]http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8,[2]https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8"
 	},
 	{
 		"title": "Canal Zoom",
@@ -63,19 +55,7 @@
 		"file": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8"
 	},
 	{
-		"title": "ROB TV",
-		"file": "https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8"
-	},
-	{
 		"title": "RTL-TVi BE",
 		"file": "https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8"
-	},
-	{
-		"title": "TV Oost",
-		"file": "https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8"
-	},
-	{
-		"title": "TVL",
-		"file": "https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8"
 	}
 ]
