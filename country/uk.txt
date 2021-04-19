@@ -7,28 +7,12 @@
 		"file": "https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8"
 	},
 	{
-		"title": "Alaraby TV",
-		"file": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
-	},
-	{
 		"title": "Alhiwar TV",
 		"file": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
 	},
 	{
-		"title": "All Drama",
-		"file": "https://endemol-alldrama-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
 		"title": "BBC Arabic",
 		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8"
-	},
-	{
-		"title": "BBC News",
-		"file": "http://51.52.156.22:8888/http/004"
-	},
-	{
-		"title": "BBC One Scotland",
-		"file": "http://51.52.156.22:8888/http/001"
 	},
 	{
 		"title": "BBC Persian",
@@ -39,28 +23,8 @@
 		"file": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
 	},
 	{
-		"title": "BBC World News UK",
-		"file": "http://ott-cdn.ucom.am/s24/index.m3u8"
-	},
-	{
 		"title": "Beano TV",
 		"file": "https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "Big Names",
-		"file": "https://alchimie-big-names-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "Brit Asia TV",
-		"file": "https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8"
-	},
-	{
-		"title": "CBeebies UK",
-		"file": "http://51.52.156.22:8888/http/003"
-	},
-	{
-		"title": "Channel S",
-		"file": "https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8"
 	},
 	{
 		"title": "Clubbing TV",
@@ -75,36 +39,24 @@
 		"file": "https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Cruise1st TV",
-		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8"
-	},
-	{
 		"title": "Discover.Film",
 		"file": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "Diy Daily",
-		"file": "https://endemol-restore-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "Drama",
 		"file": "https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Dust",
+		"title": "Dust (GB)",
 		"file": "https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Dust",
+		"title": "Dust (UK-CA)",
 		"file": "https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "Edge Sport",
 		"file": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
-	},
-	{
-		"title": "English Club TV",
-		"file": "http://ott-cdn.ucom.am/s37/index.m3u8"
 	},
 	{
 		"title": "Euronews",
@@ -132,10 +84,6 @@
 	},
 	{
 		"title": "FTF",
-		"file": "https://elevensports-samsunguk-ca.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "FTF For the fans",
 		"file": "https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
@@ -149,10 +97,6 @@
 	{
 		"title": "GUSTO TV",
 		"file": "https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "Hala London",
-		"file": "https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8"
 	},
 	{
 		"title": "Horse and Country",
@@ -175,100 +119,24 @@
 		"file": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8"
 	},
 	{
-		"title": "ITV",
-		"file": "https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8"
-	},
-	{
-		"title": "ITV2",
-		"file": "http://51.52.156.22:8888/http/005"
-	},
-	{
-		"title": "ITV3",
-		"file": "http://51.52.156.22:8888/http/006"
-	},
-	{
-		"title": "ITV4",
-		"file": "http://51.52.156.22:8888/http/007"
-	},
-	{
-		"title": "Kanshi TV",
-		"file": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8"
-	},
-	{
-		"title": "Kerrang",
-		"file": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/"
-	},
-	{
 		"title": "Kid Gamer TV",
 		"file": "https://studio71-samsung-uk.amagi.tv/playlist.m3u8"
-	},
-	{
-		"title": "Kiss",
-		"file": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/"
-	},
-	{
-		"title": "Kool London Radio",
-		"file": "http://w10.streamgb.com:1935/kool/kool/playlist.m3u8"
 	},
 	{
 		"title": "Luxe TV",
 		"file": "https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Magic",
-		"file": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/"
-	},
-	{
 		"title": "Manoto TV",
 		"file": "https://d2rwmwucnr0d10.cloudfront.net/live.m3u8"
-	},
-	{
-		"title": "Masters of Food",
-		"file": "https://endemol-mastersoffood-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "Mav TV",
 		"file": "https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "MMA TV",
-		"file": "https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
 		"title": "Movies Central",
 		"file": "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "MTA 1",
-		"file": "https://cflive-emea.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/101593/1lanVtaDE6sCK6v0vDomDayqoKeSal6G/cn/8fb839e3a82045bd99a92ecd9df257e5.m3u8"
-	},
-	{
-		"title": "MTA 1 English",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8"
-	},
-	{
-		"title": "MTA 1 Original",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8"
-	},
-	{
-		"title": "MTA 1 Urdu",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8"
-	},
-	{
-		"title": "MTA 2",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8"
-	},
-	{
-		"title": "MTA 2 Urdu",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8"
-	},
-	{
-		"title": "MTA 3",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8"
-	},
-	{
-		"title": "MTA Africa",
-		"file": "https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8"
 	},
 	{
 		"title": "People are Awesome",
@@ -287,7 +155,7 @@
 		"file": "https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Qello Concerts by Stingray",
+		"title": "Qello",
 		"file": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
@@ -295,7 +163,7 @@
 		"file": "https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8"
 	},
 	{
-		"title": "QUEST TV Jazz and Beyond",
+		"title": "QUEST TV Jazz",
 		"file": "https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8"
 	},
 	{
@@ -309,26 +177,6 @@
 	{
 		"title": "Real Stories",
 		"file": "https://realstories-samsung-uk.amagi.tv/playlist.m3u8"
-	},
-	{
-		"title": "Reel Truth",
-		"file": "https://endemol-reeltruth-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "Sangat Television",
-		"file": "https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8"
-	},
-	{
-		"title": "Sheffield Live TV",
-		"file": "http://tv.sheffieldlive.org/hls/main.m3u8"
-	},
-	{
-		"title": "Sky News",
-		"file": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8"
-	},
-	{
-		"title": "Sky News",
-		"file": "http://skynews-sn-cdhls.ak-cdn.skydvn.com/cdhlsskynews/1404/latest.m3u8"
 	},
 	{
 		"title": "Sky News",
@@ -379,20 +227,12 @@
 		"file": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Tastemade",
-		"file": "https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
 		"title": "Teletubbies",
 		"file": "https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "Tennis Channel (UK)",
 		"file": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
-	},
-	{
-		"title": "The Box UK",
-		"file": "http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/"
 	},
 	{
 		"title": "The Tennis Channel",
@@ -415,20 +255,12 @@
 		"file": "https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Unbeaten",
-		"file": "https://alchimie-unbeaten-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
 		"title": "Unearth",
 		"file": "https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
 		"title": "V2BEAT",
-		"file": "https://abr.de1se01.v2beat.live/playlist.m3u8"
-	},
-	{
-		"title": "V2BEAT",
-		"file": "https://de1se01.v2beat.live/playlist.m3u8"
+		"file": "[1]https://abr.de1se01.v2beat.live/playlist.m3u8,[2]https://de1se01.v2beat.live/playlist.m3u8"
 	},
 	{
 		"title": "Wonder",
