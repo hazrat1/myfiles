@@ -3,20 +3,12 @@
 		"file": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
 	},
 	{
-		"title": "Assemblee Nationale du Quebec",
-		"file": "http://diffusionm3.assnat.qc.ca/canal10/250.sdp/playlist.m3u8"
-	},
-	{
 		"title": "BBC Toronto",
 		"file": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8"
 	},
 	{
 		"title": "Canada One",
 		"file": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
-	},
-	{
-		"title": "Canada Star TV",
-		"file": "http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u"
 	},
 	{
 		"title": "Canadian Arab TV",
@@ -33,10 +25,6 @@
 	{
 		"title": "CBC News Network",
 		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
-	},
-	{
-		"title": "CBC Toronto",
-		"file": "https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8"
 	},
 	{
 		"title": "CPAC",
@@ -57,10 +45,6 @@
 	{
 		"title": "EMCI TV",
 		"file": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8"
-	},
-	{
-		"title": "EWTN Canada",
-		"file": "https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8"
 	},
 	{
 		"title": "EWTN Canada",
@@ -135,10 +119,6 @@
 		"file": "https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
 	},
 	{
-		"title": "Ovation",
-		"file": "https://bozztv.com/teleyupp/teleup-ovation/playlist.m3u8"
-	},
-	{
 		"title": "Pardesi TV",
 		"file": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
 	},
@@ -176,11 +156,7 @@
 	},
 	{
 		"title": "Tamil Vision TV",
-		"file": "http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8"
-	},
-	{
-		"title": "Tamil Vision TV",
-		"file": "http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8"
+		"file": "[SD]http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8,[HD]http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8"
 	},
 	{
 		"title": "Tastemade",
@@ -203,32 +179,12 @@
 		"file": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
 	},
 	{
-		"title": "TV 16 Toronto",
-		"file": "http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8"
-	},
-	{
 		"title": "Télé Culturelle Médias",
 		"file": "https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8"
 	},
 	{
-		"title": "Urdu TV Toronto",
-		"file": "http://cdn4.live247stream.com/urdu/tv/playlist.m3u8"
-	},
-	{
-		"title": "isuma.tv",
-		"file": "http://dee7mwgg9dzvl.cloudfront.net/hls/live640.m3u8"
-	},
-	{
-		"title": "isuma.tv",
-		"file": "http://dee7mwgg9dzvl.cloudfront.net/hls/live720.m3u8"
-	},
-	{
 		"title": "isuma.tv",
 		"file": "http://dee7mwgg9dzvl.cloudfront.net/live.m3u8"
-	},
-	{
-		"title": "VBS",
-		"file": "https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8"
 	},
 	{
 		"title": "Waypoint TV",
