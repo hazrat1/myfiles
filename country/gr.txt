@@ -3,20 +3,12 @@
 		"file": "https://s1.cystream.net/live/34100/playlist.m3u8"
 	},
 	{
-		"title": "4E",
-		"file": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
-	},
-	{
 		"title": "AKRITAS TV HD",
 		"file": "http://akritastv1.flashmediacast.com:1935/akritastv1/livestream/playlist.m3u8"
 	},
 	{
 		"title": "ALERT",
 		"file": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
-	},
-	{
-		"title": "ALFA DRAMAS",
-		"file": "http://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8"
 	},
 	{
 		"title": "ALITEIA TV",
@@ -99,22 +91,6 @@
 		"file": "https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8"
 	},
 	{
-		"title": "Baraza TV Classic",
-		"file": "https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8"
-	},
-	{
-		"title": "Baraza TV Greek",
-		"file": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8"
-	},
-	{
-		"title": "Baraza TV",
-		"file": "https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8"
-	},
-	{
-		"title": "Best TV",
-		"file": "https://s.best-tv.gr/HLS/hls/best/1_2/index.m3u8"
-	},
-	{
 		"title": "CAMERA SMILE",
 		"file": "https://nrpus.bozztv.com/36bay2/gusa-camerasmile/index.m3u8"
 	},
@@ -163,16 +139,8 @@
 		"file": "https://l8.cloudskep.com/digital/dtv/playlist.m3u8"
 	},
 	{
-		"title": "DIKTYO 1",
-		"file": "https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8"
-	},
-	{
 		"title": "DIKTYO TV",
 		"file": "https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8"
-	},
-	{
-		"title": "Diktyo1",
-		"file": "https://www.hellasnet.tv/rest.live.hn/diktyo1r/playlist.m3u8"
 	},
 	{
 		"title": "EGNATIA TV",
@@ -193,58 +161,6 @@
 	{
 		"title": "EPIRUS TV1",
 		"file": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8"
-	},
-	{
-		"title": "EPSILON TV BUP",
-		"file": "https://edge1.mystream.gr/video417338/live/playlist.m3u8"
-	},
-	{
-		"title": "EPT1",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1.m3u8"
-	},
-	{
-		"title": "EPT2",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2.m3u8"
-	},
-	{
-		"title": "EPT3",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3.m3u8"
-	},
-	{
-		"title": "ERT NEWS",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_news/ert_news.m3u8"
-	},
-	{
-		"title": "ERT SPORTS 2",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8"
-	},
-	{
-		"title": "ERT SPORTS 3",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8"
-	},
-	{
-		"title": "ERT SPORTS",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8"
-	},
-	{
-		"title": "ERT WORLD",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8"
-	},
-	{
-		"title": "ERT World",
-		"file": "http://wpso.com:1936/hls/wzra.m3u8"
-	},
-	{
-		"title": "ERT1 HD",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8"
-	},
-	{
-		"title": "ERT2 HD",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8"
-	},
-	{
-		"title": "ERT3 HD",
-		"file": "http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8"
 	},
 	{
 		"title": "ERTA LEX TV",
@@ -275,20 +191,12 @@
 		"file": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8"
 	},
 	{
-		"title": "GALAXY ",
-		"file": "https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/playlist.m3u8"
-	},
-	{
 		"title": "GREEK CINEMA",
 		"file": "https://vdo.alphaserver.gr:3613/stream/play.m3u8"
 	},
 	{
 		"title": "GREEK TV LONDON",
 		"file": "https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8"
-	},
-	{
-		"title": "GREEK VOICE",
-		"file": "http://wpso.com:1936/hls/wzra.m3u8"
 	},
 	{
 		"title": "GROOVY",
@@ -327,14 +235,6 @@
 		"file": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8"
 	},
 	{
-		"title": "Irida TV",
-		"file": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8"
-	},
-	{
-		"title": "KIDS TV",
-		"file": "http://wpso.com:1936/hls/kidshd.m3u8"
-	},
-	{
 		"title": "KONTRA",
 		"file": "http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8"
 	},
@@ -344,11 +244,7 @@
 	},
 	{
 		"title": "Kontra Channel",
-		"file": "http://flashcloud.mediacdn.com/live/kontratv/.m3u8"
-	},
-	{
-		"title": "Kontra Channel",
-		"file": "http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8"
+		"file": "[1]http://flashcloud.mediacdn.com/live/kontratv/.m3u8,[2]http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8"
 	},
 	{
 		"title": "Krete TV",
@@ -375,14 +271,6 @@
 		"file": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8"
 	},
 	{
-		"title": "MARON TV",
-		"file": "https://vdo.streamhost.gr:3499/live/marontvlive.m3u8"
-	},
-	{
-		"title": "MAROUSSIOTIKA TV",
-		"file": "http://maroussiotika.dynu.com:8000/greektv/FZlHCCdBHL1/359142"
-	},
-	{
 		"title": "MESOGEIOS TV",
 		"file": "http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8"
 	},
@@ -407,20 +295,12 @@
 		"file": "https://vdo.alphaserver.gr:3305/stream/play.m3u8"
 	},
 	{
-		"title": "Magic TV",
-		"file": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8"
-	},
-	{
 		"title": "Messinia Web TV",
 		"file": "http://176.9.123.140:1935/messinia/messinia/master.m3u8"
 	},
 	{
 		"title": "Montreal Greek",
 		"file": "http://94.130.180.175:8081/live/greektv/playlist.m3u8"
-	},
-	{
-		"title": "NAXOS TV",
-		"file": "https://til.pp.ua:3713/live/naxostv2live.m3u8"
 	},
 	{
 		"title": "NEA TV",
@@ -432,27 +312,11 @@
 	},
 	{
 		"title": "NG TV",
-		"file": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8"
-	},
-	{
-		"title": "NG",
-		"file": "http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8"
-	},
-	{
-		"title": "NG",
-		"file": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8"
+		"file": "[1]https://live.streams.ovh/NGradio/NGradio/playlist.m3u8,[2]http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8,[3]https://live.streams.ovh/NGradio/NGradio/playlist.m3u8"
 	},
 	{
 		"title": "NOTIOI TV",
 		"file": "https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8"
-	},
-	{
-		"title": "NRG 91",
-		"file": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8"
-	},
-	{
-		"title": "NRG TV",
-		"file": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8"
 	},
 	{
 		"title": "NS TV",
@@ -465,18 +329,6 @@
 	{
 		"title": "OPEN TV BUP",
 		"file": "http://78.83.87.222:9999/play/a013/index.m3u8"
-	},
-	{
-		"title": "OPEN TV HD",
-		"file": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8"
-	},
-	{
-		"title": "ORT TV",
-		"file": "https://vdo.streamhost.gr:3077/live/orttvlive.m3u8"
-	},
-	{
-		"title": "Open TV HD",
-		"file": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8"
 	},
 	{
 		"title": "PANIK TV",
@@ -495,10 +347,6 @@
 		"file": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8"
 	},
 	{
-		"title": "Play TV",
-		"file": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8"
-	},
-	{
 		"title": "RADIO EPISTROFI",
 		"file": "https://s1.cystream.net/live/epistrofi/playlist.m3u8"
 	},
@@ -511,14 +359,6 @@
 		"file": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
 	},
 	{
-		"title": "Reload Play",
-		"file": "http://web.onair-radio.eu:1935/video/video/playlist.m3u8"
-	},
-	{
-		"title": "SAMIAKI TV",
-		"file": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8"
-	},
-	{
 		"title": "SIGMA CY",
 		"file": "https://sl2.sigmatv.com/hls/live.m3u8"
 	},
@@ -527,20 +367,12 @@
 		"file": "http://78.83.87.222:9999/play/a016/index.m3u8"
 	},
 	{
-		"title": "SKAI HD",
-		"file": "https://skai-live.siliconweb.com/media/cambria4/index.m3u8"
-	},
-	{
 		"title": "SMILE TV CY",
 		"file": "https://s1.cystream.net/live/smile/playlist.m3u8"
 	},
 	{
 		"title": "STAR BUP",
 		"file": "http://78.83.87.222:9999/play/a017/index.m3u8"
-	},
-	{
-		"title": "STAR HD",
-		"file": "https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8"
 	},
 	{
 		"title": "START TV",
@@ -559,18 +391,6 @@
 		"file": "http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8"
 	},
 	{
-		"title": "Samiaki TV",
-		"file": "http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8"
-	},
-	{
-		"title": "Skai TV",
-		"file": "https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8"
-	},
-	{
-		"title": "Star",
-		"file": "https://livestar.siliconweb.com/media/s tar1/star1mediumhd.m3u8"
-	},
-	{
 		"title": "Start TV",
 		"file": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
 	},
@@ -579,20 +399,8 @@
 		"file": "https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8"
 	},
 	{
-		"title": "TILEMOUSIKI",
-		"file": "http://wpso.com:1936/hls/music1.m3u8"
-	},
-	{
 		"title": "TOP CHANNEL",
 		"file": "https://s1.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8"
-	},
-	{
-		"title": "TRT TV",
-		"file": "https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8"
-	},
-	{
-		"title": "TRT TV",
-		"file": "https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8"
 	},
 	{
 		"title": "TV 100",
@@ -619,24 +427,8 @@
 		"file": "https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8"
 	},
 	{
-		"title": "TV RODOPI",
-		"file": "https://video.connect4.gr/live/tvrodopi/playlist.m3u8"
-	},
-	{
-		"title": "TV Rodopi",
-		"file": "https://video.connect4.gr/live/tvrodopi/chunklist_w962288216.m3u8"
-	},
-	{
-		"title": "TV100",
-		"file": "https://live.fm100.gr/hls/tv100/index.m3u8"
-	},
-	{
 		"title": "Tilemousiki",
 		"file": "http://iptv1.gripfs.tk:8080/channel/709bb160/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.KzXTu4AXEXc0KBtLr1OMj2VVhkIK3OJeN8fyEW9yEfqM6FYVxqw-URTKK028zIuM-fArvKHG_hW2LevFtPa7ug"
-	},
-	{
-		"title": "Top Channel",
-		"file": "https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8"
 	},
 	{
 		"title": "VOULI TV CY",
@@ -655,18 +447,6 @@
 		"file": "http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8"
 	},
 	{
-		"title": "Vouli",
-		"file": "https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8"
-	},
-	{
-		"title": "Vouli",
-		"file": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8"
-	},
-	{
-		"title": "WZra Kids TV",
-		"file": "http://wpso.com:1936/hls/kidshd.m3u8"
-	},
-	{
 		"title": "Wixlar",
 		"file": "http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8"
 	},
@@ -681,10 +461,6 @@
 	{
 		"title": "Xalastra TV",
 		"file": "https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8"
-	},
-	{
-		"title": "Xplore TV",
-		"file": "http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8"
 	},
 	{
 		"title": "ZOUGLA TV",
