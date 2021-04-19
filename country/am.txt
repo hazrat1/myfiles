@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"title": "Amga",
 		"file": "https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8"
 	},
