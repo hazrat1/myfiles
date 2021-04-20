@@ -7,11 +7,7 @@
 		"file": "https://30a-tv.com/sidewalks.m3u8"
 	},
 	{
-		"title": "4U TV (480p)",
-		"file": "http://live.4ulive.ir/"
-	},
-	{
-		"title": "7Star TV (576p)",
+		"title": "7Star TV",
 		"file": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8"
 	},
 	{
@@ -21,10 +17,6 @@
 	{
 		"title": "9 Волна",
 		"file": "http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8"
-	},
-	{
-		"title": "9 Волна",
-		"file": "https://strm.yandex.ru/kal/acb/acb0.m3u8"
 	},
 	{
 		"title": "A&E (Best of)",
@@ -39,7 +31,7 @@
 		"file": "https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8"
 	},
 	{
-		"title": "Amrita TV (576p)",
+		"title": "Amrita TV",
 		"file": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8"
 	},
 	{
@@ -51,23 +43,11 @@
 		"file": "https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8"
 	},
 	{
-		"title": "CCTV中国中央电视台-3 综艺",
-		"file": "http://117.169.120.140:8080/live/cctv-3/.m3u8"
-	},
-	{
-		"title": "CCTV中国中央电视台-3 综艺",
-		"file": "http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8"
-	},
-	{
-		"title": "CCTV中国中央电视台-3 综艺",
-		"file": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
-	},
-	{
-		"title": "DD Malayalam (576p)",
+		"title": "DD Malayalam",
 		"file": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8"
 	},
 	{
-		"title": "DD National (576p)",
+		"title": "DD National",
 		"file": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"
 	},
 	{
@@ -91,67 +71,27 @@
 		"file": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8"
 	},
 	{
-		"title": "Flowers TV (576p)",
+		"title": "Flowers TV",
 		"file": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8"
 	},
 	{
-		"title": "GEM 24b [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM Arabia [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM AZ [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM Maxx [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM Mifa [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8"
-	},
-	{
-		"title": "GEM Nature [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM Property [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM River [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "GEM Travel [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8"
-	},
-	{
-		"title": "HD Медиа",
-		"file": "https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8"
-	},
-	{
-		"title": "ITN TV (480p)",
+		"title": "ITN TV",
 		"file": "https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8"
 	},
 	{
-		"title": "Jaihind TV (576p)",
+		"title": "Jaihind TV",
 		"file": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8"
 	},
 	{
-		"title": "Janam TV (240p)",
+		"title": "Janam TV",
 		"file": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8"
 	},
 	{
-		"title": "KairaliTv.in,Kairali TV (576p)",
+		"title": "Kairali TV",
 		"file": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8"
 	},
 	{
-		"title": "Kairali We (576p)",
+		"title": "Kairali We",
 		"file": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8"
 	},
 	{
@@ -159,7 +99,7 @@
 		"file": "https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8"
 	},
 	{
-		"title": "Kaumudy TV (360p)",
+		"title": "Kaumudy TV",
 		"file": "https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8"
 	},
 	{
@@ -175,44 +115,20 @@
 		"file": "https://d2rwmwucnr0d10.cloudfront.net/live.m3u8"
 	},
 	{
-		"title": "Manoto TV",
-		"file": "https://d2rwmwucnr0d10.cloudfront.net/live.m3u8"
-	},
-	{
 		"title": "Mazhavil Manorama HD",
 		"file": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8"
 	},
 	{
-		"title": "MK TV (576p)",
+		"title": "MK TV",
 		"file": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8"
-	},
-	{
-		"title": "Modern Economy [Geo-blocked]",
-		"file": "https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8"
 	},
 	{
 		"title": "MTV",
 		"file": "https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
 	},
 	{
-		"title": "MTV (Latin America) (480p)",
-		"file": "http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8"
-	},
-	{
 		"title": "MTV Norge",
 		"file": "https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
-	},
-	{
-		"title": "NewTV未来电视 金牌综艺",
-		"file": "http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8"
-	},
-	{
-		"title": "ocean,Ocean TV",
-		"file": "https://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0.m3u8"
-	},
-	{
-		"title": "Parsiland TV",
-		"file": "http://vps.parsiland.net/hls/ParsiLand.m3u8"
 	},
 	{
 		"title": "Payam Javan TV",
@@ -235,24 +151,12 @@
 		"file": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8"
 	},
 	{
-		"title": "Velicham (360p)",
+		"title": "Velicham",
 		"file": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8"
 	},
 	{
 		"title": "WOW TV",
-		"file": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8"
-	},
-	{
-		"title": "WOW TV",
-		"file": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8"
-	},
-	{
-		"title": "WOW TV",
-		"file": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8"
-	},
-	{
-		"title": "Young Hollywood",
-		"file": "https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8"
+		"file": "[1]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8,[2]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8,[3]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8"
 	},
 	{
 		"title": "YourTime TV",
@@ -264,18 +168,10 @@
 	},
 	{
 		"title": "Ратник",
-		"file": "http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8"
+		"file": "[1]http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8,[2]https://online-video.rbc.ru/online/rbctv.m3u8"
 	},
 	{
-		"title": "Ратник (576p)",
-		"file": "https://online-video.rbc.ru/online/rbctv.m3u8"
-	},
-	{
-		"title": "ТНТ International",
-		"file": "http://ott-cdn.ucom.am/s19/04.m3u8"
-	},
-	{
-		"title": "ಕಸ್ತೂರಿ ಕನ್ನಡ Kasthuri (576p)",
+		"title": "Kasthuri TV",
 		"file": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8"
 	}
 ]
