@@ -1,18 +1,7 @@
-[{
-		"title": "13 Max",
-		"file": "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8"
-	},
+[
 	{
 		"title": "24/7 Canal de Noticias",
-		"file": "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"
-	},
-	{
-		"title": "24/7 Canal de Noticias",
-		"file": "https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8"
-	},
-	{
-		"title": "5RTV Santa Fe",
-		"file": "https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8"
+		"file": "[1]http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8,[2]https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8"
 	},
 	{
 		"title": "5TV Corrientes",
@@ -23,14 +12,6 @@
 		"file": "http://45.6.4.50:50601/America_Tucuman/video.m3u8"
 	},
 	{
-		"title": "América",
-		"file": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8"
-	},
-	{
-		"title": "América",
-		"file": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
-	},
-	{
 		"title": "Argentinísima Satelital",
 		"file": "http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8"
 	},
@@ -39,24 +20,8 @@
 		"file": "https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8"
 	},
 	{
-		"title": "Canal 17 Milenium Salta",
-		"file": "https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8"
-	},
-	{
 		"title": "Canal 2 Telpin",
 		"file": "https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Canal 26",
-		"file": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8"
-	},
-	{
-		"title": "Canal 26",
-		"file": "http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8"
-	},
-	{
-		"title": "Canal 26",
-		"file": "https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8"
 	},
 	{
 		"title": "Canal 26",
@@ -77,10 +42,6 @@
 	{
 		"title": "Canal 9 Televida Mendoza",
 		"file": "https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8"
-	},
-	{
-		"title": "Canal Acequia",
-		"file": "https://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8"
 	},
 	{
 		"title": "Canal Mar del Plata",
@@ -112,63 +73,27 @@
 	},
 	{
 		"title": "Garage TV",
-		"file": "http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8"
-	},
-	{
-		"title": "Garage TV",
 		"file": "http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8"
 	},
 	{
 		"title": "Multivisión Federal",
-		"file": "http://panel.dattalive.com:1935/8250/8250/.m3u8"
-	},
-	{
-		"title": "Multivisión Federal",
-		"file": "http://panel.dattalive.com:1935/8250/8250/playlist.m3u8"
+		"file": "[1]http://panel.dattalive.com:1935/8250/8250/.m3u8,[2]http://panel.dattalive.com:1935/8250/8250/playlist.m3u8"
 	},
 	{
 		"title": "MusicTop",
 		"file": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8"
 	},
 	{
-		"title": "MusicTop",
-		"file": "http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8"
-	},
-	{
 		"title": "Net TV",
 		"file": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8"
-	},
-	{
-		"title": "Net TV",
-		"file": "https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8"
-	},
-	{
-		"title": "Radio vinculos",
-		"file": "https://srv.panelcast.net/hitsonlinetv/hitsonlinetv/chunklist_w2017014010.m3u8"
-	},
-	{
-		"title": "Radio vinculos",
-		"file": "https://srv.panelcast.net/hitsonlinetv/hitsonlinetv/playlist.m3u8"
 	},
 	{
 		"title": "Rio Negro",
 		"file": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8"
 	},
 	{
-		"title": "Rio Negro",
-		"file": "https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8"
-	},
-	{
 		"title": "RTN Neuquén",
 		"file": "http://media.neuquen.gov.ar/rtn/television/media.m3u8"
-	},
-	{
-		"title": "T5 Satelital",
-		"file": "https://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8"
-	},
-	{
-		"title": "TDC Online",
-		"file": "https://5d305ce2c243a.streamlock.net/tdconline/tdconline/chunklist_w249799893.m3u8"
 	},
 	{
 		"title": "Telefe Rosario",
