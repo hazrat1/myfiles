@@ -7,20 +7,8 @@
 		"file": "http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8"
 	},
 	{
-		"title": "Cali TV",
-		"file": "https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8"
-	},
-	{
 		"title": "Canal 2",
-		"file": "https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8"
-	},
-	{
-		"title": "Canal 2",
-		"file": "https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8"
-	},
-	{
-		"title": "Canal 8 Teleenvigado",
-		"file": "http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8"
+		"file": "[360]https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8,[720]https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8"
 	},
 	{
 		"title": "Canal Capital",
@@ -33,10 +21,6 @@
 	{
 		"title": "Canal CNC Pasto",
 		"file": "http://66.240.236.25:1936/cncpasto/cncpasto/playlist.m3u8"
-	},
-	{
-		"title": "Canal Doce",
-		"file": "https://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8"
 	},
 	{
 		"title": "Canal Visión Dorada",
@@ -55,44 +39,16 @@
 		"file": "http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8"
 	},
 	{
-		"title": "Oasis TV",
-		"file": "https://5b50404ec5e4c.streamlock.net/8500/8500/playlist.m3u8"
-	},
-	{
 		"title": "Suram",
 		"file": "https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8"
 	},
 	{
-		"title": "Tele Antioquia",
-		"file": "https://api.new.livestream.com/accounts/9427524/events/9218517/live.m3u8"
-	},
-	{
-		"title": "Tele VID",
-		"file": "https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8"
-	},
-	{
 		"title": "Telecaribe",
-		"file": "https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8"
-	},
-	{
-		"title": "Telecaribe",
-		"file": "https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/3296k/index.m3u8"
-	},
-	{
-		"title": "Telecaribe",
-		"file": "https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8"
+		"file": "[1]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8,[2]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8,[3]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/3296k/index.m3u8"
 	},
 	{
 		"title": "Telecaribe Deportes 2",
-		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8"
-	},
-	{
-		"title": "Telecaribe Deportes 2",
-		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8"
-	},
-	{
-		"title": "Telecaribe Deportes 2",
-		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8"
+		"file": "[1]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8,[2]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8,[3]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8"
 	},
 	{
 		"title": "Teleislas",
@@ -109,13 +65,5 @@
 	{
 		"title": "UAO Play",
 		"file": "https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8"
-	},
-	{
-		"title": "Win Sports+",
-		"file": "http://latinoamericatv.vip:3334/Kaka/Kaka/1385"
-	},
-	{
-		"title": "Win Sports+",
-		"file": "http://saypopular.com:25461/oscar/20gar/52853"
 	}
 ]
