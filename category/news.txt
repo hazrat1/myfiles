@@ -1,1453 +1,342 @@
-[{
-		"title": "100% News",
-		"file": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
-	},
-	{
-		"title": "101TV Malaga",
-		"file": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8"
-	},
-	{
-		"title": "112 Україна",
-		"file": "https://app.live.112.events/hls-ua/112hd_mid/index.m3u8"
-	},
-	{
-		"title": "112 Україна",
-		"file": "https://app.live.112.events/hls/112hd_hi/index.m3u8"
-	},
-	{
-		"title": "112 Україна",
-		"file": "https://app.live.112.events/hls/112hd_mid/index.m3u8"
-	},
-	{
-		"title": "24/7 Canal de Noticias",
-		"file": "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"
-	},
-	{
-		"title": "3/24",
-		"file": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8"
-	},
-	{
-		"title": "3News Now (KMTV-TV)",
-		"file": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8"
-	},
-	{
-		"title": "92 News",
-		"file": "https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
-	},
-	{
-		"title": "Aaj Tak",
-		"file": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
-	},
-	{
-		"title": "Aaj Tak (576p)",
-		"file": "https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8"
-	},
-	{
-		"title": "ABC Albania",
-		"file": "https://tv2.abcnews.al/live/abcnews/chunks.m3u8"
-	},
-	{
-		"title": "ABC Albania",
-		"file": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8"
-	},
-	{
-		"title": "ABC News",
-		"file": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
-	},
-	{
-		"title": "ABP Ananda",
-		"file": "https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8"
-	},
-	{
-		"title": "ABP Asmita",
-		"file": "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8"
-	},
-	{
-		"title": "ABP Asmita (324p)",
-		"file": "https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8"
-	},
-	{
-		"title": "ABP Majha",
-		"file": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8"
-	},
-	{
-		"title": "ABP News (324p)",
-		"file": "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8"
-	},
-	{
-		"title": "ABP News",
-		"file": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"
-	},
-	{
-		"title": "ACV News",
-		"file": "https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8"
-	},
-	{
-		"title": "AKD Calcutta News (540p)",
-		"file": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8"
-	},
-	{
-		"title": "Al Alam (576p)",
-		"file": "https://live2.alalamtv.net/alalam.m3u8"
-	},
-	{
-		"title": "Al Arabiya",
-		"file": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
-	},
-	{
-		"title": "Al Arabiya",
-		"file": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"
-	},
-	{
-		"title": "Al Ekhbariya",
-		"file": "https://iptv--iptv.repl.co/Arabic/Ekhbariyah/"
-	},
-	{
-		"title": "Al Hadath TV",
-		"file": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"
-	},
-	{
-		"title": "Al Hadath TV",
-		"file": "https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8"
-	},
-	{
-		"title": "Al Hurra (486p)",
-		"file": "https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
-	},
-	{
-		"title": "Al Hurra (486p)",
-		"file": "https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
-	},
-	{
-		"title": "Al Hurra Iraq",
-		"file": "https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8"
-	},
-	{
-		"title": "Al Iraqiya Al 3ama",
-		"file": "http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"
-	},
-	{
-		"title": "Al Iraqiya News",
-		"file": "http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"
-	},
-	{
-		"title": "Al Jazeera",
-		"file": "https://live-hls-web-aje.getaj.net/AJE/04.m3u8"
-	},
-	{
-		"title": "Al Jazeera Arabic (480p)",
-		"file": "http://ott-cdn.ucom.am/s69/index.m3u8"
-	},
-	{
-		"title": "Al Jazeera Arabic",
-		"file": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
-	},
-	{
-		"title": "Al Jazeera Balkans",
-		"file": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8"
-	},
-	{
-		"title": "Al Jazeera English (480p)",
-		"file": "http://ott-cdn.ucom.am/s23/index.m3u8"
-	},
-	{
-		"title": "Al Jazeera English",
-		"file": "https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8"
-	},
-	{
-		"title": "Al Jazeera English",
-		"file": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"
-	},
-	{
-		"title": "Al Jazeera English",
-		"file": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
-	},
-	{
-		"title": "Al Jazeera Mubasher",
-		"file": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"
-	},
-	{
-		"title": "Al Manar (576p)",
-		"file": "https://manar.live/x.smil/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Al Masirah",
-		"file": "https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8"
-	},
-	{
-		"title": "Al Masirah Mubacher (642p)",
-		"file": "https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8"
-	},
-	{
-		"title": "Al Mayadeen (576p)",
-		"file": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Al Rafidain (1024p)",
-		"file": "https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8"
-	},
-	{
-		"title": "Al Rafidain HQ (1024p)",
-		"file": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8"
-	},
-	{
-		"title": "Al Sharqiya News (450p)",
-		"file": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
-	},
-	{
-		"title": "Al Yaum TV",
-		"file": "https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8"
-	},
-	{
-		"title": "Alaraby TV",
-		"file": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Alghad Almushreq",
-		"file": "http://82.212.74.3:8000/live/7512.m3u8"
-	},
-	{
-		"title": "Amar Ujala (360p)",
-		"file": "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"
-	},
-	{
-		"title": "ARB 24",
-		"file": "http://85.132.81.184:8080/arb24/live1/index.m3u8"
-	},
-	{
-		"title": "Asianet News (576p)",
-		"file": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8"
-	},
-	{
-		"title": "Asianet News",
-		"file": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"
-	},
-	{
-		"title": "Asianet News Bangla",
-		"file": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8"
-	},
-	{
-		"title": "Asianet News Kannada",
-		"file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8"
-	},
-	{
-		"title": "Asianet News Tamil",
-		"file": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8"
-	},
-	{
-		"title": "Assam Talks (240p)",
-		"file": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"
-	},
-	{
-		"title": "Australia Channel",
-		"file": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8"
-	},
-	{
-		"title": "Bayon TV (360p)",
-		"file": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8"
-	},
-	{
-		"title": "Bayon TV (360p)",
-		"file": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8"
-	},
-	{
-		"title": "BBC Arabic",
-		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8"
-	},
-	{
-		"title": "BBC News",
-		"file": "http://51.52.156.22:8888/http/004"
-	},
-	{
-		"title": "BBC Persian",
-		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8"
-	},
-	{
-		"title": "BBC World News (576p)",
-		"file": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
-	},
-	{
-		"title": "BBC World News (480p)",
-		"file": "http://ott-cdn.ucom.am/s24/index.m3u8"
-	},
-	{
-		"title": "BBC World News(英国)",
-		"file": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd"
-	},
-	{
-		"title": "Berita RTM",
-		"file": "https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8"
-	},
-	{
-		"title": "BeritaSatu",
-		"file": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"
-	},
-	{
-		"title": "BeritaSatu",
-		"file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
-	},
-	{
-		"title": "BeritaSatu",
-		"file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8"
-	},
-	{
-		"title": "BeritaSatu",
-		"file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8"
-	},
-	{
-		"title": "BeritaSatu English",
-		"file": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8"
-	},
-	{
-		"title": "Bloomberg(美国)",
-		"file": "https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"
-	},
-	{
-		"title": "Brut.",
-		"file": "https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8"
-	},
-	{
-		"title": "Brut.",
-		"file": "https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8"
-	},
-	{
-		"title": "Bulgaria On Air (576p)",
-		"file": "http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8"
-	},
-	{
-		"title": "Bulgaria On Air (576p)",
-		"file": "http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8"
-	},
-	{
-		"title": "Canal 24 horas (576p)",
-		"file": "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8"
-	},
-	{
-		"title": "Canal 26 (360p)",
-		"file": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8"
-	},
-	{
-		"title": "Canal 26",
-		"file": "http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8"
-	},
-	{
-		"title": "Canal 26 (360p)",
-		"file": "https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8"
-	},
-	{
-		"title": "Canal 26",
-		"file": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8"
-	},
-	{
-		"title": "CBC News",
-		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8"
-	},
-	{
-		"title": "CBC News Network",
-		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
-	},
-	{
-		"title": "CBN Rio",
-		"file": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8"
-	},
-	{
-		"title": "CBN São Paulo",
-		"file": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8"
-	},
-	{
-		"title": "CBS News",
-		"file": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
-	},
-	{
-		"title": "CBS News",
-		"file": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile"
-	},
-	{
-		"title": "CBS News Boston",
-		"file": "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT"
-	},
-	{
-		"title": "CBS News Los Angeles",
-		"file": "https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT"
-	},
-	{
-		"title": "CBSN",
-		"file": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8"
-	},
-	{
-		"title": "CBSN (360p)",
-		"file": "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
-	},
-	{
-		"title": "CBSN",
-		"file": "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8"
-	},
-	{
-		"title": "CBSN",
-		"file": "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8"
-	},
-	{
-		"title": "CBSN",
-		"file": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"
-	},
-	{
-		"title": "CBSN New York",
-		"file": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8"
-	},
-	{
-		"title": "CBSN New York (180p)",
-		"file": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_12.m3u8"
-	},
-	{
-		"title": "CCTV中国中央电视台-13 新闻",
-		"file": "http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8"
-	},
-	{
-		"title": "CCTV中国中央电视台-13 新闻",
-		"file": "http://117.169.120.140:8080/live/cctv-13/.m3u8"
-	},
-	{
-		"title": "CCTV中国中央电视台-13 新闻",
-		"file": "http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8"
-	},
-	{
-		"title": "CGTN",
-		"file": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
-	},
-	{
-		"title": "CGTN Documentary(中国)",
-		"file": "https://livedoc.cgtn.com/1000d/prog_index.m3u8"
-	},
-	{
-		"title": "CGTN(中国)",
-		"file": "https://live.cgtn.com/1000/prog_index.m3u8"
-	},
-	{
-		"title": "Channel 2 News",
-		"file": "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
-	},
-	{
-		"title": "Cheddar",
-		"file": "https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8"
-	},
-	{
-		"title": "Cheddar Big News",
-		"file": "https://live.chdrstatic.com/cbn/index.m3u8"
-	},
-	{
-		"title": "Cheddar Big News",
-		"file": "https://live.chdrstatic.com/cbn/primary/index.m3u8"
-	},
-	{
-		"title": "CNA (576p)",
-		"file": "http://210.210.155.35/uq2663/h/h29/index.m3u8"
-	},
-	{
-		"title": "CNA",
-		"file": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-	},
-	{
-		"title": "CNA",
-		"file": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
-	},
-	{
-		"title": "CNBC Bajar",
-		"file": "https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8"
-	},
-	{
-		"title": "CNN",
-		"file": "http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8"
-	},
-	{
-		"title": "CNN (576p)",
-		"file": "http://203.162.235.41:16918"
-	},
-	{
-		"title": "CNN Indonesia",
-		"file": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
-	},
-	{
-		"title": "CNN International",
-		"file": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "CNN International (美国)",
-		"file": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd"
-	},
-	{
-		"title": "CNN Türk",
-		"file": "http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
-	},
-	{
-		"title": "CNN(美国)",
-		"file": "http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "CNN-News18",
-		"file": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8"
-	},
-	{
-		"title": "DBC News",
-		"file": "https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw"
-	},
-	{
-		"title": "DD National (480p)",
-		"file": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8"
-	},
-	{
-		"title": "DD News (576p)",
-		"file": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"
-	},
-	{
-		"title": "Di TV",
-		"file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8"
-	},
-	{
-		"title": "Dijlah",
-		"file": "http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Dijlah (576p)",
-		"file": "https://ghaasiflu.online/Dijlah/index.m3u8"
-	},
-	{
-		"title": "Dunya News (360p)",
-		"file": "https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8"
-	},
-	{
-		"title": "Dunya News (360p)",
-		"file": "https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8"
-	},
-	{
-		"title": "DW",
-		"file": "http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8"
-	},
-	{
-		"title": "DW (480p)",
-		"file": "http://ott-cdn.ucom.am/s26/index.m3u8"
-	},
-	{
-		"title": "DW (400p)",
-		"file": "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8"
-	},
-	{
-		"title": "DW (400p)",
-		"file": "https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8"
-	},
-	{
-		"title": "DW (400p)",
-		"file": "https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8"
-	},
-	{
-		"title": "DW Arabic (400p)",
-		"file": "https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8"
-	},
-	{
-		"title": "DW English",
-		"file": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8"
-	},
-	{
-		"title": "DW English (400p)",
-		"file": "https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8"
-	},
-	{
-		"title": "DW English (400p)",
-		"file": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8"
-	},
-	{
-		"title": "DW English",
-		"file": "https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8"
-	},
-	{
-		"title": "DW Español (400p)",
-		"file": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8"
-	},
-	{
-		"title": "DW(德国)",
-		"file": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8"
-	},
-	{
-		"title": "Echorouk News (240p)",
-		"file": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8"
-	},
-	{
-		"title": "Entertainment Tonight",
-		"file": "https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"
-	},
-	{
-		"title": "Euronews Italiano",
-		"file": "https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "Euronews по-русски (480p)",
-		"file": "http://ott-cdn.ucom.am/s89/index.m3u8"
-	},
-	{
-		"title": "Exitosa Noticias",
-		"file": "https://cu.onliv3.com/livevd1/user2.m3u8"
-	},
-	{
-		"title": "Expressen TV",
-		"file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8"
-	},
-	{
-		"title": "Eye 95 America",
-		"file": "https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8"
-	},
-	{
-		"title": "Fox News",
-		"file": "https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8"
-	},
-	{
-		"title": "FOX News Now",
-		"file": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"
-	},
-	{
-		"title": "Fox News Now",
-		"file": "https://lnc-fox-news-now.tubi.video/index.m3u8"
-	},
-	{
-		"title": "Fox News Radio (192p)",
-		"file": "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8"
-	},
-	{
-		"title": "Fox News(美国)",
-		"file": "http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "France 24",
-		"file": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8"
-	},
-	{
-		"title": "France 24 Arabic (576p)",
-		"file": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8"
-	},
-	{
-		"title": "France 24 Arabic (576p)",
-		"file": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"
-	},
-	{
-		"title": "France 24 English (576p)",
-		"file": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
-	},
-	{
-		"title": "France 24 English (576p)",
-		"file": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
-	},
-	{
-		"title": "France 24 French (576p)",
-		"file": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
-	},
-	{
-		"title": "Free Speech TV (480p)",
-		"file": "https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8"
-	},
-	{
-		"title": "Futurism",
-		"file": "https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8"
-	},
-	{
-		"title": "Global News",
-		"file": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-	},
-	{
-		"title": "Global Punjab",
-		"file": "https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8"
-	},
-	{
-		"title": "GMA News TV International",
-		"file": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8"
-	},
-	{
-		"title": "Halab Today TV",
-		"file": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8"
-	},
-	{
-		"title": "Halab Today TV",
-		"file": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8"
-	},
-	{
-		"title": "HispanTV",
-		"file": "https://live.presstv.com/live/smil:live.smil/playlist.m3u8"
-	},
-	{
-		"title": "HUMRAAZ TV",
-		"file": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
-	},
-	{
-		"title": "Ici RDI",
-		"file": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
-	},
-	{
-		"title": "IDG",
-		"file": "https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8"
-	},
-	{
-		"title": "IGN",
-		"file": "https://ign-plex.amagi.tv/playlist.m3u8"
-	},
-	{
-		"title": "India News (480p)",
-		"file": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"
-	},
-	{
-		"title": "India Today",
-		"file": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8"
-	},
-	{
-		"title": "iNews",
-		"file": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8"
-	},
-	{
-		"title": "Infowars",
-		"file": "http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8"
-	},
-	{
-		"title": "InfoWars",
-		"file": "https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8"
-	},
-	{
-		"title": "Iran International",
-		"file": "https://live.playstop.me/LS-63503-4/index.m3u8"
-	},
-	{
-		"title": "Jamahiria TV",
-		"file": "https://master.starmena-cloud.com/hls/jam.m3u8"
-	},
-	{
-		"title": "Kairali News (576p)",
-		"file": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8"
-	},
-	{
-		"title": "KCPQ Fox Q13 Seattle",
-		"file": "https://lnc-kcpq-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "KDFW Fox 4 Dallas-FT-Worth",
-		"file": "https://lnc-kdfw-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "Khabrain Abhi Tak (360p)",
-		"file": "https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/playlist.m3u8"
-	},
-	{
-		"title": "Khyber News TV (414p)",
-		"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8"
-	},
-	{
-		"title": "KMSP Fox 9 Minneapolis ST Paul",
-		"file": "https://lnc-kmsp-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "KRIV Fox 26 Houston",
-		"file": "https://lnc-kriv-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "KTBC Fox 7 Austin",
-		"file": "https://lnc-ktbc-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "KTTV Fox 11 Los Angeles",
-		"file": "https://lnc-kttv-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "KTVU Fox 2 San Francisco",
-		"file": "https://lnc-ktvu-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "KZAS Fox 10 Phoenix",
-		"file": "https://lnc-ksaz-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "Libya 218",
-		"file": "https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Libya 218 News",
-		"file": "http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Libya 218 News",
-		"file": "https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Libya Al Ahrar TV",
-		"file": "https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Libya Al Hadath",
-		"file": "https://master.starmena-cloud.com/hls/hd.m3u8"
-	},
-	{
-		"title": "Libya Channel",
-		"file": "https://master.starmena-cloud.com/hls/libyas.m3u8"
-	},
-	{
-		"title": "LN24",
-		"file": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"
-	},
-	{
-		"title": "M24 TV HD",
-		"file": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8"
-	},
-	{
-		"title": "Malaimurasu (480p)",
-		"file": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Mangalam TV (576p)",
-		"file": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8"
-	},
-	{
-		"title": "Manorama News (576p)",
-		"file": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8"
-	},
-	{
-		"title": "Mathrubhumi News (576p)",
-		"file": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8"
-	},
-	{
-		"title": "Medi 1 TV Afrique",
-		"file": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8"
-	},
-	{
-		"title": "Medi 1 TV Arabic",
-		"file": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8"
-	},
-	{
-		"title": "Medi 1 TV Maghreb",
-		"file": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8"
-	},
-	{
-		"title": "Media One (576p)",
-		"file": "http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8"
-	},
-	{
-		"title": "Media One",
-		"file": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8"
-	},
-	{
-		"title": "Mekameleen TV",
-		"file": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
-	},
-	{
-		"title": "METRO TV",
-		"file": "http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8"
-	},
-	{
-		"title": "METRO TV",
-		"file": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
-	},
-	{
-		"title": "Mihan TV",
-		"file": "https://iptv.mihantv.com/live/playlist1/index.m3u8"
-	},
-	{
-		"title": "MVM Noticias (Oaxaca)",
-		"file": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8"
-	},
-	{
-		"title": "Nabaa TV",
-		"file": "http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8"
-	},
-	{
-		"title": "Nabaa TV (480p)",
-		"file": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8"
-	},
-	{
-		"title": "NBC News Now",
-		"file": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
-	},
-	{
-		"title": "NDTV (480p)",
-		"file": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"
-	},
-	{
-		"title": "NDTV 24X7 (480p)",
-		"file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
-	},
-	{
-		"title": "NDTV 24x7 (480p)",
-		"file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"
-	},
-	{
-		"title": "NDTV India (480p)",
-		"file": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"
-	},
-	{
-		"title": "News 18 Assam",
-		"file": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Bengali",
-		"file": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Chhattisgarh",
-		"file": "https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Gujarati",
-		"file": "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Hindi",
-		"file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Jharkhand",
-		"file": "https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Malayalam",
-		"file": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Odia",
-		"file": "https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Punjab",
-		"file": "https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Rajasthan",
-		"file": "https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Tamil",
-		"file": "https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Urdu",
-		"file": "https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 18 Uttarakhand",
-		"file": "https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "News 24 (576p)",
-		"file": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"
-	},
-	{
-		"title": "News 24 (480p)",
-		"file": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8"
-	},
-	{
-		"title": "News 24 (360p)",
-		"file": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8"
-	},
-	{
-		"title": "News1",
-		"file": "http://news1.live14.com/stream/news1.m3u8"
-	},
-	{
-		"title": "News18 Assam",
-		"file": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8"
-	},
-	{
-		"title": "News18 India",
-		"file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8"
-	},
-	{
-		"title": "News18 Lokmat",
-		"file": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8"
-	},
-	{
-		"title": "Newsmax",
-		"file": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
-	},
-	{
-		"title": "Newsy",
-		"file": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8"
-	},
-	{
-		"title": "Newsy",
-		"file": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb"
-	},
-	{
-		"title": "Newsy",
-		"file": "https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8"
-	},
-	{
-		"title": "Newvision",
-		"file": "https://master.starmena-cloud.com/hls/newv.m3u8"
-	},
-	{
-		"title": "NHK Chinese Vision",
-		"file": "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
-	},
-	{
-		"title": "NHK World Japan",
-		"file": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
-	},
-	{
-		"title": "NHK World Japan",
-		"file": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
-	},
-	{
-		"title": "NPO Nieuws (576p)",
-		"file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/.m3u8"
-	},
-	{
-		"title": "NTV",
-		"file": "http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8"
-	},
-	{
-		"title": "NTV",
-		"file": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8"
-	},
-	{
-		"title": "NTV News24 (480p)",
-		"file": "https://www.news24.jp/livestream/index.m3u8"
-	},
-	{
-		"title": "OAN Encore",
-		"file": "https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8"
-	},
-	{
-		"title": "OANN One America News Network",
-		"file": "http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8"
-	},
-	{
-		"title": "One America News",
-		"file": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8"
-	},
-	{
-		"title": "Palestine Today (480p)",
-		"file": "https://live.paltoday.tv/paltv/live/playlist.m3u8"
-	},
-	{
-		"title": "Palitra News",
-		"file": "https://live.palitranews.ge/hls/palitratv/index.m3u8"
-	},
-	{
-		"title": "Palitra News",
-		"file": "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
-	},
-	{
-		"title": "Pratidin Time (360p)",
-		"file": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8"
-	},
-	{
-		"title": "Press TV English",
-		"file": "https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8"
-	},
-	{
-		"title": "Publika TV",
-		"file": "http://livebeta.publika.md/LIVE/P/6810.m3u8"
-	},
-	{
-		"title": "Publika TV",
-		"file": "https://livebeta.publika.md/LIVE/P/1000.m3u8"
-	},
-	{
-		"title": "Publika TV",
-		"file": "https://livebeta.publika.md/LIVE/P/1500.m3u8"
-	},
-	{
-		"title": "Rai News 24 (576p)",
-		"file": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001"
-	},
-	{
-		"title": "Rai News 24 (576p)",
-		"file": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"
-	},
-	{
-		"title": "Reporter TV (576p)",
-		"file": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8"
-	},
-	{
-		"title": "RT",
-		"file": "http://rt-news.secure.footprint.net:80/1103.m3u8"
-	},
-	{
-		"title": "RT America (480p)",
-		"file": "http://ott-cdn.ucom.am/s96/index.m3u8"
-	},
-	{
-		"title": "RT America",
-		"file": "http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live"
-	},
-	{
-		"title": "RT America",
-		"file": "https://rt-news-gd.secure2.footprint.net/1103.m3u8"
-	},
-	{
-		"title": "RT America",
-		"file": "https://rt-news.secure.footprint.net/1103.m3u8"
-	},
-	{
-		"title": "RT America",
-		"file": "https://rt-usa-gd.secure2.footprint.net/1105.m3u8"
-	},
-	{
-		"title": "RT America",
-		"file": "https://rt-usa.secure.footprint.net/1105.m3u8"
-	},
-	{
-		"title": "RT America",
-		"file": "https://uiptv.do.am/1ufc/702424953/playlist.m3u8"
-	},
-	{
-		"title": "RT Arabic",
-		"file": "https://rt-arab-gd.secure2.footprint.net/1104.m3u8"
-	},
-	{
-		"title": "RT Arabic",
-		"file": "https://rt-arab.secure.footprint.net/1104.m3u8"
-	},
-	{
-		"title": "RT en Español",
-		"file": "https://rt-esp.secure.footprint.net/1102.m3u8"
-	},
-	{
-		"title": "RT France",
-		"file": "https://rt-france.secure.footprint.net/1107.m3u8?streamType=live"
-	},
-	{
-		"title": "RT UK",
-		"file": "https://rt-uk-gd.secure2.footprint.net/1106.m3u8"
-	},
-	{
-		"title": "RT UK",
-		"file": "https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live"
-	},
-	{
-		"title": "RT(俄罗斯)",
-		"file": "http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8"
-	},
-	{
-		"title": "RTP3 [not 24/7]",
-		"file": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
-	},
-	{
-		"title": "RTÉ News",
-		"file": "https://live.rte.ie/live/a/channel3/news.isml/news.m3u8"
-	},
-	{
-		"title": "Rudaw TV",
-		"file": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
-	},
-	{
-		"title": "Sky News [Geo-blocked]",
-		"file": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8"
-	},
-	{
-		"title": "Sky News [Geo-blocked]",
-		"file": "http://skynews-sn-cdhls.ak-cdn.skydvn.com/cdhlsskynews/1404/latest.m3u8"
-	},
-	{
-		"title": "Sky News",
-		"file": "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true"
-	},
-	{
-		"title": "Sky News Arabia",
-		"file": "https://stream.skynewsarabia.com/hls/sna.m3u8"
-	},
-	{
-		"title": "Sky News Extra 1 (576p)",
-		"file": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
-	},
-	{
-		"title": "Sky News Extra 2 (540p)",
-		"file": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
-	},
-	{
-		"title": "Sky News Extra 3 (540p)",
-		"file": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
-	},
-	{
-		"title": "STIRR 2020 LIVE",
-		"file": "https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8"
-	},
-	{
-		"title": "STIRR COVID-19 NEWS",
-		"file": "https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8"
-	},
-	{
-		"title": "SubRang TV",
-		"file": "https://cdn61.liveonlineservices.com/hls/subrang.m3u8"
-	},
-	{
-		"title": "Suhail TV",
-		"file": "http://82.212.74.98:8000/live/hls/7726.m3u8"
-	},
-	{
-		"title": "Syrian News Channel (270p)",
-		"file": "http://82.137.248.16:1935/Snews/stream14042021/playlist.m3u8"
-	},
-	{
-		"title": "TAG TV",
-		"file": "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8"
-	},
-	{
-		"title": "TeleSUR English",
-		"file": "https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8"
-	},
-	{
-		"title": "TGCom 24 [Geo-blocked]",
-		"file": "https://live2-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8"
-	},
-	{
-		"title": "Thanthi TV",
-		"file": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8"
-	},
-	{
-		"title": "The Wall Street Journal Live",
-		"file": "https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa"
-	},
-	{
-		"title": "The Weather Channel",
-		"file": "https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "Times Now HD (480p)",
-		"file": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8"
-	},
-	{
-		"title": "TR24 (480p)",
-		"file": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
-	},
-	{
-		"title": "TRT Arabi",
-		"file": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
-	},
-	{
-		"title": "TRT Haber",
-		"file": "https://tv-trthaber.live.trt.com.tr/master.m3u8"
-	},
-	{
-		"title": "TRT World",
-		"file": "https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8"
-	},
-	{
-		"title": "TRT World",
-		"file": "https://tv-trtworld.live.trt.com.tr/master.m3u8"
-	},
-	{
-		"title": "TRT World(土耳其)",
-		"file": "https://tv-trtworld.live.trt.com.tr/master_1080.m3u8"
-	},
-	{
-		"title": "TV Guará",
-		"file": "https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8"
-	},
-	{
-		"title": "TV Perú Noticias",
-		"file": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8"
-	},
-	{
-		"title": "TV Perú Noticias",
-		"file": "https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8"
-	},
-	{
-		"title": "TV Seventeen",
-		"file": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8"
-	},
-	{
-		"title": "TVBS新聞",
-		"file": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8"
-	},
-	{
-		"title": "TVRI",
-		"file": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8"
-	},
-	{
-		"title": "Twenty Four News (576p)",
-		"file": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8"
-	},
-	{
-		"title": "UN Web TV (540p)",
-		"file": "https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8"
-	},
-	{
-		"title": "Unews (360p)",
-		"file": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8"
-	},
-	{
-		"title": "VoA Persian",
-		"file": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8"
-	},
-	{
-		"title": "VoA TV",
-		"file": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8"
-	},
-	{
-		"title": "VoA TV",
-		"file": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"
-	},
-	{
-		"title": "WAGA Fox 5 Atlanta",
-		"file": "https://lnc-waga-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "Weather Channel",
-		"file": "https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "Weather Nation",
-		"file": "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8"
-	},
-	{
-		"title": "WFLD FOX 32 Chicago",
-		"file": "https://lnc-wfld-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "WITI Fox 6 Milwaukee",
-		"file": "https://lnc-witi-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "WJBK Fox 2 Detroit",
-		"file": "https://lnc-wjbk-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "WSJ",
-		"file": "https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8"
-	},
-	{
-		"title": "WSVN Fox 7 Miami",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8"
-	},
-	{
-		"title": "WTTG Fox 5 Washington DC",
-		"file": "https://lnc-wttg-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "WTVT Fox 13 Tampa Bay",
-		"file": "https://lnc-wtvt-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "WTXF Fox 29 Philadelphia",
-		"file": "https://lnc-wtxf-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "WYNY Fox 5 New York",
-		"file": "https://lnc-wnyw-fox-aws.tubi.video/index.m3u8"
-	},
-	{
-		"title": "Евроновости",
-		"file": "https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8"
-	},
-	{
-		"title": "Известия",
-		"file": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
-	},
-	{
-		"title": "Известия",
-		"file": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"
-	},
-	{
-		"title": "Мир 24",
-		"file": "http://188.40.68.167/russia/mir24/playlist.m3u8"
-	},
-	{
-		"title": "Мир 24",
-		"file": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
-	},
-	{
-		"title": "Мир 24",
-		"file": "https://sc.id-tv.kz/Mir24.m3u8"
-	},
-	{
-		"title": "Мир 24",
-		"file": "https://sc.id-tv.kz/Mir24_38_39.m3u8"
-	},
-	{
-		"title": "ОТВ 24",
-		"file": "https://strm.yandex.ru/kal/otv24/otv240.m3u8"
-	},
-	{
-		"title": "Россия 24",
-		"file": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8"
-	},
-	{
-		"title": "Россия 24 (480p)",
-		"file": "http://ott-cdn.ucom.am/s21/index.m3u8"
-	},
-	{
-		"title": "Россия 24",
-		"file": "http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8"
-	},
-	{
-		"title": "Россия 24",
-		"file": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"
-	},
-	{
-		"title": "Україна 24",
-		"file": "http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8"
-	},
-	{
-		"title": "Україна 24",
-		"file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8"
-	},
-	{
-		"title": "Україна 24",
-		"file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "ಟಿವಿ೯ ಕನ್ನಡ TV9",
-		"file": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8"
-	},
-	{
-		"title": "ದಿಗ್ವಿಜಯ ಸುದ್ದಿ Dighvijay",
-		"file": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"
-	},
-	{
-		"title": "ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ News 18",
-		"file": "https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on"
-	},
-	{
-		"title": "ಸುವರ್ಣ ಸುದ್ದಿ 24×7 Suvarna (360p)",
-		"file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8"
-	},
-	{
-		"title": "三立新聞",
-		"file": "http://seb.sason.top/sc/sllive_fhd.m3u8"
-	},
-	{
-		"title": "中天新聞",
-		"file": "http://seb.sason.top/sc/ztxw_fhd.m3u8"
-	},
-	{
-		"title": "中視新聞",
-		"file": "http://seb.sason.top/sc/zsxw_fhd.m3u8"
-	},
-	{
-		"title": "台視新聞",
-		"file": "http://seb.sason.top/sc/tsxw_fhd.m3u8"
-	},
-	{
-		"title": "壹電視新聞台",
-		"file": "http://stream.nexttv.com.tw/n001/hd/live.m3u8"
-	},
-	{
-		"title": "東森新聞",
-		"file": "http://seb.sason.top/sc/dsxw_fhd.m3u8"
-	},
-	{
-		"title": "東森財經新聞",
-		"file": "http://seb.sason.top/sc/dscjxw_fhd.m3u8"
-	},
-	{
-		"title": "民視新聞台",
-		"file": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"
-	},
-	{
-		"title": "港台電視32 (480p)",
-		"file": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"
-	},
-	{
-		"title": "澳門資訊",
-		"file": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8"
-	},
-	{
-		"title": "華視新聞資訊",
-		"file": "http://seb.sason.top/sc/hsxw_fhd.m3u8"
-	},
-	{
-		"title": "鳳凰衛視資訊台HD",
-		"file": "http://117.169.120.138:8080/live/fhzixun/.m3u8"
-	}
+[
+{"title": "100% News","file": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"},
+{"title": "101TV Malaga","file": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8"},
+{"title": "112 Україна","file": "https://app.live.112.events/hls-ua/112hd_mid/index.m3u8"},
+{"title": "112 Україна","file": "https://app.live.112.events/hls/112hd_hi/index.m3u8"},
+{"title": "112 Україна","file": "https://app.live.112.events/hls/112hd_mid/index.m3u8"},
+{"title": "24/7 Canal de Noticias","file": "http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8"},
+{"title": "24×7 Suvarna Kannada","file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8"},
+{"title": "3/24","file": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8"},
+{"title": "3News Now (KMTV-TV)","file": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8"},
+{"title": "92 News","file": "https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"},
+{"title": "ABC Albania","file": "https://tv2.abcnews.al/live/abcnews/chunks.m3u8"},
+{"title": "ABC Albania","file": "https://tv2.abcnews.al/live/abcnews/playlist.m3u8"},
+{"title": "ABC News","file": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"},
+{"title": "ABP Ananda","file": "https://d3pnfn2zxtq6km.cloudfront.net/out/v1/c77a35d9d4f74371a3cf0f214a9eb8c0/index.m3u8"},
+{"title": "ABP Asmita","file": "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8"},
+{"title": "ABP Asmita","file": "https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8"},
+{"title": "ABP Majha","file": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8"},
+{"title": "ABP News","file": "http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8"},
+{"title": "ABP News","file": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8"},
+{"title": "ACV News","file": "https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8"},
+{"title": "AKD Calcutta News","file": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8"},
+{"title": "ARB 24","file": "http://85.132.81.184:8080/arb24/live1/index.m3u8"},
+{"title": "Aaj Tak","file": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"},
+{"title": "Aaj Tak","file": "https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8"},
+{"title": "Al Alam","file": "https://live2.alalamtv.net/alalam.m3u8"},
+{"title": "Al Arabiya","file": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"},
+{"title": "Al Arabiya","file": "https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8"},
+{"title": "Al Hadath TV","file": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8"},
+{"title": "Al Hadath TV","file": "https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8"},
+{"title": "Al Hurra Iraq","file": "https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8"},
+{"title": "Al Hurra","file": "https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"},
+{"title": "Al Hurra","file": "https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"},
+{"title": "Al Iraqiya Al 3ama","file": "http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8"},
+{"title": "Al Iraqiya News","file": "http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8"},
+{"title": "Al Jazeera Arabic","file": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"},
+{"title": "Al Jazeera Balkans","file": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8"},
+{"title": "Al Jazeera English","file": "https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8"},
+{"title": "Al Jazeera English","file": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8"},
+{"title": "Al Jazeera English","file": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"},
+{"title": "Al Jazeera Mubasher","file": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8"},
+{"title": "Al Jazeera","file": "https://live-hls-web-aje.getaj.net/AJE/04.m3u8"},
+{"title": "Al Manar","file": "https://manar.live/x.smil/tracks-v1a1/mono.m3u8"},
+{"title": "Al Masirah Mubacher (642p)","file": "https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8"},
+{"title": "Al Masirah","file": "https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8"},
+{"title": "Al Mayadeen","file": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"},
+{"title": "Al Rafidain HQ","file": "http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8"},
+{"title": "Al Rafidain","file": "https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8"},
+{"title": "Al Sharqiya News","file": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"},
+{"title": "Al Yaum TV","file": "https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8"},
+{"title": "Alaraby TV","file": "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8"},
+{"title": "Alghad Almushreq","file": "http://82.212.74.3:8000/live/7512.m3u8"},
+{"title": "Amar Ujala","file": "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8"},
+{"title": "Asianet News Bangla","file": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8"},
+{"title": "Asianet News Kannada","file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8"},
+{"title": "Asianet News Tamil","file": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8"},
+{"title": "Asianet News","file": "http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8"},
+{"title": "Asianet News","file": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"},
+{"title": "Assam Talks","file": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8"},
+{"title": "Australia Channel","file": "https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8"},
+{"title": "BBC Arabic","file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8"},
+{"title": "BBC Persian","file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8"},
+{"title": "BBC World News","file": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"},
+{"title": "Bayon TV","file": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8"},
+{"title": "Bayon TV","file": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8"},
+{"title": "Berita RTM","file": "https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8"},
+{"title": "BeritaSatu English","file": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8"},
+{"title": "BeritaSatu","file": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8"},
+{"title": "BeritaSatu","file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"},
+{"title": "BeritaSatu","file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8"},
+{"title": "BeritaSatu","file": "https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8"},
+{"title": "Bloomberg(美国)","file": "https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8"},
+{"title": "Brut.","file": "https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8"},
+{"title": "Brut.","file": "https://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8"},
+{"title": "Bulgaria On Air","file": "http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8"},
+{"title": "Bulgaria On Air","file": "http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8"},
+{"title": "CBC News Network","file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"},
+{"title": "CBC News","file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8"},
+{"title": "CBN Rio","file": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8"},
+{"title": "CBN São Paulo","file": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8"},
+{"title": "CBS News Boston","file": "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT"},
+{"title": "CBS News Los Angeles","file": "https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT"},
+{"title": "CBS News","file": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"},
+{"title": "CBS News","file": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile"},
+{"title": "CBSN New York (180p)","file": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_12.m3u8"},
+{"title": "CBSN New York","file": "https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8"},
+{"title": "CBSN","file": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8"},
+{"title": "CBSN","file": "https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"},
+{"title": "CBSN","file": "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8"},
+{"title": "CBSN","file": "https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8"},
+{"title": "CBSN","file": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8"},
+{"title": "CGTN Documentary(中国)","file": "https://livedoc.cgtn.com/1000d/prog_index.m3u8"},
+{"title": "CGTN","file": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"},
+{"title": "CGTN(中国)","file": "https://live.cgtn.com/1000/prog_index.m3u8"},
+{"title": "CNA","file": "http://210.210.155.35/uq2663/h/h29/index.m3u8"},
+{"title": "CNA","file": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"},
+{"title": "CNA","file": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"},
+{"title": "CNBC Bajar","file": "https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8"},
+{"title": "CNN Indonesia","file": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"},
+{"title": "CNN International","file": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8"},
+{"title": "CNN Türk","file": "http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"},
+{"title": "CNN","file": "http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8"},
+{"title": "CNN(美国)","file": "http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8"},
+{"title": "CNN-News18","file": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8"},
+{"title": "Canal 24 horas","file": "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8"},
+{"title": "Canal 26","file": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8"},
+{"title": "Canal 26","file": "http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8"},
+{"title": "Canal 26","file": "https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8"},
+{"title": "Canal 26","file": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8"},
+{"title": "Channel 2 News","file": "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"},
+{"title": "Cheddar Big News","file": "https://live.chdrstatic.com/cbn/index.m3u8"},
+{"title": "Cheddar Big News","file": "https://live.chdrstatic.com/cbn/primary/index.m3u8"},
+{"title": "Cheddar","file": "https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8"},
+{"title": "DBC News","file": "https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw"},
+{"title": "DD National","file": "https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8"},
+{"title": "DD News","file": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"},
+{"title": "DW Arabic","file": "https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8"},
+{"title": "DW English","file": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8"},
+{"title": "DW English","file": "https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8"},
+{"title": "DW English","file": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8"},
+{"title": "DW English","file": "https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8"},
+{"title": "DW Español","file": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8"},
+{"title": "DW","file": "http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8"},
+{"title": "DW","file": "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8"},
+{"title": "DW","file": "https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/master.m3u8"},
+{"title": "DW","file": "https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8"},
+{"title": "DW(德国)","file": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8"},
+{"title": "Di TV","file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8"},
+{"title": "Dighvijay Kannada","file": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"},
+{"title": "Dijlah","file": "http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8"},
+{"title": "Dijlah","file": "https://ghaasiflu.online/Dijlah/index.m3u8"},
+{"title": "Dunya News","file": "https://imob.dunyanews.tv/live/_definst_/dunyalive_1/playlist.m3u8"},
+{"title": "Dunya News","file": "https://imob.dunyanews.tv/live/_definst_/ngrp:dunyalive_1_all/chunklist.m3u8"},
+{"title": "Echorouk News","file": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8"},
+{"title": "Entertainment Tonight","file": "https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8"},
+{"title": "Euronews Italiano","file": "https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8"},
+{"title": "Exitosa Noticias","file": "https://cu.onliv3.com/livevd1/user2.m3u8"},
+{"title": "Expressen TV","file": "https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8"},
+{"title": "Eye 95 America","file": "https://cdn20.liveonlineservices.com/hls/eye95tv.m3u8"},
+{"title": "FOX News Now","file": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"},
+{"title": "Fox News Now","file": "https://lnc-fox-news-now.tubi.video/index.m3u8"},
+{"title": "Fox News Radio (192p)","file": "https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8"},
+{"title": "Fox News","file": "https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8"},
+{"title": "Fox News(美国)","file": "http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8"},
+{"title": "France 24 Arabic","file": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8"},
+{"title": "France 24 Arabic","file": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8"},
+{"title": "France 24 English","file": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"},
+{"title": "France 24 English","file": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"},
+{"title": "France 24 French","file": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"},
+{"title": "France 24","file": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8"},
+{"title": "Free Speech TV","file": "https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8"},
+{"title": "Futurism","file": "https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8"},
+{"title": "GMA News TV International","file": "http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8"},
+{"title": "Global News","file": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"},
+{"title": "Global Punjab","file": "https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8"},
+{"title": "HUMRAAZ TV","file": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"},
+{"title": "Halab Today TV","file": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8"},
+{"title": "Halab Today TV","file": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8"},
+{"title": "HispanTV","file": "https://live.presstv.com/live/smil:live.smil/playlist.m3u8"},
+{"title": "IDG","file": "https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8"},
+{"title": "IGN","file": "https://ign-plex.amagi.tv/playlist.m3u8"},
+{"title": "Ici RDI","file": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"},
+{"title": "India News","file": "https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8"},
+{"title": "India Today","file": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8"},
+{"title": "InfoWars","file": "https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8"},
+{"title": "Infowars","file": "http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8"},
+{"title": "Iran International","file": "https://live.playstop.me/LS-63503-4/index.m3u8"},
+{"title": "Jamahiria TV","file": "https://master.starmena-cloud.com/hls/jam.m3u8"},
+{"title": "KCPQ Fox Q13 Seattle","file": "https://lnc-kcpq-fox-aws.tubi.video/index.m3u8"},
+{"title": "KDFW Fox 4 Dallas-FT-Worth","file": "https://lnc-kdfw-fox-aws.tubi.video/index.m3u8"},
+{"title": "KMSP Fox 9 Minneapolis ST Paul","file": "https://lnc-kmsp-fox-aws.tubi.video/index.m3u8"},
+{"title": "KRIV Fox 26 Houston","file": "https://lnc-kriv-fox-aws.tubi.video/index.m3u8"},
+{"title": "KTBC Fox 7 Austin","file": "https://lnc-ktbc-fox-aws.tubi.video/index.m3u8"},
+{"title": "KTTV Fox 11 Los Angeles","file": "https://lnc-kttv-fox-aws.tubi.video/index.m3u8"},
+{"title": "KTVU Fox 2 San Francisco","file": "https://lnc-ktvu-fox-aws.tubi.video/index.m3u8"},
+{"title": "KZAS Fox 10 Phoenix","file": "https://lnc-ksaz-fox-aws.tubi.video/index.m3u8"},
+{"title": "Kairali News","file": "http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8"},
+{"title": "Khabrain Abhi Tak","file": "https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live2/playlist.m3u8"},
+{"title": "Khyber News TV (414p)","file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8"},
+{"title": "LN24","file": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8"},
+{"title": "Libya 218 News","file": "http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8"},
+{"title": "Libya 218 News","file": "https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8"},
+{"title": "Libya 218","file": "https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8"},
+{"title": "Libya Al Ahrar TV","file": "https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8"},
+{"title": "Libya Al Hadath","file": "https://master.starmena-cloud.com/hls/hd.m3u8"},
+{"title": "Libya Channel","file": "https://master.starmena-cloud.com/hls/libyas.m3u8"},
+{"title": "M24 TV HD","file": "http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8"},
+{"title": "METRO TV","file": "http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8"},
+{"title": "METRO TV","file": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"},
+{"title": "MVM Noticias (Oaxaca)","file": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8"},
+{"title": "Malaimurasu","file": "https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8"},
+{"title": "Mangalam TV","file": "http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8"},
+{"title": "Manorama News","file": "http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8"},
+{"title": "Mathrubhumi News","file": "http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8"},
+{"title": "Medi 1 TV Afrique","file": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8"},
+{"title": "Medi 1 TV Arabic","file": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8"},
+{"title": "Medi 1 TV Maghreb","file": "https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8"},
+{"title": "Media One","file": "http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8"},
+{"title": "Media One","file": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8"},
+{"title": "Mekameleen TV","file": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"},
+{"title": "Mihan TV","file": "https://iptv.mihantv.com/live/playlist1/index.m3u8"},
+{"title": "NBC News Now","file": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"},
+{"title": "NDTV 24X7","file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"},
+{"title": "NDTV 24x7","file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"},
+{"title": "NDTV India","file": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8"},
+{"title": "NDTV","file": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"},
+{"title": "NHK Chinese Vision","file": "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"},
+{"title": "NHK World Japan","file": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"},
+{"title": "NHK World Japan","file": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"},
+{"title": "NPO Nieuws","file": "http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/thematv/journaal24/journaal24.isml/.m3u8"},
+{"title": "NTV News24","file": "https://www.news24.jp/livestream/index.m3u8"},
+{"title": "NTV","file": "http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8"},
+{"title": "NTV","file": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8"},
+{"title": "Nabaa TV","file": "http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8"},
+{"title": "Nabaa TV","file": "https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8"},
+{"title": "News 18 Assam","file": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Bengali","file": "https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Chhattisgarh","file": "https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Gujarati","file": "https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Hindi","file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Jharkhand","file": "https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Malayalam","file": "https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Odia","file": "https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Punjab","file": "https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Rajasthan","file": "https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Tamil","file": "https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Urdu","file": "https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Uttarakhand","file": "https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 18 Kannada","file": "https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on"},
+{"title": "News 24","file": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"},
+{"title": "News 24","file": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8"},
+{"title": "News 24","file": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/playlist.m3u8"},
+{"title": "News1","file": "http://news1.live14.com/stream/news1.m3u8"},
+{"title": "News18 Assam","file": "https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8"},
+{"title": "News18 India","file": "https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8"},
+{"title": "News18 Lokmat","file": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8"},
+{"title": "Newsmax","file": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"},
+{"title": "Newsy","file": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8"},
+{"title": "Newsy","file": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb"},
+{"title": "Newsy","file": "https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8"},
+{"title": "Newvision","file": "https://master.starmena-cloud.com/hls/newv.m3u8"},
+{"title": "OAN Encore","file": "https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8"},
+{"title": "OANN One America News Network","file": "http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8"},
+{"title": "One America News","file": "https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8"},
+{"title": "Palestine Today","file": "https://live.paltoday.tv/paltv/live/playlist.m3u8"},
+{"title": "Palitra News","file": "https://live.palitranews.ge/hls/palitratv/index.m3u8"},
+{"title": "Palitra News","file": "https://livestream.palitra.ge/hls/palitratv/index.m3u8"},
+{"title": "Pratidin Time","file": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8"},
+{"title": "Press TV English","file": "https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8"},
+{"title": "Publika TV","file": "http://livebeta.publika.md/LIVE/P/6810.m3u8"},
+{"title": "Publika TV","file": "https://livebeta.publika.md/LIVE/P/1000.m3u8"},
+{"title": "Publika TV","file": "https://livebeta.publika.md/LIVE/P/1500.m3u8"},
+{"title": "RT America","file": "http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live"},
+{"title": "RT America","file": "https://rt-news-gd.secure2.footprint.net/1103.m3u8"},
+{"title": "RT America","file": "https://rt-news.secure.footprint.net/1103.m3u8"},
+{"title": "RT America","file": "https://rt-usa-gd.secure2.footprint.net/1105.m3u8"},
+{"title": "RT America","file": "https://rt-usa.secure.footprint.net/1105.m3u8"},
+{"title": "RT America","file": "https://uiptv.do.am/1ufc/702424953/playlist.m3u8"},
+{"title": "RT Arabic","file": "https://rt-arab-gd.secure2.footprint.net/1104.m3u8"},
+{"title": "RT Arabic","file": "https://rt-arab.secure.footprint.net/1104.m3u8"},
+{"title": "RT France","file": "https://rt-france.secure.footprint.net/1107.m3u8?streamType=live"},
+{"title": "RT UK","file": "https://rt-uk-gd.secure2.footprint.net/1106.m3u8"},
+{"title": "RT UK","file": "https://rt-uk.secure.footprint.net/1106.m3u8?streamType=live"},
+{"title": "RT en Español","file": "https://rt-esp.secure.footprint.net/1102.m3u8"},
+{"title": "RT","file": "http://rt-news.secure.footprint.net:80/1103.m3u8"},
+{"title": "RT(俄罗斯)","file": "http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8"},
+{"title": "RTP3 [not 24/7]","file": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"},
+{"title": "RTÉ News","file": "https://live.rte.ie/live/a/channel3/news.isml/news.m3u8"},
+{"title": "Rai News 24","file": "https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001"},
+{"title": "Rai News 24","file": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8"},
+{"title": "Reporter TV","file": "http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8"},
+{"title": "Rudaw TV","file": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"},
+{"title": "STIRR 2020 LIVE","file": "https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8"},
+{"title": "STIRR COVID-19 NEWS","file": "https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8"},
+{"title": "Sky News Arabia","file": "https://stream.skynewsarabia.com/hls/sna.m3u8"},
+{"title": "Sky News Extra 1","file": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"},
+{"title": "Sky News Extra 2","file": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"},
+{"title": "Sky News Extra 3","file": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"},
+{"title": "Sky News","file": "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true"},
+{"title": "SubRang TV","file": "https://cdn61.liveonlineservices.com/hls/subrang.m3u8"},
+{"title": "Suhail TV","file": "http://82.212.74.98:8000/live/hls/7726.m3u8"},
+{"title": "Syrian News Channel","file": "http://82.137.248.16:1935/Snews/stream14042021/playlist.m3u8"},
+{"title": "TAG TV","file": "https://cdn30.liveonlineservices.com/hls/tagtv.m3u8"},
+{"title": "TR24","file": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"},
+{"title": "TRT Arabi","file": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"},
+{"title": "TRT Haber","file": "https://tv-trthaber.live.trt.com.tr/master.m3u8"},
+{"title": "TRT World","file": "https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8"},
+{"title": "TRT World","file": "https://tv-trtworld.live.trt.com.tr/master.m3u8"},
+{"title": "TRT World(土耳其)","file": "https://tv-trtworld.live.trt.com.tr/master_1080.m3u8"},
+{"title": "TV Guará","file": "https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8"},
+{"title": "TV Perú Noticias","file": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8"},
+{"title": "TV Perú Noticias","file": "https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8"},
+{"title": "TV Seventeen","file": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8"},
+{"title": "TV9 Kannada","file": "https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8"},
+{"title": "TVBS新聞","file": "http://seb.sason.top/sc/tvbsxw_fhd.m3u8"},
+{"title": "TVRI","file": "http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8"},
+{"title": "TeleSUR English","file": "https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8"},
+{"title": "Thanthi TV","file": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8"},
+{"title": "The Wall Street Journal Live","file": "https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8?player=powa"},
+{"title": "The Weather Channel","file": "https://weather-lh.akamaihd.net/i/twc_1@92006/index_1200_av-p.m3u8?sd=10&rebase=on"},
+{"title": "Times Now HD","file": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8"},
+{"title": "Twenty Four News","file": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8"},
+{"title": "UN Web TV","file": "https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8"},
+{"title": "Unews","file": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8"},
+{"title": "VoA Persian","file": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8"},
+{"title": "VoA TV","file": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8"},
+{"title": "VoA TV","file": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"},
+{"title": "WAGA Fox 5 Atlanta","file": "https://lnc-waga-fox-aws.tubi.video/index.m3u8"},
+{"title": "WFLD FOX 32 Chicago","file": "https://lnc-wfld-fox-aws.tubi.video/index.m3u8"},
+{"title": "WITI Fox 6 Milwaukee","file": "https://lnc-witi-fox-aws.tubi.video/index.m3u8"},
+{"title": "WJBK Fox 2 Detroit","file": "https://lnc-wjbk-fox-aws.tubi.video/index.m3u8"},
+{"title": "WSJ","file": "https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8"},
+{"title": "WSVN Fox 7 Miami","file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8"},
+{"title": "WTTG Fox 5 Washington DC","file": "https://lnc-wttg-fox-aws.tubi.video/index.m3u8"},
+{"title": "WTVT Fox 13 Tampa Bay","file": "https://lnc-wtvt-fox-aws.tubi.video/index.m3u8"},
+{"title": "WTXF Fox 29 Philadelphia","file": "https://lnc-wtxf-fox-aws.tubi.video/index.m3u8"},
+{"title": "WYNY Fox 5 New York","file": "https://lnc-wnyw-fox-aws.tubi.video/index.m3u8"},
+{"title": "Weather Channel","file": "https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on"},
+{"title": "Weather Nation","file": "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8"},
+{"title": "iNews","file": "https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8"},
+{"title": "Известия","file": "http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"},
+{"title": "Известия","file": "https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8"},
+{"title": "Мир 24","file": "http://188.40.68.167/russia/mir24/playlist.m3u8"},
+{"title": "Мир 24","file": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"},
+{"title": "Россия 24","file": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8"},
+{"title": "Россия 24","file": "http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8"},
+{"title": "Россия 24","file": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"},
+{"title": "Україна 24","file": "http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8"},
+{"title": "Україна 24","file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8"},
+{"title": "Україна 24","file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"},
+{"title": "三立新聞","file": "http://seb.sason.top/sc/sllive_fhd.m3u8"},
+{"title": "中天新聞","file": "http://seb.sason.top/sc/ztxw_fhd.m3u8"},
+{"title": "中視新聞","file": "http://seb.sason.top/sc/zsxw_fhd.m3u8"},
+{"title": "台視新聞","file": "http://seb.sason.top/sc/tsxw_fhd.m3u8"},
+{"title": "壹電視新聞台","file": "http://stream.nexttv.com.tw/n001/hd/live.m3u8"},
+{"title": "東森新聞","file": "http://seb.sason.top/sc/dsxw_fhd.m3u8"},
+{"title": "東森財經新聞","file": "http://seb.sason.top/sc/dscjxw_fhd.m3u8"},
+{"title": "民視新聞台","file": "https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8"},
+{"title": "港台電視32","file": "https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8"},
+{"title": "澳門資訊","file": "http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8"},
+{"title": "華視新聞資訊","file": "http://seb.sason.top/sc/hsxw_fhd.m3u8"}
 ]
