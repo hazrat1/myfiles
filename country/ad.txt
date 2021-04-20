@@ -8,10 +8,6 @@
 	},
 	{
 		"title": "RTVA",
-		"file": "http://videos.rtva.ad:1935/live/web/playlist.m3u8"
-	},
-	{
-		"title": "RTVA",
-		"file": "https://videos.rtva.ad/live/rtva/playlist.m3u8"
+		"file": "[1]http://videos.rtva.ad:1935/live/web/playlist.m3u8,[2]https://videos.rtva.ad/live/rtva/playlist.m3u8"
 	}
 ]
