@@ -11,28 +11,12 @@
 		"file": "https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8"
 	},
 	{
-		"title": "Black Widow TV (480p)",
-		"file": "https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8"
-	},
-	{
-		"title": "Blush Romance TV (480p)",
-		"file": "https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8"
-	},
-	{
-		"title": "E! USA",
-		"file": "http://supertexasiptv.ddns.net:8000/bktv.xyz/qLqJNcj9rd/91"
-	},
-	{
-		"title": "Kappa TV (576p)",
+		"title": "Kappa TV",
 		"file": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8"
 	},
 	{
 		"title": "Live Live",
 		"file": "https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8"
-	},
-	{
-		"title": "NBCLX",
-		"file": "https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8"
 	},
 	{
 		"title": "NBCLX",
