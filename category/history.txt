@@ -1,4 +1,5 @@
-[{
+[
+{
 	"title": "Viasat History Russia",
 	"file": "https://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8"
 }]
