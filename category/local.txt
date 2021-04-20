@@ -11,11 +11,11 @@
 		"file": "https://30a-tv.com/my999.m3u8"
 	},
 	{
-		"title": "7 Televisión Región de Murcia (360p)",
+		"title": "7 Televisión Murcia",
 		"file": "https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8"
 	},
 	{
-		"title": "7News Boston (WHDH) (540p)",
+		"title": "7News Boston (WHDH)",
 		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8"
 	},
 	{
@@ -23,7 +23,7 @@
 		"file": "https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8"
 	},
 	{
-		"title": "ABC 2 Baton Rouge LA (WBRZ-HD)",
+		"title": "ABC 2 Baton Rouge LA",
 		"file": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8"
 	},
 	{
@@ -43,10 +43,6 @@
 		"file": "https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8"
 	},
 	{
-		"title": "ABC 9 Orlando FL (WFTV-HD)",
-		"file": "https://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8"
-	},
-	{
 		"title": "Akaku 53 (Hawaii)",
 		"file": "https://akaku.vod.castus.tv/live/ch1.m3u8"
 	},
@@ -57,14 +53,6 @@
 	{
 		"title": "Akaku 55 (Hawaii)",
 		"file": "https://akaku.vod.castus.tv/live/ch3.m3u8"
-	},
-	{
-		"title": "Alabama: Birmingham",
-		"file": "https://dai.google.com/linear/hls/event/4RH6FntvSLOIv5FB-p4I8w/master.m3u8"
-	},
-	{
-		"title": "Alabama: Mobile",
-		"file": "https://dai.google.com/linear/hls/event/-V3XSvA2Sa6e8h7cnHXB8w/master.m3u8"
 	},
 	{
 		"title": "Albany | CBS 6 WRGB",
@@ -79,22 +67,6 @@
 		"file": "http://45.6.4.50:50601/America_Tucuman/video.m3u8"
 	},
 	{
-		"title": "América",
-		"file": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8"
-	},
-	{
-		"title": "América",
-		"file": "https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8"
-	},
-	{
-		"title": "Arkansas: Little Rock",
-		"file": "https://dai.google.com/linear/hls/event/MqeaRgFBR2WJ_40ngbDruQ/master.m3u8"
-	},
-	{
-		"title": "Atlanta Channel",
-		"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8"
-	},
-	{
 		"title": "Beach TV (30A)",
 		"file": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
 	},
@@ -107,43 +79,11 @@
 		"file": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
 	},
 	{
-		"title": "Beach TV - Florida - Alabama",
-		"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
-	},
-	{
-		"title": "Beach TV - Key West - Florida Keys",
-		"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
-	},
-	{
-		"title": "Beach TV - Myrtle Beach - Grand Strand",
-		"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
-	},
-	{
-		"title": "Beach TV - Panama City",
-		"file": "https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
-	},
-	{
-		"title": "Boston 25 News (WFXT)",
-		"file": "https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8"
-	},
-	{
 		"title": "Bowie TV",
 		"file": "https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8"
 	},
 	{
-		"title": "BS Asahi",
-		"file": "http://203.162.235.41:16914"
-	},
-	{
-		"title": "BS Fuji (BS181)",
-		"file": "http://203.162.235.41:16911"
-	},
-	{
-		"title": "BS TV Tokyo (BS171)",
-		"file": "http://203.162.235.41:16915"
-	},
-	{
-		"title": "Buffalo TV (360p)",
+		"title": "Buffalo TV",
 		"file": "https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8"
 	},
 	{
@@ -163,14 +103,6 @@
 		"file": "https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8"
 	},
 	{
-		"title": "California: Los Angeles",
-		"file": "https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8"
-	},
-	{
-		"title": "Canal 17 Milenium Salta",
-		"file": "https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8"
-	},
-	{
 		"title": "Canal 25 Jundiaí",
 		"file": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
 	},
@@ -183,36 +115,20 @@
 		"file": "https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8"
 	},
 	{
-		"title": "Canal d",
-		"file": "https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8"
-	},
-	{
 		"title": "Canal Málaga RTV",
 		"file": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
-	},
-	{
-		"title": "Canal Provincial (San Miguel) (360p)",
-		"file": "http://www.trimi.com.ar/provincial/streaming/mystream.m3u8"
 	},
 	{
 		"title": "Canal Zoom",
 		"file": "http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8"
 	},
 	{
-		"title": "Capital City Connection Montgomery (360p)",
+		"title": "Capital City CM",
 		"file": "https://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8"
-	},
-	{
-		"title": "CBS 9 Washington DC (WUSA-HD)",
-		"file": "https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8"
 	},
 	{
 		"title": "CBS Dallas (KTVT)",
 		"file": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8"
-	},
-	{
-		"title": "CBS Dallas (KTVT) (180p)",
-		"file": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_6.m3u8"
 	},
 	{
 		"title": "CBS46 (WGCL-TV)",
@@ -255,7 +171,7 @@
 		"file": "http://176.9.123.140:1935/channel9/channel9/playlist.m3u8"
 	},
 	{
-		"title": "Ciudad TV Resistencia (Chaco)",
+		"title": "Ciudad TV Resistencia",
 		"file": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8"
 	},
 	{
@@ -263,7 +179,7 @@
 		"file": "http://video.ct-n.com/live/ctnstream/playlist.m3u8"
 	},
 	{
-		"title": "Cozi 16 WZTS (480p)",
+		"title": "Cozi 16 WZTS",
 		"file": "https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8"
 	},
 	{
@@ -275,7 +191,7 @@
 		"file": "http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8"
 	},
 	{
-		"title": "CT-N Live Stream 2 (360p)",
+		"title": "CT-N Live Stream 2",
 		"file": "http://video.ct-n.com/live/web2stream/playlist.m3u8"
 	},
 	{
@@ -283,31 +199,19 @@
 		"file": "http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8"
 	},
 	{
-		"title": "CTN (404p)",
+		"title": "CTN",
 		"file": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8"
-	},
-	{
-		"title": "CTN",
-		"file": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8"
-	},
-	{
-		"title": "CTN",
-		"file": "https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/playlist.m3u8"
 	},
 	{
 		"title": "Denver 8 TV",
 		"file": "https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8"
 	},
 	{
-		"title": "District of Columbia: Washington D.C.",
+		"title": "District of Columbia",
 		"file": "https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8"
 	},
 	{
-		"title": "Distrito TV",
-		"file": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8"
-	},
-	{
-		"title": "EITB (360p)",
+		"title": "EITB",
 		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8"
 	},
 	{
@@ -315,7 +219,7 @@
 		"file": "http://176.9.123.140:1935/1c/stream/master.m3u8"
 	},
 	{
-		"title": "IPIROSTV.gr,Epirus TV1 (576p)",
+		"title": "Epirus TV1",
 		"file": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8"
 	},
 	{
@@ -327,7 +231,7 @@
 		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8"
 	},
 	{
-		"title": "Fenix TV (Ciudad de La Rioja)",
+		"title": "Fenix TV",
 		"file": "https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8"
 	},
 	{
@@ -337,14 +241,6 @@
 	{
 		"title": "Florida: Pensacola",
 		"file": "https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8"
-	},
-	{
-		"title": "Florida: West Palm Beach",
-		"file": "https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8"
-	},
-	{
-		"title": "Fuji TV (JOCX-DTV)",
-		"file": "http://203.162.235.41:16904"
 	},
 	{
 		"title": "Galveston County TV",
@@ -359,7 +255,7 @@
 		"file": "https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8"
 	},
 	{
-		"title": "Glendale 11 (360p)",
+		"title": "Glendale 11",
 		"file": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8"
 	},
 	{
@@ -379,7 +275,7 @@
 		"file": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8"
 	},
 	{
-		"title": "Globesville (New York Institute of Technology)",
+		"title": "Globesville",
 		"file": "https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8"
 	},
 	{
@@ -395,11 +291,11 @@
 		"file": "http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8"
 	},
 	{
-		"title": "HTV 1 - Houston Television",
+		"title": "HTV 1 - Houston Tv",
 		"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8"
 	},
 	{
-		"title": "HTV 2 - Houston Television",
+		"title": "HTV 2 - Houston Tv",
 		"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
 	},
 	{
@@ -415,10 +311,6 @@
 		"file": "https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8"
 	},
 	{
-		"title": "Illinois: Quincy",
-		"file": "https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8"
-	},
-	{
 		"title": "Illinois: Springfield #2",
 		"file": "https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8"
 	},
@@ -427,11 +319,7 @@
 		"file": "https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8"
 	},
 	{
-		"title": "Indianapolis - CBS 4 News",
-		"file": "https://wttv-lh.akamaihd.net/i/WTTVBreaking_1@333494/master.m3u8"
-	},
-	{
-		"title": "Ion 8 Christiansted VI (WSVI-TV) (300p)",
+		"title": "Ion 8 Christiansted VI",
 		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8"
 	},
 	{
@@ -447,7 +335,7 @@
 		"file": "https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8"
 	},
 	{
-		"title": "Irida TV (226p)",
+		"title": "Irida TV",
 		"file": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8"
 	},
 	{
@@ -455,24 +343,12 @@
 		"file": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8"
 	},
 	{
-		"title": "JSTV 2",
-		"file": "http://203.162.235.41:16901"
-	},
-	{
 		"title": "KCAL 9",
 		"file": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8"
 	},
 	{
-		"title": "KCAL 9 (180p)",
-		"file": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_6.m3u8"
-	},
-	{
 		"title": "Key TV",
 		"file": "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8"
-	},
-	{
-		"title": "KIRO 7 News (KIRO-TV)",
-		"file": "https://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8"
 	},
 	{
 		"title": "KOKI-TV FOX 23 Tulsa OK",
@@ -503,11 +379,11 @@
 		"file": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live"
 	},
 	{
-		"title": "Leominster TV Educational",
+		"title": "Leominster TV Edu",
 		"file": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8"
 	},
 	{
-		"title": "Leominster TV Government",
+		"title": "Leominster TV Gov",
 		"file": "http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8"
 	},
 	{
@@ -539,14 +415,6 @@
 		"file": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8"
 	},
 	{
-		"title": "Miami TV",
-		"file": "https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8"
-	},
-	{
-		"title": "Miami TV",
-		"file": "https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8"
-	},
-	{
 		"title": "Michigan: Bay City",
 		"file": "https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8"
 	},
@@ -563,10 +431,6 @@
 		"file": "https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8"
 	},
 	{
-		"title": "Missouri: Columbia",
-		"file": "https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8"
-	},
-	{
 		"title": "Missouri: St. Louis",
 		"file": "https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8"
 	},
@@ -575,23 +439,7 @@
 		"file": "https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8"
 	},
 	{
-		"title": "MTVmix (Уфа)",
-		"file": "http://81.30.182.82:18092/hls/live.m3u8"
-	},
-	{
-		"title": "NBC",
-		"file": "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8"
-	},
-	{
-		"title": "NBC",
-		"file": "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
-	},
-	{
-		"title": "NBC 11 Pittsburgh PA (WPXI-HD)",
-		"file": "https://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
-	},
-	{
-		"title": "NBC 15 Madison WI (WMTVNBC)",
+		"title": "NBC 15 Madison WI",
 		"file": "https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q"
 	},
 	{
@@ -599,24 +447,12 @@
 		"file": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8"
 	},
 	{
-		"title": "NBC 6 Miami FL (WTVJ)",
-		"file": "http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8"
-	},
-	{
-		"title": "NBC San Jose CA (KNTV) (416p)",
-		"file": "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8"
-	},
-	{
-		"title": "NBC San Jose CA (KNTV) (240p)",
+		"title": "NBC San Jose CA (KNTV)",
 		"file": "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
 	},
 	{
 		"title": "Nea TV",
 		"file": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
-	},
-	{
-		"title": "Nebraska: Hastings",
-		"file": "https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8"
 	},
 	{
 		"title": "Nevada: Las Vegas",
@@ -643,39 +479,19 @@
 		"file": "https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8"
 	},
 	{
-		"title": "NEWS NET (480p)",
+		"title": "NEWS NET",
 		"file": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8"
-	},
-	{
-		"title": "NHK BS Premium (BS103)",
-		"file": "http://203.162.235.41:16910"
-	},
-	{
-		"title": "NHK BS1 (BS101)",
-		"file": "http://203.162.235.41:16909"
-	},
-	{
-		"title": "NHK General (JOAK-DTV)",
-		"file": "http://203.162.235.41:16903"
 	},
 	{
 		"title": "Nippon TV",
 		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
 	},
 	{
-		"title": "Nippon TV",
-		"file": "https://ntv.mov3.co/hls/ntv.m3u8"
-	},
-	{
-		"title": "Nippon TV (JOAX-DTV)",
-		"file": "http://203.162.235.41:16905"
-	},
-	{
-		"title": "North Carolina: Greenville - Asheville",
+		"title": "North Carolina: Green-Asheville",
 		"file": "https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8"
 	},
 	{
-		"title": "North Carolina: Greenville - New Bern",
+		"title": "North Carolina: Greenv-NB",
 		"file": "https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8"
 	},
 	{
@@ -691,7 +507,7 @@
 		"file": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
 	},
 	{
-		"title": "NTV (540p)",
+		"title": "NTV",
 		"file": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8"
 	},
 	{
@@ -739,11 +555,11 @@
 		"file": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
 	},
 	{
-		"title": "Oregon: Eugene - Springfield #1",
+		"title": "Oregon: Eugene - S.field #1",
 		"file": "https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8"
 	},
 	{
-		"title": "Oregon: Eugene - Springfield #2",
+		"title": "Oregon: Eugene - S.field #2",
 		"file": "https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8"
 	},
 	{
@@ -759,7 +575,7 @@
 		"file": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8"
 	},
 	{
-		"title": "PCC-TV - Pinellas County Florida",
+		"title": "PCC-TV",
 		"file": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8"
 	},
 	{
@@ -767,7 +583,7 @@
 		"file": "https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8"
 	},
 	{
-		"title": "Pennsylvania: Johnstown - Altoona",
+		"title": "Pennsylvania: Jtown - Altoona",
 		"file": "https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8"
 	},
 	{
@@ -775,7 +591,7 @@
 		"file": "https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8"
 	},
 	{
-		"title": "Pennsylvania: Wilkes Barre - Scranton",
+		"title": "Pennsylvania: Wilkes B.-Scranton",
 		"file": "https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8"
 	},
 	{
@@ -783,7 +599,7 @@
 		"file": "https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8"
 	},
 	{
-		"title": "PLP (226p)",
+		"title": "PLP",
 		"file": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8"
 	},
 	{
@@ -791,15 +607,15 @@
 		"file": "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
 	},
 	{
-		"title": "Radio Tele Boston (480p)",
+		"title": "Radio Tele Boston",
 		"file": "http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8"
 	},
 	{
-		"title": "Radio y Televisión Martí (480p)",
+		"title": "Radio y Televisión Martí",
 		"file": "https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8"
 	},
 	{
-		"title": "Rede RC (360p)",
+		"title": "Rede RC",
 		"file": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8"
 	},
 	{
@@ -811,20 +627,12 @@
 		"file": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8"
 	},
 	{
-		"title": "Rio Negro",
-		"file": "https://59c5c86e10038.streamlock.net/8204/8204/playlist.m3u8"
-	},
-	{
 		"title": "Seattle Channel - Washington",
 		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8"
 	},
 	{
 		"title": "SGDF24.RU (Свердлов)",
 		"file": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Sheffield Live TV",
-		"file": "http://tv.sheffieldlive.org/hls/main.m3u8"
 	},
 	{
 		"title": "South Carolina: Charleston",
@@ -839,16 +647,12 @@
 		"file": "https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8"
 	},
 	{
-		"title": "Start TV (480p)",
+		"title": "Start TV ",
 		"file": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
 	},
 	{
 		"title": "Summer TV",
 		"file": "http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8"
-	},
-	{
-		"title": "TBS (JORX-DTV)",
-		"file": "http://203.162.235.41:16907"
 	},
 	{
 		"title": "Telefe Rosario",
@@ -857,10 +661,6 @@
 	{
 		"title": "TeleNord Corrientes",
 		"file": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
-	},
-	{
-		"title": "Televisión Aranda",
-		"file": "https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8"
 	},
 	{
 		"title": "Tempe 11",
@@ -887,18 +687,6 @@
 		"file": "https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8"
 	},
 	{
-		"title": "Texas: Beaumont",
-		"file": "https://dai.google.com/linear/hls/event/FKoa3RaEQxyyrf8PfPbgkg/master.m3u8"
-	},
-	{
-		"title": "Texas: Beaumont - Port Arthur",
-		"file": "https://dai.google.com/linear/hls/event/tlvrrqidRaG0KbLN4Hd5mg/master.m3u8"
-	},
-	{
-		"title": "Texas: El Paso #1",
-		"file": "https://dai.google.com/linear/hls/event/MYhAOCTqQA6QFBdc1xwULQ/master.m3u8"
-	},
-	{
 		"title": "Texas: El Paso #2",
 		"file": "https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8"
 	},
@@ -907,19 +695,15 @@
 		"file": "https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8"
 	},
 	{
-		"title": "The Florida Channel (480p)",
-		"file": "https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8"
-	},
-	{
 		"title": "The Southeastern Channel",
 		"file": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8"
 	},
 	{
-		"title": "Tokyo MX1 (360p)",
+		"title": "Tokyo MX1",
 		"file": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
 	},
 	{
-		"title": "Tokyo MX2 (360p)",
+		"title": "Tokyo MX2",
 		"file": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8"
 	},
 	{
@@ -928,39 +712,19 @@
 	},
 	{
 		"title": "Trebujena TV",
-		"file": "http://212.104.160.156:1935/live/trebujenatv2/master.m3u8"
-	},
-	{
-		"title": "Trebujena TV (360p)",
 		"file": "https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8"
-	},
-	{
-		"title": "TRT TV",
-		"file": "https://www.hellasnet.tv/rest.live.hn/trt2/chunklist.m3u8"
 	},
 	{
 		"title": "TSTV",
 		"file": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8"
 	},
 	{
-		"title": "TV 16 Toronto",
-		"file": "http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8"
-	},
-	{
-		"title": "TV Ambiental (480p)",
+		"title": "TV Ambiental",
 		"file": "http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8"
-	},
-	{
-		"title": "TV Asahi",
-		"file": "http://203.162.235.41:16906"
 	},
 	{
 		"title": "TV Cidade Canal 9",
 		"file": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8"
-	},
-	{
-		"title": "TV Cidade de Petrópolis",
-		"file": "https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8"
 	},
 	{
 		"title": "TV Cosmos",
@@ -971,7 +735,7 @@
 		"file": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
 	},
 	{
-		"title": "TV Digital Birigui (320p)",
+		"title": "TV Digital Birigui",
 		"file": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8"
 	},
 	{
@@ -983,11 +747,11 @@
 		"file": "http://ventdelnord.tv:8080/girona/directe.m3u8"
 	},
 	{
-		"title": "TV Interlagos (576p)",
+		"title": "TV Interlagos",
 		"file": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8"
 	},
 	{
-		"title": "TV Maná Córdoba (576p)",
+		"title": "TV Maná Córdoba",
 		"file": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8"
 	},
 	{
@@ -995,20 +759,8 @@
 		"file": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
 	},
 	{
-		"title": "TV Sol Comunidade (480p)",
-		"file": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8"
-	},
-	{
 		"title": "TV Губерния (Воронеж)",
 		"file": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8"
-	},
-	{
-		"title": "TV7+ (Хмельницький)",
-		"file": "https://tv7plus.com/hls/tv7.m3u8"
-	},
-	{
-		"title": "TV7+ (Хмельницький)",
-		"file": "https://tv7plus.com/hls/tv7_site.m3u8"
 	},
 	{
 		"title": "TV78",
@@ -1039,16 +791,12 @@
 		"file": "https://momentog-crtvg.flumotion.com/playlist.m3u8"
 	},
 	{
-		"title": "TVG Musigal (360p)",
+		"title": "TVG Musigal",
 		"file": "https://musigal-crtvg.flumotion.com/playlist.m3u8"
 	},
 	{
 		"title": "tvG2",
 		"file": "https://events2-crtvg.flumotion.com/playlist.m3u8"
-	},
-	{
-		"title": "tvG2",
-		"file": "https://events3-crtvg.flumotion.com/playlist.m3u8"
 	},
 	{
 		"title": "TVL",
@@ -1067,48 +815,28 @@
 		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
 	},
 	{
-		"title": "TVRI Jawa Barat (480p)",
+		"title": "TVRI Jawa Barat",
 		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
 	},
 	{
-		"title": "TVRI Jawa Tengah (480p)",
+		"title": "TVRI Jawa Tengah",
 		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
 	},
 	{
-		"title": "TVRI Jawa Timur (480p)",
+		"title": "TVRI Jawa Timur",
 		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
 	},
 	{
-		"title": "TVRI Yogyakarta (480p)",
+		"title": "TVRI Yogyakarta",
 		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
 	},
 	{
-		"title": "UALR TV",
-		"file": "https://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8"
-	},
-	{
 		"title": "Univer TV",
-		"file": "http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Univer TV (576p)",
-		"file": "http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Univer TV",
-		"file": "https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8"
+		"file": "[MQ}http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8,[HQ]http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
 	},
 	{
 		"title": "Urdu TV Toronto",
 		"file": "http://cdn4.live247stream.com/urdu/tv/playlist.m3u8"
-	},
-	{
-		"title": "Utah: Salt Lake City",
-		"file": "https://dai.google.com/linear/hls/event/1bMiswhQQxqH-X8D3qbmKQ/master.m3u8"
-	},
-	{
-		"title": "Via Televisión",
-		"file": "https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8"
 	},
 	{
 		"title": "Virginia: Lynchburg - Roanoke",
@@ -1127,48 +855,28 @@
 		"file": "https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8"
 	},
 	{
-		"title": "WABI 5 - Bangor - Maine",
-		"file": "https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo"
-	},
-	{
 		"title": "Washington: Seattle",
 		"file": "https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8"
 	},
 	{
-		"title": "Washington: Yakima - Pasco #1",
+		"title": "Washington: Yakima-Pasco",
 		"file": "https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8"
-	},
-	{
-		"title": "Washington: Yakima - Pasco #2",
-		"file": "https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8"
 	},
 	{
 		"title": "WCCA-TV (Worcester)",
 		"file": "https://worcester.vod.castus.tv/live/ch1.m3u8"
 	},
 	{
-		"title": "West Virginia: Charleston - Huntington",
+		"title": "West Virginia: Ch.ton-Ht.ton",
 		"file": "https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8"
 	},
 	{
-		"title": "WFTV Channel 9 - Florida - Orlando",
+		"title": "WFTV Channel 9 - Flo-Orl",
 		"file": "https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8"
 	},
 	{
-		"title": "WHIO",
-		"file": "https://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8"
-	},
-	{
-		"title": "White Plains Community Media",
+		"title": "White Plains CM",
 		"file": "http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8"
-	},
-	{
-		"title": "White Plains Community Media (360p)",
-		"file": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
-	},
-	{
-		"title": "WHOH TV - Hastings-On-Hudson - NY",
-		"file": "http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8"
 	},
 	{
 		"title": "WHPR",
@@ -1181,10 +889,6 @@
 	{
 		"title": "Wisconsin: Milwaukee",
 		"file": "https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8"
-	},
-	{
-		"title": "WJAX Action News - Jacksonville",
-		"file": "https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754"
 	},
 	{
 		"title": "WMFD",
@@ -1203,7 +907,7 @@
 		"file": "https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8"
 	},
 	{
-		"title": "Öppna Kanalen (540p)",
+		"title": "Öppna Kanalen",
 		"file": "http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8"
 	},
 	{
@@ -1211,47 +915,23 @@
 		"file": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
 	},
 	{
-		"title": "Архыз 24",
-		"file": "https://strm.yandex.ru/kal/arhyz24/arhyz240.m3u8"
-	},
-	{
 		"title": "Астрахань 24",
 		"file": "https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8"
 	},
 	{
-		"title": "Астрахань 24",
-		"file": "https://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8"
-	},
-	{
-		"title": "Астрахань 24",
-		"file": "https://strm.yandex.ru/kal/astrahan24/astrahan240.m3u8"
-	},
-	{
 		"title": "Астрахань.Ru TV",
-		"file": "https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8"
-	},
-	{
-		"title": "Астрахань.Ru TV",
-		"file": "https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8"
-	},
-	{
-		"title": "Астрахань.Ru TV",
-		"file": "https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8"
+		"file": "[1]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8,[2]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8,[3]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8"
 	},
 	{
 		"title": "Афонтово (Красноярск)",
 		"file": "http://xstream.afontovo.ru/afontovo_ya.m3u8"
 	},
 	{
-		"title": "Башкортостан 24",
-		"file": "https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240.m3u8"
-	},
-	{
 		"title": "Белгород 24",
 		"file": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
 	},
 	{
-		"title": "Ветта 24 (Пермь) (576p)",
+		"title": "Ветта 24 (Пермь)",
 		"file": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
 	},
 	{
@@ -1259,11 +939,7 @@
 		"file": "https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8"
 	},
 	{
-		"title": "Волгоград 1",
-		"file": "https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8"
-	},
-	{
-		"title": "Губерния 33 (Владимир) (360p)",
+		"title": "Губерния 33 (Владимир)",
 		"file": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8"
 	},
 	{
@@ -1275,12 +951,8 @@
 		"file": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
 	},
 	{
-		"title": "Липецкое время (576p)",
+		"title": "Липецкое время",
 		"file": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8"
-	},
-	{
-		"title": "Луч (Пуровск)",
-		"file": "https://live.trk-luch.ru/hls/live.m3u8"
 	},
 	{
 		"title": "Между.Net (Междуреченск)",
@@ -1292,30 +964,18 @@
 	},
 	{
 		"title": "Москва 24",
-		"file": "http://188.40.68.167/russia/moskva24/playlist.m3u8"
-	},
-	{
-		"title": "Москва 24",
-		"file": "https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8"
+		"file": "[1]http://188.40.68.167/russia/moskva24/playlist.m3u8,[2]https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8"
 	},
 	{
 		"title": "Москва 24",
 		"file": "https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8"
 	},
 	{
-		"title": "Москва 24",
-		"file": "https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8"
-	},
-	{
 		"title": "МТВ (Волгоград)",
 		"file": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
 	},
 	{
-		"title": "Ноябрьск 24",
-		"file": "https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240.m3u8"
-	},
-	{
-		"title": "НТМ (Народное телевидение Мордовии)",
+		"title": "НТМ",
 		"file": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
 	},
 	{
@@ -1323,20 +983,8 @@
 		"file": "http://185.18.4.16/live/3m/playlist.m3u8"
 	},
 	{
-		"title": "ОТС",
-		"file": "https://strm.yandex.ru/kal/otstv/otstv0.m3u8"
-	},
-	{
 		"title": "Радио ХИТ (Орск)",
 		"file": "http://hithd.camsh.orsk.ru/hls/hithd.m3u8"
-	},
-	{
-		"title": "Регион 29 (Архангельск)",
-		"file": "http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8"
-	},
-	{
-		"title": "Русский Север (Вологда)",
-		"file": "http://rusevertv.ru/576/rs_crf28_.m3u8"
 	},
 	{
 		"title": "С1 (Сургут)",
@@ -1347,24 +995,8 @@
 		"file": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8"
 	},
 	{
-		"title": "Север (Нарьян-Мар)",
-		"file": "https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8"
-	},
-	{
-		"title": "Север (Нарьян-Мар)",
-		"file": "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8"
-	},
-	{
-		"title": "Солнечногорское ТВ (360p)",
-		"file": "http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8"
-	},
-	{
 		"title": "Сургут 24",
 		"file": "https://video1.in-news.ru/c24/index.m3u8"
-	},
-	{
-		"title": "Татарстан24",
-		"file": "http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8"
 	},
 	{
 		"title": "ТВР24 (Сергиев Посад)",
@@ -1379,27 +1011,7 @@
 		"file": "http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8"
 	},
 	{
-		"title": "Удмуртия (404p)",
+		"title": "Удмуртия",
 		"file": "https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Щёлковское ТВ",
-		"file": "http://stream0.tv41.ru/live.m3u8"
-	},
-	{
-		"title": "Эхо TV (Рязань) (576p)",
-		"file": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
-	},
-	{
-		"title": "Югра (576p)",
-		"file": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8"
-	},
-	{
-		"title": "Юрган",
-		"file": "http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8"
-	},
-	{
-		"title": "ЮТВ (Чебоксары) (432p)",
-		"file": "http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8"
 	}
 ]
