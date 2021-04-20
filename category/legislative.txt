@@ -1,17 +1,14 @@
-[{
-		"title": "C-SPAN",
-		"file": "https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8"
-	},
+[
 	{
-		"title": "C-Span (108p)",
+		"title": "C-Span",
 		"file": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8"
 	},
 	{
-		"title": "C-Span 2 (108p)",
+		"title": "C-Span 2",
 		"file": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8"
 	},
 	{
-		"title": "C-Span 3 (108p)",
+		"title": "C-Span 3",
 		"file": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8"
 	},
 	{
@@ -47,63 +44,23 @@
 		"file": "https://video.oct.dc.gov/out/u/15_12.m3u8"
 	},
 	{
-		"title": "District of Columbia Network",
+		"title": "District of Columbia Net",
 		"file": "https://video.oct.dc.gov/out/u/DCN.m3u8"
-	},
-	{
-		"title": "Escambia County TV",
-		"file": "https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/playlist.m3u8"
 	},
 	{
 		"title": "Fairfax Public Access",
 		"file": "https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8"
 	},
 	{
-		"title": "Ireland Parliament (Committee Room 1)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Ireland Parliament (Committee Room 2)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Ireland Parliament (Committee Room 3)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Ireland Parliament (Committee Room 4)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Ireland Parliament (Dail Eireann)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Ireland Parliament (Seanad Eireann)",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8"
-	},
-	{
 		"title": "Legislative Assembly of Ontario",
 		"file": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
-	},
-	{
-		"title": "Oireachtas TV (480p)",
-		"file": "https://d1h8rkqumz239n.cloudfront.net/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8"
-	},
-	{
-		"title": "Oireachtas TV",
-		"file": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8"
-	},
-	{
-		"title": "Parliament TV",
-		"file": "https://i.mjh.nz/nz/tv.18.m3u8"
 	},
 	{
 		"title": "TV ALMG",
 		"file": "https://streaming.almg.gov.br/live/tvalmg.m3u8"
 	},
 	{
-		"title": "TV ALRN (480p)",
+		"title": "TV ALRN",
 		"file": "http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8"
 	},
 	{
@@ -117,45 +74,5 @@
 	{
 		"title": "Вместе-РФ",
 		"file": "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播交通委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播內政委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播司法及法制委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播外交及國防委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播教育及文化委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播朝野協商 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播社會福利及衛生環境委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播經濟委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播財政委員會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8"
-	},
-	{
-		"title": "立法院IVOD直播院會 (450p)",
-		"file": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8"
 	}
 ]
