@@ -1,26 +1,10 @@
 [{
 		"title": "AMG TV (480p)",
-		"file": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
-	},
-	{
-		"title": "AMGTV",
-		"file": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8"
-	},
-	{
-		"title": "Apple Sauce TV (480p)",
-		"file": "https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8"
-	},
-	{
-		"title": "Dove Channel",
-		"file": "https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8"
+		"file": "[1]https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8,[2]https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8"
 	},
 	{
 		"title": "Dove Channel",
 		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8"
-	},
-	{
-		"title": "Dove Channel",
-		"file": "https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8"
 	},
 	{
 		"title": "Filmrise Family",
@@ -28,34 +12,18 @@
 	},
 	{
 		"title": "JOJ Family",
-		"file": "https://nn.geo.joj.sk/hls/family-360.m3u8"
+		"file": "[360]https://nn.geo.joj.sk/hls/family-360.m3u8,[540]https://nn.geo.joj.sk/hls/family-540.m3u8,[540]https://nn2.joj.sk/hls/family-540.m3u8"
 	},
 	{
-		"title": "JOJ Family",
-		"file": "https://nn.geo.joj.sk/hls/family-540.m3u8"
-	},
-	{
-		"title": "JOJ Family",
-		"file": "https://nn2.joj.sk/hls/family-540.m3u8"
-	},
-	{
-		"title": "La Chaîne normande (LCN) (576p)",
+		"title": "La Chaîne normande(LCN)",
 		"file": "http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8"
 	},
 	{
-		"title": "Mi TV Televisión Clásica (480p)",
+		"title": "Mi TV Televisión Clásica",
 		"file": "http://162.244.80.176:8081/abr/stream/playlist.m3u8"
 	},
 	{
-		"title": "Opportunity Knocks (480p)",
-		"file": "https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8"
-	},
-	{
-		"title": "Positiv TV",
-		"file": "https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8"
-	},
-	{
-		"title": "TVS Family Channel (360p)",
+		"title": "TVS Family Channel",
 		"file": "https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8"
 	}
 ]
