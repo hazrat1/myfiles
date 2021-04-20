@@ -3,52 +3,12 @@
 		"file": "https://30a-tv.com/darcizzle.m3u8"
 	},
 	{
-		"title": "AgroBrasil TV (486p)",
-		"file": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8"
-	},
-	{
-		"title": "AKC TV",
-		"file": "https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8"
-	},
-	{
-		"title": "AKC TV",
-		"file": "https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8"
-	},
-	{
-		"title": "AKC TV",
-		"file": "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8"
-	},
-	{
-		"title": "AKC TV",
-		"file": "https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8"
-	},
-	{
-		"title": "AKC TV - Meet the Breeds",
-		"file": "https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8"
-	},
-	{
-		"title": "AKC TV - Puppies",
-		"file": "https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8"
-	},
-	{
-		"title": "Beity",
-		"file": "http://82.212.74.2:8000/live/7312.m3u8"
-	},
-	{
 		"title": "Canal do Boi",
 		"file": "https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8"
 	},
 	{
 		"title": "Caçavision (HQ)",
-		"file": "https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8"
-	},
-	{
-		"title": "Caçavision (LQ)",
-		"file": "https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8"
-	},
-	{
-		"title": "Caçavision (MQ)",
-		"file": "https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8"
+		"file": "[LQ}https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8,[MQ]https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8,[HQ]https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8"
 	},
 	{
 		"title": "Hi-Yah!",
@@ -59,10 +19,6 @@
 		"file": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8"
 	},
 	{
-		"title": "Hunt Channel",
-		"file": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8"
-	},
-	{
 		"title": "Love Nature",
 		"file": "http://bamus-eng-roku.amagi.tv/playlist.m3u8"
 	},
@@ -71,24 +27,12 @@
 		"file": "https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8"
 	},
 	{
-		"title": "Mobcrush",
-		"file": "https://ott.mobcrush.com/hls/0/ott.m3u8"
-	},
-	{
-		"title": "National Geographic Abu Dhabi",
+		"title": "National Geographic AD",
 		"file": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"
 	},
 	{
 		"title": "Outdoor America",
 		"file": "https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8"
-	},
-	{
-		"title": "Planet Cannabis Entertainment (480p)",
-		"file": "https://nimble.dashstreams.net/onestudio/pce/playlist.m3u8"
-	},
-	{
-		"title": "Popular Science",
-		"file": "https://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8"
 	},
 	{
 		"title": "Stingray Naturescape",
@@ -103,19 +47,11 @@
 		"file": "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8"
 	},
 	{
-		"title": "The Boat Show",
-		"file": "https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8"
-	},
-	{
-		"title": "The Boat Show",
-		"file": "https://a.jsrdn.com/broadcast/256ccf645e/+0000/high/c.m3u8"
-	},
-	{
 		"title": "The Pet Collective",
 		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8"
 	},
 	{
-		"title": "TVS Horror Network (480p)",
+		"title": "TVS Horror Network",
 		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8"
 	},
 	{
@@ -123,19 +59,7 @@
 		"file": "https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8"
 	},
 	{
-		"title": "Дайвинг.TV",
-		"file": "https://strm.yandex.ru/kal/diving/diving0.m3u8"
-	},
-	{
-		"title": "Охота и рыбалка (576p)",
-		"file": "http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8"
-	},
-	{
 		"title": "Охота и рыбалка",
-		"file": "https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "Охотник и Рыболов International",
-		"file": "https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8"
+		"file": "http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8"
 	}
 ]
