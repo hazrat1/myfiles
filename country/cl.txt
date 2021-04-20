@@ -11,16 +11,8 @@
 		"file": "https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8"
 	},
 	{
-		"title": "Campo Abierto",
-		"file": "http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8"
-	},
-	{
 		"title": "Canal 21",
-		"file": "http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8"
-	},
-	{
-		"title": "Canal 21",
-		"file": "https://tls.cdnz.cl/canal21tv/live/playlist.m3u8"
+		"file": "[1]http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8,[2]https://tls.cdnz.cl/canal21tv/live/playlist.m3u8"
 	},
 	{
 		"title": "Canal Diputados",
@@ -31,52 +23,20 @@
 		"file": "http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8"
 	},
 	{
-		"title": "El Pingüino(240p)",
-		"file": "http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8"
+		"title": "El Pingüino",
+		"file": "[240]http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8,[360]http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8,[360]http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8"
 	},
 	{
-		"title": "El Pingüino(360p)",
-		"file": "http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8"
-	},
-	{
-		"title": "El Pingüino(360p)",
-		"file": "http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8"
-	},
-	{
-		"title": "El Pingüino(360p)",
-		"file": "http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8"
-	},
-	{
-		"title": "El Pingüino(720p)",
-		"file": "http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8"
-	},
-	{
-		"title": "El Pingüino(720p)",
-		"file": "http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8"
+		"title": "El Pingüino",
+		"file": "[360]http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8,[720]http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8,[720]http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8"
 	},
 	{
 		"title": "Esperanza TV",
 		"file": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8"
 	},
 	{
-		"title": "Genial TV",
-		"file": "http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8"
-	},
-	{
-		"title": "Gracia TV",
-		"file": "http://v3.tustreaming.cl/graciatv/live1/index.m3u8"
-	},
-	{
 		"title": "HiperTV",
 		"file": "https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL"
-	},
-	{
-		"title": "Holvoet TV",
-		"file": "http://unlimited6-us.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/playlist.m3u8"
-	},
-	{
-		"title": "ITV Patagonia",
-		"file": "https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8"
 	},
 	{
 		"title": "ITV Patagonia",
@@ -91,28 +51,8 @@
 		"file": "https://video-ply.pauta.cl/playlist/stream.m3u8"
 	},
 	{
-		"title": "Pintana TV",
-		"file": "http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8"
-	},
-	{
 		"title": "Portalfoxmix",
-		"file": "http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8"
-	},
-	{
-		"title": "Portalfoxmix",
-		"file": "http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8"
-	},
-	{
-		"title": "Portalfoxmix",
-		"file": "https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8"
-	},
-	{
-		"title": "Quinta TV",
-		"file": "https://593b04c4c5670.streamlock.net/8042/8042/playlist.m3u8"
-	},
-	{
-		"title": "Radio El Conquistador",
-		"file": "http://eu1.servers10.com:1935/8282/8282/playlist.m3u8"
+		"file": "[1]http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8,[2]http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8,[3]https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8"
 	},
 	{
 		"title": "Radio HOY",
@@ -143,10 +83,6 @@
 		"file": "https://stv.janus.cl/playlist/stream.m3u8"
 	},
 	{
-		"title": "Tarot Canal",
-		"file": "https://live2.tarotcanal.com/live/livestream/index.m3u8"
-	},
-	{
 		"title": "TEC Television Temuco",
 		"file": "http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8"
 	},
@@ -155,28 +91,12 @@
 		"file": "https://unlimited1-us.dps.live/teletrak/teletrak.smil/teletrak/livestream1/playlist.m3u8"
 	},
 	{
-		"title": "Tendencias TV",
-		"file": "https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8"
-	},
-	{
 		"title": "Thema TV",
 		"file": "https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8"
 	},
 	{
-		"title": "TNE",
-		"file": "https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/mono.m3u8"
-	},
-	{
-		"title": "TNE",
-		"file": "https://v2.tustreaming.cl/tnetv/live1/tracks-v1a1/playlist.m3u8"
-	},
-	{
 		"title": "TV5 Linares",
-		"file": "https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8"
-	},
-	{
-		"title": "TV5 Linares",
-		"file": "https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8"
+		"file": "[2]https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8,[1]https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/playlist.m3u8"
 	},
 	{
 		"title": "U Los Lagos",
@@ -184,35 +104,19 @@
 	},
 	{
 		"title": "UES TV",
-		"file": "http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8"
-	},
-	{
-		"title": "UES TV",
-		"file": "http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8"
-	},
-	{
-		"title": "UES TV",
-		"file": "http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8"
+		"file": "[1]http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8,[2]http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8,[3]http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8"
 	},
 	{
 		"title": "UMAGTV Punta Arenas",
 		"file": "http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8"
 	},
 	{
-		"title": "Universidad Autonoma Temuco",
+		"title": "Universidad A T",
 		"file": "https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/playlist.m3u8"
-	},
-	{
-		"title": "UTV San Clemente",
-		"file": "http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8"
 	},
 	{
 		"title": "VC Online",
 		"file": "https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8"
-	},
-	{
-		"title": "VTV Valle de Aconcagua",
-		"file": "http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8"
 	},
 	{
 		"title": "Wow (El Salvador)",
