@@ -1,29 +1,6 @@
-[{
-		"title": "Ecuavisa",
-		"file": "http://173.212.247.99/hls/tvec2.m3u8"
-	},
-	{
-		"title": "Gama TV",
-		"file": "http://173.212.247.99/hls/tvec1.m3u8"
-	},
+[
 	{
 		"title": "Hechos Ecuador",
 		"file": "http://37.187.7.106/hechostv/live.m3u8"
-	},
-	{
-		"title": "RTS",
-		"file": "http://173.212.247.99/hls/tvec3.m3u8"
-	},
-	{
-		"title": "Teleamazonas",
-		"file": "http://173.212.247.99/hls/tvec4.m3u8"
-	},
-	{
-		"title": "Teleamazonas",
-		"file": "https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8"
-	},
-	{
-		"title": "UCSG",
-		"file": "http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u"
 	}
 ]
