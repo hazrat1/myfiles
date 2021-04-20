@@ -2,5 +2,9 @@
 	{
 		"title": "Oman TV",
 		"file": "https://gintna100.tulix.tv/gin_live/omantv/552b01ae3a91676bd86bb865b0d52d01/607da35d/index.m3u8"
+	},
+	{
+		"title": "Oman TV Cultural",
+		"file": "https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8"
 	}
 ]
