@@ -7,24 +7,12 @@
 		"file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8"
 	},
 	{
-		"title": "FashionTV Czech&Slovak (450p)",
-		"file": "http://80.94.54.42/fashiontv/stream/playlist.m3u8"
-	},
-	{
-		"title": "FashionTV Czech&Slovak (450p)",
-		"file": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
-	},
-	{
-		"title": "FashionTV Czech&Slovak (450p)",
-		"file": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
+		"title": "FashionTV Czech&Slovak",
+		"file": "[1]http://lb.streaming.sk/fashiontv/stream/playlist.m3u8,[2]http://lb.streaming.sk/fashiontv/stream/playlist.m3u8"
 	},
 	{
 		"title": "FashionTV Paris",
 		"file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8"
-	},
-	{
-		"title": "FashionTV Paris",
-		"file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8"
 	},
 	{
 		"title": "FashionTV PG13",
@@ -33,17 +21,5 @@
 	{
 		"title": "FashionTV PG16",
 		"file": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8"
-	},
-	{
-		"title": "FashionTV PG16",
-		"file": "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8"
-	},
-	{
-		"title": "HDFashion & LifeStyle",
-		"file": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
-	},
-	{
-		"title": "HDFashion & LifeStyle",
-		"file": "http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8"
 	}
 ]
