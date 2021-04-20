@@ -1,5 +1,9 @@
 [
 	{
+		"title": "Oman Sports",
+		"file": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8"
+	},	
+	{
 		"title": "Oman TV",
 		"file": "https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8"
 	},
