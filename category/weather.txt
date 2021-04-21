@@ -1,7 +1,4 @@
-[{
-		"title": "The Weather Channel",
-		"file": "https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8"
-	},
+[
 	{
 		"title": "Weather News",
 		"file": "https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8"
