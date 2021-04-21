@@ -4,23 +4,11 @@
 	},
 	{
 		"title": "BamBarBia TV",
-		"file": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8"
-	},
-	{
-		"title": "BamBarBia TV",
-		"file": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"
+		"file": "[1]http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8,[720]http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8"
 	},
 	{
 		"title": "Jasco Events TV",
 		"file": "http://82.212.74.100:8000/live/hls/8131.m3u8"
-	},
-	{
-		"title": "Russian Travel Guide (480p)",
-		"file": "http://ott-cdn.ucom.am/s80/index.m3u8"
-	},
-	{
-		"title": "Russian Travel Guide HD (480p)",
-		"file": "http://ott-cdn.ucom.am/s63/index.m3u8"
 	},
 	{
 		"title": "STIRR Travel",
@@ -31,32 +19,12 @@
 		"file": "http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8"
 	},
 	{
-		"title": "Travel TV",
-		"file": "http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8"
-	},
-	{
-		"title": "Tunisie Immobilier TV",
-		"file": "https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8"
-	},
-	{
 		"title": "TV Paraná Turismo",
 		"file": "http://200.189.113.201/hls/tve.m3u8"
 	},
 	{
 		"title": "TVS Travel Network",
 		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8"
-	},
-	{
-		"title": "Наша Сибирь",
-		"file": "https://strm.yandex.ru/kal/sibir/sibir0.m3u8"
-	},
-	{
-		"title": "ТВТУР",
-		"file": "https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8"
-	},
-	{
-		"title": "Телепутешествия (480p)",
-		"file": "http://ott-cdn.ucom.am/s71/index.m3u8"
 	},
 	{
 		"title": "亞旅衛視",
