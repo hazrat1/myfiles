@@ -3,26 +3,16 @@
 	{
 		"title": "Armenia",
 		"folder": [{
-				"title": "TBN Armenia",
-				"file": "http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8"
-			},
-			{
-				"title": "TBN Armenia",
-				"file": "https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8"
-			}
-		]
+			"title": "TBN Armenia",
+			"file": "[1]http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8,[2]https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8"
+		}]
 
 	}, {
 		"title": "Bahrain",
 		"folder": [{
-				"title": "Bahrain Quran",
-				"file": "http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8"
-			},
-			{
-				"title": "Bahrain Quran",
-				"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8"
-			}
-		]
+			"title": "Bahrain Quran",
+			"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8"
+		}]
 
 	}, {
 		"title": "Bangladesh",
@@ -37,10 +27,6 @@
 	}, {
 		"title": "Brazil",
 		"folder": [{
-				"title": "Canção Nova",
-				"file": "https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8"
-			},
-			{
 				"title": "Fonte TV",
 				"file": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
 			},
@@ -51,10 +37,6 @@
 			{
 				"title": "Novo Tempo",
 				"file": "http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8"
-			},
-			{
-				"title": "Novo Tempo",
-				"file": "http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8"
 			},
 			{
 				"title": "PUC TV Goiás",
@@ -69,28 +51,12 @@
 				"file": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8"
 			},
 			{
-				"title": "Rede Super",
-				"file": "https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8"
-			},
-			{
-				"title": "Rede Século 21",
-				"file": "https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8"
-			},
-			{
 				"title": "Rede Vida",
 				"file": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8"
 			},
 			{
 				"title": "TV Pai Eterno",
 				"file": "http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8"
-			},
-			{
-				"title": "TV Pai Eterno",
-				"file": "https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8"
-			},
-			{
-				"title": "TV Rede Gospel",
-				"file": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
 			},
 			{
 				"title": "TV Terceiro Anjo",
@@ -105,14 +71,9 @@
 	}, {
 		"title": "Burkina Faso",
 		"folder": [{
-				"title": "Impact TV",
-				"file": "https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/chunklist_w1404999051.m3u8"
-			},
-			{
-				"title": "Impact TV",
-				"file": "https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/manifest.m3u8"
-			}
-		]
+			"title": "Impact TV",
+			"file": "[1]https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/chunklist_w1404999051.m3u8,[2]https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/manifest.m3u8"
+		}]
 
 	}, {
 		"title": "Canada",
@@ -125,13 +86,6 @@
 				"file": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8"
 			}
 		]
-
-	}, {
-		"title": "Costa Rica",
-		"folder": [{
-			"title": "EJTV",
-			"file": "https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8"
-		}]
 
 	}, {
 		"title": "Gambia",
@@ -171,62 +125,22 @@
 				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8"
 			},
 			{
-				"title": "Karbala Live 3",
-				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8"
-			},
-			{
 				"title": "Karbala Live 4",
 				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8"
-			},
-			{
-				"title": "Karbala Live 5",
-				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8"
 			},
 			{
 				"title": "Mohabat TV",
 				"file": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
 			},
 			{
-				"title": "Mohabat TV",
-				"file": "https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
-			},
-			{
 				"title": "Payvand TV",
 				"file": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
-			},
-			{
-				"title": "SAT7 PARS",
-				"file": "https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8"
-			},
-			{
-				"title": "SAT7 TURK",
-				"file": "https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/playlist.m3u8"
-			}
-		]
-
-	}, {
-		"title": "Israel",
-		"folder": [{
-				"title": "Hidabroot Channel",
-				"file": "https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8"
-			},
-			{
-				"title": "Hidabroot Channel",
-				"file": "https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8"
-			},
-			{
-				"title": "Hidabroot Channel",
-				"file": "https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8"
 			}
 		]
 
 	}, {
 		"title": "Lebanon",
 		"folder": [{
-				"title": "Aliman TV",
-				"file": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
-			},
-			{
 				"title": "CharityTV",
 				"file": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8"
 			},
@@ -269,43 +183,25 @@
 	}, {
 		"title": "Puerto Rico",
 		"folder": [{
-				"title": "CTNi",
-				"file": "https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8"
-			},
-			{
-				"title": "CTNi",
-				"file": "https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8"
-			}
-		]
+			"title": "CTNi",
+			"file": "https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8"
+		}]
 
 	}, {
 		"title": "Palestine",
 		"folder": [{
-				"title": "Al Aqsa Channel",
-				"file": "http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8"
-			},
-			{
-				"title": "Al Aqsa Channel",
-				"file": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8"
-			}
-		]
+			"title": "Al Aqsa Channel",
+			"file": "[1]http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8,[2]https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8"
+		}]
 
 	}, {
 		"title": "Portugal",
 		"folder": [{
 				"title": "Kuriakos TV",
-				"file": "http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8"
+				"file": "[1]http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8,[2]http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8"
 			},
 			{
-				"title": "Kuriakos TV",
-				"file": "http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8"
-			},
-			{
-				"title": "Sobrenatural(1080p)",
-				"file": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8"
-			},
-			{
-				"title": "Sobrenatural(720p)",
+				"title": "Sobrenatural",
 				"file": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8"
 			},
 			{
@@ -317,72 +213,19 @@
 	}, {
 		"title": "Romania",
 		"folder": [{
-				"title": "Alfa Omega",
-				"file": "http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262"
-			},
-			{
-				"title": "Alfa Omega",
-				"file": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8"
-			}
-		]
-
-	}, {
-		"title": "Russia",
-		"folder": [{
-				"title": "Каббала ТВ",
-				"file": "https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8"
-			},
-			{
-				"title": "Надежда",
-				"file": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-			},
-			{
-				"title": "Надежда",
-				"file": "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-			},
-			{
-				"title": "Небеса ТВ7",
-				"file": "http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8"
-			},
-			{
-				"title": "Союз",
-				"file": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
-			},
-			{
-				"title": "Союз",
-				"file": "http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
-			},
-			{
-				"title": "Союз",
-				"file": "https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0.m3u8"
-			}
-		]
+			"title": "Alfa Omega",
+			"file": ",[1]http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8[2]http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262"
+		}]
 
 	}, {
 		"title": "Saudi Arabia",
 		"folder": [{
 				"title": "Al Quran",
-				"file": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
-			},
-			{
-				"title": "Al Quran",
 				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
-			},
-			{
-				"title": "Al Quran",
-				"file": "https://iptv--iptv.repl.co/Arabic/Quran_TV/"
-			},
-			{
-				"title": "Al Sunnah Al Nabawiyah",
-				"file": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
 			},
 			{
 				"title": "Al Sunnah Al Nabawiyah",
 				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
-			},
-			{
-				"title": "Al Sunnah Al Nabawiyah",
-				"file": "https://iptv--iptv.repl.co/Arabic/Sunnah_TV/"
 			},
 			{
 				"title": "Al Wesal TV",
@@ -397,15 +240,11 @@
 				"file": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8"
 			},
 			{
-				"title": "Kaif TV",
-				"file": "http://82.212.74.2:8000/live/hls/7311.m3u8"
-			},
-			{
-				"title": "Makkah TV",
+				"title": "Makkah TV #1",
 				"file": "http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8"
 			},
 			{
-				"title": "Makkah TV",
+				"title": "Makkah TV #2",
 				"file": "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8"
 			}
 		]
@@ -430,23 +269,7 @@
 			},
 			{
 				"title": "Kanal 10",
-				"file": "https://cdn-kanal10.crossnet.net/kanal10/mp4:mpegts.stream/playlist.m3u8"
-			},
-			{
-				"title": "Kanal 10",
-				"file": "https://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8"
-			}
-		]
-
-	}, {
-		"title": "Syria",
-		"folder": [{
-				"title": "Noor Al-Sham",
-				"file": "http://82.137.248.16:1935/Nour/stream10112020/playlist.m3u8"
-			},
-			{
-				"title": "Suboro TV",
-				"file": "https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8"
+				"file": "[1]https://cdn-kanal10.crossnet.net/kanal10/mp4:mpegts.stream/playlist.m3u8,[2]https://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8"
 			}
 		]
 
@@ -617,16 +440,8 @@
 				"file": "https://live.streamingfast.net/osmflivech50.m3u8"
 			},
 			{
-				"title": "人間衛視",
-				"file": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv/chunklist_w1474469129.m3u8"
-			},
-			{
 				"title": "唯心電視",
 				"file": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
-			},
-			{
-				"title": "希望電視台",
-				"file": "https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8"
 			},
 			{
 				"title": "華藏衛視",
@@ -665,28 +480,8 @@
 	}, {
 		"title": "United Arab Emirates",
 		"folder": [{
-				"title": "Peace TV Bangla",
-				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Peace TV Chinese",
-				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Peace TV English",
-				"file": "http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
-				"title": "Peace TV Urdu",
-				"file": "https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8"
-			},
-			{
 				"title": "Sharjah TV",
 				"file": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
-			},
-			{
-				"title": "Sharjah TV",
-				"file": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8"
 			},
 			{
 				"title": "Towheed TV",
@@ -737,7 +532,7 @@
 				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8"
 			},
 			{
-				"title": "3ABN Kids (720p)",
+				"title": "3ABN Kids",
 				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"
 			},
 			{
@@ -745,11 +540,11 @@
 				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8"
 			},
 			{
-				"title": "3ABN Latino (720p)",
+				"title": "3ABN Latino",
 				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8"
 			},
 			{
-				"title": "3ABN Praise Him Music Channel",
+				"title": "3ABN Praise Him Music",
 				"file": "https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8"
 			},
 			{
@@ -761,55 +556,47 @@
 				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8"
 			},
 			{
-				"title": "Al Horreya TV (1080p)",
-				"file": "http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8"
-			},
-			{
 				"title": "Al Horreya TV",
 				"file": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8"
 			},
 			{
-				"title": "Aliento Vision (480p)",
+				"title": "Aliento Vision",
 				"file": "http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8"
 			},
 			{
-				"title": "Aliento Vision",
-				"file": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8"
-			},
-			{
-				"title": "Alkarma TV Australia (1080p)",
+				"title": "Alkarma TV Australi",
 				"file": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8"
 			},
 			{
-				"title": "Alkarma TV Family (1080p)",
+				"title": "Alkarma TV Family",
 				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8"
 			},
 			{
-				"title": "Alkarma TV Middle East (1080p)",
+				"title": "Alkarma TV Middle East",
 				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8"
 			},
 			{
-				"title": "Alkarma TV North America & Canada (1080p)",
+				"title": "Alkarma TV North America",
 				"file": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
 			},
 			{
-				"title": "Alkarma TV Praise (1080p)",
+				"title": "Alkarma TV Praise",
 				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8"
 			},
 			{
-				"title": "Alkarma TV Talmaza (Discipleship) (1080p)",
+				"title": "Alkarma TV Talmaza",
 				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8"
 			},
 			{
-				"title": "Alkarma TV Youth & English (1080p)",
+				"title": "Alkarma TV Youth & Eng",
 				"file": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8"
 			},
 			{
-				"title": "Bible Explorations (480p)",
+				"title": "Bible Explorations",
 				"file": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8"
 			},
 			{
-				"title": "Catholic TV (720p)",
+				"title": "Catholic TV",
 				"file": "https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8"
 			},
 			{
@@ -817,23 +604,19 @@
 				"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8"
 			},
 			{
-				"title": "CBN (1080p)",
-				"file": "https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8"
-			},
-			{
-				"title": "CBN (1080p)",
+				"title": "CBN",
 				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8"
 			},
 			{
-				"title": "CBN Español (1080p)",
+				"title": "CBN Español",
 				"file": "https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8"
 			},
 			{
-				"title": "CBN Family (1080p)",
+				"title": "CBN Family",
 				"file": "https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8"
 			},
 			{
-				"title": "CBN Family (1080p)",
+				"title": "CBN Family",
 				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8"
 			},
 			{
@@ -841,11 +624,11 @@
 				"file": "https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8"
 			},
 			{
-				"title": "Christian Youth Channel (720p)",
+				"title": "Christian Youth Channel",
 				"file": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8"
 			},
 			{
-				"title": "Cornerstone TV (720p)",
+				"title": "Cornerstone TV",
 				"file": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8"
 			},
 			{
@@ -853,11 +636,11 @@
 				"file": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8"
 			},
 			{
-				"title": "Divine Vision (480p)",
+				"title": "Divine Vision",
 				"file": "https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8"
 			},
 			{
-				"title": "Dr. Gene Scott (480p)",
+				"title": "Dr. Gene Scott",
 				"file": "https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8"
 			},
 			{
@@ -865,19 +648,19 @@
 				"file": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
 			},
 			{
-				"title": "ESNE TV (1080p)",
+				"title": "ESNE TV",
 				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8"
 			},
 			{
-				"title": "Faith & Life TV (720p)",
+				"title": "Faith & Life TV",
 				"file": "https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8"
 			},
 			{
-				"title": "Genesis TV (720p)",
+				"title": "Genesis TV",
 				"file": "http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8"
 			},
 			{
-				"title": "GOD TV (720p)",
+				"title": "GOD TV",
 				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8"
 			},
 			{
@@ -885,19 +668,19 @@
 				"file": "https://bstna.tulix.tv/live/bs_2m/index.m3u8"
 			},
 			{
-				"title": "Hope Channel (720p)",
+				"title": "Hope Channel",
 				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8"
 			},
 			{
-				"title": "Impact TV (480p)",
+				"title": "Impact TV",
 				"file": "http://206.190.141.27:1935/live/impact/playlist.m3u8"
 			},
 			{
-				"title": "Inspiration TV (360p)",
+				"title": "Inspiration TV",
 				"file": "https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8"
 			},
 			{
-				"title": "ISN (1080p)",
+				"title": "ISN",
 				"file": "https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8"
 			},
 			{
@@ -905,15 +688,15 @@
 				"file": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
 			},
 			{
-				"title": "Jewish Life TV (480p)",
+				"title": "Jewish Life TV",
 				"file": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8"
 			},
 			{
-				"title": "LifevisionTV (720p)",
+				"title": "LifevisionTV",
 				"file": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8"
 			},
 			{
-				"title": "LoveWorld USA (1080p)",
+				"title": "LoveWorld USA",
 				"file": "https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8"
 			},
 			{
@@ -921,19 +704,19 @@
 				"file": "http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8"
 			},
 			{
-				"title": "NRBTV (480p)",
+				"title": "NRBTV",
 				"file": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
 			},
 			{
-				"title": "PTL TV Network (720p)",
+				"title": "PTL TV Network",
 				"file": "https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8"
 			},
 			{
-				"title": "Revelation TV (720p)",
+				"title": "Revelation TV",
 				"file": "https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8"
 			},
 			{
-				"title": "SafeTV (1080p)",
+				"title": "SafeTV",
 				"file": "http://18.191.91.130:1935/live/safetv/playlist.m3u8"
 			},
 			{
@@ -957,7 +740,7 @@
 				"file": "https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8"
 			},
 			{
-				"title": "The Now Network (480p)",
+				"title": "The Now Network",
 				"file": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8"
 			},
 			{
@@ -965,20 +748,14 @@
 				"file": "http://rtmp1.abnsat.com/hls/trinity.m3u8"
 			},
 			{
-				"title": "Victory Television Network (240p)",
+				"title": "Victory TV Network",
 				"file": "http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8"
 			},
 			{
-				"title": "Viva Cristo TV (720p)",
+				"title": "Viva Cristo TV",
 				"file": "http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8"
 			}
 		]
 
-	}, {
-		"title": "Yemen",
-		"folder": [{
-			"title": "Alerth Alnabawi",
-			"file": "http://82.212.74.2:8000/live/7307.m3u8"
-		}]
 	}
 ]
