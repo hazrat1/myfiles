@@ -231,7 +231,7 @@
 	},
 	{
 		"title": "Telecaribe Deportes 2",
-		"file": "[1]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8,[2]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8,[3]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8"
+		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8"
 	},
 	{
 		"title": "The Tennis Channel",
