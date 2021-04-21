@@ -1,9 +1,5 @@
 [
 	{
-		"title": "AniPlus",
-		"file": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8"
-	},
-	{
 		"title": "Arirang HD",
 		"file": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
 	},
