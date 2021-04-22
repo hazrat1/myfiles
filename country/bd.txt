@@ -49,7 +49,7 @@
 	},
 	{
 		"title": "Mytv",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8"
+		"file": "http://master.beeiptv.com:8081/mobile_21/mytv/chunks.m3u8"
 	},
 	{"title":"RTV","file":"http://master.beeiptv.com:8081/mobile_21/rtv/chunks.m3u8"},
 	{
