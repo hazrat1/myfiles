@@ -1,6 +1,6 @@
 [
 {
-		"title": "Live IPL",
+		"title": "Live IPL [BDIX SP]",
 		"file": "http://acdn.bdixsports.live:1935/live/event2.stream/playlist.m3u8?bdixsportstokenendtime=1619115600&bdixsportstokenstarttime=1619097600&bdixsportstokenhash=ajP2NklauNbqnWk19CMxCdN1o05VlNlLpbXLyiHbx1c="
 	},
 {
