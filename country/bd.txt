@@ -69,5 +69,5 @@
 	{
 		"title": "Zee Bangla",
 		"file": "https://edge4.bioscopelive.com/hls/R08Oa9oD761/pXdMYuUhrymUX5gd5XT6ww/1619078429/zee_bangla.m3u8"
-	}
+ 	}
 ]
