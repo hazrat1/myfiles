@@ -11,10 +11,6 @@
 		"file": "https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8"
 	},
 	{
-		"title": "Kappa TV",
-		"file": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8"
-	},
-	{
 		"title": "Live Live",
 		"file": "https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8"
 	},
