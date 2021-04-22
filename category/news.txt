@@ -1,7 +1,4 @@
-[{
-		"title": "101TV Malaga",
-		"file": "https://limited38.todostreaming.es/live/101tv-web101tv.m3u8"
-	},
+[
 	{
 		"title": "112 Україна",
 		"file": "https://app.live.112.events/hls/112hd_mid/index.m3u8"
