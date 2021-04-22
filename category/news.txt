@@ -300,10 +300,6 @@
 		"file": "https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8"
 	},
 	{
-		"title": "DBC News",
-		"file": "https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw"
-	},
-	{
 		"title": "DD News",
 		"file": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"
 	},
