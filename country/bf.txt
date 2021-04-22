@@ -4,10 +4,6 @@
 	},
 	{
 		"title": "RTB",
-		"file": "https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8"
-	},
-	{
-		"title": "RTB",
-		"file": "https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"
+		"file": "[1]https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8,[2]https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8"
 	}
 ]
