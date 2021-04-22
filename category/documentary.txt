@@ -1,9 +1,5 @@
 [
 	{
-		"title": "CONtv",
-		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8"
-	},
-	{
 		"title": "Docurama",
 		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
 	},
