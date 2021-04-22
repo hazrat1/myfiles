@@ -8,10 +8,6 @@
 	},
 	{
 		"title": "Ennahar TV",
-		"file": "http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8"
-	},
-	{
-		"title": "Ennahar TV",
-		"file": "http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8"
+		"file": "[Link 1]http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8,[Link 2]http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8"
 	}
 ]
