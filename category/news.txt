@@ -400,10 +400,6 @@
 		"file": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
 	},
 	{
-		"title": "Global Punjab",
-		"file": "https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8"
-	},
-	{
 		"title": "HUMRAAZ TV",
 		"file": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
 	},
