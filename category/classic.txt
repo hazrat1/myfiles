@@ -8,10 +8,6 @@
 		"file": "http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8"
 	},
 	{
-		"title": "Honor TV",
-		"file": "https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8"
-	},
-	{
 		"title": "Prime Time Drama",
 		"file": "https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8"
 	},
