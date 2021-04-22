@@ -222,6 +222,10 @@
 		"file": "https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8"
 	},
 	{
+		"title": "Star Sports 1",
+		"file": "https://show.streamingbd.com/hls/eflix/May1fL2-M4SFUPy1z6bGYg/1619101232/bd_t_sports.m3u8"
+	},
+	{
 		"title": "Swiss Sport TV",
 		"file": "https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8"
 	},
