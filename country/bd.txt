@@ -65,5 +65,9 @@
 	{
 		"title": "Somoy TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8"
+	},
+	{
+		"title": "T Sports",
+		"file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"
 	}
 ]
