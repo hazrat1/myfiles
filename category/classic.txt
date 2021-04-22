@@ -1,7 +1,4 @@
-[{
-		"title": "Al Rayyan Al Qadeem",
-		"file": "https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8"
-	},
+[
 	{
 		"title": "Dubai Zaman",
 		"file": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8"
