@@ -1,52 +1,42 @@
 [
 	{
 		"title": "Docurama",
-		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8",
-		"poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg"
+		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
 	},
 	{
 		"title": "La 2",
-		"file": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8",
-		"poster": "https://upload.wikimedia.org/wikipedia/commons/7/75/Logo_TVE-2.svg"
+		"file": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8"
 	},
 	{
 		"title": "Law & Crime",
-		"file": "https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8",
-		"poster": "https://image.xumo.com/v1/channels/channel/9999320/800x800.png"
+		"file": "https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8"
 	},
 	{
 		"title": "Law And Crime Network",
-		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
-		"poster": "https://images-na.ssl-images-amazon.com/images/I/51KxCs%2BTT8L.png"
+		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8"
 	},
 	{
 		"title": "Magellan TV",
-		"file": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8",
-		"poster": "https://yt3.ggpht.com/ytc/AAUvwngT8ITuoAjOK0xkWxnjb7a9AzWqQ4TB7WyudC1J3Q=s900-c-k-c0x00ffffff-no-rj"
+		"file": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8"
 	},
 	{
 		"title": "National Geographic Ru",
-		"file": "http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8",
-		"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-W2DKpG1-b4zP0LGtEjnNagFwamDCE0Le8fqK9iqLcrdsI2w-f26Vqs9qYEoV2wqHa5Y&usqp=CAU"
+		"file": "http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8"
 	},
 	{
 		"title": "National Geographic Wild Ru",
-		"file": "http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8",
-		"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWpahWpBkKsgU4RFtNXpuONNKfMnCHmaxZdzcpUsV9z31dQvcYfU6A17QWlIFFIdeYow0&usqp=CAU"
+		"file": "http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8"
 	},
 	{
 		"title": "RT Documentary",
-		"file": "https://rt-doc-gd.secure2.footprint.net/1101.m3u8",
-		"poster": "https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png"
+		"file": "https://rt-doc-gd.secure2.footprint.net/1101.m3u8"
 	},
 	{
 		"title": "RTД на Русском",
-		"file": "[1]https://rtmp.api.rt.com/hls/rtdru.m3u8",
-		"poster": "https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png"
+		"file": "[1]https://rtmp.api.rt.com/hls/rtdru.m3u8"
 	},
 	{
 		"title": "STIRR Biographies",
-		"file": "https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8",
-		"poster": "https://www.bettermediahub.com/tv/images/STIRR%20Biographies.png"
+		"file": "https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8"
 	}
 ]
