@@ -30,10 +30,14 @@
 		"title": "Channel 24",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8"
 	},
+	{"title": "Channel i","file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8"},
 	{
 		"title": "Channel S",
 		"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8"
 	},
+	{"title":"DBC news","file":"http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8"},
+	{"title":"Desh TV","file":"http://master.beeiptv.com:8081/mobile_21/desh/chunks.m3u8"},
+	{"title": "Gaanbangla","file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"},
 	{
 		"title": "Jamuna TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8"
@@ -54,6 +58,7 @@
 		"title": "Mytv",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8"
 	},
+	{"title": "NTV","file": "http://master.beeiptv.com:8081/mobile_21/ntv/chunks.m3u8"},
 	{
 		"title": "RTV Music",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8"
@@ -66,8 +71,6 @@
 		"title": "Somoy TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8"
 	},
-	{
-		"title": "T Sports",
-		"file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"
-	}
+	{"title":"Sony Aath","file":"http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"},
+	{"title": "T Sports","file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"}
 ]
