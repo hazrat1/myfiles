@@ -52,6 +52,7 @@
 		"title": "Mytv",
 		"file": "http://master.beeiptv.com:8081/mobile_21/mytv/chunks.m3u8"
 	},
+	{"title":"NTV","file":"http://master.beeiptv.com:8081/mobile_21/ntv/chunks.m3u8"},
 	{"title":"RTV","file":"http://master.beeiptv.com:8081/mobile_21/rtv/chunks.m3u8"},
 	{
 		"title": "RTV Music",
