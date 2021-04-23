@@ -18,7 +18,7 @@
 	},
 	{
 		"title": "Banglavision",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI//banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8"
+		"file": "https://global-hls.telelivebd.com/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI//banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8"
 	},
 	{
 		"title": "Boishakhi TV",
