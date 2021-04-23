@@ -214,6 +214,7 @@
 		"title": "CNN-News18",
 		"file": "https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8"
 	},
+	{"title":"Colors TV","file":"http://master.beeiptv.com:8081/mobile_21/colors/chunks.m3u8"},
 	{
 		"title": "DD Malayalam",
 		"file": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8"
