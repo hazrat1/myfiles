@@ -16,10 +16,7 @@
 		"title": "Bangla TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8"
 	},
-	{
-		"title": "Banglavision",
-		"file": "https://global-hls.telelivebd.com/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI//banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8"
-	},
+	{"title":"Banglavision","file":"http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8"},
 	{
 		"title": "Boishakhi TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8"
