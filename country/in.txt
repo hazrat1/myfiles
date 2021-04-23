@@ -114,7 +114,7 @@
 		"title": "Anjan",
 		"file": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"
 	},
-	{"title": "Animel Planet Hindi","file": "https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8"},
+	{"title": "Animal Planet Hindi","file": "https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8"},
 	{
 		"title": "Arasan TV",
 		"file": "http://ammacable.com:1935/acn/arasantv/playlist.m3u8"
