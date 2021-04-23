@@ -33,6 +33,7 @@
 		"title": "Channel S",
 		"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8"
 	},
+	{"title":"DBC News","file":"http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8"},
 	{"title":"Gaanbangla","file":"http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"},
 	{
 		"title": "Jamuna TV",
