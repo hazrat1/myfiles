@@ -233,6 +233,7 @@
 		"title": "Swiss Sport TV",
 		"file": "https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8"
 	},
+	{"title":"Ten Sports","file":"https://www.opnsports.com.pk/wp-content/uploads/2019/02/Ten-Sports-Live-Video.mp4"},
 	{
 		"title": "Telecaribe Deportes 2",
 		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8"
