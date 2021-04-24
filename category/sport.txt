@@ -76,10 +76,6 @@
 		"file": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8"
 	},
 	{
-		"title": "FC Bayern München TV",
-		"file": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8"
-	},
-	{
 		"title": "Fight Sports",
 		"file": "http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8"
 	},
@@ -115,20 +111,12 @@
 		"file": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
 	},
 	{
-		"title": "MLB Network",
-		"file": "https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8"
-	},
-	{
 		"title": "Monterrico TV",
 		"file": "http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8"
 	},
 	{
 		"title": "New Japan Pro Wrestling",
 		"file": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"
-	},
-	{
-		"title": "Oman Sport",
-		"file": "https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8"
 	},
 	{
 		"title": "ORF Sport +",
@@ -168,7 +156,7 @@
 	},
 	{
 		"title": "Sony Six",
-		"file": "http://208.115.215.42/SonY_Six_HD/tracks-v1a1/mono.m3u8"
+		"file": "http://103.205.133.19/hls/sonysix.m3u8"
 	},
 	{
 		"title": "Sports TV Plus",
@@ -249,14 +237,6 @@
 	{
 		"title": "Viasat Sport East",
 		"file": "https://persik.tv/stream/3602/287583/10249.m3u8"
-	},
-	{
-		"title": "World Poker Tour",
-		"file": "https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8"
-	},
-	{
-		"title": "Yas TV",
-		"file": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8"
 	},
 	{
 		"title": "Астрахань.Ru Sport",
