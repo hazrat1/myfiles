@@ -36,7 +36,7 @@
 #EXTINF:-1 group-title="Binge", Zee Bangla  https://ott.bingebd.com/live/ngrp:zee_bangla_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Sony AATH https://ott.bingebd.com/live/ngrp:sony_aath_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Colors Bangla HD https://ott.bingebd.com/live/ngrp:colors_bangla_hd_all/playlist.m3u8
-#EXTINF:-1 group-title="Binge", Colors Bangla https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8 https://ott.bingebd.com/live/ngrp:sony_max_2_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", Colors Bangla https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", B4U Movies https://ott.bingebd.com/live/ngrp:b4u_movies_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", And Picture  https://ott.bingebd.com/live/ngrp:and_picture_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Manaranjan  https://ott.bingebd.com/live/ngrp:manoranjan_all/playlist.m3u8
@@ -54,15 +54,16 @@
 #EXTINF:-1 group-title="Binge", NAT Geo https://ott.bingebd.com/live/ngrp:nat_geo_in_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", NAt Geo Wild https://ott.bingebd.com/live/ngrp:nat_geo_wild_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", NAt Geo People  https://ott.bingebd.com/live/ngrp:nat_geo_people_all/playlist.m3u8
-#EXTINF:-1 group-title="Binge", TLC HD https://ott.bingebd.com/live/ngrp:tlc_hd_all/playlist.m3u8 https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", TLC HD https://ott.bingebd.com/live/ngrp:tlc_hd_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Akash AATH https://ott.bingebd.com/live/ngrp:dillagi_all/playlist.m3u8
-#EXTINF:-1 group-title="Binge", Ruposhi Bangla  https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Binge", Colors Bangla https://ott.bingebd.com/live/ngrp:colors_bangla_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", Ruposhi Bangla  https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/chunklist.m3u8
 #EXTINF:-1 group-title="Binge", Jalsha Movies https://ott.bingebd.com/live/ngrp:jalsha_movies_all/playlist.m3u8
-#EXTINF:-1 group-title="Binge",Sangeet Bangla  https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", Sangeet Bangla  https://ott.bingebd.com/live/ngrp:sangeet_bangla_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Shoom Music https://ott.bingebd.com/live/ngrp:dhoom_music_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Star Plus HD https://ott.bingebd.com/live/ngrp:star_plus_hd_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Star Plus https://ott.bingebd.com/live/ngrp:star_plus_all/playlist.m3u8
-#EXTINF:-1 group-title="Binge",Sony TV https://ott.bingebd.com/live/ngrp:sony_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", Sony TV https://ott.bingebd.com/live/ngrp:sony_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Sony SAB https://ott.bingebd.com/live/ngrp:sab_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Zee TV https://ott.bingebd.com/live/ngrp:zee_tv_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Colors HD https://ott.bingebd.com/live/ngrp:colors_hd_all/playlist.m3u8
@@ -71,5 +72,6 @@
 #EXTINF:-1 group-title="Binge", rishtey https://ott.bingebd.com/live/ngrp:rishtey_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Star Gold https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Star Gold Int https://ott.bingebd.com/live/ngrp:star_gold_intl_all/playlist.m3u8
-#EXTINF:-1 group-title="Binge",Movies OK https://ott.bingebd.com/live/ngrp:movies_ok_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", Movies OK https://ott.bingebd.com/live/ngrp:movies_ok_all/playlist.m3u8
 #EXTINF:-1 group-title="Binge", Sony Max https://ott.bingebd.com/live/ngrp:sony_max_all/playlist.m3u8
+#EXTINF:-1 group-title="Binge", Sony Max 2 https://ott.bingebd.com/live/ngrp:sony_max_2_all/playlist.m3u8
