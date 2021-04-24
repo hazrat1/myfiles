@@ -227,7 +227,7 @@
 	},
 	{"title": "Star Sports Select 1","file":"http://starshare.live:8080/live/738323/277337/238.m3u8"},
 	{"title": "Star Sports 2","file":"http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8"},
-	{"title": "Star Sports Select 2","file":"http://uk4.zecast.com:1935/star-live/cloud2t/chunklist.m3u8"},
+	{"title": "Star Sports Select 2","file":"http://starshare.live:8080/live/738323/277337/238.m3u8"},
 	{
 		"title": "STIRR Sports",
 		"file": "https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8"
