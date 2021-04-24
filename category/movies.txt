@@ -174,6 +174,8 @@
 		"title": "Screamfest",
 		"file": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8"
 	},
+	{"title":"Sony Max","file":"http://starshare.live:8080/live/738323/277337/151.m3u8"},
+	{"title":"Star Gold","file":"http://starshare.live:8080/live/738323/277337/194.m3u8"},
 	{
 		"title": "STIRR Black Cinema",
 		"file": "https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8"
@@ -234,6 +236,7 @@
 		"title": "WOW! TV",
 		"file": "[1]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8,[2]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8"
 	},
+	{"title": "Zee Cinema","file": "https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8"},
 	{
 		"title": "Zee Mundo",
 		"file": "https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8"

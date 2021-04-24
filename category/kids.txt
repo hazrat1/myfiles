@@ -62,6 +62,7 @@
 		"title": "MBC 3",
 		"file": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8"
 	},
+	{"title": "Pogo Hindi","file": "http://starshare.live:8080/live/738323/277337/1918.m3u8"},
 	{
 		"title": "PBS Kids (EST)",
 		"file": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
