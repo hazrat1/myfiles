@@ -2,6 +2,7 @@
 		"title": "ALTV",
 		"file": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
 	},
+	{"title":"Channel 3","file":"http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8"},
 	{
 		"title": "Channel 5",
 		"file": "https://tc-live1.sanook.com/live/22302_ch5.m3u8"
