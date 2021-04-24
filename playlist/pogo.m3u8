@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:13
+#EXTINF:13.0,
+http://starshare.live:8080/live/738323/277337/1918.ts
