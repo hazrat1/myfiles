@@ -1,19 +1,4 @@
-[{
-		"title": "Abu Dhabi Sports 1",
-		"file": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Abu Dhabi Sports 2",
-		"file": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "Abu Dhabi Sports 3",
-		"file": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8"
-	},
-	{
-		"title": "AD Sports 4 [Geo-blocked]",
-		"file": "https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8"
-	},
+[
 	{
 		"title": "Adventure Sports Network",
 		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8"
