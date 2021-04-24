@@ -634,7 +634,7 @@
 	},
 	{"title":"Sony Aath","file":"http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"},
 	{"title":"Sony Sab","file":"https://mhdtvworld.xyz/delta/flix/max.php?id=41065257&e=.m3u8"},
-	{"title":"Sony TV","file":"https://mhdtvworld.xyz/delta/flix/max.php?id=42350&e=.m3u8"},
+	{"title":"Sony TV","file":"http://103.205.133.19/hls/chs.m3u8"},
 	{
 		"title": "Suvarna News 24×7",
 		"file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8"
