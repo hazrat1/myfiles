@@ -5,17 +5,21 @@
 {"title": "ABP Ananda","file": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8"},
 {"title": "AKD Calcutta News","file": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8"},
 {"title": "Asianet News Bangla","file": "https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8"},
+{"title": "Colors Bangla","file":"http://103.205.133.19/hls/colorsbangla.m3u8"},
 {"title": "Ruposhi Bangla","file":"http://103.205.133.19/hls/ruposhibangla.m3u8"},
+{"title": "Sangeet Bangla","file":"http://103.205.133.19/hls/sangeetbangla.m3u8"},
 {"title": "Sony Aath","file":"http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"},
-{"title": "Zee Bangla","file":"http://103.205.133.19/hls/zeebanglahd.m3u8"}
+{"title": "Star Jalsha","file":"http://103.205.133.19/hls/chsj.m3u8"},
+{"title": "Zee Bangla","file":"http://103.205.133.19/hls/zeebanglahd.m3u8"},
+{"title": "Zee Bangla Cinema","file":"https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8"}
 
       ]
    },
    {"title":"English","folder":
       
 	  [
-{"title": "&Flix","file": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8"},
-{"title": "&privé HD","file": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8"},
+{"title": "&Flix","file": "https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8"},
+{"title": "&privé HD","file": "https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8"},
 {"title": "Asianet News English","file": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8"},
 {"title": "BritCom","file": "https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8"},
 {"title": "CNBC TV18","file": "[1]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10,[2]https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8"},
@@ -29,6 +33,7 @@
    },
    {"title":"Hindi","folder":
       [
+{"title": "& Picture","file": "https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8"},
 {"title": "7X Music","file": "http://skystar.livebox.co.in/7xtvChannelhls/7xtv7973090372.m3u8"},
 {"title": "9XM","file": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"},
 {"title": "Aaj Tak","file": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"},
@@ -55,6 +60,7 @@
 {"title": "DD National","file": "[480p]https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8,[576p]http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"},
 {"title": "DD News","file": "https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"},
 {"title": "DD Sports","file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
+{"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8"},
 {"title": "Divya","file": "http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8"},
 {"title": "Fashion TV","file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8"},
 {"title": "FASTWAY NEWS","file": "http://163.47.214.155:1935/fwnews/live/playlist.m3u8"},
@@ -108,6 +114,7 @@
 {"title": "Sony Max","file":"http://starshare.live:8080/live/738323/277337/151.m3u8"},
 {"title": "Sony TV","file":"http://103.205.133.19/hls/chs.m3u8"},
 {"title": "Star Gold","file":"http://starshare.live:8080/live/738323/277337/194.m3u8"},
+{"title": "Star Plus","file":"http://103.205.133.19/hls/chsp.m3u8"},
 {"title": "Suvarna News 24×7","file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8"},
 {"title": "Swaraj Express","file": "https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8"},
 {"title": "Times Now","file": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8"},
