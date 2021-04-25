@@ -1,7 +1,8 @@
 [
+	{"title":"Asian TV","file":"https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8"},
 	{
 		"title": "ATN Bangla",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8"
+		"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8"
 	},
 	{
 		"title": "ATN Music",
@@ -9,14 +10,14 @@
 	},
 	{
 		"title": "ATN News",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8"
+		"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8"
 	},
-	{"title":"Asian TV","file":"http://master.beeiptv.com:8081/mobile_21/asian/chunks.m3u8"},
 	{
 		"title": "Bangla TV",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8"
+		"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8"
 	},
 	{"title":"Banglavision","file":"http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8"},
+	{"title":"Bijoy TV","file":"https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8"},
 	{
 		"title": "Boishakhi TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8"
@@ -46,7 +47,7 @@
 	},
 	{
 		"title": "Mohona TV",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8"
+		"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8"
 	},
 	{
 		"title": "Movie Bangla",
@@ -54,17 +55,18 @@
 	},
 	{
 		"title": "Mytv",
-		"file": "http://master.beeiptv.com:8081/mobile_21/mytv/chunks.m3u8"
+		"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8"
 	},
-	{"title":"NTV","file":"http://master.beeiptv.com:8081/mobile_21/ntv/chunks.m3u8"},
-	{"title":"RTV","file":"http://master.beeiptv.com:8081/mobile_21/rtv/chunks.m3u8"},
+	{"title":"News 24","file":"https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8"},
+	{"title":"NTV","file":"https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8"},
+	{"title":"RTV","file":"https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8"},
 	{
 		"title": "RTV Music",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8"
 	},
 	{
 		"title": "SATV",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8"
+		"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8"
 	},
 	{
 		"title": "Somoy TV",
