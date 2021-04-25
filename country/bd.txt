@@ -50,10 +50,6 @@
 		"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8"
 	},
 	{
-		"title": "Movie Bangla",
-		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8"
-	},
-	{
 		"title": "Mytv",
 		"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8"
 	},
