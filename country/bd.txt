@@ -69,5 +69,5 @@
 		"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8"
 	},
 	{"title":"Sony Aath","file":"http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"},
-	{"title": "T Sports","file": "http://103.205.133.19/hls/tsports.m3u8"}
+	{"title": "T Sports","file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"}
 ]
