@@ -45,10 +45,6 @@
 				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"
 			},
 			{
-				"title": "Gazi TV",
-				"file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"
-			},
-			{
 				"title": "Mohona TV",
 				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8"
 			},
@@ -115,10 +111,7 @@
 
 	{
 		"title": "Sports",
-		"folder": [{
-				"title": "Gazi TV",
-				"file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"
-			},
+		"folder": [
 			{
 				"title": "T Sports",
 				"file": "http://103.205.133.19/hls/tsports.m3u8"
