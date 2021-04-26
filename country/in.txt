@@ -42,7 +42,6 @@
 {"title": "9XM","file": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"},
 {"title": "Anjan","file": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"},
 {"title": "Animal Planet Hindi","file": "https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8"},
-{"title": "Ayush TV","file": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"},
 {"title": "B4U Kadak","file": "[1]http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8,[2]http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8"},
 {"title": "Bflix Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"},
 {"title": "Bollywood","file": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"},
@@ -117,6 +116,7 @@
    {"title":"Kannada","folder":
       [
 {"title": "Asianet News Kannada","file": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8"},
+{"title": "Ayush TV","file": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8"},
 {"title": "Dighvijay News 24x7","file": "https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8"},
 {"title": "Kasthuri TV","file": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8"},
 {"title": "Public Music","file": "http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8"},
