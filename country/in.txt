@@ -49,7 +49,6 @@
 {"title": "Bflix Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"},
 {"title": "Bollywood","file": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"},
 {"title": "Boogle Bollywood","file": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"},
-{"title": "Channel Win","file": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8"},
 {"title": "Channel Y","file": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"},
 {"title": "Cine Voice #1","file": "https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8"},
 {"title": "Cine Voice #2","file": "https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8"},
