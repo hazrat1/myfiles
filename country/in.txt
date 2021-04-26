@@ -1,6 +1,6 @@
 [
 
-   {"title":"Bengali Ent.","folder":
+   {"title":"Bengali","folder":
       [
 {"title": "Colors Bangla","file":"http://103.205.133.19/hls/colorsbangla.m3u8"},
 {"title": "Ruposhi Bangla","file":"http://103.205.133.19/hls/ruposhibangla.m3u8"},
@@ -12,7 +12,7 @@
 
       ]
    },
-   {"title":"Bangla News","folder":
+   {"title":"Bengali News","folder":
       
 	  [
 {"title": "ABP Ananda","file": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8"},
@@ -36,7 +36,7 @@
 {"title": "Rosebowl","file": "https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8"}
       ]
    },
-   {"title":"Hindi Ent.","folder":
+   {"title":"Hindi","folder":
       [
 {"title": "& Picture","file": "https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8"},
 {"title": "9XM","file": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"},
