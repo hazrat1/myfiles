@@ -23,6 +23,7 @@
 			"title": "ATN Islamic TV",
 			"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8"
 		},
+		{"title": "Channel Win","file": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8"},
 		{"title": "Peace TV Bangla","file": "http://103.205.133.19/hls/peacetv.m3u8"}
 		]
 
