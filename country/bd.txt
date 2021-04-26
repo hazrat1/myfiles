@@ -37,6 +37,7 @@
 	},
 	{"title":"DBC News","file":"http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8"},
 	{"title":"Gaanbangla","file":"http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"},
+	{"title":"Gazi TV","file":"http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"},
 	{
 		"title": "Jamuna TV",
 		"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8"
@@ -69,5 +70,5 @@
 		"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8"
 	},
 	{"title":"Sony Aath","file":"http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"},
-	{"title": "T Sports","file": "http://master.beeiptv.com:8081/mobile_21/gazitv/chunks.m3u8"}
+	{"title": "T Sports","file": "http://103.205.133.19/hls/tsports.m3u8"}
 ]
