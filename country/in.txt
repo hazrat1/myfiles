@@ -56,7 +56,7 @@
 {"title": "MH1 Music","file": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8"},
 {"title": "Music India","file": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8"},
 {"title": "Pogo Hindi","file": "http://starshare.live:8080/live/738323/277337/1918.m3u8"},
-{"title": "Sony Sab","file":"http://208.115.215.42:80/SonY_Sab_HD/tracks-v1a1/mono.m3u8"},
+{"title": "Sony Sab","file":"http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8"},
 {"title": "Sony Max","file":"http://starshare.live:8080/live/738323/277337/151.m3u8"},
 {"title": "Sony TV","file":"http://103.205.133.19/hls/chs.m3u8"},
 {"title": "Star Gold","file":"http://starshare.live:8080/live/738323/277337/194.m3u8"},
