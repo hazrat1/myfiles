@@ -112,7 +112,7 @@
 		"folder": [
 			{
 				"title": "T Sports",
-				"file": "http://103.205.133.19/hls/tsports.m3u8"
+				"file": "http://103.205.133.19/hls/sonysix.m3u8"
 			}
 		]
 	}
