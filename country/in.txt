@@ -51,6 +51,7 @@
 {"title": "DD Sports","file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
 {"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8"},
 {"title": "Discovery Science Hindi","file": "https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8"},
+{"title": "Discovery Kids Hindi","file": "https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8"},
 {"title": "Fashion TV","file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8"},
 {"title": "Maha Movie","file": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"},
 {"title": "Manoranjan Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8"},
