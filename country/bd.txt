@@ -61,10 +61,6 @@
 				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8"
 			},
 			{
-				"title": "RTV Music",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8"
-			},
-			{
 				"title": "SATV",
 				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8"
 			},
