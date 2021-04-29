@@ -31,6 +31,9 @@
 		"title": "Bahrain Sports 2",
 		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8"
 	},
+	{"title": "beIN Sports 2","file": "http://v1.oldboz44.com/beinsport2/index.m3u8"},
+	{"title": "beIN Sports 3","file": "http://v1.oldboz44.com/beinsport3/index.m3u8"},
+	{"title": "beIN Sports 4","file": "http://v1.oldboz44.com/beinsport4/index.m3u8"},
 	{
 		"title": "Bek Sports East",
 		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8"
@@ -150,12 +153,11 @@
 		"title": "Sharjah Sports TV",
 		"file": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
 	},
+	{"title": "Sky Sports Cricket","file": "http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8"},
 	{
 		"title": "Snowy Mountains Television",
 		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8"
-	},
-	{"title": "Sky Sports Cricket","file": "http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8"},
-	{
+	},	{
 		"title": "Sony Six",
 		"file": "http://103.205.133.19/hls/sonysix.m3u8"
 	},
@@ -185,6 +187,7 @@
 		"title": "Swiss Sport TV",
 		"file": "https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8"
 	},
+	{"title": "Ten Sports","file":"http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/playlist.m3u8"},
 	{
 		"title": "Telecaribe Deportes 2",
 		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8"
