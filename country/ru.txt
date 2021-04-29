@@ -72,7 +72,7 @@
 {"title": "Мордовия 24","file": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8"},
 {"title": "Москва 24","file": "https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8"},
 {"title": "Моя Планета","file": "https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/index.m3u8"},
-{"title": "Мужской (gb)","file": "http://edge04.beetv.kz/btv/SWM/Muzhskoy/Muzhskoy.m3u8"},
+{"title": "Мужской","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2047/index.m3u8"},
 {"title": "МузСоюз","file": "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8"},
 {"title": "Мульт","file": "https://autopilot.catcast.tv/content/38850/index.m3u8"},
 {"title": "Мультиландия","file": "http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8"},
