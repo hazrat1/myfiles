@@ -3,6 +3,7 @@
    {"title":"Bengali","folder":
       [
 {"title": "Colors Bangla","file":"http://103.205.133.19/hls/colorsbangla.m3u8"},
+{"title": "Discovery Bangla","file":"https://raw.githubusercontent.com/hazrat1/myfiles/main/others/dis_ben.m3u8"},
 {"title": "Ruposhi Bangla","file":"http://103.205.133.19/hls/ruposhibangla.m3u8"},
 {"title": "Sangeet Bangla","file":"http://103.205.133.19/hls/sangeetbangla.m3u8"},
 {"title": "Sony Aath","file":"http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"},
@@ -49,6 +50,7 @@
 {"title": "DD National","file": "[480p]https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8,[576p]http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"},
 {"title": "DD Sports","file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
 {"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8"},
+{"title": "Discovery Science Hindi","file": "https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8"},
 {"title": "Fashion TV","file": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8"},
 {"title": "Maha Movie","file": "https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8"},
 {"title": "Manoranjan Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8"},
@@ -58,6 +60,7 @@
 {"title": "Pogo Hindi","file": "http://starshare.live:8080/live/738323/277337/1918.m3u8"},
 {"title": "Sony Sab","file":"http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8"},
 {"title": "Sony Max","file":"https://raw.githubusercontent.com/anas90829/others-/main/smax.m3u8"},
+{"title": "Sony Pix","file":"http://103.205.133.19/hls/sonypix.m3u8?@asfaiptv"},
 {"title": "Sony TV","file":"http://103.205.133.19/hls/chs.m3u8"},
 {"title": "Star Gold","file":"http://starshare.live:8080/live/738323/277337/194.m3u8"},
 {"title": "Star Plus","file":"http://103.205.133.19/hls/chsp.m3u8"},
