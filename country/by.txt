@@ -1,6 +1,4 @@
 [
-{"title": "8 Канал HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2186/index.m3u8"},
-{"title": "Cinema HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2185/index.m3u8"},
 {"title": "БелРос BY","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5062/index.m3u8"},
 {"title": "БелРос","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/835/index.m3u8"},
 {"title": "Беларусь 1 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2178/index.m3u8"},
