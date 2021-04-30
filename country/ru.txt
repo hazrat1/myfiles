@@ -3,7 +3,7 @@
 {"title": "360°","file": "https://video1.in-news.ru/360/index.m3u8"},
 {"title": "9 Волна","file": "http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8"},
 {"title": "Akudji TV","file": "https://hls.goodgame.ru/hls/5346.m3u8"},
-{"title": "Cinema","file": "[1]http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/4000/index.m3u8,[2]http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2185/index.m3u8"},
+{"title": "Cinema","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2185/index.m3u8"},
 {"title": "Eurodance 90 HD","file": "https://eurodance.catcast.tv/content/36987/index.m3u8"},
 {"title": "Europa plus TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/115/index.m3u8"},
 {"title": "Film TV","file": "http://filmtv.zapto.org:8050/hls/stream/index.m3u8"},
