@@ -901,7 +901,7 @@
 {"title": "СТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2172/index.m3u8"}
 	  ]
    },
-   {"title":"Молдавия-Maldova","folder":
+   {"title":"Молдавия-Moldova","folder":
       [
 {"title": "10 TV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2466/index.m3u8"},
 {"title": "Accent TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2459/index.m3u8"},
