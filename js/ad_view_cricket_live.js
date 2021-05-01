@@ -7,7 +7,7 @@ $(function worker() {
 			setTimeout(worker, 120000);
 		}
 	});
-	var ajax_load = "<script src='js/ads.js'>";
+	var ajax_load = "<script src='js/ads_score.js'>";
 
 
 	$("#ad_view").html(ajax_load);
