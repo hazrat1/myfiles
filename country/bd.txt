@@ -3,7 +3,7 @@
 		"folder": [{
 				"title": "Asian TV",
 				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8",
-				"poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png"
+				"poster": "https://pngimage.net/wp-content/uploads/2019/05/bangla-tv-logo-png-1.png"
 			},
 			{
 				"title": "ATN Bangla",
@@ -11,32 +11,27 @@
 				"poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png"
 			},
 			{
-				"title": "ATN Music",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8",
-				"poster": ""
-			},
-			{
 				"title": "Bangla TV",
 				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg"
 			},
 			{
 				"title": "Banglavision",
 				"file": "http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8",
-				"poster": ""
+				"poster": "https://lh6.googleusercontent.com/proxy/USzM8aT7ZHNmc9ulL1HP3x_6c_mpCPgQHvg3KsGXG6dM_mg5CrGOgdXMjuW5lRNQaUSUundy6Y3Dmya_JnQMeCdiKYvrRd_8Egnm=s0-d"
 			},
 			{
 				"title": "Bijoy TV",
 				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://media-exp1.licdn.com/dms/image/C510BAQEja7Px8OoO1A/company-logo_200_200/0/1577585679916?e=2159024400&v=beta&t=g3HrKByfx8UOyo-7dRfLO-g6ZmXh9j_8vNvRkQ8BKO8"
 			},
 			{
 				"title": "Boishakhi TV",
 				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8",
-				"poster": ""
+				"poster": "https://i.pinimg.com/originals/a2/61/33/a261339d262d4b5e41d9492f297854ac.png"
 			},
 			{"title": "BTV National","file":"http://103.205.133.19/hls/btv.m3u8",
-				"poster": ""},
+				"poster": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/BTV-1912250716.jpg"},
 			{
 				"title": "BTV World",
 				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8",
@@ -98,7 +93,7 @@
 		"folder": [{
 				"title": "ATN News",
 				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://i.pinimg.com/564x/ec/0d/8f/ec0d8f7d72c662a1434878f6ce67661d.jpg"
 			},
 			{
 				"title": "Channel 24",
