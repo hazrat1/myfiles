@@ -2,77 +2,67 @@
 		"title": "Entertainment",
 		"folder": [{
 				"title": "Asian TV",
-				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8",
-				"poster": "https://pngimage.net/wp-content/uploads/2019/05/bangla-tv-logo-png-1.png"
+				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8"
 			},
 			{
 				"title": "ATN Bangla",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8",
-				"poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8"
 			},
 			{
 				"title": "Bangla TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8",
-				"poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg"
+				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8"
 			},
 			{
 				"title": "Banglavision",
-				"file": "http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8",
-				"poster": "https://lh6.googleusercontent.com/proxy/USzM8aT7ZHNmc9ulL1HP3x_6c_mpCPgQHvg3KsGXG6dM_mg5CrGOgdXMjuW5lRNQaUSUundy6Y3Dmya_JnQMeCdiKYvrRd_8Egnm=s0-d"
+				"file": "http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8"
 			},
 			{
 				"title": "Bijoy TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8",
-				"poster": "https://media-exp1.licdn.com/dms/image/C510BAQEja7Px8OoO1A/company-logo_200_200/0/1577585679916?e=2159024400&v=beta&t=g3HrKByfx8UOyo-7dRfLO-g6ZmXh9j_8vNvRkQ8BKO8"
+				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8"
 			},
-			{"title": "BTV National","file":"http://103.205.133.19/hls/btv.m3u8",
-				"poster": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/BTV-1912250716.jpg"},
+			{
+				"title": "BTV National",
+				"file": "http://103.205.133.19/hls/btv.m3u8"
+			},
 			{
 				"title": "Channel i",
-				"file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8",
-				"poster": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/channel_i_4.jpg?itok=b23Q4c8L"
+				"file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8"
 			},
 			{
 				"title": "Channel S",
-				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZL4TLu0dPT2Lcek7ZjZvo4mtmbFtKftljnvzJPFM0qlBkdMyCb3jzCFjiUaYFbieEwo&usqp=CAU"
+				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8"
 			},
-			{"title": "Discovery Bangla","file":"https://raw.githubusercontent.com/hazrat1/myfiles/main/others/dis_ben.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVJrVMaYUthg4NbHfZGu5wuzvF-gMmGW7qnU_-B96CSyDHKb6DfvKVVeBm8aiehzsb7o&usqp=CAU"},
+			{
+				"title": "Discovery Bangla",
+				"file": "https://raw.githubusercontent.com/hazrat1/myfiles/main/others/dis_ben.m3u8"
+			},
 			{
 				"title": "Gaanbangla",
-				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAfczlTUqXEADJ813YDGcVTNImSLFuG4n2OpGlAMhUEbqH84WpZ7NfNoHUbZGHTwXfKk&usqp=CAU"
+				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"
 			},
 			{
 				"title": "Mohona TV",
-				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdWJk3QxOMr-KNO_pLXbJfj2qhy6n87qW-63PFpnJUB1Iaj2qhgB2dTPGiRSkekm-4MI&usqp=CAU"
+				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8"
 			},
 			{
 				"title": "Mytv",
-				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIVzw3-r7S3teDvbDUVFI0Uv0ZsfGGLrdEzKG28nbS-0sagCb6yXfOcDqq09q0ZU-mQ&usqp=CAU"
+				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8"
 			},
 			{
 				"title": "NTV",
-				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlyG9bt5jQNWBQoNrNk3nmnizN6vWI1CeUudwELCqkfo7EAxi9RMV1lmSY8iwg12WGdw&usqp=CAU"
+				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8"
 			},
 			{
 				"title": "RTV",
-				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbCN9r114gOHrTaZlURF3PE2pbLql_0ksBVOgY5ZfNdSQzyMz2uyRA4MZju9QMESbL1Q&usqp=CAU"
+				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8"
 			},
 			{
 				"title": "SATV",
-				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6d89y-Qp9aCEnmWScke97D4kk9ObL_4LIOiaYSAJGodOcX-Itl1Nr1OpBvl0IKLquNU&usqp=CAU"
+				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8"
 			},
 			{
 				"title": "Sony Aath",
-				"file": "http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYCZNYvAvni9EEHtzTAU-1ntqvROKEu8x2LKNsNQGRwxME01nTOmL0s65MtPJ_Sk5gnU&usqp=CAU"
+				"file": "http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"
 			}
 
 		]
@@ -82,36 +72,29 @@
 		"title": "News",
 		"folder": [{
 				"title": "ATN News",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8",
-				"poster": "https://i.pinimg.com/564x/ec/0d/8f/ec0d8f7d72c662a1434878f6ce67661d.jpg"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8"
 			},
 			{
 				"title": "DBC News",
-				"file": "http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFwn1aNnUkVI8ES99_hErpeEj11tlCnz7aFjXQ5W_3f-ve25tPZor3c6NQiz-B6OHgy8&usqp=CAU"
+				"file": "http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8"
 			},
 			{
 				"title": "News 24",
-				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8uFZgpB2-C4QP_WjhECQLqJKz339sl5IHjkVVtosTCDQM5IYsFySKUbBO5jZHOlQiCg&usqp=CAU"
+				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8"
 			},
 			{
 				"title": "Somoy TV",
-				"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnSuBoMWvfF8YHJRbnewX74Gunmfi0VyWTNu-8MrUetS-lcmUt2b7nq8EVl2NpuvzHL0&usqp=CAU"
+				"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8"
 			}
 		]
 	},
 
 	{
 		"title": "Sports",
-		"folder": [
-			{
-				"title": "T Sports",
-				"file": "http://103.205.133.19/hls/sonysix.m3u8",
-				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnwbqZ4Sm5x46j5tp3X17g870M62Sdrn5AKZK_TEZ8x2UAq522k8R9OKCKrAkp1hi0S1U&usqp=CAU"
-			}
-		]
-	 }
+		"folder": [{
+			"title": "T Sports",
+			"file": "http://103.205.133.19/hls/sonysix.m3u8"
+		}]
+	}
 
 ]
