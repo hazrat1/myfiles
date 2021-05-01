@@ -153,6 +153,13 @@
       [
 {"title": "CGTN русский","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/831/index.m3u8"},
 {"title": "CGTN","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/830/index.m3u8"},
+{"title": "RT America","file": "https://rt-news-gd.secure2.footprint.net/1103.m3u8"},
+{"title": "RT Arabic","file": "https://rt-arab-gd.secure2.footprint.net/1104.m3u8"},
+{"title": "RT Documentary","file": "https://rt-doc-gd.secure2.footprint.net/1101.m3u8"},
+{"title": "RT en Español","file": "https://rt-esp.secure.footprint.net/1102.m3u8"},
+{"title": "RT France","file": "https://rt-france.secure.footprint.net/1107.m3u8?streamType=live"},
+{"title": "RT UK","file": "https://rt-uk-gd.secure2.footprint.net/1106.m3u8"},
+{"title": "RTД на Русском","file": "https://rtmp.api.rt.com/hls/rtdru.m3u8"},
 {"title": "Euronews Россия","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/828/index.m3u8"},
 {"title": "NHK World TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/729/index.m3u8"},
 {"title": "Известия","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2008/index.m3u8"},
@@ -818,6 +825,7 @@
 {"title": "Арсенал HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5044/index.m3u8"},
 {"title": "Продвижение","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/851/index.m3u8"},
 {"title": "Раз ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2069/index.m3u8"},
+{"title": "Суббота!","file": "http://51.68.141.106:8081/tv/super/chunks.m3u8"},
 {"title": "ТНТ +2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/6020/index.m3u8"},
 {"title": "Театр","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2431/index.m3u8"},
 {"title": "Эврика HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/908/index.m3u8"}
