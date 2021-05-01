@@ -2,73 +2,92 @@
 		"title": "Entertainment",
 		"folder": [{
 				"title": "Asian TV",
-				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8",
+				"poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png"
 			},
 			{
 				"title": "ATN Bangla",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8",
+				"poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png"
 			},
 			{
 				"title": "ATN Music",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8"
+				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Bangla TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Banglavision",
-				"file": "http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8"
+				"file": "http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Bijoy TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Boishakhi TV",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8"
+				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8",
+				"poster": ""
 			},
-			{"title": "BTV National","file":"http://103.205.133.19/hls/btv.m3u8"},
+			{"title": "BTV National","file":"http://103.205.133.19/hls/btv.m3u8",
+				"poster": ""},
 			{
 				"title": "BTV World",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8"
+				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Channel i",
-				"file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8"
+				"file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Channel S",
-				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8"
+				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8",
+				"poster": ""
 			},
-			{"title": "Discovery Bangla","file":"https://raw.githubusercontent.com/hazrat1/myfiles/main/others/dis_ben.m3u8"},
+			{"title": "Discovery Bangla","file":"https://raw.githubusercontent.com/hazrat1/myfiles/main/others/dis_ben.m3u8",
+				"poster": ""},
 			{
 				"title": "Gaanbangla",
-				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"
+				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Mohona TV",
-				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Mytv",
-				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "NTV",
-				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "RTV",
-				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "SATV",
-				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Sony Aath",
-				"file": "http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"
+				"file": "http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8",
+				"poster": ""
 			}
 
 		]
@@ -78,31 +97,38 @@
 		"title": "News",
 		"folder": [{
 				"title": "ATN News",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Channel 24",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8"
+				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "DBC News",
-				"file": "http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8"
+				"file": "http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Jamuna TV",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8"
+				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Indipendent TV",
-				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8"
+				"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "News 24",
-				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8",
+				"poster": ""
 			},
 			{
 				"title": "Somoy TV",
-				"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8"
+				"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8",
+				"poster": ""
 			}
 		]
 	},
@@ -112,7 +138,8 @@
 		"folder": [
 			{
 				"title": "T Sports",
-				"file": "http://103.205.133.19/hls/sonysix.m3u8"
+				"file": "http://103.205.133.19/hls/sonysix.m3u8",
+				"poster": ""
 			}
 		]
 	}
