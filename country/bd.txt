@@ -30,49 +30,49 @@
 			{
 				"title": "Channel i",
 				"file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8",
-				"poster": ""
+				"poster": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/channel_i_4.jpg?itok=b23Q4c8L"
 			},
 			{
 				"title": "Channel S",
 				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREZL4TLu0dPT2Lcek7ZjZvo4mtmbFtKftljnvzJPFM0qlBkdMyCb3jzCFjiUaYFbieEwo&usqp=CAU"
 			},
 			{"title": "Discovery Bangla","file":"https://raw.githubusercontent.com/hazrat1/myfiles/main/others/dis_ben.m3u8",
-				"poster": ""},
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoVJrVMaYUthg4NbHfZGu5wuzvF-gMmGW7qnU_-B96CSyDHKb6DfvKVVeBm8aiehzsb7o&usqp=CAU"},
 			{
 				"title": "Gaanbangla",
 				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAfczlTUqXEADJ813YDGcVTNImSLFuG4n2OpGlAMhUEbqH84WpZ7NfNoHUbZGHTwXfKk&usqp=CAU"
 			},
 			{
 				"title": "Mohona TV",
 				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdWJk3QxOMr-KNO_pLXbJfj2qhy6n87qW-63PFpnJUB1Iaj2qhgB2dTPGiRSkekm-4MI&usqp=CAU"
 			},
 			{
 				"title": "Mytv",
 				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIVzw3-r7S3teDvbDUVFI0Uv0ZsfGGLrdEzKG28nbS-0sagCb6yXfOcDqq09q0ZU-mQ&usqp=CAU"
 			},
 			{
 				"title": "NTV",
 				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMlyG9bt5jQNWBQoNrNk3nmnizN6vWI1CeUudwELCqkfo7EAxi9RMV1lmSY8iwg12WGdw&usqp=CAU"
 			},
 			{
 				"title": "RTV",
 				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbbCN9r114gOHrTaZlURF3PE2pbLql_0ksBVOgY5ZfNdSQzyMz2uyRA4MZju9QMESbL1Q&usqp=CAU"
 			},
 			{
 				"title": "SATV",
 				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6d89y-Qp9aCEnmWScke97D4kk9ObL_4LIOiaYSAJGodOcX-Itl1Nr1OpBvl0IKLquNU&usqp=CAU"
 			},
 			{
 				"title": "Sony Aath",
 				"file": "http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvYCZNYvAvni9EEHtzTAU-1ntqvROKEu8x2LKNsNQGRwxME01nTOmL0s65MtPJ_Sk5gnU&usqp=CAU"
 			}
 
 		]
@@ -88,17 +88,17 @@
 			{
 				"title": "DBC News",
 				"file": "http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRFwn1aNnUkVI8ES99_hErpeEj11tlCnz7aFjXQ5W_3f-ve25tPZor3c6NQiz-B6OHgy8&usqp=CAU"
 			},
 			{
 				"title": "News 24",
 				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8uFZgpB2-C4QP_WjhECQLqJKz339sl5IHjkVVtosTCDQM5IYsFySKUbBO5jZHOlQiCg&usqp=CAU"
 			},
 			{
 				"title": "Somoy TV",
 				"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwnSuBoMWvfF8YHJRbnewX74Gunmfi0VyWTNu-8MrUetS-lcmUt2b7nq8EVl2NpuvzHL0&usqp=CAU"
 			}
 		]
 	},
@@ -109,7 +109,7 @@
 			{
 				"title": "T Sports",
 				"file": "http://103.205.133.19/hls/sonysix.m3u8",
-				"poster": ""
+				"poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnwbqZ4Sm5x46j5tp3X17g870M62Sdrn5AKZK_TEZ8x2UAq522k8R9OKCKrAkp1hi0S1U&usqp=CAU"
 			}
 		]
 	 }
