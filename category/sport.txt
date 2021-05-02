@@ -31,8 +31,8 @@
 		"title": "Bahrain Sports 2",
 		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8"
 	},
-	{"title": "beIN Sports 1","file": "http://starshare.live:8080/live/arfat/arfat/356.m3u8"},
-	{"title": "beIN Sports 2","file": "http://starshare.live:8080/live/arfat/arfat/357.m3u8"},
+	{"title": "beIN Sports 1","file": "http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8"},
+	{"title": "beIN Sports 2","file": "http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8"},
 	{"title": "beIN Sports 3","file": "http://starshare.live:8080/live/arfat/arfat/358.m3u8"},
 	{"title": "beIN Sports 4","file": "http://starshare.live:8080/live/arfat/arfat/369.m3u8"},
 	{
