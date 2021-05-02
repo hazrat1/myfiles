@@ -76,17 +76,6 @@
 		"file": "http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8"
 	},
 	{
-		"title": "Fox Sports Asia",
-		"file": "https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8"
-	}, {
-		"title": "Fox Sports 2 Asia",
-		"file": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8"
-	},
-	{
-		"title": "Fox Sports 3 Asia",
-		"file": "https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8"
-	},
-	{
 		"title": "FOX Sports HD 1",
 		"file": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8"
 	},
@@ -185,7 +174,6 @@
 		"title": "Telecaribe Deportes 2",
 		"file": "https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8"
 	},
-	{"title": "T Sports (BD)","file": "http://103.205.133.19/hls/tsports.m3u8"},
 	{
 		"title": "The Tennis Channel",
 		"file": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
