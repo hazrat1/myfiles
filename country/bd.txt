@@ -125,7 +125,7 @@
 		"title": "Sports",
 		"folder": [{
 			"title": "T Sports",
-			"file": "http://starshare.live:8080/live/arfat/arfat/176.m3u8"
+			"file": "http://103.205.133.19/hls/sonysix.m3u8?@asfaiptv"
 		}]
 	}
 
