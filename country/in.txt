@@ -46,7 +46,7 @@
 {"title": "B4U Kadak","file": "[1]http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8,[2]http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8"},
 {"title": "Bflix Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"},
 {"title": "Bollywood","file": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"},
-{"title": "Colors TV","file":"http://master.beeiptv.com:8081/mobile_21/colors/chunks.m3u8"},
+{"title": "Colors TV","file":"http://103.205.133.19/hls/chc.m3u8?@asfaiptv"},
 {"title": "DD National","file": "[480p]https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8,[576p]http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8"},
 {"title": "DD Sports","file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8"},
 {"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8"},
