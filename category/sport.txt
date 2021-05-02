@@ -31,10 +31,10 @@
 		"title": "Bahrain Sports 2",
 		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8"
 	},
-	{"title": "beIN Sports 1","file": "http://starshare.live:8080/live/738323/277337/356.m3u8"},
-	{"title": "beIN Sports 2","file": "http://starshare.live:8080/live/738323/277337/357.m3u8"},
-	{"title": "beIN Sports 3","file": "http://starshare.live:8080/live/738323/277337/358.m3u8"},
-	{"title": "beIN Sports 4","file": "http://starshare.live:8080/live/738323/277337/369.m3u8"},
+	{"title": "beIN Sports 1","file": "http://starshare.live:8080/live/arfat/arfat/356.m3u8"},
+	{"title": "beIN Sports 2","file": "http://starshare.live:8080/live/arfat/arfat/357.m3u8"},
+	{"title": "beIN Sports 3","file": "http://starshare.live:8080/live/arfat/arfat/358.m3u8"},
+	{"title": "beIN Sports 4","file": "http://starshare.live:8080/live/arfat/arfat/369.m3u8"},
 	{
 		"title": "Bek Sports East",
 		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8"
@@ -152,11 +152,11 @@
 		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8"
 	},	{
 		"title": "Sony Six",
-		"file": "http://starshare.live:8080/live/738323/277337/176.m3u8"
+		"file": "http://starshare.live:8080/live/arfat/arfat/176.m3u8"
 	},
 	{"title": "Sony Ten 1","file": "http://103.205.133.19/hls/ten1.m3u8"},
 	{"title": "Sony Ten 2","file": "http://103.205.133.19/hls/ten2.m3u8"},
-	{"title": "Sony Ten 3","file": "http://starshare.live:8080/live/738323/277337/146.m3u8"},
+	{"title": "Sony Ten 3","file": "http://starshare.live:8080/live/arfat/arfat/146.m3u8"},
 	{
 		"title": "Sports TV Plus",
 		"file": "https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8"
@@ -167,11 +167,11 @@
 	},
 	{
 		"title": "Star Sports 1",
-		"file": "http://starshare.live:8080/live/738323/277337/23936.m3u8"
+		"file": "http://starshare.live:8080/live/arfat/arfat/23936.m3u8"
 	},
-	{"title": "Star Sports Select 1","file":"http://starshare.live:8080/live/738323/277337/238.m3u8"},
+	{"title": "Star Sports Select 1","file":"http://starshare.live:8080/live/arfat/arfat/238.m3u8"},
 	{"title": "Star Sports 2","file":"http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8"},
-	{"title": "Star Sports Select 2","file":"http://starshare.live:8080/live/738323/277337/238.m3u8"},
+	{"title": "Star Sports Select 2","file":"http://starshare.live:8080/live/arfat/arfat/238.m3u8"},
 	{
 		"title": "STIRR Sports",
 		"file": "https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8"
