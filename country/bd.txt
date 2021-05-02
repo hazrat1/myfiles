@@ -14,23 +14,39 @@
 			},
 			{
 				"title": "Banglavision",
-				"file": "http://master.beeiptv.com:8081/mobile_21/banglavision/chunks.m3u8"
+				"file": "http://103.205.133.19/hls/banglavision.m3u8"
 			},
 			{
 				"title": "Bijoy TV",
 				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8"
 			},
 			{
+				"title": "Boishakhi TV",
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8"
+			},
+			{
+				"title": "BTV CTG",
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8"
+			},
+			{
 				"title": "BTV National",
 				"file": "http://103.205.133.19/hls/btv.m3u8"
 			},
 			{
+				"title": "BTV World",
+				"file": "http://103.205.133.19/hls/btvworld.m3u8"
+			},
+			{
 				"title": "Channel i",
-				"file": "http://master.beeiptv.com:8081/mobile_21/channeli/chunks.m3u8"
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8"
 			},
 			{
 				"title": "Channel S",
 				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8"
+			},
+			{
+				"title": "Deepto TV",
+				"file": "http://103.205.133.19/hls/deeptotv.m3u8"
 			},
 			{
 				"title": "Discovery Bangla",
@@ -38,7 +54,7 @@
 			},
 			{
 				"title": "Gaanbangla",
-				"file": "http://master.beeiptv.com:8081/mobile_21/gaanbangla/chunks.m3u8"
+				"file": "http://103.205.133.19/hls/gaanbangla.m3u8"
 			},
 			{
 				"title": "Mohona TV",
@@ -47,6 +63,10 @@
 			{
 				"title": "Mytv",
 				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8"
+			},
+			{
+				"title": "Nagorik TV",
+				"file": "http://103.205.133.19/hls/nagorik.m3u8"
 			},
 			{
 				"title": "NTV",
@@ -62,7 +82,7 @@
 			},
 			{
 				"title": "Sony Aath",
-				"file": "http://master.beeiptv.com:8081/mobile_21/sonyaath/chunks.m3u8"
+				"file": "http://103.205.133.19/hls/sony8.m3u8"
 			}
 
 		]
@@ -75,8 +95,20 @@
 				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8"
 			},
 			{
+				"title": "Channel 24",
+				"file": "http://103.205.133.19/hls/channel24.m3u8"
+			},
+			{
 				"title": "DBC News",
-				"file": "http://master.beeiptv.com:8081/mobile_21/dbcnews/chunks.m3u8"
+				"file": "http://103.205.133.19/hls/dbcnews.m3u8"
+			},
+			{
+				"title": "Independent TV",
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8"
+			},
+			{
+				"title": "Jamuna TV",
+				"file": "http://103.205.133.19/hls/jamunatv.m3u8"
 			},
 			{
 				"title": "News 24",
@@ -84,7 +116,7 @@
 			},
 			{
 				"title": "Somoy TV",
-				"file": "http://master.beeiptv.com:8081/mobile_21/somoy/chunks.m3u8"
+				"file": "http://103.205.133.19/hls/somoy.m3u8"
 			}
 		]
 	},
@@ -93,7 +125,7 @@
 		"title": "Sports",
 		"folder": [{
 			"title": "T Sports",
-			"file": "http://103.205.133.19/hls/sonysix.m3u8"
+			"file": "http://starshare.live:8080/live/738323/277337/176.m3u8"
 		}]
 	}
 
