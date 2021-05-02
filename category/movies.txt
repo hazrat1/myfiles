@@ -176,7 +176,7 @@
 		"file": "https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8"
 	},
 	{"title": "Sony Max","file":"http://starshare.live:8080/live/738323/277337/151.m3u8"},
-	{"title": "Sony Pix","file":"http://103.205.133.19/hls/sonypix.m3u8?@asfaiptv"},
+	{"title": "Sony Pix","file":"http://starshare.live:8080/live/738323/277337/147.m3u8"},
 	{"title": "Star Gold","file":"http://starshare.live:8080/live/738323/277337/194.m3u8"},
 	{
 		"title": "STIRR Black Cinema",
