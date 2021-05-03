@@ -50,7 +50,7 @@
 			},
 			{
 				"title": "Discovery Bangla",
-				"file": "http://starshare.live:8080/live/arfat/arfat/406.m3u8"
+				"file": "[SD]http://starshare.live:8080/live/arfat/arfat/406.m3u8,[HD]http://starshare.live:8080/live/arfat/arfat/156.m3u8"
 			},
 			{
 				"title": "Gaanbangla",
