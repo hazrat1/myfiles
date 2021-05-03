@@ -79,10 +79,6 @@
 			{
 				"title": "SATV",
 				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8"
-			},
-			{
-				"title": "Sony Aath",
-				"file": "http://103.205.133.19/hls/sony8.m3u8"
 			}
 
 		]
