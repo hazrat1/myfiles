@@ -34,7 +34,9 @@
 {"title": "Mirror Now","file": "https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8"},
 {"title": "NDTV 24x7-IN","file": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8"},
 {"title": "NDTV Profit","file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8"},
-{"title": "Rosebowl","file": "https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8"}
+{"title": "Rosebowl","file": "https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8"},
+{"title": "Zee Cafe","file": "https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/index.m3u8"},
+{"title": "Zee World","file": "https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8"}
       ]
    },
    {"title":"Hindi","folder":
@@ -44,6 +46,7 @@
 {"title": "Anjan","file": "https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8"},
 {"title": "Animal Planet Hindi","file": "https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8"},
 {"title": "B4U Kadak","file": "[1]http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8,[2]http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8"},
+{"title": "B4U Movies","file": "https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8"},
 {"title": "Bflix Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8"},
 {"title": "Bollywood","file": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8"},
 {"title": "Colors TV","file":"http://103.205.133.19/hls/chc.m3u8?@asfaiptv"},
@@ -59,6 +62,7 @@
 {"title": "MH1 Music","file": "http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8"},
 {"title": "Music India","file": "http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8"},
 {"title": "Pogo Hindi","file": "http://starshare.live:8080/live/arfat/arfat/1918.m3u8"},
+{"title": "Rishtey Cineplex","file": "https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8"},
 {"title": "Sony Sab","file":"http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8"},
 {"title": "Sony Max","file":"http://starshare.live:8080/live/arfat/arfat/151.m3u8"},
 {"title": "Sony Pix","file":"hhttp://starshare.live:8080/live/arfat/arfat/147.m3u8"},
