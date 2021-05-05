@@ -159,6 +159,8 @@
 		"title": "Paramount Channel Ru",
 		"file": "http://188.40.68.167/russia/paramount/playlist.m3u8"
 	},
+	{"title": "Pop","file":"https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"},
+	{"title": "Rishtey Cineplex","file": "https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8"},
 	{
 		"title": "Rotana Cinema HD",
 		"file": "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8"
@@ -243,6 +245,7 @@
 		"title": "Zee Mundo",
 		"file": "https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8"
 	},
+	{"title": "Zee World","file": "https://y5w8j4a9.ssl.hwcdn.net/world/index.m3u8"},
 	{
 		"title": "Дом кино",
 		"file": "http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8"
