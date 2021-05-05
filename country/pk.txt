@@ -1,4 +1,22 @@
-[{
+[
+{"title":"Entertainment","folder":
+[
+{"title": "A Plus","file": "https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8"},
+{"title": "Aaj Entertainment","file": "https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/playlist.m3u8"},
+{"title": "ATV","file": "https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8"},
+{"title": "Express Entertainment","file": "https://streams.simpaisa.com:8443/pitvlive4/expressent.smil/playlist.m3u8"},
+{"title": "Hum Sitaray","file": "https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8"},
+	{
+		"title": "Kay2 TV",
+		"file": "https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8"
+	},
+{"title": "TV One","file": "https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8"}
+]
+},
+
+{"title":"News","folder":
+[
+	{
 		"title": "92 News",
 		"file": "https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
 	},
@@ -19,19 +37,13 @@
 		"file": "https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8"
 	},
 	{
-		"title": "Kay2 TV",
-		"file": "https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8"
-	},
-	{
 		"title": "Khyber Middle East",
 		"file": "https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8"
 	},
 	{
 		"title": "Khyber News",
 		"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8"
-	},
-	{
-		"title": "Zindagi TV",
-		"file": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
 	}
+]
+}
 ]
