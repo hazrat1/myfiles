@@ -3,7 +3,7 @@
    {"title":"Bengali","folder":
       [
 {"title": "Colors Bangla","file":"http://103.205.133.19/hls/colorsbangla.m3u8"},
-{"title": "Discovery Bangla","file":"[SD]http://starshare.live:8080/live/arfat/arfat/406.m3u8,[HD]http://starshare.live:8080/live/arfat/arfat/156.m3u8"},
+{"title": "Discovery Bangla","file":"http://starshare.live:8080/live/arfat/arfat/156.m3u8"},
 {"title": "Ruposhi Bangla","file":"http://103.205.133.19/hls/ruposhibangla.m3u8"},
 {"title": "Sangeet Bangla","file":"http://103.205.133.19/hls/sangeetbangla.m3u8"},
 {"title": "Sony Aath","file":"http://103.205.133.19/hls/sony8.m3u8"},
