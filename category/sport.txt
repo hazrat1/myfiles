@@ -140,7 +140,7 @@
 		"title": "Snowy Mountains Television",
 		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8"
 	},
-	{"title": "Sony Six","file": "http://starshare.live:8080/live/arfat/arfat/176.m3u8"},
+	{"title": "Sony Six","file": "http://103.205.133.19/hls/sonysix.m3u8?@asfaiptv"},
 	{"title": "Sony Ten 1","file": "http://103.205.133.19/hls/ten1.m3u8"},
 	{"title": "Sony Ten 2","file": "http://103.205.133.19/hls/ten2.m3u8"},
 	{"title": "Sony Ten 3","file": "http://103.205.133.19/hls/ten3.m3u8"},
