@@ -1,54 +1,54 @@
 [
 	{
 		"title": "Dubai Zaman",
-		"file": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8"
+		"file": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Folk TV",
-		"file": "http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8"
+		"file": "http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Prime Time Drama",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rotana Classic HD",
-		"file": "https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8"
+		"file": "https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Classic Movies",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Mainstreet",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Nostalgia Movies",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Tally Ho",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Tavern",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Turbo",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Western Movie",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Xcorps TV",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-shetv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Z Living",
-		"file": "[1]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8,[2]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8"
+		"file": "[1]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8,[2]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

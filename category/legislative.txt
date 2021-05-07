@@ -1,78 +1,78 @@
 [
 	{
 		"title": "C-Span",
-		"file": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8"
+		"file": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "C-Span 2",
-		"file": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8"
+		"file": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "C-Span 3",
-		"file": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8"
+		"file": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CGTV",
-		"file": "https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8"
+		"file": "https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Congreso de los Diputados 1",
-		"file": "https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8"
+		"file": "https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Congreso de los Diputados 2",
-		"file": "https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8"
+		"file": "https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Congreso de los Diputados 3",
-		"file": "https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8"
+		"file": "https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Congreso de los Diputados 4",
-		"file": "https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8"
+		"file": "https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Congreso de los Diputados 5",
-		"file": "https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8"
+		"file": "https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CPAC",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8"
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DC Council Channel",
-		"file": "https://video.oct.dc.gov/out/u/15_12.m3u8"
+		"file": "https://video.oct.dc.gov/out/u/15_12.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "District of Columbia Net",
-		"file": "https://video.oct.dc.gov/out/u/DCN.m3u8"
+		"file": "https://video.oct.dc.gov/out/u/DCN.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fairfax Public Access",
-		"file": "https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8"
+		"file": "https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Legislative Assembly of Ontario",
-		"file": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+		"file": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV ALMG",
-		"file": "https://streaming.almg.gov.br/live/tvalmg.m3u8"
+		"file": "https://streaming.almg.gov.br/live/tvalmg.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV ALRN",
-		"file": "http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Câmara",
-		"file": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+		"file": "https://stream3.camara.gov.br/tv1/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Câmara 2",
-		"file": "https://stream3.camara.gov.br/tv2/manifest.m3u8"
+		"file": "https://stream3.camara.gov.br/tv2/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Вместе-РФ",
-		"file": "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8"
+		"file": "http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

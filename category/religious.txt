@@ -4,70 +4,70 @@
 		"title": "Armenia",
 		"folder": [{
 			"title": "TBN Armenia",
-			"file": "[1]http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8,[2]https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8"
+			"file": "[1]http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Bahrain",
 		"folder": [{
 			"title": "Bahrain Quran",
-			"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8"
+			"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Bangladesh",
 		"folder": [{
 			"title": "Aldawah TV",
-			"file": "https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV_manifest.m3u8"
+			"file": "https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV_manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}, {
 			"title": "ATN Islamic TV",
-			"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8"
+			"file": "https://templv3.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		},
-		{"title": "Channel Win","file": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8"},
-		{"title": "Peace TV Bangla","file": "http://103.205.133.19/hls/peacetv.m3u8"}
+		{"title": "Channel Win","file": "https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+		{"title": "Peace TV Bangla","file": "http://103.205.133.19/hls/peacetv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
 		]
 
 	}, {
 		"title": "Brazil",
 		"folder": [{
 				"title": "Fonte TV",
-				"file": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+				"file": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "IMPD TV",
-				"file": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8"
+				"file": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Novo Tempo",
-				"file": "http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8"
+				"file": "http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "PUC TV Goiás",
-				"file": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8"
+				"file": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "RB de C",
-				"file": "http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8"
+				"file": "http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Rede Mão Amiga",
-				"file": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8"
+				"file": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Rede Vida",
-				"file": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8"
+				"file": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "TV Pai Eterno",
-				"file": "http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8"
+				"file": "http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "TV Terceiro Anjo",
-				"file": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8"
+				"file": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "TV Universal",
-				"file": "https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8"
+				"file": "https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -75,18 +75,18 @@
 		"title": "Burkina Faso",
 		"folder": [{
 			"title": "Impact TV",
-			"file": "[1]https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/chunklist_w1404999051.m3u8,[2]https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/manifest.m3u8"
+			"file": "[1]https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/chunklist_w1404999051.m3u8,[2]https://edge2.vedge.infomaniak.com/livecast/ik:impacttv/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Canada",
 		"folder": [{
 				"title": "Amazing Discoveries TV",
-				"file": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8"
+				"file": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "QVTV",
-				"file": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8"
+				"file": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -94,50 +94,50 @@
 		"title": "Gambia",
 		"folder": [{
 			"title": "QTV",
-			"file": "https://player.qtv.gm/hls/live.stream.m3u8"
+			"file": "https://player.qtv.gm/hls/live.stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 	}, {
 		"title": "Germany",
 		"folder": [{
 			"title": "Sophia TV",
-			"file": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8"
+			"file": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Hungary",
 		"folder": [{
 			"title": "Bonum TV",
-			"file": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8"
+			"file": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 	}, {
 		"title": "Iran",
 		"folder": [{
 				"title": "Imam Hussein TV",
-				"file": "https://live.imamhossaintv.com/live/ih103/index.m3u8"
+				"file": "https://live.imamhossaintv.com/live/ih103/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Kalemeh TV",
-				"file": "https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8"
+				"file": "https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Karbala Live 1",
-				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8"
+				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Karbala Live 2",
-				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8"
+				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Karbala Live 4",
-				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8"
+				"file": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mohabat TV",
-				"file": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8"
+				"file": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Payvand TV",
-				"file": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8"
+				"file": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -145,27 +145,27 @@
 		"title": "Lebanon",
 		"folder": [{
 				"title": "CharityTV",
-				"file": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8"
+				"file": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nour Al Koddas",
-				"file": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8"
+				"file": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nour Al Shabab",
-				"file": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8"
+				"file": "https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nour Al Sharq",
-				"file": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8"
+				"file": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nour Mariam",
-				"file": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8"
+				"file": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "NourSAT",
-				"file": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8"
+				"file": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -173,43 +173,43 @@
 		"title": "Oman",
 		"folder": [{
 			"title": "Al Istiqama TV",
-			"file": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
+			"file": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Panama",
 		"folder": [{
 			"title": "Hosanna Vision",
-			"file": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8"
+			"file": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Puerto Rico",
 		"folder": [{
 			"title": "CTNi",
-			"file": "https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8"
+			"file": "https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Palestine",
 		"folder": [{
 			"title": "Al Aqsa Channel",
-			"file": "[1]http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8,[2]https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8"
+			"file": "[1]http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Portugal",
 		"folder": [{
 				"title": "Kuriakos TV",
-				"file": "[1]http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8,[2]http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8"
+				"file": "[1]http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8,[2]http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Sobrenatural",
-				"file": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8"
+				"file": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "TV Fatima",
-				"file": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8"
+				"file": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -224,31 +224,31 @@
 		"title": "Saudi Arabia",
 		"folder": [{
 				"title": "Al Quran",
-				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8"
+				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Al Sunnah Al Nabawiyah",
-				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8"
+				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Al Wesal TV",
-				"file": "http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8"
+				"file": "http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Iqraa",
-				"file": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8"
+				"file": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Iqraa Europe Africa",
-				"file": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8"
+				"file": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Makkah TV #1",
-				"file": "http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8"
+				"file": "http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Makkah TV #2",
-				"file": "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8"
+				"file": "https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -256,11 +256,11 @@
 		"title": "Spain",
 		"folder": [{
 				"title": "ESNE TV",
-				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8"
+				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Tarotéame",
-				"file": "http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8"
+				"file": "http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -268,11 +268,11 @@
 		"title": "Sweden",
 		"folder": [{
 				"title": "Himlen TV7",
-				"file": "http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8"
+				"file": "http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Kanal 10",
-				"file": "[1]https://cdn-kanal10.crossnet.net/kanal10/mp4:mpegts.stream/playlist.m3u8,[2]https://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8"
+				"file": "[1]https://cdn-kanal10.crossnet.net/kanal10/mp4:mpegts.stream/playlist.m3u8,[2]https://cdn-kanal10.crossnet.net/kanal10/mpegts.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -280,175 +280,175 @@
 		"title": "Taiwan",
 		"folder": [{
 				"title": "GOOD TV CH1",
-				"file": "https://live.streamingfast.net/osmflivech1.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH2",
-				"file": "https://live.streamingfast.net/osmflivech2.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH3",
-				"file": "https://live.streamingfast.net/osmflivech3.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH5",
-				"file": "https://live.streamingfast.net/osmflivech5.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech5.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH6",
-				"file": "https://live.streamingfast.net/osmflivech6.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech6.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH7",
-				"file": "https://live.streamingfast.net/osmflivech7.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech7.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH8",
-				"file": "https://live.streamingfast.net/osmflivech8.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech8.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH9",
-				"file": "https://live.streamingfast.net/osmflivech9.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech9.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH10",
-				"file": "https://live.streamingfast.net/osmflivech10.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech10.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH12",
-				"file": "https://live.streamingfast.net/osmflivech12.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech12.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH13",
-				"file": "https://live.streamingfast.net/osmflivech13.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech13.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH14",
-				"file": "https://live.streamingfast.net/osmflivech14.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech14.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH15",
-				"file": "https://live.streamingfast.net/osmflivech15.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech15.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH16",
-				"file": "https://live.streamingfast.net/osmflivech16.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech16.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH17",
-				"file": "https://live.streamingfast.net/osmflivech17.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech17.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH18",
-				"file": "https://live.streamingfast.net/osmflivech18.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech18.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH19",
-				"file": "https://live.streamingfast.net/osmflivech19.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech19.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH20",
-				"file": "https://live.streamingfast.net/osmflivech20.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech20.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH21",
-				"file": "https://live.streamingfast.net/osmflivech21.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech21.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH22",
-				"file": "https://live.streamingfast.net/osmflivech22.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech22.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH23",
-				"file": "https://live.streamingfast.net/osmflivech23.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech23.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH24",
-				"file": "https://live.streamingfast.net/osmflivech24.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH25",
-				"file": "https://live.streamingfast.net/osmflivech25.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech25.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH26",
-				"file": "https://live.streamingfast.net/osmflivech26.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech26.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH27",
-				"file": "https://live.streamingfast.net/osmflivech27.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech27.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH28",
-				"file": "https://live.streamingfast.net/osmflivech28.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech28.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH29",
-				"file": "https://live.streamingfast.net/osmflivech29.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech29.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH30",
-				"file": "https://live.streamingfast.net/osmflivech30.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech30.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH31",
-				"file": "https://live.streamingfast.net/osmflivech31.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech31.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH32",
-				"file": "https://live.streamingfast.net/osmflivech32.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech32.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH33",
-				"file": "https://live.streamingfast.net/osmflivech33.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech33.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH36",
-				"file": "https://live.streamingfast.net/osmflivech36.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech36.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH37",
-				"file": "https://live.streamingfast.net/osmflivech37.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech37.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH38",
-				"file": "https://live.streamingfast.net/osmflivech38.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech38.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH40",
-				"file": "https://live.streamingfast.net/osmflivech40.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech40.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH41",
-				"file": "https://live.streamingfast.net/osmflivech41.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech41.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH44",
-				"file": "https://live.streamingfast.net/osmflivech44.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech44.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH45",
-				"file": "https://live.streamingfast.net/osmflivech45.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech45.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH47",
-				"file": "https://live.streamingfast.net/osmflivech47.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech47.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH49",
-				"file": "https://live.streamingfast.net/osmflivech49.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech49.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOOD TV CH50",
-				"file": "https://live.streamingfast.net/osmflivech50.m3u8"
+				"file": "https://live.streamingfast.net/osmflivech50.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "唯心電視",
-				"file": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8"
+				"file": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "華藏衛視",
-				"file": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8"
+				"file": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -456,39 +456,39 @@
 		"title": "Tanzania",
 		"folder": [{
 			"title": "IBN TV",
-			"file": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8"
+			"file": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Trinidad & Tobago",
 		"folder": [{
 			"title": "The Islamic Network",
-			"file": "http://162.244.81.145:2215/live/livestream/playlist.m3u8"
+			"file": "http://162.244.81.145:2215/live/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Uganda",
 		"folder": [{
 			"title": "Salt TV",
-			"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8"
+			"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "Ukraine",
 		"folder": [{
 			"title": "CNL Европа",
-			"file": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8"
+			"file": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 
 	}, {
 		"title": "United Arab Emirates",
 		"folder": [{
 				"title": "Sharjah TV",
-				"file": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8"
+				"file": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Towheed TV",
-				"file": "http://51.210.199.1/hls/stream.m3u8"
+				"file": "http://51.210.199.1/hls/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -496,19 +496,19 @@
 		"title": "United Kingdom",
 		"folder": [{
 				"title": "Ahlulbayt TV",
-				"file": "http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8"
+				"file": "http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Akaal Channel",
-				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
+				"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Eman Channel",
-				"file": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8"
+				"file": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "God TV UK",
-				"file": "https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8"
+				"file": "https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 
@@ -516,247 +516,247 @@
 		"title": "United States",
 		"folder": [{
 				"title": "3ABN",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Dare to Dream",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Français",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN International",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Kids",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Kids",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Latino",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Latino",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Praise Him Music",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Proclaim!",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "3ABN Russia",
-				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8"
+				"file": "https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Al Horreya TV",
-				"file": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8"
+				"file": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Aliento Vision",
-				"file": "http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8"
+				"file": "http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV Australi",
-				"file": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8"
+				"file": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV Family",
-				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8"
+				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV Middle East",
-				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8"
+				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV North America",
-				"file": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
+				"file": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV Praise",
-				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8"
+				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV Talmaza",
-				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8"
+				"file": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Alkarma TV Youth & Eng",
-				"file": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8"
+				"file": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Bible Explorations",
-				"file": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8"
+				"file": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Catholic TV",
-				"file": "https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8"
+				"file": "https://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CBC News ",
-				"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8"
+				"file": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CBN",
-				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8"
+				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CBN Español",
-				"file": "https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8"
+				"file": "https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CBN Family",
-				"file": "https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8"
+				"file": "https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CBN Family",
-				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8"
+				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CBN News",
-				"file": "https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8"
+				"file": "https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_3000_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Christian Youth Channel",
-				"file": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8"
+				"file": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Cornerstone TV",
-				"file": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8"
+				"file": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "CSat TV",
-				"file": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8"
+				"file": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Divine Vision",
-				"file": "https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8"
+				"file": "https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Dr. Gene Scott",
-				"file": "https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8"
+				"file": "https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Elbeshara Tv",
-				"file": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
+				"file": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "ESNE TV",
-				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8"
+				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Faith & Life TV",
-				"file": "https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8"
+				"file": "https://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Genesis TV",
-				"file": "http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8"
+				"file": "http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "GOD TV",
-				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8"
+				"file": "https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Gospel Truth TV",
-				"file": "https://bstna.tulix.tv/live/bs_2m/index.m3u8"
+				"file": "https://bstna.tulix.tv/live/bs_2m/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Hope Channel",
-				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8"
+				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Impact TV",
-				"file": "http://206.190.141.27:1935/live/impact/playlist.m3u8"
+				"file": "http://206.190.141.27:1935/live/impact/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Inspiration TV",
-				"file": "https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8"
+				"file": "https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "ISN",
-				"file": "https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8"
+				"file": "https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "JBS",
-				"file": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
+				"file": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Jewish Life TV",
-				"file": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8"
+				"file": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "LifevisionTV",
-				"file": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8"
+				"file": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "LoveWorld USA",
-				"file": "https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8"
+				"file": "https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mission TV",
-				"file": "http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8"
+				"file": "http://stream.missiontv.com:1935/live/missiontv_720p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "NRBTV",
-				"file": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+				"file": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "PTL TV Network",
-				"file": "https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8"
+				"file": "https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Revelation TV",
-				"file": "https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8"
+				"file": "https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SafeTV",
-				"file": "http://18.191.91.130:1935/live/safetv/playlist.m3u8"
+				"file": "http://18.191.91.130:1935/live/safetv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SBN",
-				"file": "https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8"
+				"file": "https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch51/ch51.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SBN",
-				"file": "https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8"
+				"file": "https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SBN Global",
-				"file": "https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8"
+				"file": "https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Shalom TV",
-				"file": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8"
+				"file": "https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "TCT",
-				"file": "https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8"
+				"file": "https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "The Now Network",
-				"file": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8"
+				"file": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Trinity Channel",
-				"file": "http://rtmp1.abnsat.com/hls/trinity.m3u8"
+				"file": "http://rtmp1.abnsat.com/hls/trinity.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Victory TV Network",
-				"file": "http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8"
+				"file": "http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Viva Cristo TV",
-				"file": "http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8"
+				"file": "http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 

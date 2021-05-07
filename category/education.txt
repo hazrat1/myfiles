@@ -1,61 +1,61 @@
 [{
 		"title": "Beach TV (CSULB)",
-		"file": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8"
+		"file": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NASA TV",
-		"file": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8"
+		"file": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NASA TV Media",
-		"file": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8"
+		"file": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NASA TV Public",
-		"file": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8"
+		"file": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oman TV Cultural",
-		"file": "https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8"
+		"file": "https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Santa Cecilia TV",
-		"file": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8"
+		"file": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "The 360 Channel",
-		"file": "https://www.filmon.com/vr-streams/4136.high/playlist.m3u8"
+		"file": "https://www.filmon.com/vr-streams/4136.high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Educativa de Porto Alegre",
-		"file": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8"
+		"file": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Mackenzie",
-		"file": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8"
+		"file": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV UFG",
-		"file": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8"
+		"file": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV UFSC",
-		"file": "http://150.162.188.10:8080/hls/1.m3u8"
+		"file": "http://150.162.188.10:8080/hls/1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV UNISC",
-		"file": "https://tv.unisc.br/hls/test.m3u8"
+		"file": "https://tv.unisc.br/hls/test.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "UCTV",
-		"file": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+		"file": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "UniTV Porto Alegre",
-		"file": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
+		"file": "http://unitvaovivo.ufrgs.br:8080/live.ogg or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Yemen Shabab",
-		"file": "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
+		"file": "https://master.starmena-cloud.com/hls/yemenshabab.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

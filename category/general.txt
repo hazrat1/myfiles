@@ -1,338 +1,338 @@
 [{
 		"title": "12 TV Parma",
-		"file": "https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8"
+		"file": "https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "2M Monde",
-		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8"
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "360°",
-		"file": "https://video1.in-news.ru/360/index.m3u8"
+		"file": "https://video1.in-news.ru/360/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Abu Dhabi Drama",
-		"file": "https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8"
+		"file": "https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Abu Dhabi TV",
-		"file": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8"
+		"file": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Aden TV",
-		"file": "https://master.starmena-cloud.com/hls/aden.m3u8"
+		"file": "https://master.starmena-cloud.com/hls/aden.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ajyal TV",
-		"file": "http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8"
+		"file": "http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Aoula",
-		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8"
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Aoula Laayoune",
-		"file": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8"
+		"file": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Dafrah TV",
-		"file": "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8"
+		"file": "https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Emarat TV",
-		"file": "https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8"
+		"file": "https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Ittihad",
-		"file": "https://live.alittihad.tv/ittihad/index.m3u8"
+		"file": "https://live.alittihad.tv/ittihad/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Khalij",
-		"file": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8"
+		"file": "https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Maghribia",
-		"file": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
+		"file": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Mamlaka TV",
-		"file": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8"
+		"file": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Rafidain HQ",
-		"file": "http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8"
+		"file": "http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Rasheed",
-		"file": "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8"
+		"file": "https://media1.livaat.com/AL-RASHEED-HD/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Rayyan",
-		"file": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8"
+		"file": "https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Saudiya",
-		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8"
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Sharq",
-		"file": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8"
+		"file": "https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Sharqiya",
-		"file": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
+		"file": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Wousta TV",
-		"file": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8"
+		"file": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alfajer Tv HD 2",
-		"file": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8"
+		"file": "http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alhayat TV",
-		"file": "https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8"
+		"file": "https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Amman TV",
-		"file": "https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8"
+		"file": "https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ARB",
-		"file": "http://85.132.81.184:8080/arb/live/index.m3u8"
+		"file": "http://85.132.81.184:8080/arb/live/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Assadissa",
-		"file": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8"
+		"file": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Assyrian ANB",
-		"file": "https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8"
+		"file": "https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Athaqafia (360p)",
-		"file": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+		"file": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Bahrain International",
-		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8"
+		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Bahrain TV",
-		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8"
+		"file": "https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Boss Brothers TV",
-		"file": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
+		"file": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Macau",
-		"file": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8"
+		"file": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Ricos",
-		"file": "https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8"
+		"file": "https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "COM Brasil",
-		"file": "https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8"
+		"file": "https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Congo Planet Television",
-		"file": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8"
+		"file": "https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dubai One",
-		"file": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8"
+		"file": "https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dubai TV",
-		"file": "https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8"
+		"file": "https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fail Army",
-		"file": "https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "FastWay",
-		"file": "http://fastway.ddns.net:6421/fastway/live10/index.m3u8?"
+		"file": "http://fastway.ddns.net:6421/fastway/live10/index.m3u8? or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "France 2",
-		"file": "https://mmsiptv.com/live/france2/playlist.m3u8"
+		"file": "https://mmsiptv.com/live/france2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Future TV",
-		"file": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8"
+		"file": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Glewed TV",
-		"file": "https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hawas TV",
-		"file": "https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8"
+		"file": "https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "IRIB TV3 (Farsiland)",
-		"file": "https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8"
+		"file": "https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ishtar TV",
-		"file": "http://176.9.102.245:1935/iShtarTV/liveStream/playlist.m3u8"
+		"file": "http://176.9.102.245:1935/iShtarTV/liveStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kurdistan TV",
-		"file": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8"
+		"file": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "LBC International",
-		"file": "https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8"
+		"file": "https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC",
-		"file": "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8"
+		"file": "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC 4",
-		"file": "https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8"
+		"file": "https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC 5",
-		"file": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8"
+		"file": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC Bollywood",
-		"file": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+		"file": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC Drama",
-		"file": "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8"
+		"file": "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC Iraq",
-		"file": "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8"
+		"file": "https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC Masr 1",
-		"file": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8"
+		"file": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC Masr 2",
-		"file": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8"
+		"file": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MBC Persia",
-		"file": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8"
+		"file": "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MKK Web TV",
-		"file": "http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MusawaChannel",
-		"file": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8"
+		"file": "http://htvpalsat.mada.ps:8888/musawa/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Noor Dubai",
-		"file": "https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
+		"file": "https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oman TV",
-		"file": "https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8"
+		"file": "https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oman TV Mubashir",
-		"file": "https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8"
+		"file": "https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ORF 1",
-		"file": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8"
+		"file": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Palestine Mubasher",
-		"file": "http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8"
+		"file": "http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Palestine Satellite Channel",
-		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8"
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/palestinian_satellite_channel/hls1/palestinian_satellite_channel.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pop",
-		"file": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8"
+		"file": "https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Porto Canal",
-		"file": "https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8"
+		"file": "https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Qatar TV",
-		"file": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8"
+		"file": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Qatar TV 2",
-		"file": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
+		"file": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Right Now TV",
-		"file": "https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8"
+		"file": "https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rotana Drama HD",
-		"file": "https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8"
+		"file": "https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rotana+",
-		"file": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8"
+		"file": "https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTP Açores",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8"
+		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTP Internacional",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8"
+		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTP Madeira",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
+		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTP África [not 24/7]",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8"
+		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH 1",
-		"file": "http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sahel TV",
-		"file": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8"
+		"file": "http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sent TV Global Network",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Syria Satellite Channel",
-		"file": "http://82.137.248.16:1935/Sat/stream14042021/playlist.m3u8"
+		"file": "http://82.137.248.16:1935/Sat/stream14042021/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Syria TV",
-		"file": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8"
+		"file": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tamazight",
-		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8"
+		"file": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TBD",
-		"file": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8"
+		"file": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telemundo 44",
-		"file": "https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8"
+		"file": "https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Arapuan",
@@ -340,126 +340,126 @@
 	},
 	{
 		"title": "TV Destak",
-		"file": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Diário do Sertão",
-		"file": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8"
+		"file": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Sol",
-		"file": "http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV União DF",
-		"file": "https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8"
+		"file": "https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Verdes Campos",
-		"file": "https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8"
+		"file": "https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVCI Paranaguá",
-		"file": "http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8"
+		"file": "http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG América",
-		"file": "https://america-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://america-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Europa",
-		"file": "https://europa-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://europa-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVM",
-		"file": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8"
+		"file": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVM Internacional",
-		"file": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
+		"file": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVR International",
-		"file": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8"
+		"file": "https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVR Targu-Mures",
-		"file": "http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8"
+		"file": "http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVRI Nasional",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8"
+		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Viva Web TV",
-		"file": "https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8"
+		"file": "https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Yeeaah!",
-		"file": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8"
+		"file": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Zagros",
-		"file": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8"
+		"file": "https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Красная линия",
-		"file": "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8"
+		"file": "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Красная линия (480p)",
-		"file": "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8"
+		"file": "https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "МИР",
-		"file": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
+		"file": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Первый канал",
-		"file": "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8"
+		"file": "http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Первый канал Евразия",
-		"file": "http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8"
+		"file": "http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Россия 1 +6",
-		"file": "[1]http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8,[2]http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8"
+		"file": "[1]http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8,[2]http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Россия 1 HD",
-		"file": "https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8"
+		"file": "https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "СТВ",
-		"file": "http://212.98.171.116/HLS/ctvby/playlist.m3u8"
+		"file": "http://212.98.171.116/HLS/ctvby/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "原住民電視",
-		"file": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8"
+		"file": "http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "大愛1",
-		"file": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+		"file": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "大愛2",
-		"file": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+		"file": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "大立電視",
-		"file": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8"
+		"file": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "澳視澳門",
-		"file": "http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8"
+		"file": "http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "澳門-MACAU",
-		"file": "http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8"
+		"file": "http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "香港開電視",
-		"file": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+		"file": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

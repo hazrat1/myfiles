@@ -1,33 +1,33 @@
 [{
 		"title": "AFV!",
-		"file": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8"
+		"file": "https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Antena 1",
-		"file": "https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8"
+		"file": "https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dry Bar Comedy TV",
-		"file": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8"
+		"file": "https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Shout Factory TV",
-		"file": "https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "STIRR Comedy",
-		"file": "https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS Comedy Network",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "VIP Comedy Russia",
-		"file": "[1]http://188.40.68.167/russia/vip_comedy/playlist.m3u8,[2]http://195.189.105.158:9050/132/index.m3u8"
+		"file": "[1]http://188.40.68.167/russia/vip_comedy/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://195.189.105.158:9050/132/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Комедия",
-		"file": "[1]http://188.40.68.167/russia/komediya/playlist.m3u8,[2]http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8"
+		"file": "[1]http://188.40.68.167/russia/komediya/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

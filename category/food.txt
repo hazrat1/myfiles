@@ -1,25 +1,25 @@
 [{
 		"title": "Chef Champion",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Chef Roc Show",
-		"file": "https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8"
+		"file": "https://nrpus.bozztv.com/36bay2/gusa-chefrock/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hell's Kitchen",
-		"file": "https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/SynaOtTyTq2y_N7BrGTz9Q/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Plant-Based Network HD",
-		"file": "https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8"
+		"file": "https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "STIRR Cooks",
-		"file": "https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "The Outdoor Cooking",
-		"file": "[1]http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8,[2]https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8"
+		"file": "[1]http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8,[2]https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

@@ -1,34 +1,34 @@
 [{
 		"title": "23 ABC (KERO)",
-		"file": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8"
+		"file": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "30A The Beach Show",
-		"file": "https://30a-tv.com/beachy.m3u8"
+		"file": "https://30a-tv.com/beachy.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "30A TV",
-		"file": "https://30a-tv.com/my999.m3u8"
+		"file": "https://30a-tv.com/my999.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "7 Televisión Murcia",
-		"file": "https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8"
+		"file": "https://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "7News Boston (WHDH)",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8"
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ABC 15",
-		"file": "https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8"
+		"file": "https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ABC 2 Baton Rouge LA",
-		"file": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8"
+		"file": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ABC 7 Denver (KMGH)",
-		"file": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+		"file": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ABC 7 Detroit (WXYZ-TV)",
@@ -36,103 +36,103 @@
 	},
 	{
 		"title": "ABC 7 Sarasota FL (WWSB)",
-		"file": "https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8"
+		"file": "https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ABC 9 Chattanooga TN (WTVC)",
-		"file": "https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8"
+		"file": "https://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Akaku 53 (Hawaii)",
-		"file": "https://akaku.vod.castus.tv/live/ch1.m3u8"
+		"file": "https://akaku.vod.castus.tv/live/ch1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Akaku 54 (Hawaii)",
-		"file": "https://akaku.vod.castus.tv/live/ch2.m3u8"
+		"file": "https://akaku.vod.castus.tv/live/ch2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Akaku 55 (Hawaii)",
-		"file": "https://akaku.vod.castus.tv/live/ch3.m3u8"
+		"file": "https://akaku.vod.castus.tv/live/ch3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Albany | CBS 6 WRGB",
-		"file": "https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8"
+		"file": "https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alsace 20",
-		"file": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8"
+		"file": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "América",
-		"file": "http://45.6.4.50:50601/America_Tucuman/video.m3u8"
+		"file": "http://45.6.4.50:50601/America_Tucuman/video.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Beach TV (30A)",
-		"file": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8"
+		"file": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Beach TV (Panama City)",
-		"file": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8"
+		"file": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Beach TV (Pawleys Island)",
-		"file": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
+		"file": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Bowie TV",
-		"file": "https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8"
+		"file": "https://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Buffalo TV",
-		"file": "https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8"
+		"file": "https://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BUTV10 (Boston University)",
-		"file": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8"
+		"file": "http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "California: Bakersfield",
-		"file": "https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/-4GLQIcZTUWzP8vDAXNQsQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "California: Chico-Redding",
-		"file": "https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/sHnor7AERX60rGA1kR_wPA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "California: Fresno-Visalia",
-		"file": "https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/tFAJ7xPcTYaLKwIfUA-JIw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal 25 Jundiaí",
-		"file": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+		"file": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal 25 TV (Barbastro)",
-		"file": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8"
+		"file": "https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal 9 Televida Mendoza",
-		"file": "https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8"
+		"file": "https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Málaga RTV",
-		"file": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8"
+		"file": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Zoom",
-		"file": "http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8"
+		"file": "http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Capital City CM",
-		"file": "https://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8"
+		"file": "https://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBS Dallas (KTVT)",
-		"file": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8"
+		"file": "https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBS46 (WGCL-TV)",
-		"file": "https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8"
+		"file": "https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBSN Bay Area",
@@ -152,227 +152,227 @@
 	},
 	{
 		"title": "CC-TV",
-		"file": "https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8"
+		"file": "https://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CCX1",
-		"file": "http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8"
+		"file": "http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Cerritos TV3",
-		"file": "https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8"
+		"file": "https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Chaco TV",
-		"file": "https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8"
+		"file": "https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Channel 9",
-		"file": "http://176.9.123.140:1935/channel9/channel9/playlist.m3u8"
+		"file": "http://176.9.123.140:1935/channel9/channel9/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ciudad TV Resistencia",
-		"file": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8"
+		"file": "http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Connecticut Network",
-		"file": "http://video.ct-n.com/live/ctnstream/playlist.m3u8"
+		"file": "http://video.ct-n.com/live/ctnstream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Cozi 16 WZTS",
-		"file": "https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8"
+		"file": "https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CSUDH TV (Dominguez Hills)",
-		"file": "http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8"
+		"file": "http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CT-N Court Feed",
-		"file": "http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8"
+		"file": "http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CT-N Live Stream 2",
-		"file": "http://video.ct-n.com/live/web2stream/playlist.m3u8"
+		"file": "http://video.ct-n.com/live/web2stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CT-N TV  - Conneticut",
-		"file": "http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8"
+		"file": "http://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CTN",
-		"file": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8"
+		"file": "http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Denver 8 TV",
-		"file": "https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8"
+		"file": "https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "District of Columbia",
-		"file": "https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "EITB",
-		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8"
+		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ena Channel",
-		"file": "http://176.9.123.140:1935/1c/stream/master.m3u8"
+		"file": "http://176.9.123.140:1935/1c/stream/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Epirus TV1",
-		"file": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8"
+		"file": "http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ETB 1",
-		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8"
+		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ETB 2",
-		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8"
+		"file": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fenix TV",
-		"file": "https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8"
+		"file": "https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Florida: Gainesville",
-		"file": "https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Florida: Pensacola",
-		"file": "https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Galveston County TV",
-		"file": "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
+		"file": "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Georgia: Albany",
-		"file": "https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Georgia: Macon",
-		"file": "https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Glendale 11",
-		"file": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8"
+		"file": "https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global British Columbia",
-		"file": "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8"
+		"file": "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global Calgary",
-		"file": "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8"
+		"file": "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global Edmonton",
-		"file": "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8"
+		"file": "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global Toronto",
-		"file": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8"
+		"file": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Globesville",
-		"file": "https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8"
+		"file": "https://live-h1.frontlayer.net/fl592468/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Greensboro TV",
-		"file": "https://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8"
+		"file": "https://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Gunma TV",
-		"file": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hartford - WVIT 30 News",
-		"file": "http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8"
+		"file": "http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HTV 1 - Houston Tv",
-		"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8"
+		"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HTV 2 - Houston Tv",
-		"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+		"file": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Idaho: Boise",
-		"file": "https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Idaho: Lewiston",
-		"file": "https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Illinois: Champaign",
-		"file": "https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Illinois: Springfield #2",
-		"file": "https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Indiana: South Bend",
-		"file": "https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ion 8 Christiansted VI",
-		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8"
+		"file": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Iowa: Cedar Rapids",
-		"file": "https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/zPJC-rOUTg28uymLdmYw5w/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Iowa: Ottumwa",
-		"file": "https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/jH-4z3EkQO-fLYYgjX7d3g/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Iowa: Sioux City",
-		"file": "https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/0Uj4AmiOSw6oTX9ilyV2rQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Irida TV",
-		"file": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8"
+		"file": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ITV",
-		"file": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KCAL 9",
-		"file": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8"
+		"file": "https://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Key TV",
-		"file": "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8"
+		"file": "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KOKI-TV FOX 23 Tulsa OK",
-		"file": "https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8"
+		"file": "https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KOMO News",
-		"file": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8"
+		"file": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KTLA 5",
-		"file": "https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8"
+		"file": "https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KTLA 5 (Los Angeles)",
-		"file": "https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8"
+		"file": "https://bozztv.com/teleyupp1/teleup-N8qwnqgUq2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KVVB-TV 33",
-		"file": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
+		"file": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Lake Havasu City 4",
-		"file": "https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8"
+		"file": "https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Las Vegas - 13 Action News",
@@ -380,63 +380,63 @@
 	},
 	{
 		"title": "Leominster TV Edu",
-		"file": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8"
+		"file": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Leominster TV Gov",
-		"file": "http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8"
+		"file": "http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Leominster TV Public",
-		"file": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8"
+		"file": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Lex TV",
-		"file": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8"
+		"file": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "M95 Televisión Marbella",
-		"file": "https://limited2.todostreaming.es/live/m95-livestream.m3u8"
+		"file": "https://limited2.todostreaming.es/live/m95-livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Maine: Portland",
-		"file": "https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Maryland: Baltimore",
-		"file": "https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Mega TV",
-		"file": "https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8"
+		"file": "https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Miami City TV",
-		"file": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8"
+		"file": "https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Michigan: Bay City",
-		"file": "https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/kJPGlFKuS0itUoW7TfuDYQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Michigan: Cadillac",
-		"file": "https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Michigan: Grand Rapids",
-		"file": "https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/leOKmL9fQ6eZyhdoROSh5Q/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Minnesota: Minneapolis",
-		"file": "https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/0P8RZiJkSBWfVDtjy-IiIQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Missouri: St. Louis",
-		"file": "https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/O5W1HC47QEKGc5tyscvsLw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Montana: Missoula",
-		"file": "https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NBC 15 Madison WI",
@@ -444,574 +444,574 @@
 	},
 	{
 		"title": "NBC 26 (WGBA)",
-		"file": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8"
+		"file": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NBC San Jose CA (KNTV)",
-		"file": "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
+		"file": "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nea TV",
-		"file": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8"
+		"file": "https://live.neatv.gr:8888/hls/neatv_high/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nevada: Las Vegas",
-		"file": "https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nevada: Reno",
-		"file": "https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/0Zb5SSQcTme6P7FYwwAwcQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "New Orleans TV",
-		"file": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8"
+		"file": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "New York: Albany",
-		"file": "https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/LT14Y2LdQSWx9OQCmgVfuA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "New York: Rochester",
-		"file": "https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/FftwN8CLTnaX1pFHztXlYw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "New York: Syracuse",
-		"file": "https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/HSX_ZpxDQNy5aXzJHjhGGQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NEWS NET",
-		"file": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8"
+		"file": "http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nippon TV",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "North Carolina: Green-Asheville",
-		"file": "https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "North Carolina: Greenv-NB",
-		"file": "https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "North Carolina: Raleigh - Durham",
-		"file": "https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nothing Scripted",
-		"file": "https://30a-tv.com/NothingScripted.m3u8"
+		"file": "https://30a-tv.com/NothingScripted.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nova Era TV",
-		"file": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
+		"file": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NTV",
-		"file": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8"
+		"file": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ohio: Cincinnati",
-		"file": "https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ohio: Columbus #1",
-		"file": "https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ohio: Columbus #2",
-		"file": "https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ohio: Dayton",
-		"file": "https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ohio: Toledo",
-		"file": "https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ohio: Wheeling - Steubenville",
-		"file": "https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oklahoma: Oklahoma City",
-		"file": "https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oklahoma: Tulsa",
-		"file": "https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Olelo 54",
-		"file": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8"
+		"file": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Olelo 55",
-		"file": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8"
+		"file": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Orange TV",
-		"file": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8"
+		"file": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oregon: Eugene - S.field #1",
-		"file": "https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oregon: Eugene - S.field #2",
-		"file": "https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oregon: Medford",
-		"file": "https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oregon: Portland",
-		"file": "https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PBS KET",
-		"file": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8"
+		"file": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PCC-TV",
-		"file": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8"
+		"file": "http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pennsylvania: Harrisburg",
-		"file": "https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pennsylvania: Jtown - Altoona",
-		"file": "https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pennsylvania: Pittsburgh",
-		"file": "https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pennsylvania: Wilkes B.-Scranton",
-		"file": "https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PIX11 (New York)",
-		"file": "https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8"
+		"file": "https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PLP",
-		"file": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8"
+		"file": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Popular TV Melilla",
-		"file": "https://5940924978228.streamlock.net/8009/8009/master.m3u8"
+		"file": "https://5940924978228.streamlock.net/8009/8009/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Radio Tele Boston",
-		"file": "http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8"
+		"file": "http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Radio y Televisión Martí",
-		"file": "https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8"
+		"file": "https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rede RC",
-		"file": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rhode Island: Providence",
-		"file": "https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rio Negro",
-		"file": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8"
+		"file": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Seattle Channel - Washington",
-		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8"
+		"file": "https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "SGDF24.RU (Свердлов)",
-		"file": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8"
+		"file": "http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "South Carolina: Charleston",
-		"file": "https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/kMNMCCQsQYyyk2n2h_4cNw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "South Carolina: Columbia",
-		"file": "https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/btXotLiMRvmsa5J5AetBGQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "South Carolina: Florence",
-		"file": "https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/6Ll-qQyAQlWgCt4PhH11Kw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Start TV ",
-		"file": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
+		"file": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Summer TV",
-		"file": "http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8"
+		"file": "http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telefe Rosario",
-		"file": "http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8"
+		"file": "http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TeleNord Corrientes",
-		"file": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8"
+		"file": "http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tempe 11",
-		"file": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8"
+		"file": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tennessee: Chattanooga",
-		"file": "https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/7_v7qMjnQWGZShy2eOvR5g/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tennessee: Nashville",
-		"file": "https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/IG9ThaPaTwCojeoEWVNZRQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Texas: Abilene",
-		"file": "https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/uxPBn5ErTQ-FOjxIYle2PA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Texas: Amarillo",
-		"file": "https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/qvOGhZEeQh-s6TMFz7dVcg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Texas: Austin",
-		"file": "https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/zDh7VBx8S7Sog5vzcXuehg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Texas: El Paso #2",
-		"file": "https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/Exp7zxEPSLWuEhMoD2voOg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Texas: San Antonio",
-		"file": "https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/TIQuLmldSj2SqS8y2ud9Xg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "The Southeastern Channel",
-		"file": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8"
+		"file": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tokyo MX1",
-		"file": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tokyo MX2",
-		"file": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Toronto 360 TV",
-		"file": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8"
+		"file": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Trebujena TV",
-		"file": "https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8"
+		"file": "https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TSTV",
-		"file": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8"
+		"file": "http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Ambiental",
-		"file": "http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8"
+		"file": "http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Cidade Canal 9",
-		"file": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8"
+		"file": "https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Cosmos",
-		"file": "https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8"
+		"file": "https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Creta",
-		"file": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8"
+		"file": "https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Digital Birigui",
-		"file": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8"
+		"file": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Galega Blumenau",
-		"file": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8"
+		"file": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Girona",
-		"file": "http://ventdelnord.tv:8080/girona/directe.m3u8"
+		"file": "http://ventdelnord.tv:8080/girona/directe.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Interlagos",
-		"file": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8"
+		"file": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Maná Córdoba",
-		"file": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8"
+		"file": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Metrópole",
-		"file": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
+		"file": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Губерния (Воронеж)",
-		"file": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8"
+		"file": "https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV78",
-		"file": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8"
+		"file": "https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVE Bahia",
-		"file": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8"
+		"file": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Cultural",
-		"file": "https://cultural-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://cultural-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Evento 1",
-		"file": "https://events1-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://events1-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Evento 5",
-		"file": "https://amodino-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://amodino-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Infantil",
-		"file": "https://infantil-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://infantil-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Momento",
-		"file": "https://momentog-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://momentog-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVG Musigal",
-		"file": "https://musigal-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://musigal-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "tvG2",
-		"file": "https://events2-crtvg.flumotion.com/playlist.m3u8"
+		"file": "https://events2-crtvg.flumotion.com/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVL",
-		"file": "https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8"
+		"file": "https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVN Brasil",
-		"file": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8"
+		"file": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVR (Bretagne)",
-		"file": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
+		"file": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVRI DKI Jakarta",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8"
+		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVRI Jawa Barat",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8"
+		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVRI Jawa Tengah",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8"
+		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVRI Jawa Timur",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8"
+		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVRI Yogyakarta",
-		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8"
+		"file": "http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Univer TV",
-		"file": "[MQ}http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8,[HQ]http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8"
+		"file": "[MQ}http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8,[HQ]http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Urdu TV Toronto",
-		"file": "http://cdn4.live247stream.com/urdu/tv/playlist.m3u8"
+		"file": "http://cdn4.live247stream.com/urdu/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Virginia: Lynchburg - Roanoke",
-		"file": "https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/Fwm4J95UQi67l2FEV7N5kQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Virginia: Norfolk - Portsmouth",
-		"file": "https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Virginia: Tri-Cities",
-		"file": "https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "viàOccitanie",
-		"file": "https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8"
+		"file": "https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Washington: Seattle",
-		"file": "https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Washington: Yakima-Pasco",
-		"file": "https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WCCA-TV (Worcester)",
-		"file": "https://worcester.vod.castus.tv/live/ch1.m3u8"
+		"file": "https://worcester.vod.castus.tv/live/ch1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "West Virginia: Ch.ton-Ht.ton",
-		"file": "https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WFTV Channel 9 - Flo-Orl",
-		"file": "https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8"
+		"file": "https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "White Plains CM",
-		"file": "http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8"
+		"file": "http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WHPR",
-		"file": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8"
+		"file": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Wisconsin: Green Bay",
-		"file": "https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/a6lsWNYDQwyM9fjytUCrcw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Wisconsin: Milwaukee",
-		"file": "https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/jWaxnXHPQjGX1yTxuFxpuw/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WMFD",
-		"file": "https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8"
+		"file": "https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WPEC CBS12 News",
-		"file": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8"
+		"file": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WSVN FOX 7 (Florida)",
-		"file": "https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8"
+		"file": "https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WTGS FOX 28 Savannah GA",
-		"file": "https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8"
+		"file": "https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Öppna Kanalen",
-		"file": "http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8"
+		"file": "http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Архыз 24",
-		"file": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8"
+		"file": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Астрахань 24",
-		"file": "https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8"
+		"file": "https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Астрахань.Ru TV",
-		"file": "[1]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8,[2]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8,[3]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8"
+		"file": "[1]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8,[2]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8,[3]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Афонтово (Красноярск)",
-		"file": "http://xstream.afontovo.ru/afontovo_ya.m3u8"
+		"file": "http://xstream.afontovo.ru/afontovo_ya.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Белгород 24",
-		"file": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
+		"file": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ветта 24 (Пермь)",
-		"file": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8"
+		"file": "http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Вечерняя Москва",
-		"file": "https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8"
+		"file": "https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Губерния 33 (Владимир)",
-		"file": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8"
+		"file": "https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Евразия (Орск)",
-		"file": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8"
+		"file": "http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Евразия (Орск)",
-		"file": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
+		"file": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Липецкое время",
-		"file": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8"
+		"file": "http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Между.Net (Междуреченск)",
-		"file": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8"
+		"file": "http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Мордовия 24",
-		"file": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8"
+		"file": "https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Москва 24",
-		"file": "[1]http://188.40.68.167/russia/moskva24/playlist.m3u8,[2]https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8"
+		"file": "[1]http://188.40.68.167/russia/moskva24/playlist.m3u8,[2]https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Москва 24",
-		"file": "https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8"
+		"file": "https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "МТВ (Волгоград)",
-		"file": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+		"file": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "НТМ",
-		"file": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
+		"file": "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Одинцово ТВ",
-		"file": "http://185.18.4.16/live/3m/playlist.m3u8"
+		"file": "http://185.18.4.16/live/3m/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Радио ХИТ (Орск)",
-		"file": "http://hithd.camsh.orsk.ru/hls/hithd.m3u8"
+		"file": "http://hithd.camsh.orsk.ru/hls/hithd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "С1 (Сургут)",
-		"file": "https://sitv.ru/hls/stv1024.m3u8"
+		"file": "https://sitv.ru/hls/stv1024.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Север (Нарьян-Мар)",
-		"file": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8"
+		"file": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Сургут 24",
-		"file": "https://video1.in-news.ru/c24/index.m3u8"
+		"file": "https://video1.in-news.ru/c24/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТВР24 (Сергиев Посад)",
-		"file": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8"
+		"file": "https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Телеканал 86 (Сургут)",
-		"file": "https://sitv.ru/hls/s861024.m3u8"
+		"file": "https://sitv.ru/hls/s861024.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Тольятти 24",
-		"file": "http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8"
+		"file": "http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Удмуртия",
-		"file": "https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8"
+		"file": "https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

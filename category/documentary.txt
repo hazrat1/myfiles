@@ -1,46 +1,46 @@
 [
-	{"title": "Animal Planet Hindi","file": "https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8"},
-	{"title": "Discovery Bangla","file":"http://starshare.live:8080/live/arfat/arfat/406.m3u8"},
-	{"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8"},
-	{"title": "Discovery Science Hindi","file": "https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8"},
+	{"title": "Animal Planet Hindi","file": "https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+	{"title": "Discovery Bangla","file":"http://starshare.live:8080/live/arfat/arfat/406.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+	{"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+	{"title": "Discovery Science Hindi","file": "https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 	{
 		"title": "Docurama",
-		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
+		"file": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "La 2",
-		"file": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8"
+		"file": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Law & Crime",
-		"file": "https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Law And Crime Network",
-		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8"
+		"file": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Magellan TV",
-		"file": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "National Geographic Ru",
-		"file": "http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8"
+		"file": "http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "National Geographic Wild Ru",
-		"file": "http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8"
+		"file": "http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RT Documentary",
-		"file": "https://rt-doc-gd.secure2.footprint.net/1101.m3u8"
+		"file": "https://rt-doc-gd.secure2.footprint.net/1101.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTД на Русском",
-		"file": "[1]https://rtmp.api.rt.com/hls/rtdru.m3u8"
+		"file": "[1]https://rtmp.api.rt.com/hls/rtdru.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "STIRR Biographies",
-		"file": "https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8"
+		"file": "https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]
