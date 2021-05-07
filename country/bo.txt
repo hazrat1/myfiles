@@ -9,11 +9,11 @@
 	},
 	{
 		"title": "Bolivia TV 2",
-		"file": "[2]https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8,[1]https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[2]https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[1]https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MEGA TV",
-		"file": "[1]https://stmv.panel.mivideo.pro/rtv/rtv/playlist.m3u8,[2]https://stmv.panel.mivideo.pro/rtv/rtv/chunklist_w849315537.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://stmv.panel.mivideo.pro/rtv/rtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://stmv.panel.mivideo.pro/rtv/rtv/chunklist_w849315537.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "patlapaz",
@@ -25,11 +25,11 @@
 	},
 	{
 		"title": "Red ADVenir",
-		"file": "[1]https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8,[2]https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTP",
-		"file": "[2]http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8,[1]http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[2]http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[1]http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVU",

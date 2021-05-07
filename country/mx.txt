@@ -52,7 +52,7 @@
 	},
 	{
 		"title": "RCG 2 Saltillo",
-		"file": "[1]http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8,[2]http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTQ Queretaro",

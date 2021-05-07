@@ -204,7 +204,7 @@
 	},
 	{
 		"title": "Lancelot Televisión",
-		"file": "[1]http://62.210.141.18:1935/directo/lancelot.television/live.m3u8,[2]http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Lebrija TV",
@@ -288,7 +288,7 @@
 	},
 	{
 		"title": "SONY Novelas",
-		"file": "[1]https://sony-novelas-1.roku.wurl.com/playlist_960x540_2000k.m3u8,[2]https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://sony-novelas-1.roku.wurl.com/playlist_960x540_2000k.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "SONY COMPLET",
@@ -328,7 +328,7 @@
 	},
 	{
 		"title": "TV COOSMOS",
-		"file": "https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL"
+		"file": "https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Girona",
@@ -380,7 +380,7 @@
 	},
 	{
 		"title": "TVM Córdoba",
-		"file": "[1]http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8,[2]http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Urban Revolution TV",

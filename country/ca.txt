@@ -12,7 +12,7 @@
 	},
 	{
 		"title": "Canadian Arab TV",
-		"file": "http://142.112.39.133:8080/catv.mp4"
+		"file": "http://142.112.39.133:8080/catv.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Savoir",

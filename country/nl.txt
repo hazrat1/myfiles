@@ -8,7 +8,7 @@
 	},
 	{
 		"title": "DNO Streek TV",
-		"file": "[1]http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8,[2]https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "EDE TV",
@@ -96,7 +96,7 @@
 	},
 	{
 		"title": "Regio TV Nieuws",
-		"file": "[1]http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8,[2]https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://558bd16067b67.streamlock.net/regiomedia/regiomedia/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTV Arnhem",
@@ -124,7 +124,7 @@
 	},
 	{
 		"title": "RTV Noordoost",
-		"file": "[1]http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8,[2]https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTV Oost",

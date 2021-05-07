@@ -64,7 +64,7 @@
 	},
 	{
 		"title": "TV Arapuan",
-		"file": "https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR"
+		"file": "https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV BNO",
@@ -172,7 +172,7 @@
 	},
 	{
 		"title": "UniTV Porto Alegre",
-		"file": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
+		"file": "http://unitvaovivo.ufrgs.br:8080/live.ogg or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Viva Web TV",

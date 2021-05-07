@@ -225,7 +225,7 @@
 	},
 	{
 		"title": "MDF 1",
-		"file": "[1]http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8,[2]http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8,[3]http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8,[3]http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MDF.1 Magdeburg",
@@ -265,7 +265,7 @@
 	},
 	{
 		"title": "NRWision",
-		"file": "[1]https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8,[2]https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8,[3]https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8,[3]https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oberpfalz TV",
@@ -357,7 +357,7 @@
 	},
 	{
 		"title": "OK-Stendal",
-		"file": "[1]http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8,[2]http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800"
+		"file": "[1]http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800"
 	},
 	{
 		"title": "Okto",
@@ -417,7 +417,7 @@
 	},
 	{
 		"title": "rheinmaintv",
-		"file": "[1]https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8,[2]https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8,[3]https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541"
+		"file": "[1]https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8,[3]https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541"
 	},
 	{
 		"title": "RNF",
@@ -433,11 +433,11 @@
 	},
 	{
 		"title": "RTL II HD",
-		"file": "[1]https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL Klub",
-		"file": "[1]https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL+",
@@ -501,7 +501,7 @@
 	},
 	{
 		"title": "teltOwkanal",
-		"file": "[1]https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w432758340.m3u8?ref=www.teltowkanal.de,[2]https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8?&ref=www.teltowkanal.de"
+		"file": "[1]https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/chunklist_w432758340.m3u8?ref=www.teltowkanal.de or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://5856e1a25f71a.streamlock.net/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8?&ref=www.teltowkanal.de"
 	},
 	{
 		"title": "The Pet Collective",

@@ -4,6 +4,6 @@
 	},
 	{
 		"title": "RTB",
-		"file": "[1]https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8,[2]https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

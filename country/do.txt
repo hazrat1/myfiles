@@ -30,7 +30,7 @@
 	},
 	{
 		"title": "Microvision",
-		"file": "[1]http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8,[2]http://190.103.183.24:1935/live/MicroHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://190.103.183.24:1935/live/MicroHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Mision ELTV",
@@ -66,7 +66,7 @@
 	},
 	{
 		"title": "Super TV 55",
-		"file": "[1]http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8,[2]https://ss8.domint.net:3128/stv_str/tv55/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://ss8.domint.net:3128/stv_str/tv55/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TeleBendicion",
@@ -74,7 +74,7 @@
 	},
 	{
 		"title": "Telefuturo 23",
-		"file": "[1]http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8,[2]http://ss8.domint.net:2118/tf_str/futu/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://ss8.domint.net:2118/tf_str/futu/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telemilenio",

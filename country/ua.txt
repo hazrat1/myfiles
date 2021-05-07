@@ -117,7 +117,7 @@
 	},
 	{
 		"title": "RTi",
-		"file": "[LQ]http://95.67.106.10/hls/nta_ua_low/index.m3u8,[MQ]http://95.67.106.10/hls/nta_ua_mid/index.m3u8,[HQ]http://95.67.106.10/hls/nta_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[LQ]http://95.67.106.10/hls/nta_ua_low/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[MQ]http://95.67.106.10/hls/nta_ua_mid/index.m3u8,[HQ]http://95.67.106.10/hls/nta_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "7 канал Одесса",
@@ -261,19 +261,19 @@
 	},
 	{
 		"title": "Первый Деловой",
-		"file": "[MQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8,[HQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[MQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[HQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Перший Західний",
-		"file": "[1]http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8,[2]http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Правда ТУТ",
-		"file": "[1]http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8,[2]http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Прямий",
-		"file": "[MQ]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8,[HQ2}http://95.67.21.100/hls/prm_ua_hi/index.m3u8,[HQ1]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[MQ]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[HQ2}http://95.67.21.100/hls/prm_ua_hi/index.m3u8,[HQ1]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Радио Люкс",
@@ -289,15 +289,15 @@
 	},
 	{
 		"title": "Сварожичи",
-		"file": "[1]http://80.91.177.102:1935/live/live1/playlist.m3u8,[2]http://tv.tv-project.com:1935/live/live1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://80.91.177.102:1935/live/live1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://tv.tv-project.com:1935/live/live1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТIС (Одесса)",
-		"file": "[240]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8,[504]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[240]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[504]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТВА",
-		"file": "[1]http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8,[2]http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТИС ТВ",
@@ -325,7 +325,7 @@
 	},
 	{
 		"title": "ЧП.iнфо",
-		"file": "[1]http://109.68.40.67/life/magnolia.m3u8,[3]http://109.68.40.67/life/magnolia_3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://109.68.40.67/life/magnolia.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[3]http://109.68.40.67/life/magnolia_3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Южная волна",

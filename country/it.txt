@@ -49,15 +49,15 @@
 	},
 	{
 		"title": "Canale 10",
-		"file": "[1]http://37.187.142.147:1935/ch10live/high.stream/live.m3u8,[2]http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://37.187.142.147:1935/ch10live/high.stream/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canale 2 Altamura",
-		"file": "[1]https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8,[2]https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canale 7",
-		"file": "[1]http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8,[2]http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canale 8",
@@ -65,7 +65,7 @@
 	},
 	{
 		"title": "Carina TV",
-		"file": "[1]http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8,[2]http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CG Entertainment",
@@ -113,11 +113,11 @@
 	},
 	{
 		"title": "Esperia TV",
-		"file": "[1]http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8,[2]https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ETV Marche",
-		"file": "[1]http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8,[2]http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Euro Indie Music",
@@ -153,7 +153,7 @@
 	},
 	{
 		"title": "Juwelo Italia",
-		"file": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?latency=low"
+		"file": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8?latency=low or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "LaC TV",
@@ -233,7 +233,7 @@
 	},
 	{
 		"title": "Radio Iglesias",
-		"file": "[1]http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8,[2]http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Radio Italia TV",
@@ -297,7 +297,7 @@
 	},
 	{
 		"title": "RTC Telecalabria",
-		"file": "[1]http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8,[2]https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL 102.5",
@@ -357,7 +357,7 @@
 	},
 	{
 		"title": "TELE MONTE NEVE",
-		"file": "[1]http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8,[2]http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "teleMonteneve 3",
@@ -365,7 +365,7 @@
 	},
 	{
 		"title": "TeleNordest",
-		"file": "[1]http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8,[2]https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TeleQuattro",

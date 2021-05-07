@@ -157,7 +157,7 @@
 {"title": "RT Arabic","file": "https://rt-arab-gd.secure2.footprint.net/1104.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "RT Documentary","file": "https://rt-doc-gd.secure2.footprint.net/1101.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "RT en Español","file": "https://rt-esp.secure.footprint.net/1102.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "RT France","file": "https://rt-france.secure.footprint.net/1107.m3u8?streamType=live"},
+{"title": "RT France","file": "https://rt-france.secure.footprint.net/1107.m3u8?streamType=live or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "RT UK","file": "https://rt-uk-gd.secure2.footprint.net/1106.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "RTД на Русском","file": "https://rtmp.api.rt.com/hls/rtdru.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Euronews Россия","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/828/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},

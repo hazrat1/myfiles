@@ -28,7 +28,7 @@
 	},
 	{
 		"title": "Antenne Réunion",
-		"file": "http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01"
+		"file": "http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Atelier des chefs",
@@ -268,7 +268,7 @@
 	},
 	{
 		"title": "TF1",
-		"file": "[1]https://mmsiptv.com/live/tf1/playlist.m3u8,[2]https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://mmsiptv.com/live/tf1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TF1 Séries Films",
@@ -308,7 +308,7 @@
 	},
 	{
 		"title": "TV78",
-		"file": "[1]https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8,[2]https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVR",

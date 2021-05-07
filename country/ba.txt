@@ -20,7 +20,7 @@
 	},
 	{
 		"title": "RTV Zenica",
-		"file": "[1]https://ns310614.ip-188-165-199.eu/hls/rtvze.m3u8,[2]https://ns310614.ip-188-165-199.eu/hls/rtvze2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://ns310614.ip-188-165-199.eu/hls/rtvze.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://ns310614.ip-188-165-199.eu/hls/rtvze2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Televizija 5",
@@ -28,6 +28,6 @@
 	},
 	{
 		"title": "РТРС",
-		"file": "[1]https://parh.rtrs.tv/tv/live/chunklist_w1999912225.m3u8,[2]https://parh.rtrs.tv/tv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://parh.rtrs.tv/tv/live/chunklist_w1999912225.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://parh.rtrs.tv/tv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

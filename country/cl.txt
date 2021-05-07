@@ -12,7 +12,7 @@
 	},
 	{
 		"title": "Canal 21",
-		"file": "[1]http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8,[2]https://tls.cdnz.cl/canal21tv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://tls.cdnz.cl/canal21tv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Diputados",
@@ -36,7 +36,7 @@
 	},
 	{
 		"title": "HiperTV",
-		"file": "https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL"
+		"file": "https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ITV Patagonia",
@@ -52,7 +52,7 @@
 	},
 	{
 		"title": "Portalfoxmix",
-		"file": "[1]http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8,[2]http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8,[3]https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8,[3]https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Radio HOY",
@@ -104,7 +104,7 @@
 	},
 	{
 		"title": "UES TV",
-		"file": "[1]http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8,[2]http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8,[3]http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8,[3]http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "UMAGTV Punta Arenas",

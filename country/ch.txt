@@ -36,7 +36,7 @@
 	},
 	{
 		"title": "La Télé",
-		"file": "[1]https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8,[2]https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "LFM TV",
@@ -76,7 +76,7 @@
 	},
 	{
 		"title": "TeleBielingue",
-		"file": "[1]https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8,[2]https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TeleBärn",

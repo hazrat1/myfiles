@@ -13,11 +13,11 @@
 	},
 	{
 		"title": "Cool TV HD",
-		"file": "[1]https://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Film+",
-		"file": "[1]https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Halom TV",

@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Kurir TV",
-		"file": "[LQ]https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8,[HQ]https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8,[LQ+HQ]https://kurir-tv.haste-cdn.net/providus/live2805.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[LQ]https://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[HQ]https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8,[LQ+HQ]https://kurir-tv.haste-cdn.net/providus/live2805.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Muzzik Cafe&Club",
@@ -25,7 +25,7 @@
 	},
 	{
 		"title": "Muzzik Replay",
-		"file": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8 "
+		"file": "https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Muzzik Rock&Roll",
@@ -49,7 +49,7 @@
 	},
 	{
 		"title": "RTV AS",
-		"file": "[1]https://srv1.adriatelekom.com/TVAS/index.m3u8,[2]https://srv1.adriatelekom.com/TVAS/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://srv1.adriatelekom.com/TVAS/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://srv1.adriatelekom.com/TVAS/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTV City Ub",

@@ -8,7 +8,7 @@
 	},
 	{
 		"title": "Canal 2",
-		"file": "[360]https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8,[720]https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[360]https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Capital",
@@ -44,11 +44,11 @@
 	},
 	{
 		"title": "Telecaribe",
-		"file": "[1]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8,[2]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8,[3]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/3296k/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8,[3]https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/3296k/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telecaribe Deportes 2",
-		"file": "[1]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8,[2]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8,[3]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8,[3]https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Teleislas",

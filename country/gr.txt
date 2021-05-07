@@ -244,7 +244,7 @@
 	},
 	{
 		"title": "Kontra Channel",
-		"file": "[1]http://flashcloud.mediacdn.com/live/kontratv/.m3u8,[2]http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://flashcloud.mediacdn.com/live/kontratv/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://flashcloud.mediacdn.com/live/kontratv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Krete TV",
@@ -312,7 +312,7 @@
 	},
 	{
 		"title": "NG TV",
-		"file": "[1]https://live.streams.ovh/NGradio/NGradio/playlist.m3u8,[2]http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8,[3]https://live.streams.ovh/NGradio/NGradio/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://live.streams.ovh/NGradio/NGradio/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8,[3]https://live.streams.ovh/NGradio/NGradio/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NOTIOI TV",

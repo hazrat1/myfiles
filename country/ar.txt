@@ -1,7 +1,7 @@
 [
 	{
 		"title": "24/7 Canal de Noticias",
-		"file": "[1]http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8,[2]https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "5TV Corrientes",
@@ -77,7 +77,7 @@
 	},
 	{
 		"title": "Multivisión Federal",
-		"file": "[1]http://panel.dattalive.com:1935/8250/8250/.m3u8,[2]http://panel.dattalive.com:1935/8250/8250/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://panel.dattalive.com:1935/8250/8250/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://panel.dattalive.com:1935/8250/8250/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MusicTop",
