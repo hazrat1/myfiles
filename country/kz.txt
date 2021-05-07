@@ -1,26 +1,26 @@
 [
 	{
 		"title": "Almaty TV",
-		"file": "http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8"
+		"file": "http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Atameken Business",
-		"file": "http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8"
+		"file": "http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MTRK",
-		"file": "https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8"
+		"file": "https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "КТК",
-		"file": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
+		"file": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Новое телевидение",
-		"file": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
+		"file": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Хабар 24",
-		"file": "https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8"
+		"file": "https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

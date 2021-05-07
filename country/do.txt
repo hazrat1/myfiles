@@ -2,126 +2,126 @@
 
 	{
 		"title": "Canal Amé 47",
-		"file": "http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8"
+		"file": "http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Carivision",
-		"file": "http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8"
+		"file": "http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Comunion TV",
-		"file": "http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8"
+		"file": "http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DAN TV",
-		"file": "http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8"
+		"file": "http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ESTV",
-		"file": "http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8"
+		"file": "http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hilando Fino",
-		"file": "https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8"
+		"file": "https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HM",
-		"file": "http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8"
+		"file": "http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Microvision",
-		"file": "[1]http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8,[2]http://190.103.183.24:1935/live/MicroHD/playlist.m3u8"
+		"file": "[1]http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8,[2]http://190.103.183.24:1935/live/MicroHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Mision ELTV",
-		"file": "https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8"
+		"file": "https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ONDA TV CANAL 10",
-		"file": "http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8"
+		"file": "http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PH",
-		"file": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8"
+		"file": "https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ready TV",
-		"file": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8"
+		"file": "http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RNN",
-		"file": "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8"
+		"file": "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Romana TV Canal 42",
-		"file": "http://tv.romanatv42.com/hls/live.m3u8"
+		"file": "http://tv.romanatv42.com/hls/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sabor a merengue",
-		"file": "http://ss6.domint.net:2004/sam_str/sabor-video/playlist.m3u8"
+		"file": "http://ss6.domint.net:2004/sam_str/sabor-video/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "SiTV",
-		"file": "http://190.122.104.221/Player/sitv.m3u8"
+		"file": "http://190.122.104.221/Player/sitv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Super TV 55",
-		"file": "[1]http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8,[2]https://ss8.domint.net:3128/stv_str/tv55/master.m3u8"
+		"file": "[1]http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8,[2]https://ss8.domint.net:3128/stv_str/tv55/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TeleBendicion",
-		"file": "http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8"
+		"file": "http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telefuturo 23",
-		"file": "[1]http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8,[2]http://ss8.domint.net:2118/tf_str/futu/master.m3u8"
+		"file": "[1]http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8,[2]http://ss8.domint.net:2118/tf_str/futu/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telemilenio",
-		"file": "http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8"
+		"file": "http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telenord 12",
-		"file": "http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8"
+		"file": "http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telenord 8",
-		"file": "http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8"
+		"file": "http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telenord Canal 10",
-		"file": "http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8"
+		"file": "http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Teleunion",
-		"file": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8"
+		"file": "http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Montaña Canal 10",
-		"file": "http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8"
+		"file": "http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Plata",
-		"file": "https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8"
+		"file": "https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVS",
-		"file": "http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8"
+		"file": "http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Vallevision",
-		"file": "http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8"
+		"file": "http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Vega Teve",
-		"file": "https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8"
+		"file": "https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WMS",
-		"file": "https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8"
+		"file": "https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Zol106",
-		"file": "https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8"
+		"file": "https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

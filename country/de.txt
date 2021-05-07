@@ -1,107 +1,107 @@
 [
 	{
 		"title": "Augsburg TV DE",
-		"file": "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8"
+		"file": "https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Action Movies",
-		"file": "https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-actionmovies-3-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alex Berlin",
-		"file": "https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8"
+		"file": "https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Anixe HD",
-		"file": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8"
+		"file": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Baden TV",
-		"file": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8"
+		"file": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BLK TV",
-		"file": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8"
+		"file": "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BR Fernsehen Nord",
-		"file": "http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8"
+		"file": "http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BR Fernsehen Süd",
-		"file": "http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8"
+		"file": "http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BR Fernsehen Süd",
-		"file": "https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8"
+		"file": "https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Chemnitz Fernsehen",
-		"file": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8"
+		"file": "https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CNN International",
-		"file": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Comedy Movies",
-		"file": "https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Das Erste",
-		"file": "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8"
+		"file": "https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Das Erste HD",
-		"file": "https://mcdn.daserste.de/daserste/de/master.m3u8"
+		"file": "https://mcdn.daserste.de/daserste/de/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Das Erste",
-		"file": "https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8"
+		"file": "https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Deutsche Welle (EN)",
-		"file": "https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8"
+		"file": "https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Deutsche Welle (ES)",
-		"file": "http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8"
+		"file": "http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Deutsche Welle+",
-		"file": "http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8"
+		"file": "http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "deutsches-musik-fernsehen",
-		"file": "https://tv.artcom-venture.de/dmf/tv.m3u8"
+		"file": "https://tv.artcom-venture.de/dmf/tv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "dorf tv",
-		"file": "https://stream.openplayout.org/hls/dorf_high/index.m3u8"
+		"file": "https://stream.openplayout.org/hls/dorf_high/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Drama DE",
-		"file": "https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-tvshows-3-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dresden Fernsehen",
-		"file": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8"
+		"file": "https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DUST",
-		"file": "https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://dust-samsung-uk-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DW",
-		"file": "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8"
+		"file": "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DW Arabic",
-		"file": "https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8"
+		"file": "https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DW English",
-		"file": "https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8"
+		"file": "https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DW Entretenimiento",
@@ -109,23 +109,23 @@
 	},
 	{
 		"title": "DW Español",
-		"file": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8"
+		"file": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DW Latino America",
-		"file": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8"
+		"file": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DW(德国)",
-		"file": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8"
+		"file": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ELBEKANAL",
-		"file": "http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8"
+		"file": "http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Eleven Sports (UK)",
-		"file": "https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ems Vechte Welle",
@@ -133,79 +133,79 @@
 	},
 	{
 		"title": "eo TV",
-		"file": "https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8"
+		"file": "https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ERF 1",
-		"file": "https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8"
+		"file": "https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Family DE",
-		"file": "https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-family-3-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fashion TV",
-		"file": "https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "FC Bayern München TV",
-		"file": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8"
+		"file": "https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Filstalwelle",
-		"file": "http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8"
+		"file": "http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fuel TV",
-		"file": "https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Halle",
-		"file": "http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8"
+		"file": "http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hamburg 1",
-		"file": "https://live2.telvi.de/hls/hamburg1.m3u8"
+		"file": "https://live2.telvi.de/hls/hamburg1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hauptstadt TV ",
-		"file": "https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8"
+		"file": "https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "health.tv",
-		"file": "http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8"
+		"file": "http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HR Fernsehen",
-		"file": "http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8"
+		"file": "http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HR HD DE",
-		"file": "http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8"
+		"file": "http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HSE",
-		"file": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8"
+		"file": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ID HD (JKT)",
-		"file": "http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8"
+		"file": "http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Insight TV",
-		"file": "https://insighttv-samsung-de.amagi.tv/playlist.m3u8"
+		"file": "https://insighttv-samsung-de.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Inwonder TV",
-		"file": "https://inwonder-samsung-de.amagi.tv/playlist.m3u8"
+		"file": "https://inwonder-samsung-de.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Isar TV",
-		"file": "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8"
+		"file": "https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "K-TV",
-		"file": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+		"file": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Lausitzwelle Fernsehen",
@@ -213,19 +213,19 @@
 	},
 	{
 		"title": "Leipzig Fernsehen",
-		"file": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8"
+		"file": "https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Light Channel",
-		"file": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8"
+		"file": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "M4TV",
-		"file": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8"
+		"file": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MDF 1",
-		"file": "[1]http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8,[2]http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8,[3]http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8"
+		"file": "[1]http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8,[2]http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8,[3]http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MDF.1 Magdeburg",
@@ -233,71 +233,71 @@
 	},
 	{
 		"title": "MyTVplus Dresden",
-		"file": "https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8"
+		"file": "https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "München TV",
-		"file": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8"
+		"file": "https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nahe TV",
-		"file": "https://s.ok54.de/nahetv/webstream/playlist.m3u8"
+		"file": "https://s.ok54.de/nahetv/webstream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NDR DE",
-		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8"
+		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NDR Hamburg",
-		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8"
+		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NDR Mecklenburg",
-		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8"
+		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NDR Schleswig-Holstein",
-		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8"
+		"file": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Noa 4 Norderstedt",
-		"file": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+		"file": "https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NRWision",
-		"file": "[1]https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8,[2]https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8,[3]https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8"
+		"file": "[1]https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8,[2]https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8,[3]https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Oberpfalz TV",
-		"file": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8"
+		"file": "https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "oe24 TV",
-		"file": "https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8"
+		"file": "https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Fulda",
-		"file": "https://s.ok54.de/mok-fu/livestream/playlist.m3u8"
+		"file": "https://s.ok54.de/mok-fu/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Gießen",
-		"file": "https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8"
+		"file": "https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Kassel",
-		"file": "https://s.ok54.de/mok-ks/kassel/playlist.m3u8"
+		"file": "https://s.ok54.de/mok-ks/kassel/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Magdeburg",
-		"file": "http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8"
+		"file": "http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Rhein-Main",
-		"file": "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8"
+		"file": "https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Salzwedel",
-		"file": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8"
+		"file": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Offener Kanal Salzwedel",
@@ -309,19 +309,19 @@
 	},
 	{
 		"title": "OK Flensburg",
-		"file": "https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8"
+		"file": "https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Kaiserslautern",
-		"file": "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8"
+		"file": "https://s.ok54.de/abr_okkl/webstream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Kiel",
-		"file": "https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8"
+		"file": "https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Koblenz",
-		"file": "https://s.ok54.de/ok4/live/playlist.m3u8"
+		"file": "https://s.ok54.de/ok4/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Magdeburg",
@@ -329,7 +329,7 @@
 	},
 	{
 		"title": "OK Mainz",
-		"file": "https://s.ok54.de/oktvmainz/webstream/playlist.m3u8"
+		"file": "https://s.ok54.de/oktvmainz/webstream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Merseburg",
@@ -341,15 +341,15 @@
 	},
 	{
 		"title": "OK Trier",
-		"file": "https://s.ok54.de/ott/webstream/playlist.m3u8"
+		"file": "https://s.ok54.de/ott/webstream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK TV Südwestpfalz",
-		"file": "https://s.ok54.de/okswp/test/playlist.m3u8"
+		"file": "https://s.ok54.de/okswp/test/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Weinstraße",
-		"file": "https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8"
+		"file": "https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "OK Wernigerode",
@@ -361,19 +361,19 @@
 	},
 	{
 		"title": "Okto",
-		"file": "https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8"
+		"file": "https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Parlamentsfernsehen 1",
-		"file": "https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8"
+		"file": "https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Parlamentsfernsehen 2",
-		"file": "https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8"
+		"file": "https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "People are Awesome",
-		"file": "https://jukin-peopleareawesome-2-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://jukin-peopleareawesome-2-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PunktUm Hettstedt",
@@ -381,11 +381,11 @@
 	},
 	{
 		"title": "Qello Concerts",
-		"file": "https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Radio Weser TV Bremen",
-		"file": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
+		"file": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ran1 Dessau-Roßlau",
@@ -393,7 +393,7 @@
 	},
 	{
 		"title": "RAN1 Regionalfernsehen",
-		"file": "http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8"
+		"file": "http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RBW Bitterfeld-Wolfen",
@@ -401,19 +401,19 @@
 	},
 	{
 		"title": "Regio TV Bodensee",
-		"file": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8"
+		"file": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Regio TV Schwaben",
-		"file": "https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8"
+		"file": "https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Regio TV Stuttgart",
-		"file": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8"
+		"file": "https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rhein Lokal Worms",
-		"file": "https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8"
+		"file": "https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "rheinmaintv",
@@ -421,7 +421,7 @@
 	},
 	{
 		"title": "RNF",
-		"file": "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8"
+		"file": "https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rock Antenne",
@@ -429,31 +429,31 @@
 	},
 	{
 		"title": "RTL Gold",
-		"file": "https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8"
+		"file": "https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL II HD",
-		"file": "[1]https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8"
+		"file": "[1]https://stream.y5.hu/stream/stream_rtl2/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL Klub",
-		"file": "[1]https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8"
+		"file": "[1]https://stream.y5.hu/stream/stream_rtlklub/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL+",
-		"file": "https://stream.y5.hu/stream/stream_rtlp/stream.m3u8"
+		"file": "https://stream.y5.hu/stream/stream_rtlp/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Saarland Fernsehen 1",
-		"file": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8"
+		"file": "https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Saarland Fernsehen 2",
-		"file": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8"
+		"file": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Santhora TV",
-		"file": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8"
+		"file": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Seenluft24",
@@ -461,43 +461,43 @@
 	},
 	{
 		"title": "Sofy TV",
-		"file": "https://sofy-ger-samsung.amagi.tv/playlist.m3u8"
+		"file": "https://sofy-ger-samsung.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sonnenklar.TV",
-		"file": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8"
+		"file": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sonus FM",
-		"file": "http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8"
+		"file": "http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Spotlight DE",
-		"file": "https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-spotlight-3-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "SR Fernsehen",
-		"file": "http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8"
+		"file": "http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Stingray Karaoke",
-		"file": "https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Supertoons TV",
-		"file": "https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://kedoo-supertoonstv-5-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "tagesschau 24",
-		"file": "https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8"
+		"file": "https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tastemade",
-		"file": "https://tastemade-de-samsung.amagi.tv/playlist.m3u8"
+		"file": "https://tastemade-de-samsung.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Teletubbies",
-		"file": "https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "teltOwkanal",
@@ -505,34 +505,34 @@
 	},
 	{
 		"title": "The Pet Collective",
-		"file": "https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Travel XP",
-		"file": "https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://travelxp-travelxp-2-de.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Halle",
-		"file": "http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8"
+		"file": "http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVA",
-		"file": "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8"
+		"file": "https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVO",
-		"file": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+		"file": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Unserding",
-		"file": "https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8"
+		"file": "https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "WDR Fernsehen",
-		"file": "https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8"
+		"file": "https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "XITE",
-		"file": "https://xite-samsung-de.amagi.tv/playlist.m3u8"
+		"file": "https://xite-samsung-de.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

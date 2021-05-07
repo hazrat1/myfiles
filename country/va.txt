@@ -1,5 +1,5 @@
 [{
 		"title": "TV2000",
-		"file": "[1]http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8,[2]http://mi1.wz.tv2000.it/tv2000_alfa.m3u8,[3]http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8"
+		"file": "[1]http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://mi1.wz.tv2000.it/tv2000_alfa.m3u8,[3]http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

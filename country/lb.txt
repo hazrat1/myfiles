@@ -1,45 +1,45 @@
 [{
 		"title": "Al Ittihad",
-		"file": "https://live.alittihad.tv/ittihad/index.m3u8"
+		"file": "https://live.alittihad.tv/ittihad/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al Manar",
-		"file": "https://manar.live/iptv/index.m3u8"
+		"file": "https://manar.live/iptv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alhayat TV",
-		"file": "https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8"
+		"file": "https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Arabica Music",
-		"file": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+		"file": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Future TV",
-		"file": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8"
+		"file": "https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "LBC International",
-		"file": "https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8"
+		"file": "https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nabaa TV",
-		"file": "http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8"
+		"file": "http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NBN HD",
-		"file": "https://nbntv.me:8443/nbntv/index.m3u8"
+		"file": "https://nbntv.me:8443/nbntv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Newvision",
-		"file": "https://master.starmena-cloud.com/hls/newv.m3u8"
+		"file": "https://master.starmena-cloud.com/hls/newv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Taha TV",
-		"file": "https://media2.livaat.com/TAHA-TV/index.m3u8"
+		"file": "https://media2.livaat.com/TAHA-TV/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Seventeen",
-		"file": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8"
+		"file": "https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

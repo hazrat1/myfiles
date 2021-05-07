@@ -1,334 +1,334 @@
 [
-{"title": "1+1 International","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/987/index.m3u8"},
-{"title": "1+1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/994/index.m3u8"},
-{"title": "112 Україна","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/924/index.m3u8"},
-{"title": "2+2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/995/index.m3u8"},
-{"title": "24 Канал HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1063/index.m3u8"},
-{"title": "24 Канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/951/index.m3u8"},
-{"title": "33 канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5040/index.m3u8"},
-{"title": "36.6 TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1025/index.m3u8"},
-{"title": "4 канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1039/index.m3u8"},
-{"title": "4ever Music","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/970/index.m3u8"},
-{"title": "5 канал UA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/945/index.m3u8"},
-{"title": "7 канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1035/index.m3u8"},
-{"title": "8 Канал UA HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1046/index.m3u8"},
-{"title": "ATR","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/952/index.m3u8"},
-{"title": "BBB TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/959/index.m3u8"},
-{"title": "BOLT","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/991/index.m3u8"},
-{"title": "BOUTIQUE TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1029/index.m3u8"},
-{"title": "EU Music","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/925/index.m3u8"},
-{"title": "Enter-фільм","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/933/index.m3u8"},
-{"title": "FilmBox","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/948/index.m3u8"},
-{"title": "HDFASHION&LifeStyle","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1012/index.m3u8"},
-{"title": "ID Fashion","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/940/index.m3u8"},
-{"title": "Lale","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/953/index.m3u8"},
-{"title": "MAXXI TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/977/index.m3u8"},
-{"title": "Milady Television","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1026/index.m3u8"},
-{"title": "MostVideo.TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1027/index.m3u8"},
-{"title": "Music Box UA HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1036/index.m3u8"},
-{"title": "NLO TV1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1032/index.m3u8"},
-{"title": "NLO TV2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1014/index.m3u8"},
-{"title": "News Network","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/978/index.m3u8"},
-{"title": "NewsOne","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/926/index.m3u8"},
-{"title": "O-TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1055/index.m3u8"},
-{"title": "OBOZ TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1028/index.m3u8"},
-{"title": "Skrypin.UA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/944/index.m3u8"},
-{"title": "Star Cinema","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/992/index.m3u8"},
-{"title": "Star Family","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1042/index.m3u8"},
-{"title": "TV5","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1030/index.m3u8"},
-{"title": "UA:Донбас","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5038/index.m3u8"},
-{"title": "UA:Крым","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1017/index.m3u8"},
-{"title": "UA:ЛЬВIВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/958/index.m3u8"},
-{"title": "UA:Перший","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1016/index.m3u8"},
-{"title": "UA|TV HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1024/index.m3u8"},
-{"title": "UKRAINE 1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/997/index.m3u8"},
-{"title": "Vintage TV UA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/6009/index.m3u8"},
-{"title": "ZIK HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1007/index.m3u8"},
-{"title": "ZIK","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1008/index.m3u8"},
-{"title": "ZOOM","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1000/index.m3u8"},
-{"title": "Інтер","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/937/index.m3u8"},
-{"title": "Бiгудi","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/989/index.m3u8"},
-{"title": "Вiнтаж ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/999/index.m3u8"},
-{"title": "Галичина","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1005/index.m3u8"},
-{"title": "Глас","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/972/index.m3u8"},
-{"title": "Громадське","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/988/index.m3u8"},
-{"title": "Еко TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1006/index.m3u8"},
-{"title": "Еспресо TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/927/index.m3u8"},
-{"title": "Еспресо ТВ HD UA orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9073/index.m3u8"},
-{"title": "Интер+","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1047/index.m3u8"},
-{"title": "К1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/931/index.m3u8"},
-{"title": "К2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/930/index.m3u8"},
-{"title": "КРТ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1019/index.m3u8"},
-{"title": "Квартал ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/932/index.m3u8"},
-{"title": "Культура","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/941/index.m3u8"},
-{"title": "Малятко ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1003/index.m3u8"},
-{"title": "Мариупольское ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5039/index.m3u8"},
-{"title": "Мега","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/929/index.m3u8"},
-{"title": "Медiаiнформ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/943/index.m3u8"},
-{"title": "НТА","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/990/index.m3u8"},
-{"title": "НТН","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/936/index.m3u8"},
-{"title": "Надiя ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/956/index.m3u8"},
-{"title": "Новий Канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/935/index.m3u8"},
-{"title": "Пiксель ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/938/index.m3u8"},
-{"title": "Первый городской (Кривой Рог)","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/939/index.m3u8"},
-{"title": "Первый городской","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/981/index.m3u8"},
-{"title": "Перший Захiдний","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/957/index.m3u8"},
-{"title": "Перший Західний","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5042/index.m3u8"},
-{"title": "Перший дiловий","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/985/index.m3u8"},
-{"title": "ПлюсПлюс","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1002/index.m3u8"},
-{"title": "Правда Тут","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/973/index.m3u8"},
-{"title": "Прямий HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1015/index.m3u8"},
-{"title": "Рада","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/976/index.m3u8"},
-{"title": "СК1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/982/index.m3u8"},
-{"title": "Сонце","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1013/index.m3u8"},
-{"title": "ТВА","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/998/index.m3u8"},
-{"title": "ТЕТ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1009/index.m3u8"},
-{"title": "ТРК Алекс","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/967/index.m3u8"},
-{"title": "ТРК Київ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1045/index.m3u8"},
-{"title": "ТРК Круг","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1040/index.m3u8"},
-{"title": "Телевсесвiт","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/942/index.m3u8"},
-{"title": "Телеканал Рибалка","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1058/index.m3u8"},
-{"title": "Тернопіль 1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5041/index.m3u8"},
-{"title": "Тернопіль 1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/975/index.m3u8"},
-{"title": "УНІАН","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1023/index.m3u8"},
-{"title": "Україна 24 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1022/index.m3u8"},
-{"title": "Україна","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1011/index.m3u8"},
-{"title": "Центральный канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/963/index.m3u8"},
-{"title": "ЧП.INFO","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1020/index.m3u8"},
-{"title": "Чернiвецький Промiнь","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1004/index.m3u8"},
-{"title": "Чернiвцi","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1072/index.m3u8"},
-{"title": "Черноморская ТРК","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/965/index.m3u8"},
-{"title": "Южная волна","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/979/index.m3u8"},
+{"title": "1+1 International","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/987/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "1+1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/994/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "112 Україна","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/924/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "2+2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/995/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "24 Канал HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1063/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "24 Канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/951/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "33 канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5040/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "36.6 TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1025/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "4 канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1039/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "4ever Music","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/970/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "5 канал UA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/945/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "7 канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1035/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "8 Канал UA HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1046/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ATR","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/952/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "BBB TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/959/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "BOLT","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/991/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "BOUTIQUE TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1029/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "EU Music","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/925/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Enter-фільм","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/933/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "FilmBox","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/948/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "HDFASHION&LifeStyle","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1012/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ID Fashion","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/940/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Lale","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/953/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "MAXXI TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/977/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Milady Television","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1026/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "MostVideo.TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1027/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Music Box UA HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1036/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "NLO TV1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1032/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "NLO TV2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1014/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "News Network","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/978/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "NewsOne","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/926/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "O-TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1055/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "OBOZ TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1028/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Skrypin.UA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/944/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Star Cinema","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/992/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Star Family","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1042/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "TV5","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1030/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UA:Донбас","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5038/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UA:Крым","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1017/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UA:ЛЬВIВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/958/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UA:Перший","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1016/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UA|TV HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1024/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UKRAINE 1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/997/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Vintage TV UA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/6009/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ZIK HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1007/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ZIK","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1008/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ZOOM","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1000/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Інтер","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/937/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Бiгудi","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/989/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Вiнтаж ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/999/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Галичина","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1005/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Глас","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/972/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Громадське","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/988/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Еко TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1006/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Еспресо TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/927/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Еспресо ТВ HD UA orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9073/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Интер+","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1047/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "К1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/931/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "К2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/930/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "КРТ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1019/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Квартал ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/932/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Культура","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/941/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Малятко ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1003/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Мариупольское ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5039/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Мега","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/929/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Медiаiнформ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/943/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "НТА","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/990/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "НТН","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/936/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Надiя ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/956/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Новий Канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/935/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Пiксель ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/938/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Первый городской (Кривой Рог)","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/939/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Первый городской","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/981/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Перший Захiдний","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/957/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Перший Західний","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5042/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Перший дiловий","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/985/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ПлюсПлюс","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1002/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Правда Тут","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/973/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Прямий HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1015/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Рада","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/976/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "СК1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/982/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Сонце","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1013/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТВА","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/998/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТЕТ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1009/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТРК Алекс","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/967/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТРК Київ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1045/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТРК Круг","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1040/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Телевсесвiт","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/942/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Телеканал Рибалка","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1058/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Тернопіль 1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5041/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Тернопіль 1","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/975/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "УНІАН","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1023/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Україна 24 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1022/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Україна","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1011/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Центральный канал","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/963/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ЧП.INFO","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1020/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Чернiвецький Промiнь","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1004/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Чернiвцi","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1072/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Черноморская ТРК","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/965/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Южная волна","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/979/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {
 		"title": "1+1",
-		"file": "http://spacetv.in/stream/DIPK8H19CP8/172.m3u8"
+		"file": "http://spacetv.in/stream/DIPK8H19CP8/172.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "2+2",
-		"file": "http://spacetv.in/stream/DIPK8H19CP8/173.m3u8"
+		"file": "http://spacetv.in/stream/DIPK8H19CP8/173.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "112 Україна",
-		"file": "[1]https://app.live.112.events/hls/112hd_mid/index.m3u8,[2]http://app.live.112.events/hls-ua/112hd_hi/index.m3u8"
+		"file": "[1]https://app.live.112.events/hls/112hd_mid/index.m3u8,[2]http://app.live.112.events/hls-ua/112hd_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "34 Канал",
-		"file": "http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8"
+		"file": "http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTi",
-		"file": "[LQ]http://95.67.106.10/hls/nta_ua_low/index.m3u8,[MQ]http://95.67.106.10/hls/nta_ua_mid/index.m3u8,[HQ]http://95.67.106.10/hls/nta_ua_hi/index.m3u8"
+		"file": "[LQ]http://95.67.106.10/hls/nta_ua_low/index.m3u8,[MQ]http://95.67.106.10/hls/nta_ua_mid/index.m3u8,[HQ]http://95.67.106.10/hls/nta_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "7 канал Одесса",
-		"file": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8"
+		"file": "http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ATR",
-		"file": "http://stream.atr.ua/atr/live/index.m3u8"
+		"file": "http://stream.atr.ua/atr/live/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BamBarBia TV",
-		"file": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "GTV",
-		"file": "[1]http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8,[2]http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8"
+		"file": "[1]http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8,[2]http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ICTV",
-		"file": "http://51.195.44.53:8081/tv/ictv/playlist.m3u8"
+		"file": "http://51.195.44.53:8081/tv/ictv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Iнтер",
-		"file": "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8"
+		"file": "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "К1",
-		"file": "http://109.68.40.67/life/k1.m3u8"
+		"file": "http://109.68.40.67/life/k1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Lale",
-		"file": "http://stream.atr.ua/lale//live/index.m3u8"
+		"file": "http://stream.atr.ua/lale//live/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Leomax 24",
-		"file": "https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/index.m3u8"
+		"file": "https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NewsOne",
-		"file": "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Simon",
-		"file": "https://hls.simon.ua/live-HD/live/playlist.m3u8"
+		"file": "https://hls.simon.ua/live-HD/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Skrypin.ua",
-		"file": "https://open-cdn.lanet.tv/live/1008.m3u8"
+		"file": "https://open-cdn.lanet.tv/live/1008.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TET",
-		"file": "http://51.195.44.53:8081/tv/tet/playlist.m3u8"
+		"file": "http://51.195.44.53:8081/tv/tet/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Travel Guid",
-		"file": "[1]http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8,[2]http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8"
+		"file": "[1]http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8,[2]http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV 5",
-		"file": "http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8"
+		"file": "http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV5 Запорожье",
-		"file": "[1]http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8,[2]http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8"
+		"file": "[1]http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8,[2]http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "UA TV low",
-		"file": "[low]http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8,[mid]http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8"
+		"file": "[low]http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8,[mid]http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "А1 (Одесса)",
-		"file": "http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Архат ТВ",
-		"file": "https://arhat.tv/public/360p/index.m3u8"
+		"file": "https://arhat.tv/public/360p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Глас",
-		"file": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8"
+		"file": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Донбас Online HD",
-		"file": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8"
+		"file": "http://176.110.1.30:1935/live/donbasonline/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Думская TV",
-		"file": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Здоровье (Одесса)",
-		"file": "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Интер",
-		"file": "https://lb1.macc.com.ua/img/inter_2/index.m3u8"
+		"file": "https://lb1.macc.com.ua/img/inter_2/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Крым 24",
-		"file": "http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8"
+		"file": "http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "М1",
-		"file": "http://live.m2.tv/hls2/stream.m3u8"
+		"file": "http://live.m2.tv/hls2/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "М2",
-		"file": "http://live.m2.tv/hls3/stream.m3u8"
+		"file": "http://live.m2.tv/hls3/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Надія",
-		"file": "https://stream.hope.ua/hopeua/live_1/playlist.m3u8"
+		"file": "https://stream.hope.ua/hopeua/live_1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "НТК",
-		"file": "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+		"file": "https://stream.ntktv.ua/s/ntk/ntk.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "НТН",
-		"file": "https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8"
+		"file": "https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Объектив 59",
-		"file": "https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8"
+		"file": "https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Одеса",
-		"file": "http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Орбіта ТВ",
-		"file": "http://ftp.orbita.dn.ua/hls/orbita.m3u8"
+		"file": "http://ftp.orbita.dn.ua/hls/orbita.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Первый городской",
-		"file": "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Первый городской (Одесса)",
-		"file": "http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Первый Деловой",
-		"file": "[MQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8,[HQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8"
+		"file": "[MQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8,[HQ]http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Перший Західний",
-		"file": "[1]http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8,[2]http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8"
+		"file": "[1]http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8,[2]http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Правда ТУТ",
-		"file": "[1]http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8,[2]http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8"
+		"file": "[1]http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8,[2]http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Прямий",
-		"file": "[MQ]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8,[HQ2}http://95.67.21.100/hls/prm_ua_hi/index.m3u8,[HQ1]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8"
+		"file": "[MQ]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8,[HQ2}http://95.67.21.100/hls/prm_ua_hi/index.m3u8,[HQ1]http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Радио Люкс",
-		"file": "https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8"
+		"file": "https://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Репортер",
-		"file": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Рудана",
-		"file": "https://live.rudana.com.ua/hls/stream_FHD.m3u8"
+		"file": "https://live.rudana.com.ua/hls/stream_FHD.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Сварожичи",
-		"file": "[1]http://80.91.177.102:1935/live/live1/playlist.m3u8,[2]http://tv.tv-project.com:1935/live/live1/playlist.m3u8"
+		"file": "[1]http://80.91.177.102:1935/live/live1/playlist.m3u8,[2]http://tv.tv-project.com:1935/live/live1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТIС (Одесса)",
-		"file": "[240]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8,[504]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8"
+		"file": "[240]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8,[504]http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТВА",
-		"file": "[1]http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8,[2]http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8"
+		"file": "[1]http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8,[2]http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТИС ТВ",
-		"file": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8"
+		"file": "http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Третий Цифровой",
-		"file": "http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Третий Цифровой",
-		"file": "http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ТРК Чернівці",
-		"file": "http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8"
+		"file": "http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Україна 24",
-		"file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8"
+		"file": "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Чернівецький Промінь",
-		"file": "https://langate.tv/promin/live_720/index.m3u8"
+		"file": "https://langate.tv/promin/live_720/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ЧП.iнфо",
-		"file": "[1]http://109.68.40.67/life/magnolia.m3u8,[3]http://109.68.40.67/life/magnolia_3/index.m3u8"
+		"file": "[1]http://109.68.40.67/life/magnolia.m3u8,[3]http://109.68.40.67/life/magnolia_3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Южная волна",
-		"file": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8"
+		"file": "http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

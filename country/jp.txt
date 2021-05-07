@@ -1,98 +1,98 @@
 [
 	{
 		"title": "Animax Japan",
-		"file": "https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8"
+		"file": "https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fuji TV",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "GSTV",
-		"file": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8"
+		"file": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "GTN Typhome",
-		"file": "https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8"
+		"file": "https://gorilla.gaki-no-tsukai.eu/hls/test.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Gunma TV",
-		"file": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Japanet Channel DX",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8"
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NJPW World",
-		"file": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8"
+		"file": "https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NHK Chinese Vision",
-		"file": "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"
+		"file": "https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NHK E",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NHK G",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NHK World",
-		"file": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
+		"file": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NHK World Global",
-		"file": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8"
+		"file": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nippon TV",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nippon TV News 24",
-		"file": "https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8"
+		"file": "https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nippon TV News 24",
-		"file": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+		"file": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "QVC Japan",
-		"file": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8"
+		"file": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Shop Channel",
-		"file": "https://stream3.shopch.jp/HLS/master.m3u8"
+		"file": "https://stream3.shopch.jp/HLS/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TBS",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tokyo MX 1",
-		"file": "https://redlabmcdn.s.llnwi.net/jp01/ryowa8/tracks-v1a1/mono.m3u8"
+		"file": "https://redlabmcdn.s.llnwi.net/jp01/ryowa8/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tokyo MX1",
-		"file": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tokyo MX2",
-		"file": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Asahi",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Tokyo",
-		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa6/tracks-v1a1/mono.m3u8"
+		"file": "http://redlabmcdn.s.llnwi.net/jp01/ryowa6/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Weather News",
-		"file": "https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8"
+		"file": "https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

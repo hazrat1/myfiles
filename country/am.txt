@@ -1,10 +1,10 @@
 [
 	{
 		"title": "Amga",
-		"file": "https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8"
+		"file": "https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Radio Van 103.0 FM",
-		"file": "http://stream.radiovan.fm/stream/index.m3u8"
+		"file": "http://stream.radiovan.fm/stream/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

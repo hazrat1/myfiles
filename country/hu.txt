@@ -1,50 +1,50 @@
 [
 	{
 		"title": "ATV",
-		"file": "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8"
+		"file": "https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Balaton TV",
-		"file": "https://stream.iptvservice.eu/hls/balatontv.m3u8"
+		"file": "https://stream.iptvservice.eu/hls/balatontv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Budakalasz",
-		"file": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8"
+		"file": "https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Cool TV HD",
-		"file": "[1]https://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8"
+		"file": "[1]https://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Film+",
-		"file": "[1]https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8"
+		"file": "[1]https://stream.y5.hu/stream/stream_filmp/hls0/stream.m3u8,[2]https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Halom TV",
-		"file": "http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8"
+		"file": "http://stream.battanet.hu:8080/hls/livestream1/1_2/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Komlós TV",
-		"file": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8"
+		"file": "https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pannon RTV",
-		"file": "https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8"
+		"file": "https://stream.unrealhosting.hu:443/hls/pannonrtv/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sorozat+",
-		"file": "https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8"
+		"file": "https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV7 Bekescsaba",
-		"file": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8"
+		"file": "https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "VTV Füzesabony",
-		"file": "https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8"
+		"file": "https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ózdi Városi TV",
-		"file": "https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8"
+		"file": "https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

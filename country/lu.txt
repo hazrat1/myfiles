@@ -1,17 +1,17 @@
 [{
 		"title": "Chamber TV",
-		"file": "https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8"
+		"file": "https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Eldoradio TV",
-		"file": "https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8"
+		"file": "https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL Télé Lëtzebuerg",
-		"file": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8"
+		"file": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTL Zwee",
-		"file": "https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8"
+		"file": "https://live-edge.rtl.lu/channel1/smil:channel2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

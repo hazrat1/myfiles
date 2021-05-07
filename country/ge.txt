@@ -1,21 +1,21 @@
 [{
 		"title": "1TV",
-		"file": "https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8"
+		"file": "https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "2TV",
-		"file": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8"
+		"file": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Enki Benki",
-		"file": "http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8"
+		"file": "http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MusicBox",
-		"file": "http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8"
+		"file": "http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Palitra News",
-		"file": "https://livestream.palitra.ge/hls/palitratv/index.m3u8"
+		"file": "https://livestream.palitra.ge/hls/palitratv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

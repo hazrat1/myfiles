@@ -1,46 +1,46 @@
 [
 	{
 		"title": "BHtv",
-		"file": "http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8"
+		"file": "http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Cultura 24 TV",
-		"file": "https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8"
+		"file": "https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Exitosa Noticias",
-		"file": "https://cu.onliv3.com/livevd1/user2.m3u8"
+		"file": "https://cu.onliv3.com/livevd1/user2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "La Karibeña",
-		"file": "https://cu.onliv3.com/livevd/user1.m3u8"
+		"file": "https://cu.onliv3.com/livevd/user1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Mega TV",
-		"file": "https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8"
+		"file": "https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Monterrico TV",
-		"file": "http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8"
+		"file": "http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pax TV",
-		"file": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8"
+		"file": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Cosmos",
-		"file": "https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8"
+		"file": "https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Perú Noticias",
-		"file": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8"
+		"file": "http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "UCI",
-		"file": "http://170.79.102.223/UCI/index.m3u8"
+		"file": "http://170.79.102.223/UCI/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Via Televisión",
-		"file": "https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8"
+		"file": "https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

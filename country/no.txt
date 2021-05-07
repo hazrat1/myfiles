@@ -1,5 +1,5 @@
 [{
 		"title": "Kanal 10 Norge",
-		"file": "[1]https://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8,[2]https://cdn-kanal10.crossnet.net/kanal10no/mp4:live1/chunklist.m3u8"
+		"file": "[1]https://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8,[2]https://cdn-kanal10.crossnet.net/kanal10no/mp4:live1/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

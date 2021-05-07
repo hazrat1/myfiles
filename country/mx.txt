@@ -1,73 +1,73 @@
 [{
 		"title": "adn40",
-		"file": "https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8"
+		"file": "https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alcarria TV",
-		"file": "http://217.182.77.27/live/alcarriatv-livestream.m3u8"
+		"file": "http://217.182.77.27/live/alcarriatv-livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal 10 Cancún",
-		"file": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8"
+		"file": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Catorce",
-		"file": "https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8"
+		"file": "https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Mundo+",
-		"file": "http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8"
+		"file": "http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canal Once Nacional",
-		"file": "http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8"
+		"file": "http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Capital 21",
-		"file": "https://video.cdmx.gob.mx/livestream/stream.m3u8"
+		"file": "https://video.cdmx.gob.mx/livestream/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Claro Sports",
-		"file": "https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8"
+		"file": "https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Genesis TV",
-		"file": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8"
+		"file": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Multimedios Guadalajara",
-		"file": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
+		"file": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Multimedios Laguna",
-		"file": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+		"file": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Multimedios Monterrey",
-		"file": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8"
+		"file": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MVM Noticias (Oaxaca)",
-		"file": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8"
+		"file": "http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RCG 2 Saltillo",
-		"file": "[1]http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8,[2]http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8"
+		"file": "[1]http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8,[2]http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTQ Queretaro",
-		"file": "http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8"
+		"file": "http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sipse TV Cancun",
-		"file": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+		"file": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telemax",
-		"file": "http://s5.mexside.net:1935/telemax/telemax/.m3u8"
+		"file": "http://s5.mexside.net:1935/telemax/telemax/.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVMÁS",
-		"file": "https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8"
+		"file": "https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

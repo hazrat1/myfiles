@@ -1,13 +1,13 @@
 [{
 		"title": "Echorouk News",
-		"file": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8"
+		"file": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Echorouk TV",
-		"file": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8"
+		"file": "http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ennahar TV",
-		"file": "[Link 1]http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8,[Link 2]http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8"
+		"file": "[Link 1]http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8,[Link 2]http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

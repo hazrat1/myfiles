@@ -1,9 +1,9 @@
 [{
 		"title": "aruba TV",
-		"file": "https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8"
+		"file": "https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Telearuba 13",
-		"file": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8"
+		"file": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

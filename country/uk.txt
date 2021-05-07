@@ -1,269 +1,269 @@
 [{
 		"title": "Action Movies",
-		"file": "https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Afrobeats 247",
-		"file": "https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8"
+		"file": "https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Alhiwar TV",
-		"file": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+		"file": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BBC Arabic",
-		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8"
+		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BBC Persian",
-		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8"
+		"file": "https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BBC World News",
-		"file": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+		"file": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Beano TV",
-		"file": "https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://beanostudios-beanotv-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Clubbing TV",
-		"file": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Comedy Channel",
-		"file": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Comedy Movies",
-		"file": "https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Discover.Film",
-		"file": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Drama",
-		"file": "https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-tvshows-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dust (GB)",
-		"file": "https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dust (UK-CA)",
-		"file": "https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Edge Sport",
-		"file": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://edgesport-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Euronews",
-		"file": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Failarmy",
-		"file": "https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://failarmy-international-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Family Movies",
-		"file": "https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-family-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Film 4 UK",
-		"file": "http://51.52.156.22:8888/http/008"
+		"file": "http://51.52.156.22:8888/http/008 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Filmstream",
-		"file": "https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://spi-filmstream-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Filmzie",
-		"file": "https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://filmzie-filmzie-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "FTF",
-		"file": "https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Gems TV",
-		"file": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8"
+		"file": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Go USA",
-		"file": "https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "GUSTO TV",
-		"file": "https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Horse and Country",
-		"file": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://hncfree-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Humanity",
-		"file": "https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://alchimie-humanity-2-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Insight",
-		"file": "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://insighttv-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Inwild",
-		"file": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://inwild-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Inwonder",
-		"file": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://inwonder-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kid Gamer TV",
-		"file": "https://studio71-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://studio71-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Luxe TV",
-		"file": "https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Manoto TV",
-		"file": "https://d2rwmwucnr0d10.cloudfront.net/live.m3u8"
+		"file": "https://d2rwmwucnr0d10.cloudfront.net/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Mav TV",
-		"file": "https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://mavtv-mavtvglobal-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Movies Central",
-		"file": "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://alchimie-movies-central-2-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "People are Awesome",
-		"file": "https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Planet Knowledge",
-		"file": "https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Players TV",
-		"file": "https://playerstv-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://playerstv-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pocket watch",
-		"file": "https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://pocketwatch-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Qello",
-		"file": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "QUEST TV Classical",
-		"file": "https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "QUEST TV Jazz",
-		"file": "https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "QUEST TV MIX",
-		"file": "https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "QVC UK",
-		"file": "https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8"
+		"file": "https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Real Stories",
-		"file": "https://realstories-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://realstories-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sky News",
-		"file": "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true"
+		"file": "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sky News Arabia",
-		"file": "https://stream.skynewsarabia.com/hls/sna.m3u8"
+		"file": "https://stream.skynewsarabia.com/hls/sna.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sky News Extra 1",
-		"file": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8"
+		"file": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sky News Extra 2",
-		"file": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8"
+		"file": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sky News Extra 3",
-		"file": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8"
+		"file": "https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sofy TV",
-		"file": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://sofytv-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Spark Tv",
-		"file": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://sparktv-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sports Channel Network",
-		"file": "https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Spotlight",
-		"file": "https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Spotlight TV",
-		"file": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8"
+		"file": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Stingray Karaoke",
-		"file": "https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Supertoons TV",
-		"file": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Teletubbies",
-		"file": "https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://dhx-teletubbies-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tennis Channel (UK)",
-		"file": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+		"file": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "The Tennis Channel",
-		"file": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Time Line",
-		"file": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://timeline-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Toongoggles",
-		"file": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Travel XP",
-		"file": "https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Truly",
-		"file": "https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://barcroft-truly-1-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Unearth",
-		"file": "https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "V2BEAT",
-		"file": "[1]https://abr.de1se01.v2beat.live/playlist.m3u8,[2]https://de1se01.v2beat.live/playlist.m3u8"
+		"file": "[1]https://abr.de1se01.v2beat.live/playlist.m3u8,[2]https://de1se01.v2beat.live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Wonder",
-		"file": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8"
+		"file": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

@@ -1,233 +1,233 @@
 [{
 		"title": "24 TV",
-		"file": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8"
+		"file": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Afyon Türk TV",
-		"file": "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8"
+		"file": "https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ahi Televizyonu Kırşehir",
-		"file": "http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8"
+		"file": "http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Akit TV",
-		"file": "https://akittv-live.ercdn.net/akittv/akittv.m3u8"
+		"file": "https://akittv-live.ercdn.net/akittv/akittv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Al-Zahra TV Turkic",
-		"file": "https://live.al-zahratv.com/live/playlist.m3u8"
+		"file": "https://live.al-zahratv.com/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Altaş TV",
-		"file": "http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8"
+		"file": "http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Beyaz TV",
-		"file": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8"
+		"file": "https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Beşiktaş Web TV",
-		"file": "https://s01.vpis.io/besiktas/besiktas.m3u8"
+		"file": "https://s01.vpis.io/besiktas/besiktas.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BLT Turk",
-		"file": "https://waw2.artiyerelmedya.net/bltturk/bant1/playlist.m3u8"
+		"file": "https://waw2.artiyerelmedya.net/bltturk/bant1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Bursa TV",
-		"file": "https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8"
+		"file": "https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Can TV",
-		"file": "[1]http://canbroadcast.com:7000/canlican/tv.m3u8,[2]http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
+		"file": "[1]http://canbroadcast.com:7000/canlican/tv.m3u8,[2]http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Cine5 TV",
-		"file": "https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8"
+		"file": "https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Doğuş TV",
-		"file": "https://s01.vpis.io/dogustv/dogustv.m3u8"
+		"file": "https://s01.vpis.io/dogustv/dogustv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ege A Turk TV",
-		"file": "https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8"
+		"file": "https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ETV Manisa",
-		"file": "https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8"
+		"file": "https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "EuroStar",
-		"file": "https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8"
+		"file": "https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Finans Turk TV",
-		"file": "http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8"
+		"file": "http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "İBB TV",
-		"file": "http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8"
+		"file": "http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 10",
-		"file": "http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8"
+		"file": "http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 12",
-		"file": "https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8"
+		"file": "https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 15",
-		"file": "https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8"
+		"file": "https://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 23",
-		"file": "http://win1.yayin.com.tr/kanal23/kanal23/playlist.m3u8"
+		"file": "http://win1.yayin.com.tr/kanal23/kanal23/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 26",
-		"file": "https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8"
+		"file": "https://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 3",
-		"file": "http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8"
+		"file": "http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 34",
-		"file": "http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8"
+		"file": "http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 7",
-		"file": "https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8"
+		"file": "https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal 7 Avrupa HD",
-		"file": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8"
+		"file": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "KANAL AVRUPA",
-		"file": "http://51.15.2.151/hls/kanalavrupa.m3u8"
+		"file": "http://51.15.2.151/hls/kanalavrupa.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kanal Firat",
-		"file": "https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8"
+		"file": "https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kon TV",
-		"file": "https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8"
+		"file": "https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kral Pop TV",
-		"file": "https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8"
+		"file": "https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kral TV",
-		"file": "https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8"
+		"file": "https://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Natural TV",
-		"file": "https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8"
+		"file": "https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NTV",
-		"file": "http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8"
+		"file": "http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NTV TR",
-		"file": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8"
+		"file": "https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "On4 TV",
-		"file": "http://yayin.netradyom.com:1935/live/on4/playlist.m3u8"
+		"file": "http://yayin.netradyom.com:1935/live/on4/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Power Turk",
-		"file": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8"
+		"file": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Rudaw",
-		"file": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8"
+		"file": "https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sat7 Türk",
-		"file": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8"
+		"file": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Show TV",
-		"file": "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8"
+		"file": "https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Star TV",
-		"file": "https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8"
+		"file": "https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT 1",
-		"file": "https://tv-trt1.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trt1.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT 3",
-		"file": "http://tv-trt3.live.trt.com.tr/master.m3u8"
+		"file": "http://tv-trt3.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Arabi",
-		"file": "https://tv-trtarabi.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtarabi.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Avaz",
-		"file": "https://tv-trtavaz.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtavaz.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Belgesel",
-		"file": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtbelgesel.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT EBA Ilkokul",
-		"file": "http://tv-e-okul00.live.trt.com.tr/master_720.m3u8"
+		"file": "http://tv-e-okul00.live.trt.com.tr/master_720.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT EBA Lise",
-		"file": "http://tv-e-okul02.live.trt.com.tr/master_720.m3u8"
+		"file": "http://tv-e-okul02.live.trt.com.tr/master_720.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT EBA Ortaokul",
-		"file": "http://tv-e-okul01.live.trt.com.tr/master_720.m3u8"
+		"file": "http://tv-e-okul01.live.trt.com.tr/master_720.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Haber",
-		"file": "https://tv-trthaber.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trthaber.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Kurdî",
-		"file": "https://tv-trtkurdi.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtkurdi.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Müzik",
-		"file": "https://tv-trtmuzik.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtmuzik.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Türk",
-		"file": "https://tv-trtturk.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtturk.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT World",
-		"file": "https://tv-trtworld.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtworld.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TRT Çocuk",
-		"file": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
+		"file": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV4 HD Türkiye",
-		"file": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8"
+		"file": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "UçanKuş TV",
-		"file": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8"
+		"file": "https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "VTV",
-		"file": "https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8"
+		"file": "https://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

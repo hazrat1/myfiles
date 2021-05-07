@@ -1,14 +1,14 @@
 [{
 		"title": "5AAB TV",
-		"file": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8"
+		"file": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "BBC Toronto",
-		"file": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8"
+		"file": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canada One",
-		"file": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
+		"file": "http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Canadian Arab TV",
@@ -16,186 +16,186 @@
 	},
 	{
 		"title": "Canal Savoir",
-		"file": "https://hls.savoir.media/live/stream.m3u8"
+		"file": "https://hls.savoir.media/live/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBC News",
-		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8"
+		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBC News Network",
-		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8"
+		"file": "https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CPAC",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8"
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Deal or no Deal",
-		"file": "https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "DryBar Comedy",
-		"file": "https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Eawaz TV",
-		"file": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8"
+		"file": "https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "EMCI TV",
-		"file": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8"
+		"file": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "EWTN Canada",
-		"file": "https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8"
+		"file": "https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Fuel TV",
-		"file": "https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://fueltv-fueltv-1-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global British Columbia",
-		"file": "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8"
+		"file": "https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global Calgary",
-		"file": "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8"
+		"file": "https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global Edmonton",
-		"file": "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8"
+		"file": "https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global News",
-		"file": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+		"file": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Global Toronto",
-		"file": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8"
+		"file": "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "HollyWire",
-		"file": "https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ici RDI",
-		"file": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8"
+		"file": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Insight TV",
-		"file": "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8"
+		"file": "https://insighttv-samsung-canada.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Inwonder",
-		"file": "https://inwonder-samsung-canada.amagi.tv/playlist.m3u8"
+		"file": "https://inwonder-samsung-canada.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kidoodle TV",
-		"file": "https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://kidoodletv-kdtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Legislative Assembly",
-		"file": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
+		"file": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Mav TV",
-		"file": "https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://mavtv-1-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "MHZ",
-		"file": "https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Montreal Greek TV",
-		"file": "http://94.130.180.175:8081/live/greektv/playlist.m3u8"
+		"file": "http://94.130.180.175:8081/live/greektv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NTV",
-		"file": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8"
+		"file": "https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Outside TV",
-		"file": "https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Pardesi TV",
-		"file": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+		"file": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "People are Awesome",
-		"file": "https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Players TV",
-		"file": "https://playerstv-samsungca.amagi.tv/playlist.m3u8"
+		"file": "https://playerstv-samsungca.amagi.tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "PowerNation",
-		"file": "https://rtmtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rtmtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Prime Asia TV",
-		"file": "http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8"
+		"file": "http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Prime Canada TV",
-		"file": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
+		"file": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sardari TV",
-		"file": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8"
+		"file": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Stingray Naturescape",
-		"file": "https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TAG TV",
-		"file": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8"
+		"file": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tamil Vision TV",
-		"file": "[SD]http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8,[HD]http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8"
+		"file": "[SD]http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8,[HD]http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tastemade",
-		"file": "https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tele-V",
-		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8"
+		"file": "https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "The Design Network",
-		"file": "https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Toronto 360 TV",
-		"file": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8"
+		"file": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TSC",
-		"file": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+		"file": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Télé Culturelle Médias",
-		"file": "https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8"
+		"file": "https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "isuma.tv",
-		"file": "http://dee7mwgg9dzvl.cloudfront.net/live.m3u8"
+		"file": "http://dee7mwgg9dzvl.cloudfront.net/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Waypoint TV",
-		"file": "https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://waypointtv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Weatherspy",
-		"file": "https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "World Poker Tour",
-		"file": "https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://world-poker-tour-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

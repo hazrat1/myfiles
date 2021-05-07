@@ -1,33 +1,33 @@
 [{
 		"title": "Channel 2 News",
-		"file": "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
+		"file": "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Channel 24",
-		"file": "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8"
+		"file": "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hala TV",
-		"file": "https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8"
+		"file": "https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kan 11",
-		"file": "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8"
+		"file": "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kan 23",
-		"file": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8"
+		"file": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Knesset Channel",
-		"file": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8"
+		"file": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Reshet 13",
-		"file": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8"
+		"file": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ynet Live",
-		"file": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8"
+		"file": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

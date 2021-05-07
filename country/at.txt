@@ -1,101 +1,101 @@
 [{
 		"title": "Action Movies",
-		"file": "https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-actionmovies-5-at.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Comedy Movies",
-		"file": "https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-comedymovies-5-at.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Dorf TV",
-		"file": "https://stream.openplayout.org/hls/dorf.m3u8"
+		"file": "https://stream.openplayout.org/hls/dorf.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Drama",
-		"file": "https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-tvshows-5-at.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Family",
-		"file": "https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-family-5-at.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "FS1 (Salzburg)",
-		"file": "https://stream.fs1.tv/hls/webstream.m3u8"
+		"file": "https://stream.fs1.tv/hls/webstream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Hitradio Ö3",
-		"file": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8"
+		"file": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "K-TV",
-		"file": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8"
+		"file": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Kronehit",
-		"file": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8"
+		"file": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Ländle TV",
-		"file": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8"
+		"file": "https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "M4",
-		"file": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8"
+		"file": "https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "oe24.TV",
-		"file": "https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8"
+		"file": "https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Okto Eight",
-		"file": "https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8"
+		"file": "https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ORF 1",
-		"file": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8"
+		"file": "https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ORF 2",
-		"file": "https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8"
+		"file": "https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ORF 3",
-		"file": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8"
+		"file": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ORF Sport +",
-		"file": "https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8"
+		"file": "https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "R9",
-		"file": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8"
+		"file": "https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Red Bull TV",
-		"file": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+		"file": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "SchauTV",
-		"file": "https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8"
+		"file": "https://rakuten-spotlight-5-at.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Swamiji TV",
-		"file": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8"
+		"file": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Teins TV",
-		"file": "https://live1.markenfunk.com/t1/live/playlist.m3u8"
+		"file": "https://live1.markenfunk.com/t1/live/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tirol TV",
-		"file": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8"
+		"file": "https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "W24",
-		"file": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8"
+		"file": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "W24 TV",
-		"file": "https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8"
+		"file": "https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

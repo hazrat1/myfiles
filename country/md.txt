@@ -1,54 +1,54 @@
 [
-{"title": "10 TV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2466/index.m3u8"},
-{"title": "Accent TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2459/index.m3u8"},
-{"title": "CANAL 5 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2465/index.m3u8"},
-{"title": "Canal 2 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2452/index.m3u8"},
-{"title": "Canal 3 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2453/index.m3u8"},
-{"title": "Gurinel TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2469/index.m3u8"},
-{"title": "ITV Moldova","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2461/index.m3u8"},
-{"title": "Jurnal TV HD MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5008/index.m3u8"},
-{"title": "Jurnal TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2446/index.m3u8"},
-{"title": "Minimax MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2468/index.m3u8"},
-{"title": "Moldova 1 HD MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2444/index.m3u8"},
-{"title": "Moldova 2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2445/index.m3u8"},
-{"title": "N4 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2460/index.m3u8"},
-{"title": "NTV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2457/index.m3u8"},
-{"title": "Noroc TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2473/index.m3u8"},
-{"title": "Orhei TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2448/index.m3u8"},
-{"title": "PRIMUL","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2449/index.m3u8"},
-{"title": "Prime 1 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2451/index.m3u8"},
-{"title": "ProTV Chisinau","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2456/index.m3u8"},
-{"title": "Publika TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2450/index.m3u8"},
-{"title": "RTR Moldova","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2447/index.m3u8"},
-{"title": "RUTV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2472/index.m3u8"},
-{"title": "TV CENTRALA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2467/index.m3u8"},
-{"title": "TV8 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2454/index.m3u8"},
-{"title": "TVC 21 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2458/index.m3u8"},
-{"title": "TVR 1 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2464/index.m3u8"},
-{"title": "TVR1 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5026/index.m3u8"},
-{"title": "UTV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2471/index.m3u8"},
-{"title": "Zona M MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2470/index.m3u8"},
-{"title": "Рен ТВ MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2455/index.m3u8"},
-{"title": "СТС Mega MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2462/index.m3u8"},
-{"title": "ТНТ Exclusiv TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2463/index.m3u8"},
+{"title": "10 TV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2466/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Accent TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2459/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "CANAL 5 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2465/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Canal 2 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2452/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Canal 3 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2453/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Gurinel TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2469/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ITV Moldova","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2461/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Jurnal TV HD MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5008/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Jurnal TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2446/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Minimax MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2468/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Moldova 1 HD MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2444/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Moldova 2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2445/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "N4 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2460/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "NTV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2457/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Noroc TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2473/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Orhei TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2448/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "PRIMUL","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2449/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Prime 1 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2451/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ProTV Chisinau","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2456/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Publika TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2450/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "RTR Moldova","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2447/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "RUTV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2472/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "TV CENTRALA","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2467/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "TV8 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2454/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "TVC 21 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2458/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "TVR 1 MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2464/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "TVR1 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5026/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "UTV MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2471/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Zona M MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2470/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Рен ТВ MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2455/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "СТС Mega MD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2462/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТНТ Exclusiv TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2463/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 	{
 		"title": "Bălţi TV",
-		"file": "http://77.89.199.174:8000/play/1024/index.m3u8"
+		"file": "http://77.89.199.174:8000/play/1024/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Drochia",
-		"file": "https://hls.drochia.tv/tv/web.m3u8"
+		"file": "https://hls.drochia.tv/tv/web.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Publika TV",
-		"file": "[1]http://livebeta.publika.md/LIVE/P/6810.m3u8,[2]https://livebeta.publika.md/LIVE/P/1000.m3u8,[3]https://livebeta.publika.md/LIVE/P/1500.m3u8"
+		"file": "[1]http://livebeta.publika.md/LIVE/P/6810.m3u8,[2]https://livebeta.publika.md/LIVE/P/1000.m3u8,[3]https://livebeta.publika.md/LIVE/P/1500.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tele M",
-		"file": "http://webmobile.xdev.ro:81/tv16/playlist.m3u8"
+		"file": "http://webmobile.xdev.ro:81/tv16/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TVR Moldova HD",
-		"file": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8"
+		"file": "https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

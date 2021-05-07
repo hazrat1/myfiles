@@ -1,65 +1,65 @@
 [{
 		"title": "ABCNEWS",
-		"file": "https://tv2.abcnews.al/live/abcnews/chunks.m3u8"
+		"file": "https://tv2.abcnews.al/live/abcnews/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "AlbUK TV",
-		"file": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8"
+		"file": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ClubFm Albania",
-		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/y1zqzk480/index.m3u8"
+		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/y1zqzk480/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ClubFm Radio Shqip",
-		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/y1zqgx480/index.m3u8"
+		"file": "https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/y1zqgx480/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "News 24 AL",
-		"file": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"
+		"file": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH 1",
-		"file": "http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH 2",
-		"file": "http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH 3",
-		"file": "http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH 24",
-		"file": "http://edge01eu.ekranet.com:80/rtsh24/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtsh24/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH Film",
-		"file": "http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH Musike",
-		"file": "http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8"
+		"file": "http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH Shqip",
-		"file": "http://edge01eu.ekranet.com/rtshshqip1/index.m3u8"
+		"file": "http://edge01eu.ekranet.com/rtshshqip1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTSH Plus",
-		"file": "http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8"
+		"file": "http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTV Ilirida",
-		"file": "http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8"
+		"file": "http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Tema TV",
-		"file": "http://edge01eu.ekranet.com/tematv_720p/index.m3u8"
+		"file": "http://edge01eu.ekranet.com/tematv_720p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV7",
-		"file": "http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8"
+		"file": "http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

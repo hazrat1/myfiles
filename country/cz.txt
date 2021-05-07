@@ -1,70 +1,70 @@
 [
 	{
 		"title": "Elektrika TV",
-		"file": "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8"
+		"file": "http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nova 2",
-		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/cze.m3u8"
+		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_2_avod/playlist/cze.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nova Action",
-		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_hq.m3u8"
+		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_action_avod/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nova Cinema",
-		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8"
+		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nova Gold",
-		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_hq.m3u8"
+		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_gold_avod/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Polar TV",
-		"file": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8"
+		"file": "https://stream.polar.cz/polar/polarlive-1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Praha TV",
-		"file": "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8"
+		"file": "https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Retro Music TV",
-		"file": "[1]http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8,[2]http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,[3]http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8"
+		"file": "[1]http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8,[2]http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8,[3]http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "RTM plus",
-		"file": "http://www.rtmplus.cz/live/1-playlist.m3u8"
+		"file": "http://www.rtmplus.cz/live/1-playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Nova",
-		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8"
+		"file": "https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Východočeská TV",
-		"file": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8"
+		"file": "https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Óčko",
-		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8"
+		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Óčko Expres",
-		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8"
+		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Óčko Gold",
-		"file": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
+		"file": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Óčko Star",
-		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8"
+		"file": "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ČT1 HD",
-		"file": "http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8"
+		"file": "http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Šlágr TV",
-		"file": "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8"
+		"file": "https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

@@ -1,25 +1,25 @@
 [{
 		"title": "CampusTV",
-		"file": "http://st2.worldkast.com/8004/8004/playlist.m3u8"
+		"file": "http://st2.worldkast.com/8004/8004/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CCI Channel",
-		"file": "[1]http://stream.innovandote.com:1935/cci/cci/playlist.m3u8,[2]https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8"
+		"file": "[1]http://stream.innovandote.com:1935/cci/cci/playlist.m3u8,[2]https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Cholusat Sur 36",
-		"file": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8"
+		"file": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Sercano TV",
-		"file": "http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8"
+		"file": "http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Teleceiba Canal 7",
-		"file": "http://190.11.224.14:8134/liveevent.m3u8"
+		"file": "http://190.11.224.14:8134/liveevent.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TEN Canal 10",
-		"file": "http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8"
+		"file": "http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

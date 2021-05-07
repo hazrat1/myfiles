@@ -1,13 +1,13 @@
 [{
 		"title": "Al Mamlaka TV",
-		"file": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8"
+		"file": "https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Amman TV",
-		"file": "https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8"
+		"file": "https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Nojoum TV",
-		"file": "http://51.210.199.41/hls/stream.m3u8"
+		"file": "http://51.210.199.41/hls/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]
