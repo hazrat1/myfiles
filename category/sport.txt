@@ -109,7 +109,7 @@
 	},
 	{
 		"title": "PTV Sports",
-		"file": "[1]https://raw.githubusercontent.com/hazrat1/myfiles/main/others/pt_sp.m3u8,[240]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_240p/playlist.m3u8,[360]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8,[480]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_480p/playlist.m3u8,[720]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://raw.githubusercontent.com/hazrat1/myfiles/main/others/pt_sp.m3u8,[240]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_240p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[360]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[480]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_480p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Red Bull TV",
@@ -178,19 +178,19 @@
 	},
 	{
 		"title": "TNT Sports 2 Brasil",
-		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-240p.m3u8,[360]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-360p.m3u8,[480]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8,[720]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-240p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[360]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-360p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[480]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TNT Sports 3 Brasil",
-		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-240p.m3u8,[360]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-360p.m3u8,[480]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8,[720]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-240p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[360]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-360p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[480]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-480p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TNT Sports 4 Brasil",
-		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-240p.m3u8,[360]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-360p.m3u8,[480]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8,[720]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-240p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[360]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-360p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[480]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-480p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TNT Sports 5 Brasil",
-		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-240p.m3u8,[360]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-360p.m3u8,[480]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8,[720]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[240]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-240p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[360]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-360p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[480]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-480p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Trace Sport Stars",
@@ -226,7 +226,7 @@
 	},
 	{
 		"title": "Астрахань.Ru Sport",
-		"file": "[1]https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8,[2]https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8,[3]https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8,[3]https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "البحرين الرياضية",

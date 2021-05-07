@@ -4,7 +4,7 @@
 	},
 	{
 		"title": "BamBarBia TV",
-		"file": "[1]http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8,[720]http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[720]http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Jasco Events TV",

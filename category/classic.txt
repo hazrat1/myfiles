@@ -49,6 +49,6 @@
 	},
 	{
 		"title": "Z Living",
-		"file": "[1]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8,[2]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

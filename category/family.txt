@@ -12,7 +12,7 @@
 	},
 	{
 		"title": "JOJ Family",
-		"file": "[360]https://nn.geo.joj.sk/hls/family-360.m3u8,[540]https://nn.geo.joj.sk/hls/family-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[540]https://nn2.joj.sk/hls/family-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[360]https://nn.geo.joj.sk/hls/family-360.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[540]https://nn.geo.joj.sk/hls/family-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[540]https://nn2.joj.sk/hls/family-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "La Chaîne normande(LCN)",

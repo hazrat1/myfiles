@@ -20,7 +20,7 @@
 	},
 	{
 		"title": "Bucovina TV",
-		"file": "[1]http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8,[2]http://46.4.14.12:9999/btvsvlive/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://46.4.14.12:9999/btvsvlive/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Credo TV",
@@ -32,7 +32,7 @@
 	},
 	{
 		"title": "IasiTV Life",
-		"file": "[1]http://webmobile.xdev.ro:81/tv24/playlist.m3u8,[2]http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168"
+		"file": "[1]http://webmobile.xdev.ro:81/tv24/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168"
 	},
 	{
 		"title": "Infinit TV",
@@ -60,7 +60,7 @@
 	},
 	{
 		"title": "Music Channel",
-		"file": "[1]https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8,[2]https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Naşul TV",
@@ -96,6 +96,6 @@
 	},
 	{
 		"title": "UTV",
-		"file": "[2]https://edge126.rcs-rds.ro/utvedge/utvhq.stream/index.m3u8,[1]http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[2]https://edge126.rcs-rds.ro/utvedge/utvhq.stream/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[1]http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

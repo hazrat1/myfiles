@@ -4,11 +4,11 @@
 	},
 	{
 		"title": "JOJ 540p",
-		"file": "[1]https://nn.geo.joj.sk/hls/joj-540.m3u8,[2]https://nn.geo.joj.sk/hls/joj-720.m3u8,[3]https://nn1.joj.sk/hls/joj-720.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://nn.geo.joj.sk/hls/joj-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://nn.geo.joj.sk/hls/joj-720.m3u8,[3]https://nn1.joj.sk/hls/joj-720.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "JOJ Family 360p",
-		"file": "[1]https://nn.geo.joj.sk/hls/family-360.m3u8,[2]https://nn.geo.joj.sk/hls/family-540.m3u8,[3]https://nn2.joj.sk/hls/family-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://nn.geo.joj.sk/hls/family-360.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://nn.geo.joj.sk/hls/family-540.m3u8,[3]https://nn2.joj.sk/hls/family-540.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Life.tv",

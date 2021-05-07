@@ -156,7 +156,7 @@
 	},
 	{
 		"title": "WOW TV",
-		"file": "[1]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8,[2]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8,[3]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8,[3]http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "YourTime TV",
@@ -173,5 +173,43 @@
 	{
 		"title": "Kasthuri TV",
 		"file": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	}
+	},
+{"title":"Russian","folder":
+      [
+{"title": "9 Волна","file": "http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ACB TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/868/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "DTX HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2006/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "FTV UHD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/4005/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Fashion One HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2044/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Fashion TV HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2045/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Gags Network HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/7142/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Global Star TV","file": "http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Globalstar TV","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2035/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "HD Life","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/226/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Luxury","file": "http://nano.teleservice.su:8080/hls/luxury.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Luxury","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5032/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Luxury World","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2072/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Paramount Comedy HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/6000/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Анекдот ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5034/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Арсенал HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5044/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Продвижение","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/851/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Раз ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2069/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Суббота!","file": "http://51.68.141.106:8081/tv/super/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТНТ +2","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/6020/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Театр","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2431/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Эврика HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/908/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ACB TV orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9332/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "DTX HD orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5064/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Fashion TV orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9335/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Globalstar TV orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9334/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "LUXURY WORLD HD orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9038/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Paramount Comedy HD orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9052/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Арсенал orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9336/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Продвижение orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9331/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Раз ТВ orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9333/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "СТС HD orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9000/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Театр orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9337/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Эврика HD orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9049/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
+	  ]
+   }
 ]

@@ -839,7 +839,7 @@
    {"title":"Магазин-Shop","folder":
       [
 {"title": "Leomax 24","file": "http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Leomax Plus","file": "[1]http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8,[2]https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
+{"title": "Leomax Plus","file": "[1]http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
 
 	  ]
    },

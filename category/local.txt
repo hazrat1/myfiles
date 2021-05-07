@@ -32,7 +32,7 @@
 	},
 	{
 		"title": "ABC 7 Detroit (WXYZ-TV)",
-		"file": "https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live"
+		"file": "https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?ad=live or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "ABC 7 Sarasota FL (WWSB)",
@@ -136,19 +136,19 @@
 	},
 	{
 		"title": "CBSN Bay Area",
-		"file": "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT"
+		"file": "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBSN Minnesota",
-		"file": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT"
+		"file": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBSN New York",
-		"file": "https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT"
+		"file": "https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CBSN Philly",
-		"file": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT"
+		"file": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "CC-TV",
@@ -376,7 +376,7 @@
 	},
 	{
 		"title": "Las Vegas - 13 Action News",
-		"file": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live"
+		"file": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8?ad=live or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Leominster TV Edu",
@@ -440,7 +440,7 @@
 	},
 	{
 		"title": "NBC 15 Madison WI",
-		"file": "https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q"
+		"file": "https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "NBC 26 (WGBA)",
@@ -920,7 +920,7 @@
 	},
 	{
 		"title": "Астрахань.Ru TV",
-		"file": "[1]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8,[2]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8,[3]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[3]https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Афонтово (Красноярск)",
@@ -964,7 +964,7 @@
 	},
 	{
 		"title": "Москва 24",
-		"file": "[1]http://188.40.68.167/russia/moskva24/playlist.m3u8,[2]https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://188.40.68.167/russia/moskva24/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Москва 24",
@@ -1013,5 +1013,34 @@
 	{
 		"title": "Удмуртия",
 		"file": "https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	}
+	},
+{"title":"Russian","folder":
+      [
+{"title": "Архыз 24","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1049/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Астрахань 24","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1059/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "БСТ HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2115/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Башкирское спутниковое","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/832/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Волга","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2113/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Грозный","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/855/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Губерния 33 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2400/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "КРЫМ 24","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2143/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Липецк Time","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2435/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Москва Доверие","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/869/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Первый Крымский","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2139/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Ратник","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2119/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Санкт-Петербург","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/715/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Сочи HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2433/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТНВ-Планета","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/515/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "ТОЛК","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2140/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Хамдан","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2066/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Эхо ТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2151/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Юрган","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2036/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "БСТ orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9343/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Волга orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9340/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "КРЫМ 24 orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9338/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Москва-доверие orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9342/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Сочи HD orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9040/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Эхо ТВ orig","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/9339/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
+	  ]
+   }
 ]

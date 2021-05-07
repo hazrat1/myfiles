@@ -8,7 +8,7 @@
 	},
 	{
 		"title": "FashionTV Czech&Slovak",
-		"file": "[1]http://lb.streaming.sk/fashiontv/stream/playlist.m3u8,[2]http://lb.streaming.sk/fashiontv/stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://lb.streaming.sk/fashiontv/stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://lb.streaming.sk/fashiontv/stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "FashionTV Paris",

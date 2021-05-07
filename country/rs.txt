@@ -57,14 +57,14 @@
 	},
 	{
 		"title": "Belle Amie",
-		"file": "[1]http://92.60.238.10:1935/live/belleamie/playlist.m3u8,[2]http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://92.60.238.10:1935/live/belleamie/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Duga Plus",
-		"file": "[1]http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8,[2]http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "TV Hram-EXYU",
-		"file": "[1]https://vod1.laki.eu/live/hram/index.m3u8,[2]https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "[1]https://vod1.laki.eu/live/hram/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://vod1.laki.eu/live/hram/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]
