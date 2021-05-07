@@ -2,95 +2,95 @@
 		"title": "Entertainment",
 		"folder": [{
 				"title": "Asian TV",
-				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "ATN Bangla",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Bangla TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Banglavision",
-				"file": "http://103.205.133.19/hls/banglavision.m3u8"
+				"file": "http://103.205.133.19/hls/banglavision.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Bijoy TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Boishakhi TV",
-				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8"
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "BTV CTG",
-				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8"
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "BTV National",
-				"file": "http://103.205.133.19/hls/btv.m3u8"
+				"file": "http://103.205.133.19/hls/btv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "BTV World",
-				"file": "http://103.205.133.19/hls/btvworld.m3u8"
+				"file": "http://103.205.133.19/hls/btvworld.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel 9",
-				"file": "https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8"
+				"file": "https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel i",
-				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8"
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel S",
-				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8"
+				"file": "https://channelbdtv-hls.telelivebd.com/channelbdtv/channelbdtv_manifest.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Deepto TV",
-				"file": "http://103.205.133.19/hls/deeptotv.m3u8"
+				"file": "http://103.205.133.19/hls/deeptotv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Desh TV",
-				"file": "http://103.205.133.21/hls/deshtv.m3u8"
+				"file": "http://103.205.133.21/hls/deshtv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Discovery Bangla",
-				"file": "http://starshare.live:8080/live/arfat/arfat/406.m3u8"
+				"file": "http://starshare.live:8080/live/arfat/arfat/406.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "ETV",
-				"file": "http://103.205.133.19/hls/ekushey.m3u8"
+				"file": "http://103.205.133.19/hls/ekushey.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Gaanbangla",
-				"file": "http://103.205.133.19/hls/gaanbangla.m3u8"
+				"file": "http://103.205.133.19/hls/gaanbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mohona TV",
-				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mytv",
-				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlis.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nagorik TV",
-				"file": "http://103.205.133.19/hls/nagorik.m3u8"
+				"file": "http://103.205.133.19/hls/nagorik.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "NTV",
-				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "RTV",
-				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SATV",
-				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 
 		]
@@ -100,31 +100,31 @@
 		"title": "News",
 		"folder": [{
 				"title": "ATN News",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel 24",
-				"file": "http://103.205.133.19/hls/channel24.m3u8"
+				"file": "http://103.205.133.19/hls/channel24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "DBC News",
-				"file": "http://103.205.133.19/hls/dbcnews.m3u8"
+				"file": "http://103.205.133.19/hls/dbcnews.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Independent TV",
-				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8"
+				"file": "https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Jamuna TV",
-				"file": "http://103.205.133.19/hls/jamunatv.m3u8"
+				"file": "http://103.205.133.19/hls/jamunatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "News 24",
-				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8"
+				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Somoy TV",
-				"file": "http://103.205.133.19/hls/somoy.m3u8"
+				"file": "http://103.205.133.19/hls/somoy.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 	},
@@ -133,7 +133,7 @@
 		"title": "Sports",
 		"folder": [{
 			"title": "T Sports",
-			"file": "http://starshare.live:8080/live/arfat/arfat/18452.m3u8"
+			"file": "http://starshare.live:8080/live/arfat/arfat/18452.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 		}]
 	}
 
