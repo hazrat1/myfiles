@@ -1,81 +1,119 @@
 [{
-		"title": "30A Investment Pitch",
-		"file": "https://www.30a-tv.com/InvPit.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "APAC",
+		"folder": [{
+			"title": "Bloomberg TV Asia",
+			"file": "https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Asharq [Portrait]",
-		"file": "https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Australia",
+		"folder": [{
+			"title": "Bloomberg TV Australia",
+			"file": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Asharq #1",
-		"file": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Europe",
+		"folder": [{
+			"title": "Bloomberg TV Europe",
+			"file": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Asharq #2",
-		"file": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "France",
+		"folder": [{
+			"title": "BFM Business",
+			"file": "https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Atameken Business",
-		"file": "http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "India",
+		"folder": [{
+				"title": "CNBC Awaaz",
+				"file": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "CNBC TV18",
+				"file": "[4]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8,[3]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10,[1]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
+			},
+			{
+				"title": "ET Now",
+				"file": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "NDTV Profit (480p)",
+				"file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			}
+		]
 	},
 	{
-		"title": "BFM Business",
-		"file": "https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Indonesia",
+		"folder": [{
+			"title": "CNBC Indonesia",
+			"file": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Bloomberg HT",
-		"file": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Kazakhstan",
+		"folder": [{
+			"title": "Atameken Business",
+			"file": "http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Bloomberg Quicktake",
-		"file": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Russia",
+		"folder": [{
+			"title": "РБК",
+			"file": "[1]http://online.video.rbc.ru/online/rbctv_480p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://online.video.rbc.ru/online/rbctv_576p/index.m3u8,[3]https://strm.yandex.ru/kal/rbc_supres/rbc_supres0.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Bloomberg TV Asia",
-		"file": "https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Saudi Arabia",
+		"folder": [
+
+			{
+				"title": "Asharq [Portrait]",
+				"file": "https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Asharq #1",
+				"file": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Asharq #2",
+				"file": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			}
+		]
 	},
 	{
-		"title": "Bloomberg TV Australia",
-		"file": "https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "Turkey",
+		"folder": [{
+			"title": "Bloomberg HT",
+			"file": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		}]
 	},
 	{
-		"title": "Bloomberg TV Europe",
-		"file": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Bloomberg TV US",
-		"file": "https://www.bloomberg.com/media-manifest/streams/us.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Cheddar",
-		"file": "https://live.chdrstatic.com/cheddar/primary/1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "CNBC Awaaz",
-		"file": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "CNBC Indonesia",
-		"file": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "CNBC TV18",
-		"file": "[4]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8,[3]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10,[1]https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10"
-	},
-	{
-		"title": "ET Now",
-		"file": "http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "NDTV Profit (480p)",
-		"file": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Real Vision",
-		"file": "https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "rbk,РБК",
-		"file": "[1]http://online.video.rbc.ru/online/rbctv_480p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://online.video.rbc.ru/online/rbctv_576p/index.m3u8,[3]https://strm.yandex.ru/kal/rbc_supres/rbc_supres0.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "USA",
+		"folder": [{
+				"title": "30A Investment Pitch",
+				"file": "https://www.30a-tv.com/InvPit.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Bloomberg Quicktake",
+				"file": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Bloomberg TV US",
+				"file": "https://www.bloomberg.com/media-manifest/streams/us.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Cheddar",
+				"file": "https://live.chdrstatic.com/cheddar/primary/1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Real Vision",
+				"file": "https://a.jsrdn.com/broadcast/2a755012a8/+0000/high/c.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			}
+		]
 	}
 ]
