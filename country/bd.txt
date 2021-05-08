@@ -69,7 +69,7 @@
 				"file": "http://103.205.133.19/hls/gaanbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
-				"title": "GTV,
+				"title": "GTV",
 				"file": "https://www.youtube.com/watch?v=LKIRye8W5oE"
 			},
 			{
