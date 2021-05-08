@@ -45,5 +45,19 @@
 		"file": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]
+},
+{"title":"Sports","folder":
+[
+
+	{
+		"title": "Geo Super",
+		"file": "http://42.201.228.226:8678/GEOSUPER_EBRAVO_TV/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+	},
+
+	{
+		"title": "PTV Sports",
+		"file": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+	}
+]
 }
 ]
