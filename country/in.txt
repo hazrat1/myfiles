@@ -116,6 +116,49 @@
 {"title": "Times Now","file": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
 
 	  ]},
+
+	{
+		"title": "Sports",
+		"folder": [{
+				"title": "DD Sports",
+				"file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Sony Six",
+				"file": "http://103.205.133.19/hls/sonysix.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Sony Ten 1",
+				"file": "http://103.205.133.19/hls/ten1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Sony Ten 2",
+				"file": "http://103.205.133.19/hls/ten2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Sony Ten 3",
+				"file": "http://103.205.133.19/hls/ten3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+
+			{
+				"title": "Star Sports 1",
+				"file": "http://starshare.live:8080/live/arfat/arfat/23936.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Star Sports 2",
+				"file": "http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Star Sports Select 1",
+				"file": "http://starshare.live:8080/live/arfat/arfat/238.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			},
+			{
+				"title": "Star Sports Select 2",
+				"file": "http://starshare.live:8080/live/arfat/arfat/238.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+			}
+
+		]
+	},
    {"title":"Assami","folder":
       [
 {"title": "Jonack TV","file": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
