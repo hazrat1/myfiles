@@ -1,15 +1,4 @@
-[{
-		"title": "4 Kurd",
-		"file": "http://51.210.199.28/hls/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "4 Turk Billboard",
-		"file": "http://51.210.199.29/hls/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "4 Turk Music",
-		"file": "http://51.210.199.30/hls/stream.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
 		"title": "Action Movies",
 		"file": "https://rakuten-actionmovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
