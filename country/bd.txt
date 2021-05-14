@@ -2,15 +2,15 @@
 		"title": "General",
 		"folder": [{
 				"title": "Asian TV",
-				"file": "https://ott.bingebd.com/live/ngrp:asian_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/asiantv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "ATN Bangla",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/atnbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Bangla TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/banglatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Banglavision",
@@ -18,7 +18,7 @@
 			},
 			{
 				"title": "Bijoy TV",
-				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/bijoytv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Boishakhi TV",
@@ -70,11 +70,11 @@
 			},
 			{
 				"title": "Mohona TV",
-				"file": "https://ott.bingebd.com/live/ngrp:mohona_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/mohonatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mytv",
-				"file": "https://ott.bingebd.com/live/ngrp:my_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/mytv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nagorik TV",
@@ -82,15 +82,15 @@
 			},
 			{
 				"title": "NTV",
-				"file": "https://ott.bingebd.com/live/ngrp:ntv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/ntv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "RTV",
-				"file": "https://ott.bingebd.com/live/ngrp:rtv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/rtv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SATV",
-				"file": "https://ott.bingebd.com/live/ngrp:sa_tv_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/satv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 
 		]
@@ -100,7 +100,7 @@
 		"title": "News",
 		"folder": [{
 				"title": "ATN News",
-				"file": "https://ott.bingebd.com/live/ngrp:atn_news_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/atnnews.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel 24",
@@ -120,7 +120,7 @@
 			},
 			{
 				"title": "News 24",
-				"file": "https://ott.bingebd.com/live/ngrp:news_24_hd_all/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.19/hls/news24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Somoy TV",
