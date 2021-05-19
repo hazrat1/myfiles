@@ -6,11 +6,11 @@
 			},
 			{
 				"title": "ATN Bangla",
-				"file": "http://103.205.133.21/hls/atnbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "https://ott.bingebd.com/live/ngrp:atn_bangla_all/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Bangla TV",
-				"file": "http://103.205.133.19/hls/banglatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "https://ott.bingebd.com/live/ngrp:bangla_tv_all/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Banglavision",
@@ -18,7 +18,7 @@
 			},
 			{
 				"title": "Bijoy TV",
-				"file": "http://103.205.133.19/hls/bijoytv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "https://ott.bingebd.com/live/ngrp:bijoy_tv_all/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Boishakhi TV",
@@ -129,7 +129,7 @@
 {"title": "Colors Bangla","file":"http://103.205.133.19/hls/colorsbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Jalsha Movies","file":"http://master.beeiptv.com:8081/master/jalshamovies/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Ruposhi Bangla","file":"http://103.205.133.19/hls/ruposhibangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Sangeet Bangla","file":"http://103.205.133.19/hls/sangeetbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Sangeet Bangla","file":"http://103.205.133.21/hls/sangeetbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Sony Aath","file":"http://103.205.133.19/hls/sony8.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Star Jalsha","file":"http://103.205.133.19/hls/chsj.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Zee Bangla","file":"http://103.205.133.19/hls/zeebanglahd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
