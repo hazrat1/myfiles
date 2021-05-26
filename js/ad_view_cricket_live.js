@@ -4,7 +4,7 @@ $(function worker() {
 		cache: false,
 		complete: function() {
 
-			setTimeout(worker, 150000);
+			setTimeout(worker, 180000);
 		}
 	});
 	var ajax_load = "<script src='js/ads_score.js'>";
