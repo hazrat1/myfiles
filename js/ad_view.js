@@ -4,13 +4,13 @@ $(function worker() {
 		cache: false,
 		complete: function() {
 
-			setTimeout(worker, 1800000);
+			setTimeout(worker, 120000);
 		}
 	});
-	var ajax_load = "<script src='../js/ads_player.js'>";
+	var ajax_load = "<script src='../js/ads/ads_fullscreen.js'>";
 
 
-	$("#ad_view").html(ajax_load);
+	$("#ads_view").html(ajax_load);
 
 
 });
