@@ -244,7 +244,7 @@
 	},
 	{
 		"title": "Star Sports 1",
-		"file": "http://starshare.live:8080/live/arfat/arfat/211.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"file": "http://103.205.133.21/hls/chss1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	},
 	{
 		"title": "Star Sports 2",
