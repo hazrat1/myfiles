@@ -15,7 +15,7 @@
 			},
 			{
 				"title": "Banglavision",
-				"file": "http://103.205.133.19/hls/banglavision.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/banglavision.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Bijoy TV",
@@ -31,11 +31,11 @@
 			},
 			{
 				"title": "BTV National",
-				"file": "http://103.205.133.19/hls/btv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/btv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "BTV World",
-				"file": "http://103.205.133.19/hls/btvworld.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/btvworld.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel 9",
@@ -43,7 +43,7 @@
 			},
 			{
 				"title": "Channel i",
-				"file": "http://103.205.133.19/hls/ichannel.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/ichannel.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel S",
@@ -59,35 +59,35 @@
 			},
 			{
 				"title": "ETV",
-				"file": "http://103.205.133.19/hls/ekushey.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/ekushey.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Gaanbangla",
-				"file": "http://103.205.133.19/hls/gaanbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/gaanbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mohona TV",
-				"file": "http://103.205.133.19/hls/mohonatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/mohonatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Mytv",
-				"file": "http://103.205.133.19/hls/mytv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/mytv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Nagorik TV",
-				"file": "http://103.205.133.19/hls/nagorik.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/nagorik.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "NTV",
-				"file": "http://103.205.133.19/hls/ntv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/ntv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "RTV",
-				"file": "http://103.205.133.19/hls/rtv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/rtv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "SATV",
-				"file": "http://103.205.133.19/hls/satv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/satv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 
 		]
@@ -97,15 +97,15 @@
 		"title": "News",
 		"folder": [{
 				"title": "ATN News",
-				"file": "http://103.205.133.19/hls/atnnews.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/atnnews.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Channel 24",
-				"file": "http://103.205.133.19/hls/channel24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/channel24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "DBC News",
-				"file": "http://103.205.133.19/hls/dbcnews.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/dbcnews.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Independent TV",
@@ -113,27 +113,27 @@
 			},
 			{
 				"title": "Jamuna TV",
-				"file": "http://103.205.133.19/hls/jamunatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/jamunatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "News 24",
-				"file": "http://103.205.133.19/hls/news24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/news24.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Somoy TV",
-				"file": "http://103.205.133.19/hls/somoy.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/somoy.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			}
 		]
 	},
 {"title":"Indian Bengala","folder":
       [
-{"title": "Colors Bangla","file":"http://103.205.133.19/hls/colorsbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Colors Bangla","file":"http://103.205.133.21/hls/colorsbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Jalsha Movies","file":"http://master.beeiptv.com:8081/master/jalshamovies/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Ruposhi Bangla","file":"http://103.205.133.19/hls/ruposhibangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Ruposhi Bangla","file":"http://103.205.133.21/hls/ruposhibangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Sangeet Bangla","file":"http://103.205.133.21/hls/sangeetbangla.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Sony Aath","file":"http://103.205.133.19/hls/sony8.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Star Jalsha","file":"http://103.205.133.19/hls/chsj.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Zee Bangla","file":"http://103.205.133.19/hls/zeebanglahd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Sony Aath","file":"http://103.205.133.21/hls/sony8.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Star Jalsha","file":"http://103.205.133.21/hls/chsj.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Zee Bangla","file":"http://103.205.133.21/hls/zeebanglahd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Zee Bangla Cinema","file":"https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"}
 
       ]
@@ -148,7 +148,7 @@
 {"title": "B4U Movies","file": "https://ott.bingebd.com/live/ngrp:b4u_movies_all/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Bflix Movies","file": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Bollywood","file": "https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Colors TV","file":"http://103.205.133.19/hls/chc.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4?@asfaiptv"},
+{"title": "Colors TV","file":"http://103.205.133.21/hls/chc.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4?@asfaiptv"},
 {"title": "DD National","file": "[480p]https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[576p]http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "DD Sports","file": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Discovery Hindi","file": "https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_360p/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
@@ -164,10 +164,10 @@
 {"title": "Rishtey Cineplex","file": "https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Sony Sab","file":"http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Sony Max","file":"http://starshare.live:8080/live/arfat/arfat/151.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Sony Pix","file":"http://103.205.133.19/hls/sonypix.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Sony TV","file":"http://103.205.133.19/hls/chs.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Sony Pix","file":"http://103.205.133.21/hls/sonypix.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Sony TV","file":"http://103.205.133.21/hls/chs.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Star Gold","file":"http://starshare.live:8080/live/arfat/arfat/194.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Star Plus","file":"http://103.205.133.19/hls/chsp.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
+{"title": "Star Plus","file":"http://103.205.133.21/hls/chsp.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Zee Bioskop","file": "http://210.210.155.35/qwr9ew/s/s32/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Zee Cinema","file": "https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 {"title": "Zee TV","file": "https://y5w8j4a9.ssl.hwcdn.net/ztvme/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
@@ -193,19 +193,19 @@
 		},
 			{
 				"title": "Sony Six",
-				"file": "http://103.205.133.19/hls/sonysix.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/sonysix.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Sony Ten 1",
-				"file": "http://103.205.133.19/hls/ten1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/ten1.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Sony Ten 2",
-				"file": "http://103.205.133.19/hls/ten2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/ten2.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 			{
 				"title": "Sony Ten 3",
-				"file": "http://103.205.133.19/hls/ten3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+				"file": "http://103.205.133.21/hls/ten3.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 			},
 
 			{
