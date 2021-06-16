@@ -1,25 +1,6 @@
 [
-{"title": "БелРос BY","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5062/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "БелРос","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/835/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Беларусь 1 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2178/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Беларусь 2 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2179/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Беларусь 24","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/1061/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{
-		"title": "Беларусь 24",
-		"file": "http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-{"title": "Беларусь 3 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2180/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Беларусь 5 BY","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5060/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "Беларусь 5 HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2177/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "ВТВ (СТС)","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2176/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "ОНТ BY","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/5061/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "ОНТ HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2182/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "ОНТ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2171/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "РТР","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2183/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "СТВ HD","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2184/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
-{"title": "СТВ","file": "http://1c217e79.amazzin.pw/iptv/F6AWTVPZED4YNW/2172/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"},
 	{
-		"title": "СТВ Беларусь",
-		"file": "http://212.98.171.116/HLS/ctvby/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

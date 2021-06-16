@@ -1,13 +1,6 @@
-[{
-		"title": "BTK",
-		"file": "http://hls.cdn.bg:2007/fls/vtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "Bulgaria On Air",
-		"file": "[1]http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Light Channel",
-		"file": "https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

@@ -1,13 +1,6 @@
-[{
-		"title": "Lao Champa TV",
-		"file": "https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "Lao Champa TV 2",
-		"file": "https://livefta.malimarcdn.com/ftaedge00/laochampa2.stream/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Lao Champa TV 3",
-		"file": "https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

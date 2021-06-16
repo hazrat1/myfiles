@@ -1,33 +1,6 @@
-[{
-		"title": "Abnae Al balad",
-		"file": "https://master.starmena-cloud.com/hls/abna.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "Jamahiria TV",
-		"file": "https://master.starmena-cloud.com/hls/jam.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Libya 218",
-		"file": "https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Libya 218 News",
-		"file": "http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Libya 218 News",
-		"file": "https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Libya Al Ahrar",
-		"file": "https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Libya Al Hadath",
-		"file": "https://master.starmena-cloud.com/hls/hd.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Libya Channel",
-		"file": "https://master.starmena-cloud.com/hls/libyas.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

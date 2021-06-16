@@ -1,53 +1,6 @@
-[{
-		"title": "HTV1",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "HTV1",
-		"file": "http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "HTV2",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "HTV2",
-		"file": "http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "HTV3",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "HTV4",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "HTV4",
-		"file": "http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "MAXtv Promo Kanal",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226027/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "MAXtv Promo Kanal",
-		"file": "http://195.29.70.84/PLTV/88888888/224/3221226027/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "NewsBar",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226407/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "NewsBar",
-		"file": "http://195.29.70.89/PLTV/88888888/224/3221226407/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTL",
-		"file": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Z1",
-		"file": "https://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

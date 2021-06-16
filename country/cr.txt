@@ -1,21 +1,6 @@
-[{
-		"title": "88 Stereo",
-		"file": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "Extrema TV",
-		"file": "[1]http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Multimedios Costa Rica",
-		"file": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "TeleSUR Costa Rica",
-		"file": "http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "TicaVisión",
-		"file": "http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

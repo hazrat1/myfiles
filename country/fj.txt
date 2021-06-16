@@ -1,9 +1,6 @@
-[{
-		"title": "Fiji One",
-		"file": "https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "Fiji TV",
-		"file": "https://api.new.livestream.com/accounts/19514369/events/fijitvstream/live.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]
