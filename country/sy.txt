@@ -1,21 +1,6 @@
-[{
-		"title": "Halab Today TV",
-		"file": "http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
+[
 	{
-		"title": "Halab Today TV",
-		"file": "https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Sama TV",
-		"file": "http://stream.sama-tv.net:8080/hls/samatv.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Spacetoon",
-		"file": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Syria TV",
-		"file": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

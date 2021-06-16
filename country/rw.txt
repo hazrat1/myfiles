@@ -1,14 +1,6 @@
 [
 	{
-		"title": "KC2",
-		"file": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTV Rwanda",
-		"file": "https://1600706787.rsc.cdn77.org//1600706787/tracks-v1a1/mono.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTV Rwanda",
-		"file": "https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]

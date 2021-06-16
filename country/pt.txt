@@ -1,46 +1,6 @@
 [
 	{
-		"title": "Caçavision",
-		"file": "[LQ]https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[MQ]https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8,[HQ]https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Kuriakos Cine",
-		"file": "[1]http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://c2.manasat.com:1935/kcine/kcine3/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Kuriakos Kids",
-		"file": "[1]http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://c2.manasat.com:1935/kkids/kkids3/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Kuriakos Music",
-		"file": "[1]http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4,[2]http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "Porto Canal",
-		"file": "https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTP Acores",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTP",
-		"file": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTP Internacional",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTP Madeira",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTP Africa",
-		"file": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
-	},
-	{
-		"title": "RTP 3",
-		"file": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
+		"title": "New App Published",
+		"file": "https://hazrat1.github.io/videos/new_version_app.mp4 or https://dl.dropboxusercontent.com/s/7k3050ihod3ip3u/Tv%20signal%20error%20effect.mp4"
 	}
 ]
